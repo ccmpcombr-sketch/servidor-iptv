@@ -1,0 +1,81 @@
+{
+  "logo": "https://i.imgur.com/8Km9tLL.png",
+  "servidores": [
+    {
+      "nome": "01-Vr-pro-1",
+      "url": "http://vrpro.fun:80"
+    },
+    {
+      "nome": "02-Vr-Pro-2",
+      "url": "https://vrpro.fun:443"
+    },
+    {
+      "nome": "03-Crf-81",
+      "url": "http://crf81.com"
+    },
+    {
+      "nome": "04-Cdnt-Server",
+      "url": "http://cdntserver.tech"
+    },
+    {
+      "nome": "05-Rzdl-Online",
+      "url": "http://rzdl.online:80"
+    },
+    {
+      "nome": "06-Rzn-Lat",
+      "url": "http://rzn.lat:80"
+    },
+    {
+      "nome": "07-Rei-De-Todos",
+      "url": "http://reidetodos.fun:80"
+    },
+    {
+      "nome": "08-R-de-Todos-1",
+      "url": "http://rdetodos.fun:80"
+    },
+    {
+      "nome": "09-R-de-Todos-2",
+      "url": "http://rdetodos.sbs:80"
+    },
+    {
+      "nome": "10-Ouror",
+      "url": "http://ouror.fun:80"
+    },
+    {
+      "nome": "11-Ryzeen-Pro",
+      "url": "http://ryzeeng.pro"
+    }
+  ],
+  "capas_categorias": {
+    "aovivo": {
+      "nome": "Ao Vivo",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/ao%20vivo.PNG"
+    },
+    "filmes": {
+      "nome": "Filmes",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Capturar.PNG"
+    },
+    "series": {
+      "nome": "Series",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/series/Capturar.PNG"
+    },
+    "usuario": {
+      "nome": "Usuario",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/usuarios/Capturar.PNG"
+    }
+  },
+  "json_externos": {
+    "aovivo": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/canais1.json"
+    ],
+    "filmes": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/filmes1.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/filmes2.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/filmes3.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/filmes4.json"
+    ],
+    "series": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/series1.json"
+    ]
+  }
+}
