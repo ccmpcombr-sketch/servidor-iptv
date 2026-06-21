@@ -1,0 +1,656 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>X-TV</title>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+<style>
+*{box-sizing:border-box}
+html, body{margin:0;height:100%;overflow:hidden;font-family:Arial,Helvetica,sans-serif;background:#0b1220;color:#fff}
+
+/* LOGIN */
+#loginScreen{height:100vh;width:100vw;display:none;justify-content:center;align-items:center}
+#loginBox{background:#020617;padding:20px;border-radius:12px;width:340px;text-align:center}
+#loginBox img{width:90px;height:90px;border-radius:50%;margin:0 auto 15px;display:block}
+#loginBox input, #loginBox select{width:90%;padding:10px;margin:6px 0;border:none;border-radius:6px;background:#1e293b;color:#fff}
+#loginBox button{width:100%;padding:12px;background:#22c55e;border:none;border-radius:6px;font-weight:bold;cursor:pointer;margin-top:8px}
+#lembrarBox{display:flex;align-items:center;justify-content:center;gap:6px;font-size:13px;margin:8px 0}
+#erro{color:#f87171;font-size:13px;margin-top:8px;min-height:18px}
+
+/* TOPO NOVO */
+#topo{
+  height:60px;
+  background:#020617;
+  border-bottom:1px solid #1e293b;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding:0 20px;
+  gap:20px;
+}
+
+#userInfo{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  flex-shrink:0;
+}
+#fotoTopo{width:32px;height:32px;border-radius:50%}
+
+#navCategorias{
+  display:flex;
+  gap:12px;
+  flex:1;
+  justify-content:center;
+}
+.btnCategoria{
+  background:#1e293b;
+  color:#fff;
+  border:none;
+  padding:10px 24px;
+  cursor:pointer;
+  border-radius:8px;
+  font-size:14px;
+  font-weight:600;
+  transition:background.2s;
+}
+.btnCategoria:hover{
+  background:#334155;
+}
+.btnCategoria.ativo{
+  background:#475569;
+}
+
+#buscaTopo{
+  width:220px;
+  padding:10px 16px;
+  border:none;
+  border-radius:20px;
+  outline:none;
+  background:#1e293b;
+  color:#fff;
+  font-size:14px;
+  flex-shrink:0;
+}
+#buscaTopo::placeholder{color:#94a3b8}
+
+/* GRID */
+#home,#albuns{display:none;flex-wrap:wrap;justify-content:center;gap:20px;padding:20px;height:calc(100vh - 60px);overflow:auto}
+
+/* CARD VERTICAL */
+.card{width:180px;height:260px;background:#1e3a8a;border-radius:12px;display:flex;flex-direction:column;align-items:center;cursor:pointer;animation:fadeUp.25s ease;transition:transform.2s ease}
+.card:hover{background:#2563eb;transform:scale(1.05)}
+.card img{width:160px;height:200px;border-radius:8px;margin-top:10px}
+.card span{margin-top:8px;text-align:center;padding:0 5px}
+
+/* LISTA */
+#corpo{display:none;height:calc(100vh - 60px);display:flex}
+#listaContainer{width:30%;background:#020617;display:flex;flex-direction:column}
+#lista{flex:1;overflow:auto}
+
+/* CARD HORIZONTAL */
+.card-horizontal{display:flex;gap:12px;margin:12px;cursor:pointer;animation:fadeUp.25s ease;transition:transform.2s ease;background:#1e3a8a;border-radius:12px;overflow:hidden}
+.card-horizontal:hover{background:#7c3aed;transform:scale(1.02)}
+.thumb{width:120px;height:90px;border-radius:8px;background:#000;flex-shrink:0;overflow:hidden}
+.thumb img{width:100%;height:100%;object-fit:cover}
+.yt-text{display:flex;flex-direction:column;justify-content:center;gap:4px}
+.yt-text b{font-size:15px}
+.yt-text small{font-size:12px;opacity:.75}
+
+/* PLAYER */
+#playerArea{flex:1;background:#000;position:relative}
+video{width:100%;height:100%;cursor:pointer}
+
+/* OVERLAY DO TÍTULO */
+#tituloOverlay{
+  position:absolute;
+  top:0;
+  left:0;
+  right:0;
+  background:linear-gradient(to bottom, rgba(0,0,0,.85) 0%, rgba(0,0,0,0) 100%);
+  color:#fff;
+  padding:16px 20px 40px;
+  font-size:18px;
+  font-weight:bold;
+  opacity:0;
+  pointer-events:none;
+  transition:opacity.3s ease;
+  z-index:15;
+}
+#playerArea:hover #tituloOverlay{
+  opacity:1;
+}
+
+/* QUALIDADE */
+#qualityBtn{
+  position:absolute;top:12px;right:12px;background:rgba(0,0,0,.75);
+  color:#fff;border:none;padding:8px 14px;border-radius:6px;
+  cursor:pointer;display:none;z-index:20;
+}
+#qualityMenu{
+  position:absolute;top:100%;right:0;background:#020617;border-radius:6px;
+  display:none;z-index:30;overflow:hidden;box-shadow:0 4px 8px rgba(0,0,0,.6)
+}
+#qualityMenu button{
+  width:100%;padding:8px;border:none;background:none;color:#fff;cursor:pointer;text-align:left;
+}
+
+/* USUÁRIO EDITÁVEL */
+.usuario-card{background:#2563eb;border-radius:30px;padding:25px;width:420px;margin:auto;display:flex;flex-direction:column;align-items:center;gap:10px;animation:fadeUp.25s ease}
+.usuario-card img{width:100px;height:100px;border-radius:20px}
+.usuario-linha{width:100%;display:flex;gap:5px;align-items:center}
+.usuario-linha label{min-width:80px;font-size:14px}
+.usuario-linha input,.usuario-linha select{flex:1;padding:8px;border:none;border-radius:8px;background:#1e293b;color:#fff}
+.usuario-linha input:disabled,.usuario-linha select:disabled{opacity:0.6;cursor:not-allowed}
+.usuario-linha button{background:#22c55e;border:none;padding:8px 12px;border-radius:8px;cursor:pointer;font-weight:bold}
+.usuario-check{width:100%;display:flex;flex-direction:column;gap:10px;font-size:14px;margin-top:5px;border-top:1px solid rgba(255,255,255,.2);padding-top:12px}
+.usuario-check label{display:flex;align-items:center;gap:8px;cursor:pointer;padding:6px;border-radius:6px;transition:background.2s}
+.usuario-check label:hover{background:rgba(255,255,255,.1)}
+.usuario-check input[type="checkbox"]{width:18px;height:18px;cursor:pointer}
+.usuario-check select{width:100%;padding:8px;border:none;border-radius:8px;background:#1e293b;color:#fff;margin-top:5px}
+
+@keyframes fadeUp{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+</style>
+</head>
+
+<body>
+
+<div id="loginScreen">
+  <div id="loginBox">
+    <img id="fotoLogin" src="https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/ICONE_APP.png">
+    <input id="login" placeholder="Usuário">
+    <input id="senha" type="password" placeholder="Senha">
+    <select id="selectServidor">
+      <option value="">Carregando servidores...</option>
+    </select>
+    <div id="lembrarBox">
+      <input type="checkbox" id="lembrar">
+      <label for="lembrar">Lembrar dados</label>
+    </div>
+    <button id="btnEntrar">Entrar</button>
+    <div id="erro"></div>
+  </div>
+</div>
+
+<div id="app">
+  <div id="topo">
+    <div id="userInfo">
+      <img id="fotoTopo" src="https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/ICONE_APP.png">
+      <span id="nomeUser"></span>
+    </div>
+    <div id="navCategorias">
+      <button class="btnCategoria" data-categoria="aovivo" onclick="abrirCategoria('aovivo')">Ao Vivo</button>
+      <button class="btnCategoria" data-categoria="filmes" onclick="abrirCategoria('filmes')">Filmes</button>
+      <button class="btnCategoria" data-categoria="series" onclick="abrirCategoria('series')">Series</button>
+      <button class="btnCategoria" data-categoria="usuario" onclick="abrirCategoria('usuario')">Usuário</button>
+    </div>
+    <input id="buscaTopo" placeholder="Buscar...">
+  </div>
+
+  <div id="home"></div>
+  <div id="albuns"></div>
+
+  <div id="corpo">
+    <div id="listaContainer">
+      <div id="lista"></div>
+    </div>
+    <div id="playerArea">
+      <div id="tituloOverlay"></div>
+      <button id="qualityBtn">FHD</button>
+      <div id="qualityMenu"></div>
+      <video id="video" controls></video>
+    </div>
+  </div>
+</div>
+
+<script>
+const URL_SERVIDORES = "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Json%20Principal.json";
+const JSON_URL = "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Json%20Principal.json";
+
+let dados, itensAtuais=[], albunsAtuais=[], hls=null, qualidadeAtual="FHD";
+let telaAtual="home", categoriaAtual="aovivo";
+let listaServidores = [];
+let editandoUsuario = false;
+let usuarioLogado = false;
+let albunsLocal = [];
+let filtrosUsuario = {local: false, legendado: false, adulto: false, estado: ''};
+
+let dadosServidor = { user: '', pass: '', url: '', nome: '' };
+
+const qualityMap={FHD:"fhd",HD:"hd",SD:"sd"};
+
+function atualizarTituloPlayer(nome){
+  document.getElementById('tituloOverlay').textContent = nome || '';
+}
+
+function esconderQualidade(){
+  qualityBtn.style.display="none";
+  qualityMenu.style.display="none";
+}
+
+function montarUrl(urlOriginal){
+  if(!urlOriginal) return '';
+  let url = urlOriginal;
+  url = url.replaceAll('{user}', dadosServidor.user);
+  url = url.replaceAll('{pass}', dadosServidor.pass);
+  if(dadosServidor.url && url.includes('://')){
+    const regex = /https?:\/\/[^\/]+/;
+    url = url.replace(regex, dadosServidor.url.replace(/\/$/, ''));
+  }
+  return url;
+}
+
+function atualizarBotaoAtivo(categoria){
+  document.querySelectorAll('.btnCategoria').forEach(btn=>{
+    btn.classList.toggle('ativo', btn.dataset.categoria === categoria);
+  });
+  categoriaAtual = categoria;
+  document.getElementById('buscaTopo').style.display = categoria === 'usuario'? 'none' : 'block';
+}
+
+async function carregarServidores(){
+  try{
+    const res = await fetch(URL_SERVIDORES);
+    const json = await res.json();
+    listaServidores = json.servidores || [];
+    selectServidor.innerHTML = '<option value="">Selecione o servidor</option>';
+    listaServidores.forEach(s => {
+      const opt = document.createElement('option');
+      opt.value = s.url;
+      opt.textContent = s.nome;
+      selectServidor.appendChild(opt);
+    });
+    const l = localStorage.getItem("login");
+    const s = localStorage.getItem("senha");
+    const u = localStorage.getItem("urlServidor");
+    if(l){
+      login.value = l;
+      senha.value = s || "";
+      selectServidor.value = u || "";
+      lembrar.checked = true;
+    }
+    const filtrosSalvos = localStorage.getItem("filtrosUsuario");
+    if(filtrosSalvos) filtrosUsuario = JSON.parse(filtrosSalvos);
+  }catch(e){
+    selectServidor.innerHTML = '<option value="">Erro ao carregar servidores</option>';
+    console.error(e);
+  }
+}
+
+fetch(JSON_URL).then(r=>r.json()).then(d=>{
+  dados=d;
+  iniciarApp();
+});
+
+carregarServidores();
+
+function iniciarApp(){
+  app.style.display="block";
+  loginScreen.style.display="none";
+  abrirCategoria('aovivo');
+}
+
+btnEntrar.onclick=()=>{
+  const userLogin = login.value.trim();
+  const userSenha = senha.value.trim();
+  const userUrl = selectServidor.value;
+  const nomeServidor = selectServidor.options[selectServidor.selectedIndex]?.text || '';
+
+  if(!userLogin ||!userSenha ||!userUrl){
+    erro.innerText="Preencha todos os campos";
+    return;
+  }
+
+  dadosServidor.user = userLogin;
+  dadosServidor.pass = userSenha;
+  dadosServidor.url = userUrl.replace(/\/$/, '');
+  dadosServidor.nome = nomeServidor;
+
+  if(lembrar.checked){
+    localStorage.setItem("login",userLogin);
+    localStorage.setItem("senha",userSenha);
+    localStorage.setItem("urlServidor",userUrl);
+  }else{
+    localStorage.removeItem("login");
+    localStorage.removeItem("senha");
+    localStorage.removeItem("urlServidor");
+  }
+
+  usuarioLogado = true;
+  nomeUser.innerText = `${userLogin} - ${nomeServidor}`;
+  loginScreen.style.display="none";
+  app.style.display="block";
+  abrirCategoria('aovivo');
+};
+
+async function abrirCategoria(tipo){
+  atualizarBotaoAtivo(tipo);
+
+  if(tipo==="usuario"){
+    if(!usuarioLogado){
+      app.style.display="none";
+      loginScreen.style.display="flex";
+    }else{
+      await mostrarTelaUsuario();
+    }
+    return;
+  }
+
+  try{
+    let urls = dados.json_externos[tipo];
+    if(!urls){
+      alert("Categoria sem JSON configurado");
+      return;
+    }
+    if(!Array.isArray(urls)) urls = [urls];
+    let listaAlbuns = [];
+    for(const url of urls){
+      const resposta = await fetch(url);
+      const json = await resposta.json();
+      const dadosLista = json.canais || json.filmes || json.series || [];
+      listaAlbuns = listaAlbuns.concat(dadosLista);
+    }
+    desenharAlbuns(listaAlbuns);
+  }catch(e){
+    alert("Erro ao carregar categoria");
+    console.error(e);
+  }
+}
+
+async function buscarAlbunsLocal(){
+  albunsLocal = [];
+  try{
+    for(const [cat, urls] of Object.entries(dados.json_externos || {})){
+      const urlList = Array.isArray(urls)? urls : [urls];
+      for(const url of urlList){
+        if(url.toLowerCase().includes('local')){
+          const resposta = await fetch(url);
+          const json = await resposta.json();
+          const dadosLista = json.canais || json.filmes || json.series || [];
+          albunsLocal = albunsLocal.concat(dadosLista);
+        }
+      }
+    }
+  }catch(e){
+    console.error("Erro ao buscar canais locais:", e);
+  }
+  return albunsLocal;
+}
+
+async function mostrarTelaUsuario(){
+  editandoUsuario = false;
+  await buscarAlbunsLocal();
+
+  const estados = albunsLocal.map(a => a.album).filter(a => a).sort();
+
+  albuns.innerHTML=`
+    <div class="usuario-card">
+      <img src="https://i.imgur.com/8Km9tLL.png">
+      <div class="usuario-linha">
+        <label>Usuário:</label>
+        <input id="editUser" value="${dadosServidor.user}" disabled>
+      </div>
+      <div class="usuario-linha">
+        <label>Senha:</label>
+        <input id="editPass" type="password" value="${dadosServidor.pass}" disabled>
+      </div>
+      <div class="usuario-linha">
+        <label>Servidor:</label>
+        <select id="editServidor" disabled>
+          ${listaServidores.map(s => `<option value="${s.url}" ${s.url===dadosServidor.url?'selected':''}>${s.nome}</option>`).join('')}
+        </select>
+      </div>
+      <div class="usuario-check">
+        <label>
+          <input type="checkbox" id="checkLocal" ${filtrosUsuario.local?'checked':''} onchange="toggleFiltro('local')">
+          Canais Local
+        </label>
+        <select id="selectEstado" style="display:${filtrosUsuario.local?'block':'none'}" onchange="selecionarEstado(this.value)">
+          <option value="">Selecione o Estado</option>
+          ${estados.map(e => `<option value="${e}" ${filtrosUsuario.estado===e?'selected':''}>${e}</option>`).join('')}
+        </select>
+        <label>
+          <input type="checkbox" id="checkLegendado" ${filtrosUsuario.legendado?'checked':''} onchange="toggleFiltro('legendado')">
+          Legendados
+        </label>
+        <label>
+          <input type="checkbox" id="checkAdulto" ${filtrosUsuario.adulto?'checked':''} onchange="toggleFiltro('adulto')">
+          Adultos+
+        </label>
+      </div>
+      <div class="usuario-linha" style="justify-content:center;margin-top:10px">
+        <button id="btnEditarUsuario" onclick="toggleEditarUsuario()">Editar</button>
+      </div>
+    </div>`;
+  mostrar("albuns");
+}
+
+function toggleFiltro(tipo){
+  filtrosUsuario[tipo] = document.getElementById(`check${tipo.charAt(0).toUpperCase()+tipo.slice(1)}`).checked;
+
+  if(tipo === 'local'){
+    document.getElementById('selectEstado').style.display = filtrosUsuario.local? 'block' : 'none';
+    if(!filtrosUsuario.local) filtrosUsuario.estado = '';
+  }
+
+  localStorage.setItem("filtrosUsuario", JSON.stringify(filtrosUsuario));
+}
+
+function selecionarEstado(estado){
+  filtrosUsuario.estado = estado;
+  localStorage.setItem("filtrosUsuario", JSON.stringify(filtrosUsuario));
+
+  if(estado){
+    const albumEstado = albunsLocal.find(a => a.album === estado);
+    if(albumEstado && albumEstado.itens){
+      renderLista(albumEstado.itens);
+    }
+  }
+}
+
+function toggleEditarUsuario(){
+  editandoUsuario =!editandoUsuario;
+  const btn = document.getElementById('btnEditarUsuario');
+  const inputs = [document.getElementById('editUser'), document.getElementById('editPass'), document.getElementById('editServidor')];
+
+  if(editandoUsuario){
+    btn.textContent = 'Salvar';
+    btn.style.background = '#3b6df0';
+    inputs.forEach(i => i.disabled = false);
+  }else{
+    dadosServidor.user = document.getElementById('editUser').value;
+    dadosServidor.pass = document.getElementById('editPass').value;
+    dadosServidor.url = document.getElementById('editServidor').value;
+    const nomeServidor = document.getElementById('editServidor').options[document.getElementById('editServidor').selectedIndex]?.text || '';
+    dadosServidor.nome = nomeServidor;
+
+    if(localStorage.getItem("login")){
+      localStorage.setItem("login", dadosServidor.user);
+      localStorage.setItem("senha", dadosServidor.pass);
+      localStorage.setItem("urlServidor", dadosServidor.url);
+    }
+
+    nomeUser.innerText = `${dadosServidor.user} - ${nomeServidor}`;
+    btn.textContent = 'Editar';
+    btn.style.background = '#22c55e';
+    inputs.forEach(i => i.disabled = true);
+    alert('Dados atualizados com sucesso!');
+  }
+}
+
+function desenharAlbuns(listaAlbuns){
+  albunsAtuais=listaAlbuns;
+  itensAtuais=[];
+  albuns.innerHTML="";
+  listaAlbuns.forEach(a=>{
+    const d=document.createElement("div");
+    d.className="card";
+    d.innerHTML=`<img src="${a.capa}"><span>${a.album}</span>`;
+    d.onclick=()=>{
+      if(a.subAlbuns && a.subAlbuns.length){
+        mostrarSubAlbuns(a.subAlbuns);
+      }else{
+        renderLista(a.itens||[]);
+      }
+    };
+    albuns.appendChild(d);
+  });
+  mostrar("albuns");
+}
+
+function mostrarSubAlbuns(subAlbuns){
+  albunsAtuais=subAlbuns;
+  itensAtuais=[];
+  albuns.innerHTML="";
+  subAlbuns.forEach(sa=>{
+    const d=document.createElement("div");
+    d.className="card";
+    d.innerHTML=`<img src="${sa.itens?.[0]?.capa || ''}"><span>${sa.subAlbum}</span>`;
+    d.onclick=()=>renderLista(sa.itens||[]);
+    albuns.appendChild(d);
+  });
+  mostrar("albuns");
+}
+
+function renderLista(itens){
+  itensAtuais=itens;
+  albunsAtuais=[];
+  buscaTopo.value="";
+  desenharLista(itens);
+  mostrar("lista");
+  esconderQualidade();
+}
+
+// BUSCA CORRIGIDA - FUNCIONA EM TUDO
+buscaTopo.oninput=()=>{
+  const termo = buscaTopo.value.toLowerCase();
+
+  if(telaAtual === "lista" && itensAtuais.length > 0){
+    desenharLista(itensAtuais.filter(i=>i.nome.toLowerCase().includes(termo)));
+  }
+  else if(telaAtual === "albuns" && albunsAtuais.length > 0){
+    const filtrados = albunsAtuais.filter(a=>{
+      const nome = a.album || a.subAlbum || '';
+      return nome.toLowerCase().includes(termo);
+    });
+
+    albuns.innerHTML="";
+    filtrados.forEach(a=>{
+      const d=document.createElement("div");
+      d.className="card";
+      const nomeItem = a.album || a.subAlbum;
+      const capaItem = a.capa || a.itens?.[0]?.capa || '';
+      d.innerHTML=`<img src="${capaItem}"><span>${nomeItem}</span>`;
+      d.onclick=()=>{
+        if(a.subAlbuns && a.subAlbuns.length){
+          mostrarSubAlbuns(a.subAlbuns);
+        }else{
+          renderLista(a.itens||[]);
+        }
+      };
+      albuns.appendChild(d);
+    });
+  }
+}
+
+function desenharLista(itens){
+  lista.innerHTML="";
+  itens.forEach(i=>{
+    const d=document.createElement("div");
+    d.className="card-horizontal";
+    d.innerHTML=`
+      <div class="thumb"><img src="${i.capa||''}"></div>
+      <div class="yt-text">
+        <b>${i.nome}</b>
+        <small>${i.descricao || (i.urls? "Canal ao vivo" : "Conteúdo sob demanda")}</small>
+      </div>`;
+    d.onclick=()=>{
+      if(i.urls){
+        const streamsMontadas = {};
+        Object.entries(i.urls).forEach(([q,url])=>{
+          streamsMontadas[q] = montarUrl(url);
+        });
+        playCanal(streamsMontadas, i.nome);
+      }else{
+        esconderQualidade();
+        playStream(montarUrl(i.url));
+        atualizarTituloPlayer(i.nome);
+      }
+    };
+    lista.appendChild(d);
+  });
+}
+
+function playCanal(streams, nomeCanal){
+  qualityBtn.style.display="block";
+  montarQualidades(streams);
+  playStream(streams[qualityMap[qualidadeAtual]]||Object.values(streams)[0]);
+  atualizarTituloPlayer(nomeCanal);
+}
+
+function montarQualidades(s){
+  qualityMenu.innerHTML="";
+  qualityMenu.style.width=qualityBtn.offsetWidth+"px";
+  qualityMenu.style.top=qualityBtn.offsetHeight+15+"px";
+  qualityMenu.style.right="12px";
+  ["FHD","HD","SD"].forEach(q=>{
+    if(s[qualityMap[q]]){
+      const b=document.createElement("button");
+      b.innerHTML=q+(q===qualidadeAtual?" ✔":"");
+      b.onclick=()=>{
+        qualidadeAtual=q;
+        qualityBtn.innerText=q;
+        playStream(s[qualityMap[q]]);
+        montarQualidades(s);
+        qualityMenu.style.display="none";
+      };
+      qualityMenu.appendChild(b);
+    }
+  });
+}
+
+const videoEl=document.getElementById("video");
+let qualityTimeout;
+
+videoEl.addEventListener("mousemove",()=>{
+  if(qualityBtn.style.display==="block"){
+    qualityBtn.style.opacity="1";
+    clearTimeout(qualityTimeout);
+    qualityTimeout=setTimeout(()=>qualityBtn.style.opacity="0",3000);
+  }
+});
+
+videoEl.addEventListener("click",()=>{qualityMenu.style.display="none";});
+qualityBtn.onclick=()=>{qualityMenu.style.display=qualityMenu.style.display==="block"?"none":"block";};
+
+function playStream(url){
+  if(hls){hls.destroy();hls=null;}
+  if(url && url.endsWith(".m3u8")){
+    if(Hls.isSupported()){
+      hls=new Hls();
+      hls.loadSource(url);
+      hls.attachMedia(videoEl);
+      hls.on(Hls.Events.MANIFEST_PARSED,()=>videoEl.play());
+    }else if(videoEl.canPlayType('application/vnd.apple.mpegurl')){
+      videoEl.src=url;
+      videoEl.play();
+    }else alert("Seu navegador não suporta reprodução de M3U8");
+  }else{
+    videoEl.src=url;
+    videoEl.play();
+  }
+}
+
+function mostrar(t){
+  telaAtual=t;
+  buscaTopo.value="";
+  home.style.display=albuns.style.display=corpo.style.display="none";
+  if(t==="home") home.style.display="flex";
+  if(t==="albuns") albuns.style.display="flex";
+  if(t==="lista") corpo.style.display="flex";
+}
+</script>
+
+</body>
+</html>
