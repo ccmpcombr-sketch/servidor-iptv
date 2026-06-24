@@ -55,9 +55,12 @@
   "json_externos": {
     "aovivo": [
       "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/canais1.json",
-      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/canais_local",
-      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/canais_adulto",
-      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/canais_legendado"
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/canais_local_01",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/canais_local_02",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/canais_adulto_01",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/canais_adulto_02",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/canais_legendado_01",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/canais_legendado_02"
     ],
     "filmes": [
       "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/canais1.json"
