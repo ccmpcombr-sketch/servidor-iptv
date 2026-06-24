@@ -6,8 +6,8 @@
       "url": "http://vrpro.fun:80"
     },
     {
-      "nome": "02-Rzn-Lat",
-      "url": "http://rzn.lat:80"
+      "nome": "02-Vr-Pro-2",
+      "url": "http://vrpro.fun:443"
     },
     {
       "nome": "03-Ouror",
@@ -22,11 +22,19 @@
       "url": "http://rdetodos.sbs:80"
     },
     {
-      "nome": "06-Vr-Pro-2",
-      "url": "https://vrpro.fun:443"
+      "nome": "06-Rzn-Lat",
+      "url": "http://rzn.lat:80"
     },
     {
       "nome": "07-Ryzeen-Pro",
+      "url": "http://ryzeeng.pro"
+    },
+    {
+      "nome": "08-Vr-Pro-Ds",
+      "url": "https://vrpro.fun:443"
+    },
+    {
+      "nome": "09-Ryzeen-Pro-Ds",
       "url": "https://ryzeeng.pro"
     }
   ],
