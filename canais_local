@@ -3,89 +3,99 @@
     {
       "album": "CANAIS LOCAL",
       "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CANAIS%20LOCAL.png",
-      "subAlbuns": [],
-      "itens": [
+      "subAlbuns": [
         {
-          "nome": "RECORD SIC TV RONDÔNIA",
-          "descricao": "Record Local.",
-          "capa": "https://i.imgur.com/10JNXVX.png",
-          "urls": {
-            "fhd": "http://servidor/{user}/{pass}/784809.m3u8",
-            "hd": "http://servidor/{user}/{pass}/784810.m3u8",
-            "sd": "http://servidor/{user}/{pass}/784810.m3u8"
-          }
+          "subAlbum": "RONDÔNIA",
+          "itens": [
+            {
+              "nome": "RECORD SIC TV RONDÔNIA",
+              "descricao": "Record Local.",
+              "capa": "https://i.imgur.com/10JNXVX.png",
+              "urls": {
+                "fhd": "http://servidor/{user}/{pass}/784809.m3u8",
+                "hd": "http://servidor/{user}/{pass}/784810.m3u8",
+                "sd": "http://servidor/{user}/{pass}/784810.m3u8"
+              }
+            },
+            {
+              "nome": "GLOBO CACOAL RONDÔNIA",
+              "descricao": "Globo Local.",
+              "capa": "https://i.imgur.com/jv6Tehu.png",
+              "urls": {
+                "fhd": "http://servidor/{user}/{pass}/784636.m3u8",
+                "hd": "http://servidor/{user}/{pass}/784637.m3u8",
+                "sd": "http://servidor/{user}/{pass}/784638.m3u8"
+              }
+            },
+            {
+              "nome": "GLOBO GUAJARA MIRIM RONDÔNIA",
+              "descricao": "Globo Local.",
+              "capa": "https://i.imgur.com/jv6Tehu.png",
+              "urls": {
+                "fhd": "http://servidor/{user}/{pass}/784639.m3u8",
+                "hd": "http://servidor/{user}/{pass}/784640.m3u8",
+                "sd": "http://servidor/{user}/{pass}/784641.m3u8"
+              }
+            },
+            {
+              "nome": "GLOBO JI PARANA RONDÔNIA",
+              "descricao": "Globo Local.",
+              "capa": "https://i.imgur.com/jv6Tehu.png",
+              "urls": {
+                "fhd": "http://servidor/{user}/{pass}/784641.m3u8",
+                "hd": "http://servidor/{user}/{pass}/784642.m3u8",
+                "sd": "http://servidor/{user}/{pass}/784643.m3u8"
+              }
+            },
+            {
+              "nome": "GLOBO PORTO VELHO RONDÔNIA",
+              "descricao": "Globo Local.",
+              "capa": "https://i.imgur.com/jv6Tehu.png",
+              "urls": {
+                "fhd": "http://servidor/{user}/{pass}/784429.m3u8",
+                "hd": "http://servidor/{user}/{pass}/784430.m3u8",
+                "sd": "http://servidor/{user}/{pass}/784431.m3u8"
+              }
+            },
+            {
+              "nome": "GLOBO VILHENA RONDÔNIA",
+              "descricao": "Globo Local.",
+              "capa": "https://i.imgur.com/jv6Tehu.png",
+              "urls": {
+                "fhd": "http://servidor/{user}/{pass}/3330357.m3u8",
+                "hd": "http://servidor/{user}/{pass}/784647.m3u8",
+                "sd": "http://servidor/{user}/{pass}/784648.m3u8"
+              }
+            }
+          ]
         },
         {
-          "nome": "GLOBO CACOAL RONDÔNIA",
-          "descricao": "Globo Local.",
-          "capa": "https://i.imgur.com/jv6Tehu.png",
-          "urls": {
-            "fhd": "http://servidor/{user}/{pass}/784636.m3u8",
-            "hd": "http://servidor/{user}/{pass}/784637.m3u8",
-            "sd": "http://servidor/{user}/{pass}/784638.m3u8"
-          }
-        },
-        {
-          "nome": "GLOBO GUAJARA MIRIM RONDÔNIA",
-          "descricao": "Globo Local.",
-          "capa": "https://i.imgur.com/jv6Tehu.png",
-          "urls": {
-            "fhd": "http://servidor/{user}/{pass}/784639.m3u8",
-            "hd": "http://servidor/{user}/{pass}/784640.m3u8",
-            "sd": "http://servidor/{user}/{pass}/784641.m3u8"
-          }
-        },
-        {
-          "nome": "GLOBO JI PARANA RONDÔNIA",
-          "descricao": "Globo Local.",
-          "capa": "https://i.imgur.com/jv6Tehu.png",
-          "urls": {
-            "fhd": "http://servidor/{user}/{pass}/784641.m3u8",
-            "hd": "http://servidor/{user}/{pass}/784642.m3u8",
-            "sd": "http://servidor/{user}/{pass}/784643.m3u8"
-          }
-        },
-        {
-          "nome": "GLOBO PORTO VELHO RONDÔNIA",
-          "descricao": "Globo Local.",
-          "capa": "https://i.imgur.com/jv6Tehu.png",
-          "urls": {
-            "fhd": "http://servidor/{user}/{pass}/784429.m3u8",
-            "hd": "http://servidor/{user}/{pass}/784430.m3u8",
-            "sd": "http://servidor/{user}/{pass}/784431.m3u8"
-          }
-        },
-        {
-          "nome": "GLOBO VILHENA RONDÔNIA",
-          "descricao": "Globo Local.",
-          "capa": "https://i.imgur.com/jv6Tehu.png",
-          "urls": {
-            "fhd": "http://servidor/{user}/{pass}/3330357.m3u8",
-            "hd": "http://servidor/{user}/{pass}/784647.m3u8",
-            "sd": "http://servidor/{user}/{pass}/784648.m3u8"
-          }
-        },
-        {
-          "nome": "GLOBO MANAUS AMAZÔNAS",
-          "descricao": "Globo Local.",
-          "capa": "https://i.imgur.com/jv6Tehu.png",
-          "urls": {
-            "fhd": "http://servidor/{user}/{pass}/784427.m3u8",
-            "hd": "http://servidor/{user}/{pass}/784428.m3u8",
-            "sd": "http://servidor/{user}/{pass}/784706.m3u8"
-          }
-        },
-        {
-          "nome": "SBT AMAZONAS",
-          "descricao": "SBT Local.",
-          "capa": "https://logos.imperioapps.xyz/sbt.png",
-          "urls": {
-            "fhd": "http://servidor/{user}/{pass}/208322.m3u8",
-            "hd": "http://servidor/{user}/{pass}/208322.m3u8",
-            "sd": "http://servidor/{user}/{pass}/208322.m3u8"
-          }
+          "subAlbum": "AMAZÔNAS",
+          "itens": [
+            {
+              "nome": "GLOBO MANAUS AMAZÔNAS",
+              "descricao": "Globo Local.",
+              "capa": "https://i.imgur.com/jv6Tehu.png",
+              "urls": {
+                "fhd": "http://servidor/{user}/{pass}/784427.m3u8",
+                "hd": "http://servidor/{user}/{pass}/784428.m3u8",
+                "sd": "http://servidor/{user}/{pass}/784706.m3u8"
+              }
+            },
+            {
+              "nome": "SBT AMAZONAS",
+              "descricao": "SBT Local.",
+              "capa": "https://logos.imperioapps.xyz/sbt.png",
+              "urls": {
+                "fhd": "http://servidor/{user}/{pass}/208322.m3u8",
+                "hd": "http://servidor/{user}/{pass}/208322.m3u8",
+                "sd": "http://servidor/{user}/{pass}/208322.m3u8"
+              }
+            }
+          ]
         }
-      ]
+      ],
+      "itens": []
     }
   ],
   "filmes": [],
