@@ -4,29 +4,7 @@
       "album": "CANAIS LOCAL",
       "capa": "",
       "subAlbuns": [
-        {
-          "subAlbum": "AMAZÔNAS",
-          "itens": [
-            {
-              "nome": "SBT PIAUI",
-              "descricao": "SBT Local.",
-              "capa": "https://logos.imperioapps.xyz/sbt.png",
-              "urls": {
-                "fhd": "http://servidor/{user}/{pass}/91865.m3u8",
-                "hd": "http://servidor/{user}/{pass}/91865.m3u8",
-                "sd": "http://servidor/{user}/{pass}/91865.m3u8"
-              }
-            },
-            {
-              "nome": "SBT TV JORNAL RECIFE",
-              "descricao": "SBT Local.",
-              "capa": "https://logos.imperioapps.xyz/sbt.png",
-              "urls": {
-                "fhd": "http://servidor/{user}/{pass}/208324.m3u8",
-                "hd": "http://servidor/{user}/{pass}/208324.m3u8",
-                "sd": "http://servidor/{user}/{pass}/208324.m3u8"
-              }
-            }
+       
           ]
         }
       ],
