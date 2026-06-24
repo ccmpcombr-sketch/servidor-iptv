@@ -72,10 +72,16 @@
       "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/canais1_adulto.json"
     ],
     "filmes": [
-      "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/canais1.json"
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/canais1.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/canais_local.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/canais_legendados.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/canais1_adulto.json"
     ],
     "series": [
-      "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/canais1.json"
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/canais1.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/canais_local.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/canais_legendados.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/canais1_adulto.json"
     ]
   }
 }
