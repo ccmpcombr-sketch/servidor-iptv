@@ -54,7 +54,8 @@
   },
   "json_externos": {
     "aovivo": [
-      "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/canais1.json"
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/canais1.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/CANAIS_LOCAL"
     ],
     "filmes": [
       "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/canais1.json"
