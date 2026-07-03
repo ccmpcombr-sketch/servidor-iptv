@@ -1,0 +1,24 @@
+{
+  "canais": [],
+  "filmes": [],
+  "series": [
+    {
+      "album": "AMC Plus",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/series/AMC%20Plus%20capa%20do%20Album.jpg",
+      "subAlbuns": [
+        {
+          "subAlbum": "This Is Going to Hurt (2022)",
+          "itens": []
+        }
+      ],
+      "itens": [
+        {
+          "nome": "This Is Going to Hurt (2022)",
+          "descricao": "1° Temporada Episódio 1",
+          "capa": "https://image.tmdb.org/t/p/w780/9evrzTMmsMIKXVAAzWtzzn5gdyj.jpg",
+          "url": "http://servidor/series/{user}/{pass}/4031333.mp4"
+        }
+      ]
+    }
+  ]
+}
