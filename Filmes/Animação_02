@@ -1,0 +1,2653 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "Animacao",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Anima%C3%A7%C3%A3o.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "Megamente (2010)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/juB6OgnyYQa9lCPhaiTBlciibK6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901781.mp4"
+        },
+        {
+          "nome": "Megamente Vs. O Sindicato da Perdição (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/60x76Yb6nMPFwEZ3um5yhUwCga.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901184.mp4"
+        },
+        {
+          "nome": "Melhor e Sem Cortes (1999)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/16ECNyTfEOfE49gFdrutZfGFd9x.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901633.mp4"
+        },
+        {
+          "nome": "Metalocalypse: Army of the Doomstar (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/fGc9HKeGKebC1RD7WPt0NYDONTo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901181.mp4"
+        },
+        {
+          "nome": "Meu Amigãozão: O Filme (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/arTxhqrL5gbIdZh4My7PZceTdpq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901273.mp4"
+        },
+        {
+          "nome": "Meu Amigo Ninja (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/caBe5O2r4aJ8bUY3zT71qnyr1Vb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901276.mp4"
+        },
+        {
+          "nome": "Meu Amigo Totoro (1988)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/ub3oHcMlMgjNMdAeeJonMTZ8som.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901085.mp4"
+        },
+        {
+          "nome": "Meu Amigo Vampiro (2017)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/zhsPZXCBwt2fL8GoQtmLIomVRpA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901780.mp4"
+        },
+        {
+          "nome": "Meu Malvado Favorito 4 (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/oCnwP87AskNyzATNEBNHHaktjzG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901150.mp4"
+        },
+        {
+          "nome": "Meu Tio José (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/6jJS0gyBhv17peeKyqzmHdToxvz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901334.mp4"
+        },
+        {
+          "nome": "Meus Amigos Dinossauros (2012)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/Ap4e3zJ5girxFryRddW6zXOHZAL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901779.mp4"
+        },
+        {
+          "nome": "Mickey e Seus Amigos: Gostosuras ou Travessuras (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/xkr8i5zDRVnV4OiNjvfWXr0OsVN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901229.mp4"
+        },
+        {
+          "nome": "Minha Querida Oni (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/v3ZFyWedC1bbNwOk6jc50C80aqS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901171.mp4"
+        },
+        {
+          "nome": "Minions (2015)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/zBpMdcxJelRvA7VPaF9GvoH5sZv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901778.mp4"
+        },
+        {
+          "nome": "Minions 2: A Origem de Gru (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/5SfrlDY8SUiG1HSTGxHfAiVUhdy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901331.mp4"
+        },
+        {
+          "nome": "Minions Curta: Ajudantes do Papai Noel (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/3fiVxT73XswdAlTyuUe1qPf4j1m.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901646.mp4"
+        },
+        {
+          "nome": "Minions Curta: Amarelo é o Novo Preto (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/yQN3wqHwvYoYIDFkKQ4QcuNQxoq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901648.mp4"
+        },
+        {
+          "nome": "Miraculous: As Aventuras de Ladybug - O Filme (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/oa9tkk1vF5pefeHHWJzRK3Lo1jo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901266.mp4"
+        },
+        {
+          "nome": "Missão Antena: Uma Aventura Intergaláctica (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/ishu8UT71z7YNWCRuYvdKcDhf9r.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901101.mp4"
+        },
+        {
+          "nome": "Moana 2 (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/A1NUWVjoKzWzOdGE01NHquyubkx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901068.mp4"
+        },
+        {
+          "nome": "Moana: Um Mar de Aventuras (2016)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/qiVFLTR8SwQXxxEyRRt8YQK83l2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901777.mp4"
+        },
+        {
+          "nome": "Mobile Suit Gundam Hathaway (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/r13nVjpvwyobKKgJ2VpVE15FLgh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901479.mp4"
+        },
+        {
+          "nome": "Mononoke - O Filme: O Fantasma na Chuva (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/vIwXbqTQT6jwdcS7u7J4nZBNzNW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901107.mp4"
+        },
+        {
+          "nome": "Monster High: Bem-Vindos a Monster High (2016)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/8HWvsB4pjym9Cu8B08YnLPeTDfo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901358.mp4"
+        },
+        {
+          "nome": "Monster High: Monster Fusion (2014)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/rZLksXFruhQYUXzCgixkB9y2ms5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900974.mp4"
+        },
+        {
+          "nome": "Monster Hunter: Legends of the Guild (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/1N3RwuVi6LjeHjTodyBZ4HrocEV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901463.mp4"
+        },
+        {
+          "nome": "Monstros S.A. (2001)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/mKiG037CiuSZqL1gxsDHyBj28lg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901776.mp4"
+        },
+        {
+          "nome": "Monstros vs Alienígenas (2009)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/rkV9oqoxun8h0aMQAhUR1rY60a1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901379.mp4"
+        },
+        {
+          "nome": "Moranguinho e o Monstro do Pântano (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/87cENafkhZ1DjoKWWChYTu5j54e.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901241.mp4"
+        },
+        {
+          "nome": "Mortal Kombat Legends: Cage Bom de Luta (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/hEl5fUsMadGoDesI2dFGMXqJPmb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901234.mp4"
+        },
+        {
+          "nome": "Mortal Kombat Legends: Cegueira Glacial (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/pJvZHaduX9GeASdZ16hc8O9JCWz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901322.mp4"
+        },
+        {
+          "nome": "Mufasa: O Rei Leão (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/iMVuv6Gz5fj7vZ51IjRF3AiW87y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901062.mp4"
+        },
+        {
+          "nome": "Mulan (1998)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/nq4taYpb2PjN1Cwni23GOZJbOaR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901775.mp4"
+        },
+        {
+          "nome": "Mulan (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/72I82eKXCadZWEYygV9GkJOQNEq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901598.mp4"
+        },
+        {
+          "nome": "Mulan 2: A Lenda Continua (2004)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/lWcoRhckk3F1v1HvaMvIyc9faZA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901774.mp4"
+        },
+        {
+          "nome": "Mulher-Gato: A Caçada (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/iqcoz5xQx6UTKHrqrMyiGiJY4jQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901383.mp4"
+        },
+        {
+          "nome": "Mulher-Maravilha: Linhagem de Sangue (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/bjwO46qdVwq2WxoYT4qlKpuaGxX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901602.mp4"
+        },
+        {
+          "nome": "Mundo Estranho (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/uAlwqJbFqMRWXUA45E1aw1Pacun.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901308.mp4"
+        },
+        {
+          "nome": "Muppets: O Filme (1979)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/m7bJkY4fmrghNzS9QIIt6T8pd3E.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900984.mp4"
+        },
+        {
+          "nome": "Mutano: Lobo Solitário (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/2eB1GyZ8oEcTY43MqYs1XW8cG8z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901076.mp4"
+        },
+        {
+          "nome": "My Hero Academia: Agora é a Sua Vez (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/mSo6C1u3jAUKOS9rWjoWFAn0Xru.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901042.mp4"
+        },
+        {
+          "nome": "My Hero Academia: O Filme - 2 Heróis (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/zUvte49bppXNUL5QGUZdhzTE9Q6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901669.mp4"
+        },
+        {
+          "nome": "My Little Pony: O Filme (2017)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/kaZPzYhSwf7sUYeX2h1K4BcgCNa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901773.mp4"
+        },
+        {
+          "nome": "Nem Que a Vaca Tussa (2004)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/merEoWh2Ju8AoYedYCW0faW9e9O.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901772.mp4"
+        },
+        {
+          "nome": "Nezha: O Renascer de um Deus (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/gvcFFHbxpJSaasHa8S4lx4WvbRW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901527.mp4"
+        },
+        {
+          "nome": "Nimona (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/2NQljeavtfl22207D1kxLpa4LS3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901274.mp4"
+        },
+        {
+          "nome": "Nina: A Heroína dos Sete Mares (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/hCRZCkQScaK0cg2tfgqNZKYgff4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901207.mp4"
+        },
+        {
+          "nome": "Ninjago: Mestres do Spinjitzu - Dia da Despedida (2016)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/wu6xVgzMq20j1M2YCQi3ZIHfniL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901390.mp4"
+        },
+        {
+          "nome": "Nível Hard (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/lwDNwvzXkPslQTRRCEoPNnNo76T.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901601.mp4"
+        },
+        {
+          "nome": "O Aprendiz do Tigre (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/dJOIVQoyjoK0hPlmh0nDFsFROvW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901196.mp4"
+        },
+        {
+          "nome": "o Bart e o Loki (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/5hO4RYsWZqP7U9ikLZquJAB3oSH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901473.mp4"
+        },
+        {
+          "nome": "O Bicho Vai Pegar (2006)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/t6n81JDmbKnjjdagHmPx3gSGVNr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901771.mp4"
+        },
+        {
+          "nome": "O Bicho Vai Pegar 2 (2008)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/wOlviAu1Bc8Xz9y4vG8gEZzpU2z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901770.mp4"
+        },
+        {
+          "nome": "O Bicho Vai Pegar 3 (2010)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/cwPUGK0THXrgqaFf4QnG5pdmnJw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901769.mp4"
+        },
+        {
+          "nome": "O Bicho Vai Pegar 4 (2015)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/z2dwEPtt8xBP6DSehwuwOGskokL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901435.mp4"
+        },
+        {
+          "nome": "O Bom Dinossauro (2015)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/mKGYOFSf9WvhNjWcmQXAQe5VuiE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901768.mp4"
+        },
+        {
+          "nome": "O Cachorro Mágico (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/s7Yzy2Yrw4JQXD2IWCQdGpeQZbC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901547.mp4"
+        },
+        {
+          "nome": "O Caminho para El Dorado (2000)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/oaj2kKqOyFEo4Mj2Y12rwbjgv8u.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901611.mp4"
+        },
+        {
+          "nome": "O Castelo Animado (2004)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/1hTfaEWktMJPxCk5nZNtK7F86C9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901625.mp4"
+        },
+        {
+          "nome": "O Coelhinho de Veludo (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/aMOIiDPPAE6oHDQ3taaBtLQ21QF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901227.mp4"
+        },
+        {
+          "nome": "o Coelho de Brinquedo e a Máquina do Tempo (2006)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/gjPhcHGQZpHUwl0t7q6DK4llRaH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901071.mp4"
+        },
+        {
+          "nome": "O Conto da Princesa Kaguya (2013)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/2lcRVfHAuyLa4qT9uuIPC9sP9qE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901147.mp4"
+        },
+        {
+          "nome": "O Corcel Negro (1979)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/cksQ9J7nECLlSQ9JMNHvDeGQntJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901767.mp4"
+        },
+        {
+          "nome": "O Corcunda de Notre Dame (1996)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/mvdPI1neAfdMKvetXEBj4hpPQoI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901488.mp4"
+        },
+        {
+          "nome": "O Corcunda de Notre Dame II: O Segredo do Sino (2002)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/2TLAX4PLdHV4aBfhYIqNzh1gmpH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901487.mp4"
+        },
+        {
+          "nome": "o Curioso: Aventuras no Mar (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/539klzkpRB4KvpsiWaFjKjeGWwc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901209.mp4"
+        },
+        {
+          "nome": "O Despertar das Tartarugas Ninja: O Filme (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/1lJgQ0cTKsU4gVEVkNOc6jEJU0o.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901338.mp4"
+        },
+        {
+          "nome": "O Despertar dos Poderes (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/pt3mp59USm8dooXcDqXTBL01mhz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901090.mp4"
+        },
+        {
+          "nome": "O Diário de um Banana: As Regras do Rodrick (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/zL7uRZfIguunWKQDWbOcOqYg1AX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901315.mp4"
+        },
+        {
+          "nome": "o Dinossauro (1914)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/dpKnNDqkvfxe0MQNPyIbBs7AEI5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901812.mp4"
+        },
+        {
+          "nome": "O Dragão do Meu Pai (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/bfhokk0aVLI6BRIomo2OsXwtmJl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901318.mp4"
+        },
+        {
+          "nome": "O Espanta Tubarões (2004)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/7CPBvGiryIQkylibEm0YbLUvBEB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901687.mp4"
+        },
+        {
+          "nome": "O Estranho Mundo de Jack (1993)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/pyMGhuAWC7nYyolKJlFbT7pp02K.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901413.mp4"
+        },
+        {
+          "nome": "O Expresso Polar (2004)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/adXE99ie9wBdpdvdrB2HDpl9aoV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901766.mp4"
+        },
+        {
+          "nome": "O Feriado Perfeito da Moranguinho (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/e7QE1i9evx4xiafS5RbD3Bdpxt3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901232.mp4"
+        },
+        {
+          "nome": "o Filme (2015)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/lnBbIL2gYex4aVomvZOg5ZGtOOa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901377.mp4"
+        },
+        {
+          "nome": "o Filme: Segredos da Selva (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/eqw2liU8vZivyShbVhOFRISYIkp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901417.mp4"
+        },
+        {
+          "nome": "O Fusquinha de Polícia (2010)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/nh65HisHokHajVOtdwIs02s6nQI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901350.mp4"
+        },
+        {
+          "nome": "O Galinho Chicken Little (2005)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/fUCBkuNWpAIfH6yhuRzujy5Zjv0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900956.mp4"
+        },
+        {
+          "nome": "o Gigante Cão Vermelho (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/g51VeVAIM7q9ZqpZRlPEqqhLThR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901388.mp4"
+        },
+        {
+          "nome": "O Gigante de Ferro (1999)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/a8StQ8dmVQ94THFTrMVHuMp5QKw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901477.mp4"
+        },
+        {
+          "nome": "O Grande Mauricinho (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/qcCZnuFQv6faxbXUb9pa8Le5ujB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901290.mp4"
+        },
+        {
+          "nome": "O Grinch (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/rmXN4DgZrGNxrUaSyR3wE7sG78m.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901039.mp4"
+        },
+        {
+          "nome": "O Herói Cuco (2016)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/y6yeAsB2Ynw0cPUc9yj62eJQXnN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901657.mp4"
+        },
+        {
+          "nome": "O Homem-Cão (2025)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/iBZlbYSVOYjBJDwg4D3bcK0hE8F.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901054.mp4"
+        },
+        {
+          "nome": "O Imaginário (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/m2SAArWDXMUIH4Kip7D63Ik2bpW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901161.mp4"
+        },
+        {
+          "nome": "O Início do Mundo de Greg: Um Filme Original (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/y59jpk9FtEJTmNHTvToR7hd17Wo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901208.mp4"
+        },
+        {
+          "nome": "O Lorax: Em Busca da Trúfula Perdida (2012)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/3rfClKuMmhFawkdCJXMEV3OGOJ3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901467.mp4"
+        },
+        {
+          "nome": "O Menino e a Garça (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/dYwihSnQmCVuIQbuG9n18BK5Iqd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901135.mp4"
+        },
+        {
+          "nome": "O Menino e o Mestre (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/238wu3QBbHxWiXkn3BmOrBesnwW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901096.mp4"
+        },
+        {
+          "nome": "o Menino Jacaré (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/jPKqpCqPS9fLQh35EyJ1j3UfTVD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901526.mp4"
+        },
+        {
+          "nome": "O Mundo de Mia: A Esperança de Centopia (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/czkzXAtaJ09DNvmSGjsIndrXZqa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901044.mp4"
+        },
+        {
+          "nome": "O Mundo Mágico de Rufus (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/xA6GjkuxpW4lx2lDTd1LgYPFndo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901403.mp4"
+        },
+        {
+          "nome": "O Pai de Goku (1990)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/TQtQcckcXwkWxcij6JxJiyVXkG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901809.mp4"
+        },
+        {
+          "nome": "O Parque dos Sonhos (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/sxybUNiRTGSCkOOWtOf3kDse43v.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901046.mp4"
+        },
+        {
+          "nome": "O Peixe Grande & Begônia (2016)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/5XoJpNKo3N7M7wV76q8t3bXhskn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901694.mp4"
+        },
+        {
+          "nome": "O Pequeno Stuart Little (1999)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/oRaBrLCeOPv96RDuAoA0Tjf1bH1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901765.mp4"
+        },
+        {
+          "nome": "O Poderoso Chefinho (2017)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/sUJzHEA9Ft1JXoae7QeNYSBhY4q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901764.mp4"
+        },
+        {
+          "nome": "O Príncipe do Egito (1998)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/5jco6VjKwjAyN8HElg4F3dXGfT8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901369.mp4"
+        },
+        {
+          "nome": "O Que Será de Nozes 2 (2017)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/mYdF23DN5K9enPqF6VlihO0aMJY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900968.mp4"
+        },
+        {
+          "nome": "O Que Será de Nozes? (2014)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/77kZV9SUlQd3bEzekD2xC06VMAt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901027.mp4"
+        },
+        {
+          "nome": "O Rei dos Reis (2025)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/3Mz71kubfEj5Ko0SZRTHKQlsCZj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900994.mp4"
+        },
+        {
+          "nome": "O Rei Leão 3: Hakuna Matata (2004)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/vtX3wirmv2VkQi1u4C9cSdHTXQn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901762.mp4"
+        },
+        {
+          "nome": "O Rei Leão II: O Reino de Simba (1998)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/9GB2FntD6nBGx1EsKKOtR7v4Tza.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901763.mp4"
+        },
+        {
+          "nome": "O Rei Macaco (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/bmwK5QCznqUT8bcDR7qROrxqgov.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901258.mp4"
+        },
+        {
+          "nome": "O Rei Piu-Piu (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/jJatuRAVIsxAIszL3QTxrbIzxzc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901291.mp4"
+        },
+        {
+          "nome": "O Reino dos Golfinhos (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/c095diilIj0nRkMhCB0q8WVqqoa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901368.mp4"
+        },
+        {
+          "nome": "O Reino Gelado 2 (2014)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/mZJGBPMZy2Fy1yFVHmLNK3BznP4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901761.mp4"
+        },
+        {
+          "nome": "O Reino Gelado 3: Fogo e Gelo (2016)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/52YjoWA0zwgH7dpMCReKzICF0rM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901760.mp4"
+        },
+        {
+          "nome": "O Reino Gelado: A Terra dos Espelhos (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/r9o9YYuS1MKv1jsYu47hnWqqkC3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901626.mp4"
+        },
+        {
+          "nome": "O Ritmo da Selva: O Filme (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/eRCfJ7jItEnk0AnLUHTuWA2dT1U.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901607.mp4"
+        },
+        {
+          "nome": "O Segredo dos Animais (2006)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/nG4eJPNA4M4odMPR9bso3RZUKOL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901759.mp4"
+        },
+        {
+          "nome": "O Senhor dos Anéis: A Guerra dos Rohirrim (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/aLOROyUuOum0zztqPiJDCFgFMcw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901094.mp4"
+        },
+        {
+          "nome": "O Serviço de Entregas da Kiki (1989)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/h2zP9prETqeB8kSQDy46Z6UHzFE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901084.mp4"
+        },
+        {
+          "nome": "O Show da Luna: Bichos na Fazenda (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/bbECz3sNhmj3eSzBVtj13CnZ5e4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901682.mp4"
+        },
+        {
+          "nome": "o Super Saiyajin (1991)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/xolX6EZdn5n1p5YcLkDjDLe1lN7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901428.mp4"
+        },
+        {
+          "nome": "O Tempo com Você (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/tdBhe9LVIBKMgfGYJSkY2dVqfaz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901554.mp4"
+        },
+        {
+          "nome": "O Touro Ferdinando (2017)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/rnoYZvoSbS6uogrESSbKOpwg0sB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901038.mp4"
+        },
+        {
+          "nome": "O Túmulo dos Vagalumes (1988)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/kHFUyxNJfhMkKk1FwrNHd62KTEs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901081.mp4"
+        },
+        {
+          "nome": "O Unicórnio (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/dli52SBON2KpzW5CCWhHBP1GuHr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901174.mp4"
+        },
+        {
+          "nome": "Oito Noites de Loucura de Adam Sandler (2002)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/zpuKCrYAXDgX1IErMglua92ofbZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900982.mp4"
+        },
+        {
+          "nome": "Okko e Os Espíritos (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/lYai9w83Ega6FiznyriW49rFXUY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901333.mp4"
+        },
+        {
+          "nome": "Olhos de Gato (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/xoMN4exFcNZNCpTLCzv3IP6xULV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901156.mp4"
+        },
+        {
+          "nome": "Oliver e Sua Turma (1988)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/AqjEHCoGou8QjY5Yh9JyQ57ut9Z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901177.mp4"
+        },
+        {
+          "nome": "One Piece Gold: O Filme (2016)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/pHuiZmj4aaThV8akzsA5zMcTtox.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900960.mp4"
+        },
+        {
+          "nome": "One Piece: Red (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/8ibfhe4P7rhmn3lrPhOZzIJHA2B.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901295.mp4"
+        },
+        {
+          "nome": "One Piece: Stampede (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/pQLJiY9XfiO3IN1x0l0E51XSwgV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901328.mp4"
+        },
+        {
+          "nome": "Operação Big Hero (2014)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/zGuS48PShYgLwBpoRBCgzJC20uN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901757.mp4"
+        },
+        {
+          "nome": "Orion e o Escuro (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/ulUmkLFtT1Y0YGtmO6lBkMwLsBR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901200.mp4"
+        },
+        {
+          "nome": "Os 3 Cães Mosqueteiros (2014)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/7C0n4AG21G9lap9BnlIJhppBXCl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901406.mp4"
+        },
+        {
+          "nome": "Os Barkers e Os Gatos (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/3GaPpXt40bBnvjEIDaTdyUnSad2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901343.mp4"
+        },
+        {
+          "nome": "Os Caras Malvados (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/syKg3OmdtSYmkA7nNdtPUYdSFGL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901197.mp4"
+        },
+        {
+          "nome": "Os Caras Malvados: Assalto Assombrado (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/tbR70ceR2Qw2fNMDj1cvOhmTfwa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901137.mp4"
+        },
+        {
+          "nome": "Os Casagrandes: O Filme (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/yRD3xPQuEbANBcSWiEfiydKQRkz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901186.mp4"
+        },
+        {
+          "nome": "Os Cavaleiros do Zodíaco: A Grande Batalha dos Deuses (1988)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/1RsREkIc1t0oJLbYlz0tE8uZTbG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901441.mp4"
+        },
+        {
+          "nome": "Os Cavaleiros do Zodíaco: A Lenda do Santuário (2014)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/ozSUEsKgMNOdL4em13Xd7uKf9TW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901436.mp4"
+        },
+        {
+          "nome": "Os Cavaleiros do Zodíaco: A Lenda dos Defensores de Atena (1988)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/724kXHDFaSJw1WdYX2qi5XkYMLb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901434.mp4"
+        },
+        {
+          "nome": "Os Cavaleiros do Zodíaco: O Santo Guerreiro (1987)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/nziTxFxx0l2hO7ZddZo903kVVU0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901439.mp4"
+        },
+        {
+          "nome": "Os Cavaleiros do Zodíaco: Os Guerreiros do Armageddon (1989)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/cXCWqtb7oRtkQfpxjdPS4G2c3RR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901079.mp4"
+        },
+        {
+          "nome": "Os Cavaleiros do Zodíaco: Prólogo do Céu (2004)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/kslCOlg1trlqry0XF3kCqdwh3ZP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901437.mp4"
+        },
+        {
+          "nome": "Os Croods (2013)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/7k9w3RgKYoJ9MCwdBY0ZBxC323L.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901755.mp4"
+        },
+        {
+          "nome": "Os Fantasmas de Scrooge (2009)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/1qhU3VJo10sISkHIyANLsHioq0Y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901754.mp4"
+        },
+        {
+          "nome": "os Guerreiros do Futuro (1993)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/yprvCrZcdWNvoGmhkEy93l5NRDW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901102.mp4"
+        },
+        {
+          "nome": "Os Incríveis (2004)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/9u27l1k3aUj774xOGCCaVX3iFDu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901503.mp4"
+        },
+        {
+          "nome": "Os Incríveis 2 (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/eoSgEzw9LrXFPPjny5CvUEjxUrJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901502.mp4"
+        },
+        {
+          "nome": "Os Inseparáveis (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/agmVK43JaFqp7P9dALQyJnCg66T.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901133.mp4"
+        },
+        {
+          "nome": "Os Irmãos Aventura: O Filme (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/oGX6dBRHjO2FsQG5FaNpS7NOtFs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901254.mp4"
+        },
+        {
+          "nome": "Os Irmãos Willoughby (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/8DnmmpThvdY1PrOAJoL3rDEI4el.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901622.mp4"
+        },
+        {
+          "nome": "Os Jovens Titãs em Ação Vs. Os Jovens Titãs (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/mj4UgJWzCPhvUSqB9kMh1cJRCtP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901664.mp4"
+        },
+        {
+          "nome": "Os Jovens Titãs em Ação! e DC Super Hero Girls: Caos no Multiverso (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/jx6Bgp55TadD0NoFJ8QnAdnfYX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901359.mp4"
+        },
+        {
+          "nome": "Os Jovens Titãs em Ação! Nos Cinemas (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/y8sTpoYcjvFut9DtemQcppAQr9s.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901693.mp4"
+        },
+        {
+          "nome": "Os Novos Vingadores: Heróis do Amanhã (2008)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/eLQQccRpk3Z6K6xR9GYxYJ8JAM3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901446.mp4"
+        },
+        {
+          "nome": "Os Octonautas e As Cavernas de Sac Actun (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/wlizMbZByBYPOC4i2AN64e4W1iM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901600.mp4"
+        },
+        {
+          "nome": "Os Pinguins de Madagascar: O Filme (2014)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/w9jno0ySammISRGvc0RZREjYUvg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901753.mp4"
+        },
+        {
+          "nome": "Os Sem-Floresta (2006)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/brRa33QT2jMwMHyjqh4N3EPq1zO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901752.mp4"
+        },
+        {
+          "nome": "Os Simpsons: Homer Papai Noel (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/bs8Z8i0VtC2IW7DlYDUMjRoyuEB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901100.mp4"
+        },
+        {
+          "nome": "Os Simpsons: O Filme (2007)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/sMcsZ7BlOf2LDhTlfPlWb3w6lJM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901500.mp4"
+        },
+        {
+          "nome": "Os Smurfs (2011)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/4xGhRkBo791KeITsAKbWtrforxi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901749.mp4"
+        },
+        {
+          "nome": "Os Smurfs 2 (2013)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/52p2PtBAebB0HwvfY5YIowT7sFI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901751.mp4"
+        },
+        {
+          "nome": "Os Smurfs e a Vila Perdida (2017)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/7DtiMnR55uSRIUAaIpnEMwYdGFD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901750.mp4"
+        },
+        {
+          "nome": "Os Vizinhos Green: O Filme – Ferispaço (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/Anymw1udcCIdBstKbxMp77cwFyy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901118.mp4"
+        },
+        {
+          "nome": "OVERLORD: O Reino Sagrado (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/gHtatjkKqVOfoyomrTJzqF77uK3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901041.mp4"
+        },
+        {
+          "nome": "Pachamama (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/9MP51jJ3ksNy0zXqkuhF8mgOPMJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901688.mp4"
+        },
+        {
+          "nome": "ParaNorman (2012)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901050.mp4"
+        },
+        {
+          "nome": "Parcialmente Nublado (2009)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/oqYX2AJV53ibLVPrUZ1Z5XlGv5U.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900973.mp4"
+        },
+        {
+          "nome": "Patos! (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/wXWnUhdnSuADRp9w7aAZNHx682v.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901195.mp4"
+        },
+        {
+          "nome": "Patrulha Canina Cavaleiros Do Resgate (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/bnBkX4QbfHRtEeZsBaqQRY8n69g.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901146.mp4"
+        },
+        {
+          "nome": "Patrulha Canina: Air Rescue (2025)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/lX0KM1qp417LYTBQDZ3ue9ObpUo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900988.mp4"
+        },
+        {
+          "nome": "Patrulha Canina: Filhotes Caminhoneiros (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/kjEoMZcrIS624I8hyN7B9Jllk3D.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901040.mp4"
+        },
+        {
+          "nome": "Patrulha Canina: Filhotes Marítimos (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/1EU8LWbyAOKwdcyWDC1KMtVjpLe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901034.mp4"
+        },
+        {
+          "nome": "Patrulha Canina: Jato ao Resgate (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/pYZCm1kFeBH3AycPeV677w9LzjH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901139.mp4"
+        },
+        {
+          "nome": "Patrulha Canina: O Filme (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/56V3xa8ymXzOQLFGsiU9T1sDmfI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4160642.mp4"
+        },
+        {
+          "nome": "Patrulha Canina: Super Filhotes (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/x5MpwRn04VeSYWIID9jxLQW9MhI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901520.mp4"
+        },
+        {
+          "nome": "Patrulha Canina: Um Filme Superpoderoso (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/mUirEoPDHqKYKzpfExHPvcnz6ME.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901235.mp4"
+        },
+        {
+          "nome": "Pé Pequeno (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/sgONktl4877HWn1LcSCSF1p0UtA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901032.mp4"
+        },
+        {
+          "nome": "Peça por Peça (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/qVyWW9HhYXui6SjF4cTDUPDYCIz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901080.mp4"
+        },
+        {
+          "nome": "Pedro Coelho (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/f9Yp41eDDrx4HxFKW8vt9xKPobB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901748.mp4"
+        },
+        {
+          "nome": "Pedro Coelho 2: O Fugitivo (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxdSJCpqMOp3gakScrzHgGDEvVr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4160443.mp4"
+        },
+        {
+          "nome": "Peixonauta - O Filme (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/dRprH1Us81KB2HqqV1ejL5zrhHL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901747.mp4"
+        },
+        {
+          "nome": "Perdi Meu Corpo (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/jH0mknMEByXUDTfiS1SQOxYDL5z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901653.mp4"
+        },
+        {
+          "nome": "Perlimps (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/x0bOWJeJhnIqch1OrhEQPEaZXcy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901185.mp4"
+        },
+        {
+          "nome": "Peter Pan (1953)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/ooZYY1HiuekAYoZgR91xdndCFCh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901493.mp4"
+        },
+        {
+          "nome": "Peter Pan (2015)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/7IJwKzVKGhfjZLnWhPwIZ5EYGFS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901486.mp4"
+        },
+        {
+          "nome": "Peter Pan: À Procura do Livro do Nunca (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/yorpiDdIQYMzhpcwn6HRErbP3F0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901268.mp4"
+        },
+        {
+          "nome": "Peter Pan: De Volta à Terra do Nunca (2002)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/4kUlxkWZ2GaMBNf85yEkIxIJ9Qg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901485.mp4"
+        },
+        {
+          "nome": "Pets em Ação! (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/15qZcDm6v9QB8Wcx8su3KNOPKH2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901116.mp4"
+        },
+        {
+          "nome": "Pets Unidos (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/fPhPXOL1wN1OPTqoCCcLJnHbgyn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901596.mp4"
+        },
+        {
+          "nome": "Pets: A Vida Secreta dos Bichos (2016)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/xKpQ8fDDu1qCvBl5bF2vpsZPSUj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901746.mp4"
+        },
+        {
+          "nome": "Pets: A Vida Secreta dos Bichos 2 (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/gs0iSjc9tbpbAElolwbDwPDpNXo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901661.mp4"
+        },
+        {
+          "nome": "Phineas e Ferb: O Filme: Candace Contra o Universo (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/xNYCXgfBZiFdPcSY5h1AGxly7W8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901571.mp4"
+        },
+        {
+          "nome": "Pinocchio: O Menino de Madeira (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/5B5dWRlUOpmHjtvY0jQlsdMbHhY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896609.mp4"
+        },
+        {
+          "nome": "Pinóquio (2002)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/aEQ1PtZcTOYLssXFXDHH2Yp7Cr4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901745.mp4"
+        },
+        {
+          "nome": "Pinóquio 3000 (2004)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/9U5nRgaXZthxfjopUcBueX8fZvp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900950.mp4"
+        },
+        {
+          "nome": "Pinóquio por Guillermo del Toro (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/x3IkO2sW4rSSVluFDz8isr6YDm8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901312.mp4"
+        },
+        {
+          "nome": "Planeta 51 (2009)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/cQqvFrUBOitSvw0kXehYq3vOY1G.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901355.mp4"
+        },
+        {
+          "nome": "Planeta do Tesouro (2002)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/4GJnKM1CLylmp8phkyiITiwu7L.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901744.mp4"
+        },
+        {
+          "nome": "Plankton: O Filme (2025)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/xODFawcWmxx2vn7rCw3KrdZmtmy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901069.mp4"
+        },
+        {
+          "nome": "Playmobil: O Filme (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/iOtzxWZbveKez2wUGLlH9QkIA5E.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901636.mp4"
+        },
+        {
+          "nome": "PLOEY: Você Nunca Voará Sozinho (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/2ioAymnfrJ28kIyUge2lWN83G5h.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901198.mp4"
+        },
+        {
+          "nome": "Pocahontas (1995)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/q5MYFXVy8UQ1ds76fdJs6AJbMzv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901743.mp4"
+        },
+        {
+          "nome": "Pocahontas II: Uma Jornada Para o Novo Mundo (1998)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/xNsHnGRoGYziVpz0D6hS4x78y2A.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901058.mp4"
+        },
+        {
+          "nome": "Pokémon 3: O Feitiço dos Unown (2000)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/vqUWAVNetRIIQC6I0UDnubz8Qw3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901592.mp4"
+        },
+        {
+          "nome": "Pokémon 4: Viajantes do Tempo (2001)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/yKFaC1fj4hzEOrMzvIYuuZyCTx8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901074.mp4"
+        },
+        {
+          "nome": "Pokémon 6: Jirachi - Realizador de Desejos (2003)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/fIULywQnT4pAJxAhJFNo9yaYRBq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901590.mp4"
+        },
+        {
+          "nome": "Pokémon 7: Alma Gêmea (2004)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/plDxcsCB5muct8j88GCgC2FII7T.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901589.mp4"
+        },
+        {
+          "nome": "Pokémon o Filme: Branco - Victini e Zekrom (2011)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/anQCYFSCR3fxi6L1lNlkQcLdUJI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901582.mp4"
+        },
+        {
+          "nome": "Pokémon o Filme: Diancie e o Casulo da Destruição (2014)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/rcfpaFgj8Ahm4cemEQhY8Nvf6ir.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901578.mp4"
+        },
+        {
+          "nome": "Pokémon o Filme: Eu Escolho Você! (2017)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/Aip9h0zIzKHTdSxoZHdOWweQTrI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901575.mp4"
+        },
+        {
+          "nome": "Pokémon o Filme: Genesect e a Lenda Revelada (2013)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/twhBtwnnLHV5bbgAPilKYHFMzli.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901579.mp4"
+        },
+        {
+          "nome": "Pokémon o Filme: Hoopa e o Duelo Lendário (2015)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/pGcRH4Kgfl9BsLPgezCUQcK17IU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901577.mp4"
+        },
+        {
+          "nome": "Pokémon o Filme: Kyurem contra a Espada da Justiça (2012)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/gtk5xlSO59CYc6Ul82ZGlSExRWp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901580.mp4"
+        },
+        {
+          "nome": "Pokémon o Filme: O Poder de Todos (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/5JDpggW74NfM36e3vXV0aN5b7ZD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901574.mp4"
+        },
+        {
+          "nome": "Pokémon o Filme: Preto - Victini e Reshiram (2011)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/74GV0SdGJTsXdC8Q56VFJOu6TDJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901581.mp4"
+        },
+        {
+          "nome": "Pokémon o Filme: Volcanion e a Maravilha Mecânica (2016)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/yzfGkn1nfx4EvYP5axS2jKJmkHK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901576.mp4"
+        },
+        {
+          "nome": "Pokémon Ranger e o Lendário Templo do Mar (2006)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/xv7CC8DTSVoE4QSF3CUmXh575zT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901587.mp4"
+        },
+        {
+          "nome": "Pokémon: Arceus e a Jóia da Vida (2009)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/pzqwhVEaBDKPbfici20mTXMQY5D.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901584.mp4"
+        },
+        {
+          "nome": "Pokémon: As Crônicas de Arceus",
+          "descricao": "Filmes De Animação",
+          "capa": "http://gstaticontent.com/images/e996a4cfd043294729776e735252b1ba.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901325.mp4"
+        },
+        {
+          "nome": "Pokémon: Giratina e o Cavaleiro do Céu (2008)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/tWb8LkgBcobNi6azuACIFDNJzmU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901585.mp4"
+        },
+        {
+          "nome": "Pokémon: Lucario e o Mistério de Mew (2005)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/nRwdr4emOEGRJht4H7eFDLcrAom.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901588.mp4"
+        },
+        {
+          "nome": "Pokémon: O Filme - Mewtwo contra-ataca! (1998)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/WcMzZqAEeKdKCpbTnXdPdI0gDo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901594.mp4"
+        },
+        {
+          "nome": "Pokémon: O Filme 2000 - O Poder de Um (1999)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/kHjSadz8Hk1xydmskf3kt1g61p9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901593.mp4"
+        },
+        {
+          "nome": "Pokémon: O Pesadelo de Darkrai (2007)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/A1Js7nkmCP8lWuyDYY0zFqeskqd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901586.mp4"
+        },
+        {
+          "nome": "Pokémon: Zoroark - Mestre das Ilusões (2010)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/zGKwjx1hl7I9ef5RlKrGQh5fL1w.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901583.mp4"
+        },
+        {
+          "nome": "Poli II - O Fusquinha da Polícia (2013)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/bxw14KauuXSj4C2fZi0jlGkq2l4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901351.mp4"
+        },
+        {
+          "nome": "Polly Pocket Aventura Na Baía Mágica (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/v6DaQcVaXNNecDlrga9UqxiFuEM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901230.mp4"
+        },
+        {
+          "nome": "Ponyo - Uma Amizade que Veio do Mar (2008)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/cvpsmNWc8nyePJMbyMc9X5lLN6L.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901083.mp4"
+        },
+        {
+          "nome": "Por Água Abaixo (2006)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/qzyUeoCg6fh8nSQD1LFiUiiOs8P.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901677.mp4"
+        },
+        {
+          "nome": "Porco Rosso: O Último Herói Romântico (1992)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/ts1oKmmSr2tM9qmzDUNzMWs9EDq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901087.mp4"
+        },
+        {
+          "nome": "Pororo - Aventuras no Castelo do Dragão (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/thtzHB72hdrsrKSm5kYVr3MMEM3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901053.mp4"
+        },
+        {
+          "nome": "Preparação e Pouso: Operação Presente Secreto (2010)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/jM70oesdUFVfHrEdknBSB0cC5Ap.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901756.mp4"
+        },
+        {
+          "nome": "Pretty Guardian Sailor Moon Cosmos: O Filme – Parte 1 (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/4iikFsNwO1N8c89H0Wk2Ezqwe4t.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901149.mp4"
+        },
+        {
+          "nome": "Pretty Guardian Sailor Moon Cosmos: O Filme – Parte 2 (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/lL9jfesH12upoi0mXVqJgTSESOg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901148.mp4"
+        },
+        {
+          "nome": "Pretty Guardian Sailor Moon Eternal: O Filme - Parte 1 (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/3sJbkkGoEdRr0Fa6id78axqhYTN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901498.mp4"
+        },
+        {
+          "nome": "Pretty Guardian Sailor Moon Eternal: O Filme - Parte 2 (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/tdoAhbEZrK6ntsor0CRHy3IGmzN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901497.mp4"
+        },
+        {
+          "nome": "Primal: Tales of Savagery (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/9NBBkdxH0TjQEBSN2AzeE1sgsF9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901143.mp4"
+        },
+        {
+          "nome": "Primavera (1998)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zhtmZGVOenAlXZ6A4DHZllBq9x.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4160495.mp4"
+        },
+        {
+          "nome": "Procurando Dory (2016)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/iq0bBYiDe7ttTNBtTwMBqBLPCXJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901742.mp4"
+        },
+        {
+          "nome": "Procurando Nemo (2003)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/5jrPMq7IMLTqcuPDlK6jfruEbpq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901741.mp4"
+        },
+        {
+          "nome": "Próxima Parada: Lar Doce Lar (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/9TtAmtq6iJfzh6qG4euG6eoUQDm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901402.mp4"
+        },
+        {
+          "nome": "Rabbids: A Invasão - Missão Para Marte (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/3hUhVddNyhKPPphivineFbXQi4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901382.mp4"
+        },
+        {
+          "nome": "Racetime: Hora da Corrida (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/ql1LTDbfa5InwtvIdkzORxUZdTL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901641.mp4"
+        },
+        {
+          "nome": "Rango (2011)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/e5kYzP2hljfdooEzl1lskWn7yoj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901621.mp4"
+        },
+        {
+          "nome": "Ratatouille (2007)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/oKxcKosRU4FEIeg9vtklDvIfVFv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901740.mp4"
+        },
+        {
+          "nome": "Raya e o Último Dragão (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/yXrb84zJidCefyhTWHwo4yCDvwz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901543.mp4"
+        },
+        {
+          "nome": "Red: Crescer é Uma Fera (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/qSoLBerH2841Ha4W0LYkexftlpc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901380.mp4"
+        },
+        {
+          "nome": "Reino do Superman (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/u4rWHJLzM8CrsdtcTOLGY58ef4j.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901703.mp4"
+        },
+        {
+          "nome": "Reino Escondido (2013)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/pwtlAQWMXLosi1gLBbdBqy5VT76.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901739.mp4"
+        },
+        {
+          "nome": "Resident Evil: A Vingança (2017)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/qF0R9nx8gtne6tdhVt4lMxXXVvE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901512.mp4"
+        },
+        {
+          "nome": "Resident Evil: Condenação (2012)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/fDXEVM49qy5CrNySBXRUaTLJty7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901513.mp4"
+        },
+        {
+          "nome": "Resident Evil: Degeneração (2008)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/aC9RinOuPR6DEgwAZZd9IzUA6Qa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901514.mp4"
+        },
+        {
+          "nome": "Resident Evil: Ilha da Morte (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/bDqY2AYYdZQykEhmDr87i8RKKTT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901262.mp4"
+        },
+        {
+          "nome": "Rick and Morty na Máquina do Pesadelo Eterno (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/55YK8aNXoNkrSVD3m2GEfMX1K0W.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901247.mp4"
+        },
+        {
+          "nome": "Rick and Morty vs. Genocider",
+          "descricao": "Filmes De Animação",
+          "capa": "http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/1x1qUxcplRcDYGCqEvcGFxZNAG6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901244.mp4"
+        },
+        {
+          "nome": "Rick and Morty: Summer Meets God (Rick Meets Evil)",
+          "descricao": "Filmes De Animação",
+          "capa": "http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/rB1DINCs5d4LjBUJr4reXZVjM3v.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901246.mp4"
+        },
+        {
+          "nome": "Rick and Morty: The Great Yokai Battle of Akihabara",
+          "descricao": "Filmes De Animação",
+          "capa": "http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/kvs8KGqMKgoAYPDxm1vo8dfraNw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901245.mp4"
+        },
+        {
+          "nome": "Riki: O Rinoceronte Corajoso (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/gUcmK9VcMLRMPvpbaKW0Rqekrcx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901340.mp4"
+        },
+        {
+          "nome": "Rio (2011)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/pPvCSyQCY6Xtl78Qo9o0YStUj6o.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901737.mp4"
+        },
+        {
+          "nome": "Rio 2 (2014)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/e0CKmNlKfWwc8LSgfyf4gYsTjjP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901738.mp4"
+        },
+        {
+          "nome": "Riverdance: Uma Aventura Dançante (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/reBhjVk7bdfrUdvpt389m1OxvvM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901389.mp4"
+        },
+        {
+          "nome": "Robô Selvagem (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/cWsd33Nwp3tgYB5LMMadl3qVMKh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901109.mp4"
+        },
+        {
+          "nome": "Robôs (2005)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/tC9hcesF7QpMFuB6MvQg900VUyX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901065.mp4"
+        },
+        {
+          "nome": "Rock Dog: Uma Batida Animal (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/q69N7l4ioEqs5Tlz7lH61DL01eh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901287.mp4"
+        },
+        {
+          "nome": "Rock Dog: Uma Estrela Renasce (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/6fivZtb1GpmIopcBGn3HZt9rqAh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901442.mp4"
+        },
+        {
+          "nome": "Rosa de Versalhes (2025)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/8g8OWKMcE6ciHZxwqIi5ceS5fi5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901037.mp4"
+        },
+        {
+          "nome": "Ruby Marinho - Monstro Adolescente (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/nNcxpjCtcawf8wQmTwnA0u1jukC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901260.mp4"
+        },
+        {
+          "nome": "Sakura Card Captors: A Carta Selada (2000)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/eYzuGrMJUoEHqzYOW6hZUwlj41h.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901178.mp4"
+        },
+        {
+          "nome": "Sammy: A Grande Fuga (2012)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/1pqJ7jN247L9loMwi0iaSvKt8RX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901025.mp4"
+        },
+        {
+          "nome": "Sapatinho Vermelho e os Sete Anões (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/x9bEhjyNgn2sh6zGB0Zo1QguA7w.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901539.mp4"
+        },
+        {
+          "nome": "Sargento Stubby (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/b2vD2UvZsf9mFjolrwyxIVuhyV0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901615.mp4"
+        },
+        {
+          "nome": "Scarygirl (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/1tcLXVaXFG9OObnCN3a5KrymrQG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901242.mp4"
+        },
+        {
+          "nome": "Scooby! O Filme (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/p7RjlzDLV4KksrWtyve1Rg40nLv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900953.mp4"
+        },
+        {
+          "nome": "Scooby-Doo (2005)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/n24cMOaixIsJ1yqQnRQHMTRwlqe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901279.mp4"
+        },
+        {
+          "nome": "Scooby-Doo e a Caçada Virtual (2001)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/jHXmK0r5GVeu8EcjbCDdLzla9qt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901271.mp4"
+        },
+        {
+          "nome": "Scooby-Doo e Krypto - O Supercão (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/8z9OuOrPwF9OOPnmA7wuH2AeJL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901249.mp4"
+        },
+        {
+          "nome": "Scooby-Doo e o Fantasma da Bruxa (1999)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/3AqyZvWDRxVJDwwLJIIEMAsenmo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901122.mp4"
+        },
+        {
+          "nome": "Scooby-Doo e os Invasores Alienígenas (2000)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/oWZBrs5gPBZi4Ky02C2MhetskdP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901120.mp4"
+        },
+        {
+          "nome": "Scooby-Doo em Hollywood (1979)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/t0DDWZVOyRjrpotc2qOvcFsRryp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901119.mp4"
+        },
+        {
+          "nome": "Scooby-Doo na Ilha dos Zumbis (1998)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/fxYjPxMgtbAzsisNRyR0jB9wEOt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901660.mp4"
+        },
+        {
+          "nome": "Scooby-Doo! A Lenda do Fantasmossauro (2011)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/eXg3h8i4wHGUoTfIZdRWhqr7vTx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901130.mp4"
+        },
+        {
+          "nome": "Scooby-Doo! A Máscara do Falcão Azul (2012)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/ghH7KNij80B7SzBsKiXCNEBPRrc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901129.mp4"
+        },
+        {
+          "nome": "Scooby-Doo! De Volta à Ilha dos Zumbis (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/9DWSsLs8jltBxH2LSazuSR9FjpQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901610.mp4"
+        },
+        {
+          "nome": "Scooby-Doo! e a Espada do Samurai (2009)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/thzMM3VVO5ovNB9w9s6VC2NsIM0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901125.mp4"
+        },
+        {
+          "nome": "Scooby-Doo! E a Lenda do Vampiro (2003)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/zaq9f2oDvk1cYLBa0ZliVoYa1ZT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901128.mp4"
+        },
+        {
+          "nome": "Scooby-Doo! e a Maldição do 13° Fantasma (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/s15MGIrZnM5vAeJBrDI76iqiBS8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901201.mp4"
+        },
+        {
+          "nome": "Scooby-Doo! e a Maldição do Frankenstein (2014)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/wwUsjCsYvFi6huVtsrzVLxY41CG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901124.mp4"
+        },
+        {
+          "nome": "Scooby-Doo! e a Maldição do Monstro do Lago (2010)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/13anKM1yMz5cSUKZ214dSJzUlVf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901123.mp4"
+        },
+        {
+          "nome": "Scooby-Doo! e o Abominável Homem das Neves (2007)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/tOlvwlIImnHTjH1KmiPdJU2LagX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901460.mp4"
+        },
+        {
+          "nome": "Scooby-Doo! e o Fantasma Gourmet (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/izIxXz7oWmqZagyp5PHEhfinp1V.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901145.mp4"
+        },
+        {
+          "nome": "Scooby-Doo! e o Lobisomem (1988)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/rug4Y5jF3KLMJ6e7a2ArvieCcXH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901121.mp4"
+        },
+        {
+          "nome": "Scooby-Doo! E o Monstro do México (2003)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/lYdXJgjoj2Q7BB9pXCeR9nipRma.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901127.mp4"
+        },
+        {
+          "nome": "Scooby-Doo! Gol de Fantasma (2014)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/mxIH63VTEYXhpycuHCaYq95jAhK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901126.mp4"
+        },
+        {
+          "nome": "Scooby-Doo! Halloween (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/7hGtLCW4JGqpa8u3j4Ct89LjChz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901595.mp4"
+        },
+        {
+          "nome": "Scooby-Doo! O Mistério Começa (2009)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/aeK9BYorgNRcjFXTsmQnaGGwrD1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901451.mp4"
+        },
+        {
+          "nome": "Selvagem (2006)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/tDnDREbW2eNjd9KvjVKtnNf5A5Y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901043.mp4"
+        },
+        {
+          "nome": "Separados pelas Estrelas (2025)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/pZ9KqPSN4uv8ByEuFKP1vLyWYU4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900995.mp4"
+        },
+        {
+          "nome": "Shooom's Odyssey (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/fOoNsclGvm3RSMLKbEgPIcRkxRJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901371.mp4"
+        },
+        {
+          "nome": "Shopkins: Aventura Selvagem (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/u6SuXzWrfX5OmSznf3J175DG5X7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901692.mp4"
+        },
+        {
+          "nome": "Shrek (2001)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/o04jZs5SXhbvhqO4981W7KJXOWZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901736.mp4"
+        },
+        {
+          "nome": "Shrek 2 (2004)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/qHeyupQEoDUdNfppQDl6LQcncUK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901735.mp4"
+        },
+        {
+          "nome": "Shrek Para Sempre: O Capítulo Final (2010)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/iFXVU0ni6YWgQNSPkoGO1Tk5L3g.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901733.mp4"
+        },
+        {
+          "nome": "Shrek Terceiro (2007)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/4qVzBuD2ZbOZChMSnVlMGgT7xhS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901734.mp4"
+        },
+        {
+          "nome": "Sing - Quem Canta Seus Males Espanta (2016)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/vMWimvNGXKggoeEHtSAQDTkBikd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901732.mp4"
+        },
+        {
+          "nome": "Sing: Thriller (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/i77OInTKcrnRlAozFOaB6D5mk15.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901115.mp4"
+        },
+        {
+          "nome": "Snoopy Apresenta: A Inigualável Marcie (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/grzZxk9s9EruSc0zMbcif4FUCmz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901256.mp4"
+        },
+        {
+          "nome": "Snoopy apresenta: para mamãe (e papai) com amor (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/spX9v8aH93IphwatXdCECargED8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901365.mp4"
+        },
+        {
+          "nome": "Snoopy's Reunion (1991)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/uXIA9XvKVeGKg9DtrdM8aRLy3cx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901014.mp4"
+        },
+        {
+          "nome": "Sociedade da Justiça: 2ª Guerra Mundial (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/haFimehtZoP6rSz53kEqXSKianS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901522.mp4"
+        },
+        {
+          "nome": "Sonhos Roubados (2010)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/zB5b6buCswvOaKKJx1gmYaz1pyo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901072.mp4"
+        },
+        {
+          "nome": "Sonhos S.A. (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/atlvvY0QnnW5WrW0UEWfcpdIIX9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901525.mp4"
+        },
+        {
+          "nome": "Soul (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/bzDAfXoqNAvWUe7uss2NE3BmRqy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901537.mp4"
+        },
+        {
+          "nome": "South Park (Não Recomendado Para Menores) (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/opc6DIkByOp9vOt14jzfu8oVjbM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901211.mp4"
+        },
+        {
+          "nome": "South Park: Entrando no Panderverso (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/7uC0REiubjJ2dXh5y8UVHbFd4E7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901233.mp4"
+        },
+        {
+          "nome": "South Park: Guerras do Streaming (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/phEHjunMMV1wY7o5dKiLAMZ4pO4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901357.mp4"
+        },
+        {
+          "nome": "South Park: Guerras do Streaming Parte 2 (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/cqWXH5rYHTD32I5RY6pHR828BrO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901346.mp4"
+        },
+        {
+          "nome": "South Park: O Fim da Obesidade (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/gKeyw0r45QN0eQtn3FORo3fV2ma.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901170.mp4"
+        },
+        {
+          "nome": "South Park: Pós-Covid - A Volta Da Covid (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/xD88mrJ8hsqYVqQ6kinNNGQLdg1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901396.mp4"
+        },
+        {
+          "nome": "South Park: Pós-Covid (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/abDxPtElhJnLnnJxgMqJ1N2H8yl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901395.mp4"
+        },
+        {
+          "nome": "Space Chimps - Micos no Espaço (2008)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/kvtsXvXVGM8A0DiLBxf3IxWhdEN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901465.mp4"
+        },
+        {
+          "nome": "Space Jam: O Jogo do Século (1996)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/zgenqfTIvoEs6jcmokKfbi1ZURS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901731.mp4"
+        },
+        {
+          "nome": "Space Jam: Um Novo Legado (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/itN4fscYy1hIQy5lSdv44SddsoG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901470.mp4"
+        },
+        {
+          "nome": "Spark - Uma Aventura Espacial (2016)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/pT9Feh7VESID4gbTlmTcIMHZIzJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901730.mp4"
+        },
+        {
+          "nome": "Spirit: O Corcel Indomável (2002)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/jycgp5AdZFKj2Qh2VACG9ilK93l.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901691.mp4"
+        },
+        {
+          "nome": "Spooky Buddies: A Casa Mal-Assombrada (2011)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/7vTF5sxsUGPaKvuQki1WU0pE2OQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900991.mp4"
+        },
+        {
+          "nome": "SPY x FAMILY CÓDIGO: Branco (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/7gMogou0JrGviNYkMwGNRKYMaCo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901142.mp4"
+        },
+        {
+          "nome": "STAND BY ME Doraemon 2 (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/gPJLUn3rUr9bl39t8l0hOqkzoj2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901398.mp4"
+        },
+        {
+          "nome": "StarBeam - Aventura de Ano-Novo (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/mKsXvzNdMJ6MhqNsO45zLdnyncS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901399.mp4"
+        },
+        {
+          "nome": "Steven Universo: O Filme (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/xSmtEs771Czn1cU3PwgYqDuwCgA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901659.mp4"
+        },
+        {
+          "nome": "Stitch! O Filme (2003)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/rnTWmgv2o0pS6FcZTDHzjFNeI7X.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901063.mp4"
+        },
+        {
+          "nome": "Street Fighter Alpha: Generations (2005)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/z6amRu0MxrBz1I3oLJz6pkSveG9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901026.mp4"
+        },
+        {
+          "nome": "Subsolo (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/58TtWxoIK7sPp65Ys5MVidXKMYD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900961.mp4"
+        },
+        {
+          "nome": "Super Mario Bros. O Filme (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/ktU3MIeZtuEVRlMftgp0HMX2WR7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901285.mp4"
+        },
+        {
+          "nome": "Super Monstros - Superamigos para Sempre (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/zOfUVqk9ZoVdpz6fhoYB9zcvaIi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901702.mp4"
+        },
+        {
+          "nome": "Super Urso: Um Resgate na Cidade Grande (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/mOQEn51mD518IXuILNWezEwyOAE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901384.mp4"
+        },
+        {
+          "nome": "Superman & Batman: Apocalipse (2010)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/vZqD8QMXiZh977LipOsXQmaMM7l.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901609.mp4"
+        },
+        {
+          "nome": "Superman: O Homem do Amanhã (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/s9kn5wm8hRt1k7xzXPNNs682LBP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901599.mp4"
+        },
+        {
+          "nome": "Supervilões (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/3PAdKFvUP7iTjGAR0U4yP6xNtqe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901354.mp4"
+        },
+        {
+          "nome": "Suzume (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/QcS3MhdUiOEUOjY451FOFInZXF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901180.mp4"
+        },
+        {
+          "nome": "Sword Art Online Progressive: Scherzo do Crepúsculo Sombrio (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/8ICEmvxffvDoI8CSPtJYlBXrNce.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901192.mp4"
+        },
+        {
+          "nome": "Tá Chovendo Hambúrguer 2 (2013)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/f2prUcInmfAEdjfLUIY8RIQ1fih.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901728.mp4"
+        },
+        {
+          "nome": "Tá Dando Onda (2007)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/edR3BjwAwUGHtOQMXJTWRfMYBvt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901531.mp4"
+        },
+        {
+          "nome": "Tá Dando Onda 2 (2017)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/iWlSZXOgzE3VkPsIfXj8eiIQlMl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901532.mp4"
+        },
+        {
+          "nome": "Tarsilinha (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/szoK1qZ0YThXajLnkE8l7wygXpG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901363.mp4"
+        },
+        {
+          "nome": "Tarzan (1999)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/ce4mU4yyubjP1uXcz48fMndCZni.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901727.mp4"
+        },
+        {
+          "nome": "Team America - Detonando o Mundo (2004)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/jj9DtqYlonrh9jrf1nzWvu8BFs2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901471.mp4"
+        },
+        {
+          "nome": "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/13SyU6DvAwgI5MZdYJPTjhk6N50.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901259.mp4"
+        },
+        {
+          "nome": "The Dog Days of Winter (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/yJXc7t25ayCtfn5tNxs2TOQcJeO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901647.mp4"
+        },
+        {
+          "nome": "THE FIRST SLAM DUNK (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/cEpFGDPSdHEXUkkgrAZdhQyC7ZK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901144.mp4"
+        },
+        {
+          "nome": "The Last: Naruto O Filme (2014)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/sKn9V7hvkxJqFWBhNLHStbpHUIN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901454.mp4"
+        },
+        {
+          "nome": "The Loud House: O Filme (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/hTZe8H3vhgmGEyxvhcoEuFFGEtU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901459.mp4"
+        },
+        {
+          "nome": "The Quintessential Quintuplets: O Filme (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/fOTg158koIDobG9Dhh94unOuKd8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901272.mp4"
+        },
+        {
+          "nome": "The Seven Deadly Sins: Fúria de Edimburgo – Parte 1 (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/9ItKNuIxKfLJkz1n7kf6yOARUbK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901307.mp4"
+        },
+        {
+          "nome": "The Seven Deadly Sins: Fúria de Edimburgo – Parte 2 (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/rgtDBMqh9na55V3sP6PgAr4WgKd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901070.mp4"
+        },
+        {
+          "nome": "The Witcher: Sereias das Profundezas (2025)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/ob2oIUL1gV4pNg7s9oGjNBSI2iF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901075.mp4"
+        },
+        {
+          "nome": "Thomas & Seus Amigos: Corrida pela Taça Sodor (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXJk77NCtIUcZ46SoE8nUBa8dVt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4160635.mp4"
+        },
+        {
+          "nome": "Tico e Teco: Defensores da Lei (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/bOYRRVe9jhlwU8hAZ53Kg0vhIH4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901361.mp4"
+        },
+        {
+          "nome": "Tina & Téo: A Pedra Encantada (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/ut8SaCGdk8qGMhQanT9BAhJKKUU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901614.mp4"
+        },
+        {
+          "nome": "Tinker Bell e o Monstro da Terra do Nunca (2014)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/rWC9LUDVrGNRZvzFEqrSt9mJcBA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901720.mp4"
+        },
+        {
+          "nome": "Tinker Bell e o Resgate da Fada (2010)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/yY69Kxm9QP9mHL9Awswxgqr3q1C.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901723.mp4"
+        },
+        {
+          "nome": "Tinker Bell e o Tesouro Perdido (2009)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/bKTfGR1ksZGusE1fsqr7WqzUGuw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901724.mp4"
+        },
+        {
+          "nome": "Tinker Bell: Fadas e Piratas (2014)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/e9OYTVqqQRWWeTur8MExfFvtIkq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901721.mp4"
+        },
+        {
+          "nome": "Tinker Bell: O Segredo das Fadas (2012)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/a4XtmRHjpcN8r4ZUn7g3kGEE3F4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901722.mp4"
+        },
+        {
+          "nome": "Tinker Bell: Uma Aventura no Mundo das Fadas (2008)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/x3jDIWe2Tu68BgH6LE20q1cFCVU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901725.mp4"
+        },
+        {
+          "nome": "Tintin e o Caso Calculus (1964)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/gBh0ZmZHNZpd0xZlvHNnmYhQGuC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901077.mp4"
+        },
+        {
+          "nome": "Tito e os Pássaros (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/3ymTnRmZ9F7WICOAmYNMECF7bgQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901701.mp4"
+        },
+        {
+          "nome": "Tom & Jerry no Velho Oeste (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/khy44zoKUqInUSWhdzzcQZKDU0P.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901352.mp4"
+        },
+        {
+          "nome": "Tom & Jerry: De Volta À Oz (2016)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/so0orzDTAeat2p6oZeaHYmTo4U1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901472.mp4"
+        },
+        {
+          "nome": "Tom & Jerry: Encontram Sherlock Holmes (2010)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/gk8EpbhbeFJJw10W4QPRHZ5R7ws.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901538.mp4"
+        },
+        {
+          "nome": "Tom & Jerry: O Dragão Perdido (2014)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/fzd01r7Ar3kkqPpONXXX7S7WRgz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901564.mp4"
+        },
+        {
+          "nome": "Tom & Jerry: O Quebra-Nozes (2007)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/rdvXemWx3LuIQ0c2UMk4dQJ9KJ2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901475.mp4"
+        },
+        {
+          "nome": "Tom & Jerry: Robin Hood e seu Ratinho Feliz (2012)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/fsb9vmk305VAJDWpct998uHdWP6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901474.mp4"
+        },
+        {
+          "nome": "Tom & Jerry: Velozes e Ferozes (2005)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/dlKofOSw1fY9BUCy03UOca0OIJg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901476.mp4"
+        },
+        {
+          "nome": "Toy Story 2 (1999)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/lc7U3mggZkLxhAubC6F5WJspZb4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901517.mp4"
+        },
+        {
+          "nome": "Toy Story 3 (2010)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/rf67AeS9nP8DD7dZYbvhjEVoIBf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901516.mp4"
+        },
+        {
+          "nome": "Toy Story 4 (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/csiyO6q8rR74pfgJDjwINzhoick.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901515.mp4"
+        },
+        {
+          "nome": "Toy Story: Um Mundo de Aventuras (1995)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/AptcisAVyZqBllXLEGje8MjKzJI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901518.mp4"
+        },
+        {
+          "nome": "Transformers - O Filme (1986)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/aslDKZTS15jWfOjwlzUq6tSvVN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901458.mp4"
+        },
+        {
+          "nome": "Transformers: O Início (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/9yPuNAZQd5m5iKpQV2MDAfcwW9N.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901112.mp4"
+        },
+        {
+          "nome": "Três Espiãs Demais: O Filme (2009)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/ooz0jOHw6M7oA2UKoGz7hycWZEh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901719.mp4"
+        },
+        {
+          "nome": "Troll: Uma Aventura Mágica (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/aF7bH0XMa4udtXXRjShijfDTCYm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900969.mp4"
+        },
+        {
+          "nome": "Trolls (2016)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/qVbNDmPrbnfgINfEoAMx41N7IfH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901718.mp4"
+        },
+        {
+          "nome": "Trolls 2 (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/paaMwl91E8rZPs9MMGLqp7iaF3H.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901557.mp4"
+        },
+        {
+          "nome": "Trolls 3: Juntos Novamente (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/ymbTyNAOx25PW28v6NUqR4cuXPb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901220.mp4"
+        },
+        {
+          "nome": "Tromba Trem: O Filme (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/oZiUVkDFsda2AZBQmuFkKlrYuA0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901304.mp4"
+        },
+        {
+          "nome": "Turbo (2013)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/w6GdF5hcnsU5IwaRhyhnysNy5hO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901686.mp4"
+        },
+        {
+          "nome": "Ultraman: A Ascensão (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/aQ2MhjWQtVOTDbqKvIkQp0xXjtv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901167.mp4"
+        },
+        {
+          "nome": "Um Conto Americano 3: O Tesouro de Nova Iorque (1998)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/xSe9AHN88QcIeGSS6T6l8MB8dSL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900949.mp4"
+        },
+        {
+          "nome": "Um Espião Animal (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/aAOKVhTESY4tMqjDPn3KW4ugnFn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901632.mp4"
+        },
+        {
+          "nome": "Um Gato de Sorte (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/nn7raMhfVvhyvLIUdYg2ObQgowX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901164.mp4"
+        },
+        {
+          "nome": "Um Lobo em Pele de Cordeiro 2 (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/kettRut0IDbza6YrpiedssWbWxc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901606.mp4"
+        },
+        {
+          "nome": "Um Monstro Adorável (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/mghRagZrG8ZGVmmc72o09k98COR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901306.mp4"
+        },
+        {
+          "nome": "Um Panda em Apuros (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/6iuXko1729KGWPijKf2tOie2MBk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901644.mp4"
+        },
+        {
+          "nome": "Um Panda em Apuros 2 (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/f4EpxPtKZf0fTnjHE4oIxOJwvKx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901031.mp4"
+        },
+        {
+          "nome": "Um Time Show de Bola (2013)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/9JexevmMkDLaRTa8JalJt7UIlue.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901717.mp4"
+        },
+        {
+          "nome": "Uma Aventura LEGO 2 (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/naoItRpLWdEPe8CJUNy4r04HHSa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901700.mp4"
+        },
+        {
+          "nome": "Uma Aventura Lunática (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/tB7lTA1JyMj1KoUBkTbwNbfzBgt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901341.mp4"
+        },
+        {
+          "nome": "Uma Cilada para Roger Rabbit (1988)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/1sNM9NOJrdVhJUkWQkbcekoLiic.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901286.mp4"
+        },
+        {
+          "nome": "Uma e Haggen: Mitos (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/dx6yS2Q8XYNNeq7ub4cAGSk8kJ9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901091.mp4"
+        },
+        {
+          "nome": "Uma Família Feliz (2017)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/rwc96zw4nW7nXg59dJKq4pPtZs8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901674.mp4"
+        },
+        {
+          "nome": "Uma Família Feliz 2 (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/bz9qnV41N3gbMStjXKL2YkR9aXE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901378.mp4"
+        },
+        {
+          "nome": "Uma Floresta Muito Louca (2017)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/7GpMbVpbBSCH7eDDRKUQDMtvYX4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901716.mp4"
+        },
+        {
+          "nome": "Uma Noite no Museu: O Retorno de Kahmunrah (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/7M19SPS4iv5rP73fuUB1VF1eano.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901311.mp4"
+        },
+        {
+          "nome": "Umbrella (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/cB7ezflIP0ZZtylLNHfp2EBj3Yc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901253.mp4"
+        },
+        {
+          "nome": "Universidade Monstros (2013)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/gRNSCtyFGspt1iVKWzQZ9sJiTYW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901715.mp4"
+        },
+        {
+          "nome": "Up: Altas Aventuras (2009)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/6FnpYYl90HeR2tnAgOTaa7jk8oD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901478.mp4"
+        },
+        {
+          "nome": "Urkel Salva o Papai Noel: O Filme! (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/rGmxjwN4yNFJcMW9LOnc66oUwq1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901217.mp4"
+        },
+        {
+          "nome": "Ursos Sem Curso: O Filme (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/wv6U9wkSk06sA9INnU5Dgx1dZV7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901568.mp4"
+        },
+        {
+          "nome": "Valente (2012)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/tr0yoWlFmRgKrkE2SvYokkN6PcA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900972.mp4"
+        },
+        {
+          "nome": "Valentina Despertando Para Os Sonhos (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/lPslknj3CohVLrKwElVJwRvafPe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901214.mp4"
+        },
+        {
+          "nome": "Vera - Sonhos de Inverno (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/oBUKoeZNhHppEmGlhbNZPDBTgiW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901651.mp4"
+        },
+        {
+          "nome": "Viagem ao Topo da Terra (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/fj8wv7ip5JbnJFqwNicNKHLClYH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901407.mp4"
+        },
+        {
+          "nome": "Vic o Viking e a Espada Mágica (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/sIUT0MsCzjPJyArJyu9uJiKa0v4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901222.mp4"
+        },
+        {
+          "nome": "Vida de Inseto (1998)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/dKTJe3KGA2BHdHl9USjjCWZ3U5a.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901714.mp4"
+        },
+        {
+          "nome": "Violet Evergarden Gaiden: Eternidade e a Boneca de Automemória (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/8KhJoADIksP2ZkYo00dltwMUp8L.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901172.mp4"
+        },
+        {
+          "nome": "Viva: A Vida é uma Festa (2017)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/sdl31AfqivY0tryVfo9GMcAUx05.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901713.mp4"
+        },
+        {
+          "nome": "Vixen: O Filme (2017)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/oS2gHXw1wAopBsmrk3F6Dkmsng1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901462.mp4"
+        },
+        {
+          "nome": "Voando Alto (2019)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/in8pqzzRf7FzLtpU9FvPrznDtjU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901650.mp4"
+        },
+        {
+          "nome": "Voltando do Inferno (2015)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/9XVuzv16QH63OUMGIHrfBOctWUM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901619.mp4"
+        },
+        {
+          "nome": "Vombate ao Combate (2020)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/h9Q9XlyIBspegMLCuxo4UWZyZlm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901560.mp4"
+        },
+        {
+          "nome": "Wallace & Gromit - Avengança (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/9kzs6gPSOWqqjZz1eHWEvNTW9Dx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901095.mp4"
+        },
+        {
+          "nome": "Wallace & Gromit: A Batalha dos Vegetais (2005)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/o06EMgTpbObtQabzKCHwU1QS0Y6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901676.mp4"
+        },
+        {
+          "nome": "WALL-E (2008)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/2TfYp0eMPrcKNjX6PTKGGQODjfF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901484.mp4"
+        },
+        {
+          "nome": "Watchmen: Capítulo 1 (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/x50RGRXzl2Ohib9t6aL6by4m4LW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901052.mp4"
+        },
+        {
+          "nome": "Watchmen: Capítulo 2 (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/rvSEowY2XE0Gb06FBEwQng2M6KX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901051.mp4"
+        },
+        {
+          "nome": "Wendell & Wild (2022)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/s7XxXJ7ponaLAkxiySRxox2Ssc4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901320.mp4"
+        },
+        {
+          "nome": "Wheely - Velozes e Divertidos (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/dv3bCotHeaIrXEtqZGCEsnwe9zQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901191.mp4"
+        },
+        {
+          "nome": "Why? (1990)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/3bWXHBekb1MgVU80So6rES9pGo7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901002.mp4"
+        },
+        {
+          "nome": "WiFi Ralph: Quebrando a Internet (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/8aaXBBT5Hwo7Oab8wyNyoN7z7mg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901499.mp4"
+        },
+        {
+          "nome": "Wish: O Poder dos Desejos (2023)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/temIXpcua7j5v4FipOxmzTfrB06.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901183.mp4"
+        },
+        {
+          "nome": "Your Name (2016)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/bMOKAjTU1TNUjRSF7icldbii06u.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901466.mp4"
+        },
+        {
+          "nome": "Zarafa (2012)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/r2QvKG2gjG2Jv53rMTQcrCoKBj4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901605.mp4"
+        },
+        {
+          "nome": "Zog e os Doutores Voadores (2021)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/fEQRCAScwpr6PwEhk6VXqtkBz8P.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901411.mp4"
+        },
+        {
+          "nome": "Zoo: Uma Amizade Maior que a Vida (2018)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/cMcKGUEKXeNZwhJizfsmNcFp6F0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901709.mp4"
+        },
+        {
+          "nome": "Zoolander: Super Model (2016)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/pljm3ffVJYjMPCpfM5TzKnNI2tc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900955.mp4"
+        },
+        {
+          "nome": "Zootopia: Essa Cidade é o Bicho (2016)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/jyjBSQ7lCS2XolhbLeAH5HhXahY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901712.mp4"
+        },
+        {
+          "nome": "Zumbilênio: O Parque dos Monstros (2017)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/w2HamcBWs8Uv2Xgt2nNPlOtyczU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901699.mp4"
+        },
+        {
+          "nome": "Zuzubalândia - O Filme (2024)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/e2Pw52A1Ada5SoEy3hxQeCoNW6G.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3901110.mp4"
+        },
+        {
+          "nome": "劇場版 BLEACH Fade to Black 君の名を呼ぶ (2008)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/14VhFcofaLd1tKJ6831jf8i3mLO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900967.mp4"
+        },
+        {
+          "nome": "劇場版 BLEACH MEMORIES OF NOBODY (2006)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/zRD0KfrIEyIneKUfumgsPl9fjo0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900965.mp4"
+        },
+        {
+          "nome": "劇場版 BLEACH The DiamondDust Rebellion もう一つの氷輪丸 (2007)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/o0RPLurVbRI1iJZLXSAo4u1ZgdZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900964.mp4"
+        },
+        {
+          "nome": "劇場版 BLEACH 地獄篇 (2010)",
+          "descricao": "Filmes De Animação",
+          "capa": "https://image.tmdb.org/t/p/w780/AiLSarzGTF2r5XEIvn1lLtlOahq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3900966.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
