@@ -1,0 +1,469 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "Aventura",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Aventura.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "9: A Salvação (2009)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/6fe0PbMkDSaGEM6kj5RM5ToMuAL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893102.mp4"
+        },
+        {
+          "nome": "A Bússola Mágica (2023)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/29aWzjCPOTvhglqLtSVf3MdJ81d.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893105.mp4"
+        },
+        {
+          "nome": "A Cidade Dourada (2018)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/fbcuQoaHYcapCnAKgHy8r9rZq7E.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893136.mp4"
+        },
+        {
+          "nome": "A Fera (2022)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/ywXcLxwAir7kj7mxDzxjOXDvl5u.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893152.mp4"
+        },
+        {
+          "nome": "A Flauta Mágica (2022)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/5cSgFlXAMTv8M1jbfkJ25lqaLC1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893124.mp4"
+        },
+        {
+          "nome": "A Irmandade do Dragão (2017)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/tXn6VkbTmH7wuoqCuTrTxmBPemG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893159.mp4"
+        },
+        {
+          "nome": "A Lenda do Cavaleiro Negro (2022)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/q4lnEYzPdvgvxFWlPGsdnDdbxEn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893156.mp4"
+        },
+        {
+          "nome": "A Maldição de Bridge Hollow (2022)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/f4hdxB3gErjNJtfWBU9rMdhiNbU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893149.mp4"
+        },
+        {
+          "nome": "a Menina Chamada Passarinha (2022)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/wMRLFYzhdWIOguLaPTwm2afiPMj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893151.mp4"
+        },
+        {
+          "nome": "A Menina Invisível (2019)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/ki7rdw9z0RR131eNy67xvI2bl3Q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893134.mp4"
+        },
+        {
+          "nome": "A Múmia (1999)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/x9WtRo3zf7p3K7ERdlpqlRgtYU6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893117.mp4"
+        },
+        {
+          "nome": "A Pequena Sereia (2023)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/yeo0MKX2cAE0Ge7qoeRCiMWvSjV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893129.mp4"
+        },
+        {
+          "nome": "A Única Sobrevivente (2022)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/nreStPF08Bd5RYH4gjbXVh59XAu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896548.mp4"
+        },
+        {
+          "nome": "Acampamento Intergaláctico (2022)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/bm77tBJy28DA1DzP7qExKOPWsEL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893146.mp4"
+        },
+        {
+          "nome": "Aladdin (2019)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/1d8HShFOmSWDwvqtvPEZqzlZbYl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893123.mp4"
+        },
+        {
+          "nome": "Alfa (2018)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiofc2cbzZlLEgdxts1GmSoWEMM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/id.mp4"
+        },
+        {
+          "nome": "Alice no Mundo da Internet (2022)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/5TFbrqLvB6eCXSbe208SUVzAyBd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893154.mp4"
+        },
+        {
+          "nome": "Arthur & Merlin: Cavaleiros de Camelot (2020)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893161.mp4"
+        },
+        {
+          "nome": "Arthur e a Vingança de Maltazard (2009)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/qQ5I4Pwrtp4TBHdt7qIG0uguNRM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893126.mp4"
+        },
+        {
+          "nome": "Arthur e os Minimoys (2006)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/4h8zDLrDJhZISdYVWVNLPl9WuW5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893127.mp4"
+        },
+        {
+          "nome": "As Aventuras de Tadeo e a Tábua de Esmeralda (2022)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/9KADuZT3KwmCYIrmarPuGyGTriw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893143.mp4"
+        },
+        {
+          "nome": "Aventura em Legacy Peak (2022)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/9tMLvle4KpP210u647x5yQ4bTM3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893125.mp4"
+        },
+        {
+          "nome": "Barbie (2023)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899084.mp4"
+        },
+        {
+          "nome": "Bruno e o Lobo (2019)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/2JuVn3ryQl4SIfEnMWVmVrwZSze.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893118.mp4"
+        },
+        {
+          "nome": "Capitã Nova (2021)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/ktBMme7oOHPi2oY8t02OifrrYC1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893163.mp4"
+        },
+        {
+          "nome": "Charlie: Um Cachorro Especial (2022)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/6jSjNlbScgnR4w8VSO0lcJdhHJI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893116.mp4"
+        },
+        {
+          "nome": "Coração de Tinta: O Livro Mágico (2008)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/pnhT9AwW4OiFkFoHF9gj1dSLcfj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893110.mp4"
+        },
+        {
+          "nome": "Destemida (2023)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/7JGAiwq6s43aKHlJrM0ka0iOZcu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893141.mp4"
+        },
+        {
+          "nome": "Dungeons & Dragons: Honra Entre Rebeldes (2023)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/mVY4DbjYc1hqHnhgJt8rtEqEgfU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893135.mp4"
+        },
+        {
+          "nome": "Em Busca do Anel Perdido (2023)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/ge3TbVIHZrnaWz2LKwtK5My7Flq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893109.mp4"
+        },
+        {
+          "nome": "Em Busca do Barco Perdido (2021)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/5tx9EVz5p7WAvqzCdY5VrgukX1v.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893113.mp4"
+        },
+        {
+          "nome": "Em uma Terra Muito Distante… Havia um Crime (2023)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/8r9yZ6cmZ6bxIhqfo69X1m9jYNJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893128.mp4"
+        },
+        {
+          "nome": "Fantasma e CIA (2023)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/8tGZbqePTre2AnpMeC1nqAHhLhZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893140.mp4"
+        },
+        {
+          "nome": "Foxter & Max: Um Cachorro de Outro Mundo (2019)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/zmJNzjmWGwqKCNdUZ81mu53HtRg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893106.mp4"
+        },
+        {
+          "nome": "Indiana Jones e A Relíquia do Destino (2023)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/v9hytHJF57wcrfgbMSSWWVRnqQx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893119.mp4"
+        },
+        {
+          "nome": "Jim Knopf e Lucas: O Maquinista (2018)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/aaLmU8t6gxF44DhNgr5SpRGVE3P.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893148.mp4"
+        },
+        {
+          "nome": "Jim Knopf e os 13 Piratas (2020)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/6DKRfX1gHnjiSyz0Kf8azP6kvLA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893122.mp4"
+        },
+        {
+          "nome": "John e o Potrinho Mágico (2021)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/t66a8QPn7V8NzxoDEA7IANc4ixI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893145.mp4"
+        },
+        {
+          "nome": "Jurassic World: Domínio (2022)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/w6Jz1AgjscqBuS8qXBd0wUHz5zC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893158.mp4"
+        },
+        {
+          "nome": "Kaamelott: Parte 1 (2021)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/4mcovnajaLoy7dbv5arykJjDFFC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893155.mp4"
+        },
+        {
+          "nome": "King - Meu Melhor Amigo (2022)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/jfypKseXKHEqRVXoXHBWeppA1hn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893162.mp4"
+        },
+        {
+          "nome": "Lassie de Volta a Casa (2020)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/1zzXwwxdKDly4u2VJP1amHeh4Ku.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893147.mp4"
+        },
+        {
+          "nome": "Max: O Cão Herói (2015)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/30kFBE0I4sG9zum3Tv2wz9ulv8g.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893100.mp4"
+        },
+        {
+          "nome": "Meu Amigo Lutcha (2023)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893138.mp4"
+        },
+        {
+          "nome": "Meu Cachorro é um Robô (2017)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/ds6Pqh14d8cxMUdveOEUIgngZof.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893104.mp4"
+        },
+        {
+          "nome": "Minha Babá é uma Vampira: O Filme (2010)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/m8LQ72B83OoqmnHvm6vA8jXENVz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893131.mp4"
+        },
+        {
+          "nome": "Monster High: O Filme (2022)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/9dUOgkKhmPjsJ4pi5QkES5AubRP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893150.mp4"
+        },
+        {
+          "nome": "Náufragos em Luta (1990)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/cofVA8Y9yQWGXtZVDeYZuI7ioH4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893095.mp4"
+        },
+        {
+          "nome": "O Clube do Tesouro (2024)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/shKztvANU0Lqo1WB4QU6wT0cuft.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893111.mp4"
+        },
+        {
+          "nome": "O Fantástico Sr. Raposo (2009)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/shnKG2crnnCEToZHdxsiM2uDsKs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893114.mp4"
+        },
+        {
+          "nome": "O Mágico de Oz (1939)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/7sYIjWRzqClPK6hiqpOJOnaGUcO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893115.mp4"
+        },
+        {
+          "nome": "O Rei da Montanha (2017)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/mS33kCNG2j5Wbc8A13kYJ1fTKRc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893121.mp4"
+        },
+        {
+          "nome": "O Segredo de Mercator (2022)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/S7F1B9HyltgbxAVPtErmRx8zmq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893101.mp4"
+        },
+        {
+          "nome": "Os Reis da Rua Mulberry: Que Reine o Amor (2023)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/3Tr5ziHzI6nEJyXwcyr0z29mA77.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893137.mp4"
+        },
+        {
+          "nome": "Osmose Jones - Uma Aventura Radical pelo Corpo Humano (2001)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/vLHoUumoFz32rDuPWDpJv3RwlEM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893112.mp4"
+        },
+        {
+          "nome": "Paddington: Uma Aventura na Floresta (2024)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/4f9U6siGuXOcnF2D6CWooSbGhHu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893103.mp4"
+        },
+        {
+          "nome": "Passagem Secreta (2021)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/1NB89sWY4coysIN9xyKMmJ3H7s0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893157.mp4"
+        },
+        {
+          "nome": "Princesa por Acidente (2021)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/bzl8Z3PdFQscUI568ZvGb0y5d9U.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893153.mp4"
+        },
+        {
+          "nome": "Quatro Vidas de um Cachorro (2017)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3W5jF8z5GkOHEslaIv89Ncp06J4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4166628.mp4"
+        },
+        {
+          "nome": "Scooby-Doo! Gostosuras ou Travessuras (2022)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/iauo38WI2GhdGAvplbzV6Q8ErWY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893144.mp4"
+        },
+        {
+          "nome": "Scooby-Doo: O Filme (2002)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/Nu9v0wUacgq73ggOAKsz4ZtZ2K.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893133.mp4"
+        },
+        {
+          "nome": "Senhor do Vento (2023)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hny8NvwpEV3VS0IseSflWjJhxn4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4166683.mp4"
+        },
+        {
+          "nome": "Show Dogs: O Agente Canino (2018)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/x7xXm9EDs5YTnGjczAATJ5jsown.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893096.mp4"
+        },
+        {
+          "nome": "Slime - Uma Aventura Pegajosa (2020)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/1rRpwNLat3lZI5zG4zLtTNn8lGj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893108.mp4"
+        },
+        {
+          "nome": "Slime - Uma Aventura Pegajosa 4 (2023)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/il1ydHw0SbPkNTiFeqaQAFC6Qi5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896590.mp4"
+        },
+        {
+          "nome": "Sr. Carrinho e os Cavaleiros Templários (2023)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/qWuCK5h5o7pQDILZgQYHSIc59TX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893130.mp4"
+        },
+        {
+          "nome": "Tarzan Vai à Índia (1962)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/wds220kRFoZs69hLsRAtBZFZH58.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893099.mp4"
+        },
+        {
+          "nome": "Tempestade (2022)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/7jNI1iZ86tj1sCLciM2pbUo3hDV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893139.mp4"
+        },
+        {
+          "nome": "Um Garoto no Palácio de Aladdin (1997)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/o7FvvU9nLcQWjMhvq02RLT4weRt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893098.mp4"
+        },
+        {
+          "nome": "Um Mundo Encantado (2020)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/r3RRu2joBRWoKh5Qb4vdLuBpcPm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893107.mp4"
+        },
+        {
+          "nome": "Um Mundo Encantado 2 (2024)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IfNtA1SSLmm52Se9d49nHQbiQ1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/id.mp4"
+        },
+        {
+          "nome": "Uma Aventura Animal: A Jornada para Casa (2021)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/utMmFvSsnGASJLHEGouVzCqB6TS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/id.mp4"
+        },
+        {
+          "nome": "Uma Aventura Entre Irmãos (2019)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/8BLdM0zzEbB1WcnBXrc8lc41heS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893097.mp4"
+        },
+        {
+          "nome": "Uma Jornada Mágica (2019)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/wCMuH4tQHJGSJ0GAJUFAugoB6jr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893142.mp4"
+        },
+        {
+          "nome": "Uma Tia da Pesada (2019)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/2Hqi5IFKksTwmTnXmCk43aHaYej.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893160.mp4"
+        },
+        {
+          "nome": "Uma Viagem Extraordinária (2013)",
+          "descricao": "Filmes De Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/1Wh07S9BnTV6QxaSCT1Nj4uQSwJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893132.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
