@@ -1,0 +1,2779 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "Ação",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/ação.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "Os Últimos Cavaleiros (2015)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/znKE6rRND5dkrR8MO8yQsWKCJj2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913661.mp4"
+        },
+        {
+          "nome": "Outlander: Guerreiro vs Predador (2008)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/nCZzrFonDkWfYkfxzsPByBY4Lvk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914557.mp4"
+        },
+        {
+          "nome": "Overdose (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/jHh0hkCjIAEicS1vMaOu4fdHpuP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914035.mp4"
+        },
+        {
+          "nome": "Padre (2011)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/g3Wep903D1LJ9Ahl8kLQdoypM9H.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914992.mp4"
+        },
+        {
+          "nome": "Paixões Violentas (1984)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/wVjjPsQa3SZWutZNuccrUoW7qAc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914680.mp4"
+        },
+        {
+          "nome": "Pandemia: A Guerra Final (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/zBQFWjOIE3hoYCG67Y3VVaSnLyc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913770.mp4"
+        },
+        {
+          "nome": "Pânico a Bordo (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/tyAVkcQlUtWgmXuGvnIXvR466H0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913890.mp4"
+        },
+        {
+          "nome": "Pânico Abaixo de Zero (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/pQE8syV18hLH61dAYafuLyUF8jU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914694.mp4"
+        },
+        {
+          "nome": "Pânico na Neve (2010)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/1F0RJOWzYFeounRncvXjUCc8Tmp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913814.mp4"
+        },
+        {
+          "nome": "Par Perfeito (2010)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/9xFcKDY9RFUidat3VU8QIlSrZmf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914358.mp4"
+        },
+        {
+          "nome": "Paradise Beach (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/h0q0ATqmFWmh5MpIOvE2ZBc321n.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914964.mp4"
+        },
+        {
+          "nome": "Parceiros do Crime (1993)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/h6NwCLfzQodvD7BvK7Oo4XaU2VF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913501.mp4"
+        },
+        {
+          "nome": "Parker (2013)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/1Y5UhkU2u6Ubqp0RP2TZjeXuVJq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914620.mp4"
+        },
+        {
+          "nome": "Passageiro 57 (1992)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/5eu52PG0wcLM38DbJDb8tEWHCOo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915120.mp4"
+        },
+        {
+          "nome": "Patrulha da Montanha (2004)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/afcSC9vDIGJI3MB4hoVDvoZzLjI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914337.mp4"
+        },
+        {
+          "nome": "Pecadores (2025)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/a9kYEboW1TQaeilGYUAx1MO0DUp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913555.mp4"
+        },
+        {
+          "nome": "Pequenos Grandes Heróis (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/qz8V4opEXdcY7qeU5djTdrfmuhX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914782.mp4"
+        },
+        {
+          "nome": "Perda Total (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/cdokJoHaX0DnoX58b7Wn52sYJSo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915119.mp4"
+        },
+        {
+          "nome": "Perdas e Danos (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/tGFXEyESXIuei5tZWXRkSRSFSxi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914481.mp4"
+        },
+        {
+          "nome": "Perigo em Bangkok (2008)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/przQyL91J0d4P6SxcdsusD8qNcP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913879.mp4"
+        },
+        {
+          "nome": "Perigo Extremo (2015)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/kIhj1QIrQgIJlnqZCe5PHhTOhyS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914292.mp4"
+        },
+        {
+          "nome": "Perigo no Mar (2003)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/no5tHhpwoC5nlc47CtK0MjT4ePe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914276.mp4"
+        },
+        {
+          "nome": "Perigo por Encomenda (2012)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/4KkgllUS2b1CWQygaOTsbPt0IGK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913831.mp4"
+        },
+        {
+          "nome": "Perseguição (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/iEmwNY1s9BUJ2KguAkMuAhlq3cE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914168.mp4"
+        },
+        {
+          "nome": "Perseguição Criminosa (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/cJORC8qf0ttyVRBOWMgMq1IdCNU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914848.mp4"
+        },
+        {
+          "nome": "Perseguição em Malta (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/oRgj0ZaCZxcRhRNMOnGwr495q4z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913927.mp4"
+        },
+        {
+          "nome": "Perseguição em Taipei (2024)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/2CQIo4IWQTsRwuFrp3PW1G1vkHB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913669.mp4"
+        },
+        {
+          "nome": "Perseguição Implacável (2014)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/truOx8NkWRYwK9vgZYWhHeHMUpB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913539.mp4"
+        },
+        {
+          "nome": "Perseguição Mortal (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/7YVqp9ozp3SJP4rEm8Wn3gxqFVR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913676.mp4"
+        },
+        {
+          "nome": "Perseguição Radical (2016)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/gQXkJmlv9PhNLFK5HELT2MUW51k.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913522.mp4"
+        },
+        {
+          "nome": "Perseguidor Implacável (1971)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/uIklSP4Yu0ij7TpXyaYWTbmTqsI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914205.mp4"
+        },
+        {
+          "nome": "Pesadelo nas Alturas (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/fdmVhRhVJrSiUy38mIJn6fUlAgs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914517.mp4"
+        },
+        {
+          "nome": "Pilotos de Combate (2024)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/eKML6xBIWCAlDsOCltxqEcZsgnY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913830.mp4"
+        },
+        {
+          "nome": "Pimpinero: Sangue e Gasolina (2024)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/8XDidaDgghQhcZoNwspuEGFLJAW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913685.mp4"
+        },
+        {
+          "nome": "Pipeline: O Grande Roubo (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/7gUuEzlIn9WBVRzYICEiEtRgKbo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914186.mp4"
+        },
+        {
+          "nome": "Piratas do Caribe: A Maldição do Pérola Negra (2003)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/zUpeLvZJw5Tf22BAjraOZFex9E0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914086.mp4"
+        },
+        {
+          "nome": "Piratas do Caribe: A Vingança de Salazar (2017)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/eAFHzqf9jtvG6HbxykBCSQLUNWF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914118.mp4"
+        },
+        {
+          "nome": "Piratas do Caribe: Navegando em Águas Misteriosas (2011)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/mQuyx1qXOc6ftTctYVG3gcvWrEH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914117.mp4"
+        },
+        {
+          "nome": "Piratas do Caribe: No Fim do Mundo (2007)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/2vgdFnsThB3acNVSUN9TzpUwLg5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914116.mp4"
+        },
+        {
+          "nome": "Piratas do Caribe: O Baú da Morte (2006)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/dCXOveWolVMMbJZQ0cNslpqohPM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914115.mp4"
+        },
+        {
+          "nome": "Pitbull - Força Bruta (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/hwbw4Ng7dV9EBA136a3sNiFwVZw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914088.mp4"
+        },
+        {
+          "nome": "Pixels (2010)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/aziMBjIgEGwhndaqg4kXceI4eXs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915118.mp4"
+        },
+        {
+          "nome": "Plano em Família (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/3CezGI4ORSgVKk5Ch3UUWtL7SET.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913867.mp4"
+        },
+        {
+          "nome": "Platoon (1986)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/ppzDmaYdw0WQg9Qy29SYCh9Dvog.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915117.mp4"
+        },
+        {
+          "nome": "Pokémon: Detetive Pikachu (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/p72utWsmz5ZAmvVQPUhovq0jFK3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914999.mp4"
+        },
+        {
+          "nome": "Polar (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/2btxGF270fxOeNJInRNnFtZGkAA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915057.mp4"
+        },
+        {
+          "nome": "Police Story 4: Primeiro Impacto (1996)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/isCnmtLE2YnpEadEivtzE5Clhl6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914660.mp4"
+        },
+        {
+          "nome": "Pompeia (2014)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/Af5MzbUCHE3XslG0Qdwondi8pdy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915116.mp4"
+        },
+        {
+          "nome": "Ponte dos Condenados (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yP6OdvuKb9gNfkndXnrva5SxaiJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4166652.mp4"
+        },
+        {
+          "nome": "Popeye (1980)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/hCCp4pESgYY6uTFARYf4UYV1BdU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914862.mp4"
+        },
+        {
+          "nome": "Por Que Você Não Vai Brincar no Inferno? (2013)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/7ogq803jI1m0uMKGzCXyVVA6Xps.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915096.mp4"
+        },
+        {
+          "nome": "Poseidon (2006)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/1ma5b9XLCziCHzQP0Zy1Y1PqNyM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914147.mp4"
+        },
+        {
+          "nome": "Posto de Combate (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/b1LYcrHuYGUGFZwhOiAitapWHfl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914721.mp4"
+        },
+        {
+          "nome": "Power (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/38teDX74nsxkv2ysWvNT5EPXQ9E.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914858.mp4"
+        },
+        {
+          "nome": "Power Rangers: Agora e Sempre (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/lB1psIWct40ZSJPLp8wsQ98y0dI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913975.mp4"
+        },
+        {
+          "nome": "Power Rangers: O Filme (1995)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/2cwqXv7yGZH1csl8xshmaJurNZM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913535.mp4"
+        },
+        {
+          "nome": "Preso no Tempo (2016)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/t3gtmladqzynRyyDIHtEaSNPoz4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915115.mp4"
+        },
+        {
+          "nome": "Príncipe da Pérsia: As Areias do Tempo (2010)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/nJxserrGJEJSBzLRs4YMMN0OakZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914289.mp4"
+        },
+        {
+          "nome": "Prisão Infernal (2003)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/6Nd5YrXJPVDyOdyv2qZhLPzvVGi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914453.mp4"
+        },
+        {
+          "nome": "Prisioneiro do Caos (2024)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/69rCc2fJ0gqOZCKCnQLIRrClvpY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913711.mp4"
+        },
+        {
+          "nome": "Prison Break: O Resgate Final (2009)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/9z9NfKOzvNnztwDfZd76CTo5D7g.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914866.mp4"
+        },
+        {
+          "nome": "Procurar e Destruir (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/uLurpF4Ay29oTnfsJJBXwWNuCmS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914197.mp4"
+        },
+        {
+          "nome": "Procura-se um Traidor (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/qPocAxhlCQe3qhEVB9AtAOs9gtH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913759.mp4"
+        },
+        {
+          "nome": "Projeto China (1983)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/h9zXFoTnKiU07zipoidxfEOC8sC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913638.mp4"
+        },
+        {
+          "nome": "Projeto Extração (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/t3vZkkM5G40pUJxUzkz69H777Hm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913942.mp4"
+        },
+        {
+          "nome": "Projeto Gemini (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/oGYKbHCTOHNfjxXaiq0qPMQlrwc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914944.mp4"
+        },
+        {
+          "nome": "Projeto Harmony (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/intukgeK5NgPScg0GgjmKODbdr2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4166674.mp4"
+        },
+        {
+          "nome": "Protegendo o Inimigo (2012)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/A5rFBuNyH5LdZiR20FPYu6fJSfl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913985.mp4"
+        },
+        {
+          "nome": "Próxima Fase - Fugindo de Rancala (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/vdObTCfFyoVipOxCGRTL90eqfRo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914941.mp4"
+        },
+        {
+          "nome": "Próxima Parada: Apocalipse (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/d4xUJ770FT7aoA03nQEqc5eOg23.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915114.mp4"
+        },
+        {
+          "nome": "Psychokinesis (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/5LRL9cvVQl0Mne8CZslb5VNwY6v.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913686.mp4"
+        },
+        {
+          "nome": "Punhos da Vingança (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/8vRdCB9nzZaYqh6nZ9HUFFSxKIW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914188.mp4"
+        },
+        {
+          "nome": "Quarteto Fantástico (2005)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/jdUEq9Wt5Yo3ddDwIbJoeiny2Lm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915113.mp4"
+        },
+        {
+          "nome": "Quarteto Fantástico (2015)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/XJ8jZ4hGyusnN41NnxR0vv5ghS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915111.mp4"
+        },
+        {
+          "nome": "Quarteto Fantástico e o Surfista Prateado (2007)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/kIVHHCApeOrrHfbuBTahHGsMt8m.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915112.mp4"
+        },
+        {
+          "nome": "Quebrando as Regras 4 (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/saL9WwmfVoaoeg1tVjyetnF1FEk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914123.mp4"
+        },
+        {
+          "nome": "Queima de Arquivo (1996)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/9j0XaRwXaqUHong7UIolKqxsU98.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915110.mp4"
+        },
+        {
+          "nome": "Quem Sou Eu? (1998)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/zHuyJ8kJTGJKEvN1eGbvISkMuf9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914634.mp4"
+        },
+        {
+          "nome": "Quem Vai Ficar com Masha? (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/e8XZPufVmfm7XtwaziCspYeewf4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913780.mp4"
+        },
+        {
+          "nome": "Queremos Matar Gunther (2017)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/1XDIAYXiN5WDIM5TElF6a5ejU93.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914863.mp4"
+        },
+        {
+          "nome": "R.I.P.D. 2: Rise of the Damned (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/g4yJTzMtOBUTAR2Qnmj8TYIcFVq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913965.mp4"
+        },
+        {
+          "nome": "Ragnarok (2013)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/z52N6K9TwF8kRsvEZ1pkk9qHi4n.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914939.mp4"
+        },
+        {
+          "nome": "Rainhas do Crime (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/bKzfFe8Mer5ZvSMGU7WBzg07TrY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914969.mp4"
+        },
+        {
+          "nome": "Rambo II - A Missão (1985)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/epsF1t9solZDbqTksCiJmBL9Wpy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915108.mp4"
+        },
+        {
+          "nome": "Rambo III (1988)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/jxzoYPjVa9pKL3fOejP3fPJTPpl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915107.mp4"
+        },
+        {
+          "nome": "Rambo IV (2008)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/2NbmBzgG1chI3fS31HHfZEEsApw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915106.mp4"
+        },
+        {
+          "nome": "Rambo: Até o Fim (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/uCHxYukh0ujjI63f5wXuWf44TNf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914959.mp4"
+        },
+        {
+          "nome": "Rambo: Programado Para Matar (1982)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/9UmOlfb6Szhtr5wmE2YmFwer6wo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915109.mp4"
+        },
+        {
+          "nome": "Rampage: Destruição Total (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/iAagLHxCLB7AiACwdniXEdwwNAV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913514.mp4"
+        },
+        {
+          "nome": "Rápidos e Perigosos (2014)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/8RaoK2PVUWucLXpsE3FGzR81Z4g.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913575.mp4"
+        },
+        {
+          "nome": "Rápidos e Perigosos 2 (2016)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/oFKltxozxKLegd6NSX0fp0G2g0L.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913827.mp4"
+        },
+        {
+          "nome": "Raposa de Fogo (1982)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/hG8cvRON30sWwiCUibcv2TboQ9A.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914495.mp4"
+        },
+        {
+          "nome": "Rastro Mortal (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/xXAAjwA6xlYx8GwaMu1qRHDjt9n.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913667.mp4"
+        },
+        {
+          "nome": "Raven: O Nome da Vingança (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/lTrXeXEUvMsLVIQpZV5UJGxgD2Z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913656.mp4"
+        },
+        {
+          "nome": "Reação em Cadeia (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/qfnYaV20yk9wm2Z0mJBq856zzSY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914229.mp4"
+        },
+        {
+          "nome": "Rebel Ridge (2024)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913732.mp4"
+        },
+        {
+          "nome": "Rebeldes (1996)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/dh8XuifohsLD2OJA5QtcpCyXZUZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913558.mp4"
+        },
+        {
+          "nome": "Rebeldes e Heróis (1991)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/uv5VDWE1Ll3JwyQw5mlvst3pZ2u.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914239.mp4"
+        },
+        {
+          "nome": "Rebelião (2015)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/msPgy4XVgRjOegyinXVELUy6sTM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915014.mp4"
+        },
+        {
+          "nome": "Rebelião em Alto Mar (1984)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/AhniUb7Xf3m6fDB5v5QHQDHaBhH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914465.mp4"
+        },
+        {
+          "nome": "RED - Aposentados e Perigosos (2010)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/bLCflHS789mmJTXhoeQCFdA0Saz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915104.mp4"
+        },
+        {
+          "nome": "RED 2: Aposentados e Ainda Mais Perigosos (2013)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/tPKBt50sQTeBwkJrg5GIt7axRLX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915105.mp4"
+        },
+        {
+          "nome": "RedBad: A Invasão dos Francos (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/qEtW1ldSynOwgPXesghxS7ntSXA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914990.mp4"
+        },
+        {
+          "nome": "Rede de Corrupção (2001)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/dJKpxGaEH8Xf2buOHFn34MeZrSX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915103.mp4"
+        },
+        {
+          "nome": "Rede de Mentiras (2008)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/wIUBj0wIcTsqcFsxGFUdx6e5Lhp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914759.mp4"
+        },
+        {
+          "nome": "Redenção (2011)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/2Fksv8RJwVMoCsVcNxnElbVIKbS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914279.mp4"
+        },
+        {
+          "nome": "Redes do Crime (2008)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/iDeg2vep7FnzADpf1J5SNgUWUpb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913589.mp4"
+        },
+        {
+          "nome": "Refém (2005)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/2kyMWqnoxVoeBIPA3iN9UUd0PrP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913487.mp4"
+        },
+        {
+          "nome": "Refém do Jogo (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/32hjhlZf8rR9ahxOS26xeIGf95m.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915056.mp4"
+        },
+        {
+          "nome": "Refém Rebelde (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/61hoGhY0khqOolZyfxqv4zrde8M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914311.mp4"
+        },
+        {
+          "nome": "Reféns do Crime (2010)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/shnGJ9aFkwjCJSfiAfjsyuiNdsL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914994.mp4"
+        },
+        {
+          "nome": "Reféns do Desconhecido (2008)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/1tdzIzxZEYBFn0pi9aG0dCgl7Tr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915245.mp4"
+        },
+        {
+          "nome": "Rei Arthur (2004)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/6ZvrFx5oTxabIikuBh2XJq6Rc3u.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914630.mp4"
+        },
+        {
+          "nome": "Rei Arthur: A Lenda da Espada (2017)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/vVvc4XRnUMGBMAhtWVzHdySIJzm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914399.mp4"
+        },
+        {
+          "nome": "Reino de Fogo (2002)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/4XiWjJv1A5wV0REkJzcnalZIFgx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913477.mp4"
+        },
+        {
+          "nome": "Reino dos Assassinos (2010)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/94y7IU9SIw3btpQJuBQrywwV2Q1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914956.mp4"
+        },
+        {
+          "nome": "Relatos do Mundo (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/cLqg9BjcecdzYGqURSdWgBUO3rX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914685.mp4"
+        },
+        {
+          "nome": "Render-se Jamais (1986)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/bOSzRomaRB9BuSnBC8qhg7Kjm8q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914001.mp4"
+        },
+        {
+          "nome": "Renegados (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/xwWvE4xfuEha1CdyvF5qTDoBa2Q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913790.mp4"
+        },
+        {
+          "nome": "Replicante (2001)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/37hghze3typZgPOEAKHxON3zlg9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913793.mp4"
+        },
+        {
+          "nome": "Resgate 2 (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/AfwqKLQwjgPu8bIL1mqhHTlnQv0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913955.mp4"
+        },
+        {
+          "nome": "Resgate em 12 Horas (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/m19SDzdaCwcO6p7S5q0YP335x1Z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913902.mp4"
+        },
+        {
+          "nome": "Resgate em Alta Velocidade (2013)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/rDfAnAM4eT460LtKpuYyuMx6a6a.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914175.mp4"
+        },
+        {
+          "nome": "Resgate em Amsterdã (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/tvzVjwyAU7TlpZNR9XKM9zQi5sw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913816.mp4"
+        },
+        {
+          "nome": "Resgate em Malibu: A Próxima Onda (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/zVtU4HpZz3qPID5bFqnCoVmINud.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914861.mp4"
+        },
+        {
+          "nome": "Resgate em Medelín (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/i0Ulb13yY2WCcZ047iThR0dtMd5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913963.mp4"
+        },
+        {
+          "nome": "Resgate Implacável (2025)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/iT6yYCAuMQwm1PV4nByrsrsIOhG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913569.mp4"
+        },
+        {
+          "nome": "Resgate Mortal (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/jyaHMBzzHfxuF8AxV6Cr0WWsq1T.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914998.mp4"
+        },
+        {
+          "nome": "Resgate Sem Limites (2003)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/9yFA8RvOUwst1yMf0iIxmL4uGdX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915102.mp4"
+        },
+        {
+          "nome": "Resistência (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/voSZpfKrqdZ53oRw9kng74LPs1s.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913866.mp4"
+        },
+        {
+          "nome": "Retorno da Lenda (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/a5TMox6zYw686BbVS8D1UTPUYGI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914040.mp4"
+        },
+        {
+          "nome": "REV: Adrenalina Total (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/biZyn1Hwg8O6dSrukPhxNi6EFJG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913994.mp4"
+        },
+        {
+          "nome": "Revolução (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/eK4lWmaEMdBj9nkghRNmfvtRWbq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914047.mp4"
+        },
+        {
+          "nome": "Risco Máximo (1996)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/yRvgEGFQ0QKTeNFXCtICIAgSw9i.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913792.mp4"
+        },
+        {
+          "nome": "Risco Máximo (2017)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/c7Cqkzm89eBENSYk3AaNlxzEeSC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914841.mp4"
+        },
+        {
+          "nome": "Risco Total (1993)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/aLI8UlMRs92XH8IrGT0TeNMdbIw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913648.mp4"
+        },
+        {
+          "nome": "Robin Hood (2010)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/cCzqyuZxvJ38E8DXMbW9q4qgUVa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914668.mp4"
+        },
+        {
+          "nome": "Robin Hood: A Origem (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/aGkgDTOfgiXUIWC52tjFUZnzrWZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915055.mp4"
+        },
+        {
+          "nome": "Robô (2004)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/lpuBgSGqq65pA3F2wzZdtMzKqHh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914914.mp4"
+        },
+        {
+          "nome": "RoboCop (2014)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/7vFsWZGc2ciJVt888FbeKBKWv16.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914800.mp4"
+        },
+        {
+          "nome": "RoboCop 3 (1993)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/ppLSSwCuC5ERRWbu9H3R8SPL9AM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914799.mp4"
+        },
+        {
+          "nome": "Rock'N'Rolla: A Grande Roubada (2008)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/1r0rKBB7LIVGS9S2xDgO7W5Sfsd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914775.mp4"
+        },
+        {
+          "nome": "Roda de Fogo (2002)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/aw2yvnfqwTumWzvFO78hWUhDcwE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913583.mp4"
+        },
+        {
+          "nome": "Rogue (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/uOw5JD8IlD546feZ6oxbIjvN66P.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914853.mp4"
+        },
+        {
+          "nome": "Rogue One: Uma História Star Wars (2016)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/74C2YX0NLWnozVMRS56d5CKDdEv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915101.mp4"
+        },
+        {
+          "nome": "Rogue Warfare 2: A Caçada (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/yE1hErf9R2ocoijr26IIM1vFNVa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914811.mp4"
+        },
+        {
+          "nome": "Rogue Warfare 3: A Morte de uma Nação (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/8GVpIEBqlRBvx28G0LfEX0U8D2k.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914810.mp4"
+        },
+        {
+          "nome": "Rogue Warfare: Ameaça Global (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/jZEAAW1W6mNxLZ87Aur79DjXdPv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914790.mp4"
+        },
+        {
+          "nome": "Romeu Tem Que Morrer (2000)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/wwCuBA58NukJIqx81sD785RGh0i.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915100.mp4"
+        },
+        {
+          "nome": "Rota de Fuga (2017)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/11WGsTnwF5nCP07L2OyCUaf1Riy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915099.mp4"
+        },
+        {
+          "nome": "Rota de Fuga 2: Hades (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/7uYD4Ix66hOsvUVewoYQbuc51Hy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915098.mp4"
+        },
+        {
+          "nome": "Rota de Fuga 3: O Resgate (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/wTqlEF01SGo4QONor55zUPxHZGP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915008.mp4"
+        },
+        {
+          "nome": "Rota Sem Saída (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/zJuVfZVP7Tdpy9kOBQCuzNeGsDz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913787.mp4"
+        },
+        {
+          "nome": "Roubando Mussolini (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/mo4JxW3rWsOF87XNeAoeewESrMY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914041.mp4"
+        },
+        {
+          "nome": "Roubando Vidas (2004)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/k5Mto5es6bVC7Im8RGVJAs5uJ1r.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914309.mp4"
+        },
+        {
+          "nome": "Roubo Entre Ladrões (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/4BjZazpKwzrdTVrCRjZSUWJMHJo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914030.mp4"
+        },
+        {
+          "nome": "Roubo nas Alturas (2011)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/suaEwH3iEn019iYkWFmx9fvvu46.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913972.mp4"
+        },
+        {
+          "nome": "Ruas em Guerra (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/jk5DpTJeksKfS6NN5xK4iNGCCvN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914894.mp4"
+        },
+        {
+          "nome": "Ruas Sangrentas: O Acerto Final (2006)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/xBshLPA17Sbq1AJEACpkDLnRvPd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915097.mp4"
+        },
+        {
+          "nome": "S.M.A.R.T. Chase: Perseguição Explosiva (2017)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/3VHfDG1ytzUhkh5v2XHkCoiuZJB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915021.mp4"
+        },
+        {
+          "nome": "S.W.A.T.: Comando Especial 2 (2011)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/d5f8VRJGP7X2XV3x9zAxDMO60oG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913495.mp4"
+        },
+        {
+          "nome": "S.W.A.T.: Força Letal (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/lr7fU8UsJio5sYFPeWy5OLgYsHT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914846.mp4"
+        },
+        {
+          "nome": "S.W.A.T.: Operação: Escorpião (2017)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/wCf4uN3P6udlgAsNLCAf0605SEQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913891.mp4"
+        },
+        {
+          "nome": "Sabotagem (2014)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/j89bzqyw5Ouc8Itw5UXmvAeFmdk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915095.mp4"
+        },
+        {
+          "nome": "Safety (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/yRwRZYlqXkcCwx2yuqIhh7rzPcA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914798.mp4"
+        },
+        {
+          "nome": "Sahara (2005)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/kyY1onYxkKBDlJsheRsVbMaoQEM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913606.mp4"
+        },
+        {
+          "nome": "Saída: Fuga em Seul (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/5V6cACgsb25t72IKANv3WAFpyed.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914111.mp4"
+        },
+        {
+          "nome": "Sala de Espionagem (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/bIIlLOfJiqR9O1N5RJcHI1MmIFK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914036.mp4"
+        },
+        {
+          "nome": "Salt (2010)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/vJMUB623nnYKDF9IFaetzigGqxm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914832.mp4"
+        },
+        {
+          "nome": "Salve-Me (1992)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/3YVDnxZAZ8KMgwXm4yv88Uf2Zxm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914430.mp4"
+        },
+        {
+          "nome": "Salyut 7: Missão Espacial (2017)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/9QUCXRBAlF2AUYRqeQRPMvezxBO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914943.mp4"
+        },
+        {
+          "nome": "Samaritano (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/7xP0NhjE6AOJ1RTx5vh3Jw1aNCe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914068.mp4"
+        },
+        {
+          "nome": "Samurai X 2: O Inferno de Kyoto (2014)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/fXrRMSXndVuYQ1GSXi1sFR7pvvM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914447.mp4"
+        },
+        {
+          "nome": "Samurai X 3: O Fim de Uma Lenda (2014)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/tqrrpQR77e6uWOsigAYjl7JBTwm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914446.mp4"
+        },
+        {
+          "nome": "Samurai X: A Origem (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/iiPEa0h9QIPT6kQu1h3Jp0Ky0CP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914386.mp4"
+        },
+        {
+          "nome": "Samurai X: O Filme (2012)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/uV0qU90VGJF3luyhdwR29i8wdI6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914448.mp4"
+        },
+        {
+          "nome": "Samurai X: O Final (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/pTPbcJhCYtSKUz2DwDOEqigUQ00.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914426.mp4"
+        },
+        {
+          "nome": "Sangue Jovem (2014)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/vU3ir5iniBfK3neM2UFTeFSV4ye.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914549.mp4"
+        },
+        {
+          "nome": "Sangue na Veia (2014)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/5leTFl2GYZFJ9X06SdiL66zRrK0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915094.mp4"
+        },
+        {
+          "nome": "Santuário (2011)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/lt8nRn5GGYfcMccmy0HjSbwj7U9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914395.mp4"
+        },
+        {
+          "nome": "Sayen: A Caçadora (2024)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/5mF6zKM7LUnEVYTLAlwoZlskdbQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913815.mp4"
+        },
+        {
+          "nome": "Sayen: A Rota Seca (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/bPf85Ro1XgWnhJMfAZa3SdQ4Muf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913904.mp4"
+        },
+        {
+          "nome": "Scarface (1983)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/4d6ksr4wsBd1fifF7YLAm9wbWiK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913563.mp4"
+        },
+        {
+          "nome": "Scott Pilgrim Contra o Mundo (2010)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/l7EGWWmBiXsL7L2yBV69shGUclH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913911.mp4"
+        },
+        {
+          "nome": "Sede Assassina (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/kVGrAqS2C0tEWyuZ7kf7sFLA3CQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913946.mp4"
+        },
+        {
+          "nome": "Segurança em Risco (2017)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/crGliGBsymh6qQTM876pSyKsoZs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913598.mp4"
+        },
+        {
+          "nome": "Sem Culpa (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/uPrMoy75cIBQSnIX947CakeZ6Nx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914087.mp4"
+        },
+        {
+          "nome": "Sem Escalas (2014)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/mZMXCmoDwZpyXi0bnRxJVWui7VC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915093.mp4"
+        },
+        {
+          "nome": "Sem Filhos (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/s0tsTs6iE7qVBYaLCHzQQZKtq9R.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914587.mp4"
+        },
+        {
+          "nome": "Sem fôlego (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/3xkBEvQWGc7eZFSYr5oAOJvlBYh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914163.mp4"
+        },
+        {
+          "nome": "Sem Limites 2",
+          "descricao": "Filme De Ação",
+          "capa": "http://gstaticontent.com/images/_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915092.mp4"
+        },
+        {
+          "nome": "Sem Misericórdia (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/iVfTyl5FV6GTFNVM8rmsecpRkX8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914857.mp4"
+        },
+        {
+          "nome": "Sem Rastros (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/iPhFQbVoCpJorKooYVAUHzKr3Os.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914494.mp4"
+        },
+        {
+          "nome": "Sem Refúgio (2024)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/dU05fLDIMBggFIuhpV7IATP5x4j.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913692.mp4"
+        },
+        {
+          "nome": "Sem Remorso (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/uHEZ4ZMziIjlAgCTQAEh9ROvtj0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914506.mp4"
+        },
+        {
+          "nome": "Sem Retorno (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/l5oziYNRdgh8S3vb7fLvvvcfk0Q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914301.mp4"
+        },
+        {
+          "nome": "Sem Saída (1987)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/da0fPnC5UQxf3OzUIODMcBZpi7V.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914282.mp4"
+        },
+        {
+          "nome": "Sem Saída (2011)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/2x3HemlqlRkdvNXhULcf2GIInkJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913476.mp4"
+        },
+        {
+          "nome": "Sem Suspeitas (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/yVxIcpqxhW0F21O1jzcB4304NjD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913863.mp4"
+        },
+        {
+          "nome": "Senhor do Crime (2014)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/3D3hthrMRYw3iNewlgSEjd4HMcH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913494.mp4"
+        },
+        {
+          "nome": "Sentença de Morte (2007)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/nyr39KdZaaG7OC57o4kZ5nb4xNv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913618.mp4"
+        },
+        {
+          "nome": "Sentinela (2006)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/sLEqmesyaQWTgJcg9HYqzTB6kqq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914414.mp4"
+        },
+        {
+          "nome": "Sequestro em Miami (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/uhYepM1uWiDdGSBeKY5xAnYnsix.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913949.mp4"
+        },
+        {
+          "nome": "Sequestro Internacional (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/jay8E3DtnFgVfeDInMOOHxVUfn3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914464.mp4"
+        },
+        {
+          "nome": "Sequestro na Ilha (2016)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/6jQDFw7yxw6G6Zq2DLNTb4xbA1f.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915091.mp4"
+        },
+        {
+          "nome": "Sequestro no Espaço (2012)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/bl9hnhQEfOafnKmgs8Sb0Oz23Ca.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913882.mp4"
+        },
+        {
+          "nome": "Serpentes a Bordo (2006)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/3L9OWoTmdV6ZXWDQJaRXWenRhfS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914214.mp4"
+        },
+        {
+          "nome": "Seul em Alta Velocidade (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/gJlannhekQTz6jzBojWHMNdDbEu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914077.mp4"
+        },
+        {
+          "nome": "Shade - Nos Bastidores do Jogo (2003)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/6dMt2RuxY0LuX5qcTTBtlkqSY3g.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913647.mp4"
+        },
+        {
+          "nome": "Shaft (2000)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/5ncvnNPaN73cOqD4muE413sSOyY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913475.mp4"
+        },
+        {
+          "nome": "Shaolin (2011)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/hEtN6CgtMLWopOGstYUFCcKrE3i.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914632.mp4"
+        },
+        {
+          "nome": "Shazam! (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/rwkriXzzP9FoiIF5nTdxBsUcds4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914568.mp4"
+        },
+        {
+          "nome": "Shazam! Fúria dos Deuses (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/mTXxYgJ8UE7N6XIxIaesAqvMG4S.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913979.mp4"
+        },
+        {
+          "nome": "Sherlock Holmes (2009)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/19ZNLpF6ibwcFIynGb65X3Z1bnL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915090.mp4"
+        },
+        {
+          "nome": "Sherlock Holmes: O Jogo de Sombras (2011)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/g5GC3zmpzY25Gsx0yDaq6fRwwqz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915089.mp4"
+        },
+        {
+          "nome": "Shock Wave 2 (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/oMtnpQWp8yVZMxbntdEBGFYf4SK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914271.mp4"
+        },
+        {
+          "nome": "Show Dogs: O Agente Canino (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/x7xXm9EDs5YTnGjczAATJ5jsown.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914318.mp4"
+        },
+        {
+          "nome": "Sicario - Perigo no Abrigo (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/tqHoz9tdsQJ3US1Pb7eZdBDi8op.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914142.mp4"
+        },
+        {
+          "nome": "Sicário: Dia do Soldado (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/3xqVzb9L8XS5bLPPC8VHwZo7ymS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915088.mp4"
+        },
+        {
+          "nome": "Sicario: Terra de Ninguém (2015)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/iz8j7Cii58IzvYq4YQeMNXiwE7B.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915087.mp4"
+        },
+        {
+          "nome": "Silk Road - Mercado Clandestino (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/9kE67ohQbiisTOf5jmDvRAzqXF2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914543.mp4"
+        },
+        {
+          "nome": "Silverton: Cerco Fechado (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/mp2GAIoW9czkSlyZHlqii9Bc6i6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914131.mp4"
+        },
+        {
+          "nome": "Sin City: A Dama Fatal (2014)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/b8V2qtG58vjX1S0AT6uP9M2BDqY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914489.mp4"
+        },
+        {
+          "nome": "Sistema Bruto (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/hEK0FLgnOXqy4RT0qvRMJi5iSAF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913868.mp4"
+        },
+        {
+          "nome": "Sisu: Uma História de Determinação (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z47Fl4WYfKBg1n1hfqxq05OVMdR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/id.mp4"
+        },
+        {
+          "nome": "Snag (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/nhj4Q39qMSk6X5Ly9j9Yqyjrg5A.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913903.mp4"
+        },
+        {
+          "nome": "Sniper Americano (2014)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/mAXzc2oDTTYcnn6IGHlSXvmXloG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915086.mp4"
+        },
+        {
+          "nome": "Sniper: Operações Especiais (2016)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/mdzK6VzX0NYDvYvMw5Gy8ojHtgB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915053.mp4"
+        },
+        {
+          "nome": "Sob Ataque (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/u4nVnXdrDMRqzTb8jDEfzeH5H9X.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914019.mp4"
+        },
+        {
+          "nome": "Sob Fogo (2025)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eswk5Bv76dKxaCsblZ08A0PgT0l.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/id.mp4"
+        },
+        {
+          "nome": "Sobreviva ao Jogo (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/o3QnhGeG4Kx9dkSRTbDx4OSw6cr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914273.mp4"
+        },
+        {
+          "nome": "Sobreviva ou Morra Tentando (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/raSRcE1lVtwQValPmAmNv46PPei.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914365.mp4"
+        },
+        {
+          "nome": "Sobreviver à Noite (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/xCDFEzX1omKlXp7jTqJmLoxJTr9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914887.mp4"
+        },
+        {
+          "nome": "Sociedade das Sombras (2024)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/oja9PkRPsxgzFx9HYA4PDPtgUi5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913560.mp4"
+        },
+        {
+          "nome": "Soldado Anônimo: Lei do Retorno (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/v9dZv0gPHnmozXBZF7sKNrZ4UwY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914896.mp4"
+        },
+        {
+          "nome": "Soldado de Chumbo (2025)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLHv7sZ0NojLNPR1v59nXyVOexT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/id.mp4"
+        },
+        {
+          "nome": "Solomon Kane: O Caçador de Demônios (2009)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/UuljHICDYZK72pYDSOZaHCnxMT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914102.mp4"
+        },
+        {
+          "nome": "Som da Liberdade (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/hwOHbymoAhjrMx7v5ShHCNIP4NI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913899.mp4"
+        },
+        {
+          "nome": "Sonic 2: O Filme (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/aT2vdnR3qifI21f7fHTqYW5iAAz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914122.mp4"
+        },
+        {
+          "nome": "Sonic 3: O Filme (2024)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/tfM1T6tAivjvy0sLwt6Y9WvlmzB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913657.mp4"
+        },
+        {
+          "nome": "Sonic: O Filme (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/eOC0FSGqyzcnnx7XFgLazI9nACT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914899.mp4"
+        },
+        {
+          "nome": "Sorte de Quem? (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/xcNmgU2EUJSTAnjYGse4wMdA2eZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914151.mp4"
+        },
+        {
+          "nome": "Sou Vingança - Retaliação (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/pfXuic95vNLsoBEtjYGrmQ5AAPL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914305.mp4"
+        },
+        {
+          "nome": "Sozinha (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/k6cqUG6jFrKXe0TCEz07sgfNYNM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914513.mp4"
+        },
+        {
+          "nome": "Speed Racer (2008)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/arJV6ypZidAn4qiJXrvow3KbBqZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914290.mp4"
+        },
+        {
+          "nome": "Spot - Um Cão da Pesada (2001)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/5BoehGhkQa776c3BsTrX0P0iGX8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914889.mp4"
+        },
+        {
+          "nome": "Sri Asih (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/jQSvpSCag0IIvPVtlgLZhJJe4LX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913843.mp4"
+        },
+        {
+          "nome": "Stallone: Cobra (1986)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/hq95vDBwjw7zL1IRuIF7MluunOa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913488.mp4"
+        },
+        {
+          "nome": "Star Wars: Episódio IX - A Ascensão Skywalker (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/uLlrDUtFG2tKtDcJN6kBznlqqsp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914924.mp4"
+        },
+        {
+          "nome": "Stardust (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/4auKoOWYVbLwmVBv0fdZUwTyiwk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914413.mp4"
+        },
+        {
+          "nome": "Street Fighter: A Última Batalha (1994)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/soBXxFTDMi8ELZpFWcClKX6aSED.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915085.mp4"
+        },
+        {
+          "nome": "Stuber: A Corrida Maluca (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/bopJPyP68dJEjO7i0gUrYMYC0Eh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914968.mp4"
+        },
+        {
+          "nome": "Sua Vida me Pertence (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/6abgrBcS5yqWoKtPh2chkMfgts3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914194.mp4"
+        },
+        {
+          "nome": "Submundo das Lutas (2016)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/saIrUxms1zvg9SSiky44wA9yRoh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914917.mp4"
+        },
+        {
+          "nome": "Sucker Punch: Mundo Surreal (2011)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/uUDZWIOUxtVhU1YwlOxvNlnZM5h.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915084.mp4"
+        },
+        {
+          "nome": "Supercross (2005)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/sHgPR5jrN09KoHKltAnLp8cfgg3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915083.mp4"
+        },
+        {
+          "nome": "Superfly: Crime e Poder (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/3gooCZPkWvosSIlLJSSiJSzS5jL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915036.mp4"
+        },
+        {
+          "nome": "Superman II: A Aventura Continua (1980)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/sU6SFBN2CwHaaP5qecyUVhdtoLQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914860.mp4"
+        },
+        {
+          "nome": "Superman: Entre a Foice e o Martelo (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/attHlVU6J8vO5QqSAqDmmF6Kt2A.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914878.mp4"
+        },
+        {
+          "nome": "Superman: O Filme (1978)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/sm6BLvYCSe4pUpW2UrCKSsS1o0B.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914353.mp4"
+        },
+        {
+          "nome": "T-34: O Monstro de Metal (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/3nag9eCEMIo4yVZD7sKLodEPe8T.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913557.mp4"
+        },
+        {
+          "nome": "Tango & Cash: Os Vingadores (1989)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/34eICraXrXH84mjPPIVvaK1ZR4X.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913498.mp4"
+        },
+        {
+          "nome": "Táxi - Velocidade nas Ruas (1998)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/d0OpYRp97WDUfAsT41kvgvu31Iv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914954.mp4"
+        },
+        {
+          "nome": "Táxi (2004)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/eLDoNLJHZPcavTT1vJqZoGydoWB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914953.mp4"
+        },
+        {
+          "nome": "Táxi 2 (2000)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/ykpuFTUtnpqJqIvmEOMCZtTwaeg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914952.mp4"
+        },
+        {
+          "nome": "Taxi 3 (2003)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/7WFk7RUzVpOgd8v2SExD7XHjd1y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914951.mp4"
+        },
+        {
+          "nome": "Táxi 4 (2007)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/w24fH10gcaX1pf2VkViBzNgHVt5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914950.mp4"
+        },
+        {
+          "nome": "Taxi Driver: Motorista de Táxi (1976)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/hvJvOYRrF9xxvNzg2Jd9PYWu7c3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914679.mp4"
+        },
+        {
+          "nome": "Teia de Corrupção (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/jg1w7AVT0RtsGWn9uvETVefy50H.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914669.mp4"
+        },
+        {
+          "nome": "Teia de Crimes (2017)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/9IbRglxl5qZhhmp8dowyi17R9Sm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914108.mp4"
+        },
+        {
+          "nome": "Templo do Perigo (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/bqwFMsRPTXIBCnFj82EIpCjDO85.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914048.mp4"
+        },
+        {
+          "nome": "Tempo de Caça (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/4Wjb8RqoCgB0OjHwBI9zXQcn8TL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914827.mp4"
+        },
+        {
+          "nome": "Temporada de Caça (2013)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/bM7UHYwepyHzMm2mZNQlsOzHO7q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913481.mp4"
+        },
+        {
+          "nome": "temporada de Sangue (2025)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/id.mp4"
+        },
+        {
+          "nome": "Tenet (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/Ae0pbv4E6YfqfN3UjKWIfQSzP9v.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914809.mp4"
+        },
+        {
+          "nome": "Terra de Guerreiros (2014)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/wdlRuuA2CtS0KtaVzAikZxVHRIk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914533.mp4"
+        },
+        {
+          "nome": "Terra do Ouro (1967)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/ds4P2zHA7yLWUEJras5xdasvBRP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914402.mp4"
+        },
+        {
+          "nome": "Terras Perigosas (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/5TupAiDFjDW2XjVgnIx1X1SdBG1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914178.mp4"
+        },
+        {
+          "nome": "Terremoto: A Falha de San Andreas (2015)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/y0Xi03TuBe5PMylesEmKSVguSkN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915082.mp4"
+        },
+        {
+          "nome": "Terror na Antártida (2009)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/ka0WQYaf15yuibmd7nzeX7CpY0w.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913542.mp4"
+        },
+        {
+          "nome": "Terror na Síria (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/dby3MpllNvWjOqccys01214xl2n.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914541.mp4"
+        },
+        {
+          "nome": "Testemunhas Silenciosas (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/o31Mwup2EQAygdjCez21hOXN0ZG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914882.mp4"
+        },
+        {
+          "nome": "The Killer (2024)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/6PCnxKZZIVRanWb710pNpYVkCSw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913743.mp4"
+        },
+        {
+          "nome": "The Last Days of American Crime (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/ygCQnDEqUEIamBpdQdDYnFfxvgM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914877.mp4"
+        },
+        {
+          "nome": "The Last Kingdom: Seven Kings Must Die (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/iWOYqidDzKrObSPOarcfWHNle3G.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913529.mp4"
+        },
+        {
+          "nome": "The Last Kumite (2024)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/zDkaJgsPoSqa2cMe2hW2HAfyWwO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913556.mp4"
+        },
+        {
+          "nome": "The Last Stand of Ellen Cole (2024)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/oq1pGVQ2t3Cy4v7sA4LRhNjtZuJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913578.mp4"
+        },
+        {
+          "nome": "The Old Guard (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/knfExByNW2jCwtmIuwYYxzPKpkm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914872.mp4"
+        },
+        {
+          "nome": "The Old Guard 2 (2025)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/qjVMsjV7UmSpi1aHA9Wtl1v8cxr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913531.mp4"
+        },
+        {
+          "nome": "The Rescue (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/rGdtqWw5nbGV0RkCtCfE7fGBJga.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914201.mp4"
+        },
+        {
+          "nome": "The Trip (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/coGs91wC3XGIguuy1SUdoWkXOVf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914281.mp4"
+        },
+        {
+          "nome": "The Ultimate Weapon (1998)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/irLwtIARtLqnWbtOZifsqAJWFQo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914344.mp4"
+        },
+        {
+          "nome": "The Witcher: Lenda do Lobo (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/sFYEg4GIM8v29kmvOt4AsDFTdgW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914354.mp4"
+        },
+        {
+          "nome": "Thelma & Louise (1991)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913739.mp4"
+        },
+        {
+          "nome": "Thelma (2024)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/rUcuageYgv9SsJoWuc0seRWG6JC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913681.mp4"
+        },
+        {
+          "nome": "Thor: Deus do Trovão (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/urR3KZdTIIdB8OrdVxScRkuSRo9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913771.mp4"
+        },
+        {
+          "nome": "Timecop: O Guardião do Tempo (1994)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/jZKI3qetwVjfLUyus6b2NPc7OWT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913614.mp4"
+        },
+        {
+          "nome": "Tiras em Apuros (2010)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/kRfrmgDBHpFmNszpaDTXh0HFMLZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914493.mp4"
+        },
+        {
+          "nome": "Tiro Certo (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/2LSwzrdj7ljnFhiqIgfp9rd46fU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914191.mp4"
+        },
+        {
+          "nome": "Tiro e Queda (1998)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/AkYRgFPMFVDV9Ki5keAjYqpxVZ1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913880.mp4"
+        },
+        {
+          "nome": "Titio Noel (2007)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/vJkiT0PPVw74CwZEa7mtV9q6zfq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914293.mp4"
+        },
+        {
+          "nome": "Todo o Dinheiro do Mundo (2017)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/hv78Iq8L9pfieAKQzaomeSJAu21.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914682.mp4"
+        },
+        {
+          "nome": "Tokyo Ghoul (2017)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/nmTztGsJIToPkdWbvTgQ4EY6SrR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914534.mp4"
+        },
+        {
+          "nome": "Tom & Jerry: O Filme (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/9NvYyM8H6d5KAVGqpyFV9YPO5cU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914566.mp4"
+        },
+        {
+          "nome": "Tom e Huck: Em Busca do Grande Tesouro (1995)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/rl9dOgbCgVzRf8azMtnom7M11D4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914409.mp4"
+        },
+        {
+          "nome": "Tomb Raider: A Origem (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/wa0GU7H38ZBXHnzpInqkEHpJm84.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915081.mp4"
+        },
+        {
+          "nome": "Top Gang 2! A Missão (1993)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/4U7bR7cUzqLDaJWwkea0fSEdw1P.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914512.mp4"
+        },
+        {
+          "nome": "Top Gun - Ases Indomáveis (1986)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/dDrMtnVgtDeecIgNchb9F8JcO5w.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915080.mp4"
+        },
+        {
+          "nome": "Top Gun: Maverick (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/8v3lrllHYRrqEdYWLyscH4RGFDO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914073.mp4"
+        },
+        {
+          "nome": "Top Gunner: Zona de Perigo (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/2xcV2egehqvKTHFEtvG5k8PMbeB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913688.mp4"
+        },
+        {
+          "nome": "Tormento (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/qdTIufUTn3846QxSRXWFrFZaWZ1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914261.mp4"
+        },
+        {
+          "nome": "Torpedo: U-235 (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/kbRuiYJCctdzKJpIBSv1mSw7j7r.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914231.mp4"
+        },
+        {
+          "nome": "Tortura Selvagem - A Grade (2001)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/sAuv8wtGqxcQh9QuJ9m5RapbjlU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913574.mp4"
+        },
+        {
+          "nome": "Torturada Pelo Próprio Pai (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/ctoPyY37P0jlaEaA7Vd5VhwiI1k.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914226.mp4"
+        },
+        {
+          "nome": "Tração (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/azMQZjuulbfaL8uahlA8cHY3EyJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913871.mp4"
+        },
+        {
+          "nome": "Tracers: Nos Limites (2015)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/yGedOHE4uy4onbvTp8xsIVd41Hx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913521.mp4"
+        },
+        {
+          "nome": "Traficantes de Corpos (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/lV2GvCNufOtGjhPMZzxomoqSA54.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914160.mp4"
+        },
+        {
+          "nome": "Tráfico de Orgãos (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/iVL8wMNG9EVo5otizVvKCZqniWP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913884.mp4"
+        },
+        {
+          "nome": "Trama Internacional (2009)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gA41vqt2LfayKMxGYdfkWBtPjH9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/id.mp4"
+        },
+        {
+          "nome": "Transação Perigosa (2024)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/byDeAJWEIz01PRQUzGFZULCsnC4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913741.mp4"
+        },
+        {
+          "nome": "Transformers (2007)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/lkZ9gqCEjzX85lKR6Jjd1uGAXNp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914733.mp4"
+        },
+        {
+          "nome": "Transformers: A Era da Extinção (2014)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/cLNIRQ2oyJhaUId41aGmSDfD5MI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914731.mp4"
+        },
+        {
+          "nome": "Transformers: O Despertar das Feras (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913945.mp4"
+        },
+        {
+          "nome": "Transformers: O Lado Oculto da Lua (2011)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/2ClU228vymaJqDRr4ViXQXjwYse.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914732.mp4"
+        },
+        {
+          "nome": "Transformers: O Último Cavaleiro (2017)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/7ugUPQw8JjGazfd28MIPADvDaUT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914730.mp4"
+        },
+        {
+          "nome": "Treinado Para Matar (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/rw5P8YqHUqi04rdKrQC2lZ5UQPK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913803.mp4"
+        },
+        {
+          "nome": "Treinamento Brutal (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t90jGam5utnYNrIG9AEgO2UhMh1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/id.mp4"
+        },
+        {
+          "nome": "Trem-Bala (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/cXMeF0FUFe9n3Om9GzMqwYMQCgw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914053.mp4"
+        },
+        {
+          "nome": "Três Enterros (2005)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/467GOPnoZY7Yv3gKPXgIwwa8xC9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914338.mp4"
+        },
+        {
+          "nome": "Três Reis (1999)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/3tteAin7WS4kpx250joRsu7kEU0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913483.mp4"
+        },
+        {
+          "nome": "Treze Homens e um Novo Segredo (2007)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/hWmFe0A26TNmnfHrHdmKmN0N6QZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915079.mp4"
+        },
+        {
+          "nome": "Tripla Ameaça (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/kRbg3j9VDTjVIYt73f8IfjzxMyk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913747.mp4"
+        },
+        {
+          "nome": "Triplo X (2002)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/lpmyeqSR2Pc7ytfTp1ScD3ferX4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915077.mp4"
+        },
+        {
+          "nome": "Tróia (2004)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/iKp2NxUkqPVSPN2FdXUn9gxj4Nn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914767.mp4"
+        },
+        {
+          "nome": "Tropas Estelares (1997)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/xb6NkoDkbep6lhn8K6YDPitALpr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915076.mp4"
+        },
+        {
+          "nome": "Tropas Estelares 2 (2004)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/ebRw2D08TOVxwU3VYxjOl1gTMID.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915075.mp4"
+        },
+        {
+          "nome": "Tropas Estelares 3 (2008)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/qyeUcT7lS6AuRcJyZs33JG3Wi6X.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915074.mp4"
+        },
+        {
+          "nome": "Tropas Estelares: Invasores de Marte (2017)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/g7Zxoo9LOazY9RrOaNmo4WBzKcG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914922.mp4"
+        },
+        {
+          "nome": "Trovão Tropical (2008)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/wy7GVLCGTmOgbGvIMChVMNOMNao.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914417.mp4"
+        },
+        {
+          "nome": "True Lies (1994)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/ngngzauEqI8ffo5YUSSNKaEGZ0R.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915073.mp4"
+        },
+        {
+          "nome": "Truque de Mestre: O 2º Ato (2016)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/9uCUHxN5MD4vX6q1YEnpL6bQLiw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915072.mp4"
+        },
+        {
+          "nome": "Tsunami Zumbi (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/orWBh2igPhC8KZqx8uNtWhDjO1r.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914411.mp4"
+        },
+        {
+          "nome": "Tubarão Assassino (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/eHAY4kvhzsU3Cn85uaIgpe7ch5M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914355.mp4"
+        },
+        {
+          "nome": "Tudo em Todo o Lugar ao Mesmo Tempo (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/bW21kbvqAt2kMGlaU8qY86C8kQE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914080.mp4"
+        },
+        {
+          "nome": "Tudo Pela Arte (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/blApdSV7109sOhLijJ2T09XWFwW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914563.mp4"
+        },
+        {
+          "nome": "Twister (1996)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/7QXT40RNaD0vac198G3O0U45m3y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915071.mp4"
+        },
+        {
+          "nome": "Twisters (2024)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/6RpWnpEL8sXnZgzhEmnT2SLhHL7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913753.mp4"
+        },
+        {
+          "nome": "U.S. Marshals: Os Federais (1998)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/eb7E3Ak4DIpsknAQsDhWIHGi7Gi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914814.mp4"
+        },
+        {
+          "nome": "Último Alvo (2024)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/zihcswJKySgg6pCbchOtrbUsnrq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913585.mp4"
+        },
+        {
+          "nome": "Últimos Sobreviventes (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/4mvLLbKtK9P9TsifPLtdXhqnLMK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913883.mp4"
+        },
+        {
+          "nome": "Ultraman R&B: O Filme - O Cristal da União (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/8xSRDVb7lyXlarTbqmwhkS027KH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914865.mp4"
+        },
+        {
+          "nome": "Um Agente Fora de Série (2016)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/5cEpO9Lia815GBazUE1znMVKumi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914542.mp4"
+        },
+        {
+          "nome": "Um Agente na Corda Bamba (1984)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/9w8BuBNuoxLCUMUDO2ElF2WNlOy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913738.mp4"
+        },
+        {
+          "nome": "Um Ato de Liberdade (2008)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/x0Q4lchbdAHNiaGFcijCY05HHKT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913862.mp4"
+        },
+        {
+          "nome": "Um Dia de Caos (2017)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/v4Ic5tJBTLL83zd1RLailzDdJi0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914850.mp4"
+        },
+        {
+          "nome": "Um Dia de Crime (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/kEPvwX3lBNENDYpJjNJ3l0BwXvl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913917.mp4"
+        },
+        {
+          "nome": "Um Dia Difícil (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/bktIW44oeurTptHLdkj7ayc4zbH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914162.mp4"
+        },
+        {
+          "nome": "Um Dia para Morrer (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/dzDEob3PyiGY25TxmeDx1yfifEP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914103.mp4"
+        },
+        {
+          "nome": "Um Espião e Meio (2016)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/j24zrqp8RdDKsuvNDqrAkbBjCxC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914462.mp4"
+        },
+        {
+          "nome": "Um estado de Liberdade (2016)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/6PFXbrFejklRf2nW2d7DdGT0UKs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913779.mp4"
+        },
+        {
+          "nome": "Um Golpe à Italiana (1969)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/2rfCQ5n02iY7fYgK0de6leq7LqP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914420.mp4"
+        },
+        {
+          "nome": "Um Guarda-Florestal (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/dE1VakahNpdAI7xYF2ia6ryEkL5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913948.mp4"
+        },
+        {
+          "nome": "Um Herói em Ação (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/4pru9cSmnHDGFio5BX9n2j2cCVb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913908.mp4"
+        },
+        {
+          "nome": "Um Homem Implacável (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/woL8DLY4NLJCg8qKiSrOF4QfMkz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913850.mp4"
+        },
+        {
+          "nome": "Um Homem Morto Não Pode Viver (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/osIrZDonx2oQw1xfok2hiPXh7f7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913755.mp4"
+        },
+        {
+          "nome": "Um Looop Eterno (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/b0cR03jYbO2hTrKnLVKQNRP8r6y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914174.mp4"
+        },
+        {
+          "nome": "Um Lugar Solitário para Morrer (2011)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/feYOjKSxz9UkxamVmjyMpc7bTHZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914684.mp4"
+        },
+        {
+          "nome": "Um Ninja da Pesada (1997)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/eqEJ16k6h2w8eojrRbN1UX2mAIu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915070.mp4"
+        },
+        {
+          "nome": "Um Paraíso Perigoso (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/izNJQM0DVSuzl8bx6euJtHaLbYT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913996.mp4"
+        },
+        {
+          "nome": "Um Pequeno Favor (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/bpsE44zo8tD3lMQlpPbrf0wHGAy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913924.mp4"
+        },
+        {
+          "nome": "Um Príncipe em Nova York 2 (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/mpXRG5zPUT18IeYvCoC4zOscked.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914656.mp4"
+        },
+        {
+          "nome": "Um Tira Acima da Média (2005)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/kyS58pd3rjrvgD1R7NLDMf14JAU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914670.mp4"
+        },
+        {
+          "nome": "Um Tira da Pesada 4: Axel Foley (2024)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/49zBBS5eSCqTj6r0T9kPoijib7E.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913782.mp4"
+        },
+        {
+          "nome": "Um Tira Muito Suspeito (1999)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/jpMqeCmxR4G4DfQUQftBvgrU01s.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913881.mp4"
+        },
+        {
+          "nome": "Uma Aventura Selvagem (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/CAvSvhitAVDl5EZ3AeqPEoiMCS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913777.mp4"
+        },
+        {
+          "nome": "Uma Jornada na África (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/j5C1TcPzyXVJB6nsij3MLLqelIo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913632.mp4"
+        },
+        {
+          "nome": "Uma Noite Para Esquecer (2013)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/44ejfriKYYIjY62YJES9XRtrmZ4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913978.mp4"
+        },
+        {
+          "nome": "Uma Noite Violenta em New York (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/6pPCAe99rExWGnSE9mLNwAgVH7q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913680.mp4"
+        },
+        {
+          "nome": "Unabomber: Terrorista (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/vuQorCeoBtR2hShbe8ECz0Oc3ad.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914095.mp4"
+        },
+        {
+          "nome": "Uncharted: Fora do Mapa (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/qNAPgepJ4NHNA74ThVsxQEOUceJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914132.mp4"
+        },
+        {
+          "nome": "União do Mal (2002)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/m6ZvVWYqFC92ANcfwVhK6jJYKr3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914225.mp4"
+        },
+        {
+          "nome": "Unidade Ranger (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/2ImC59wJCZ7Rx19el83c4nX8YTF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913872.mp4"
+        },
+        {
+          "nome": "Upgrade: Atualização (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/swoOF70ML410UJswoQcWWp0waxb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913838.mp4"
+        },
+        {
+          "nome": "V de Vingança (2006)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/rvrFkBKTrVCT1nVRuCaemQFRn0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913493.mp4"
+        },
+        {
+          "nome": "Vai Dar Nada (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/8Zo3vVuQJRDV9RTOdBI0580kgXB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914121.mp4"
+        },
+        {
+          "nome": "Valan: Vale dos Anjos (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/gmUgxxki8WcaPANgi5uUeq6EmSU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914546.mp4"
+        },
+        {
+          "nome": "Vale da Morte (1968)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/slfBeNrsgPzqU3vnxE0oAGE7RFu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4166671.mp4"
+        },
+        {
+          "nome": "Vampiros de John Carpenter (1998)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/wB4C9JFgI7YHlxeI5QM9GrpTbTf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913644.mp4"
+        },
+        {
+          "nome": "Velocidade Máxima (1994)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/d30AWcDezR0qM6OgXovulfA4z8N.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914400.mp4"
+        },
+        {
+          "nome": "Velocidade Máxima 2 (1997)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/16TLpoZni70N4pywRUvyNtXr3UE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913930.mp4"
+        },
+        {
+          "nome": "Velocidade Mortal (2010)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/vV161GctGZU18GuTos0SSVhr7gF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914441.mp4"
+        },
+        {
+          "nome": "Velocidade sem Limites (2007)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/lE1XfidwJml7lNGi0D4KlB8uQFY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913665.mp4"
+        },
+        {
+          "nome": "Velozes & Furiosos 5: Operação Rio (2011)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/5BKmQMUPOEtDFDCBW8jrUCI9ZbI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914582.mp4"
+        },
+        {
+          "nome": "Velozes & Furiosos 6 (2013)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/h8SD0Kkqv3PUBneQX9tFsDrFu8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914581.mp4"
+        },
+        {
+          "nome": "Velozes & Furiosos 7 (2015)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/spydMyyD81HjGJVwZvjajkrWW1h.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914580.mp4"
+        },
+        {
+          "nome": "Velozes & Furiosos 8 (2017)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/1wcMoiMZ2VxrrWswuarI7g9m9nN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914579.mp4"
+        },
+        {
+          "nome": "Velozes & Furiosos 9 (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/6TuEPZ3ItlBO8WmH8BmY2aGLhes.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914372.mp4"
+        },
+        {
+          "nome": "Velozes & Furiosos 10 (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/wDWAA5QApz5L5BKfFaaj8HJCAQM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913952.mp4"
+        },
+        {
+          "nome": "Velozes & Furiosos: Hobbs & Shaw (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914578.mp4"
+        },
+        {
+          "nome": "Velozes e Furiosos (2001)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/rKaaYM4CtuJZFdOA0SZWbaMNHbn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914586.mp4"
+        },
+        {
+          "nome": "Velozes e Furiosos 4 (2009)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/7sjbAOmNFtfTyZ6KFC9t9FDDOcK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914583.mp4"
+        },
+        {
+          "nome": "Velozes e Furiosos: Desafio em Tóquio (2006)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/1kzW2GImY1YVmLRx3NLhXFBfLLO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914584.mp4"
+        },
+        {
+          "nome": "Velozes e Mortais (2004)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/eKSkYxwrv4rQLIeDlLBzvHxbEDF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914836.mp4"
+        },
+        {
+          "nome": "Vencer ou Morrer (1993)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/oJ7aU09UTWSSaoSrdY255kshzAk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913796.mp4"
+        },
+        {
+          "nome": "Vencer ou Morrer (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/roYNNI4qyWuH7e7HemwfV2fnMXe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896602.mp4"
+        },
+        {
+          "nome": "Viagem 2: A Ilha Misteriosa (2012)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/9AT3gvEm4WASieNjgSlai4YXo27.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914683.mp4"
+        },
+        {
+          "nome": "Viagem ao Centro da Terra: O Filme (2008)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/35AI4Bmo1JrEzgMOxOARRUT9Pn6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915069.mp4"
+        },
+        {
+          "nome": "Viagem das Loucas (2017)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/qcaNY9KsMN6alVsdANiZ0w3zPIN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914919.mp4"
+        },
+        {
+          "nome": "Viagem Insólita (1987)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/4OGOyx3D86UvQr4drIpNzjlNlfr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915068.mp4"
+        },
+        {
+          "nome": "Viciadas em Dinheiro (2008)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/pMaygAnovaDuwZCAPdKZEpyM8uQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914224.mp4"
+        },
+        {
+          "nome": "Vidas à Deriva (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/cejjvrBhIgnUx1RJQaKG0T3c1sG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915020.mp4"
+        },
+        {
+          "nome": "Vidas Importam (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/mEzfrfbAAPEGsyYNbhq5I0EPoXg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913795.mp4"
+        },
+        {
+          "nome": "Viking (2016)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/70TrFB6gwBrfF5SVmrmMkD1i8St.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914522.mp4"
+        },
+        {
+          "nome": "Vingança (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/tUMY2i0e0KUfslvjBBnRYGBxhL4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914529.mp4"
+        },
+        {
+          "nome": "Vingança à Queima-Roupa (1998)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/A8fkEjvxU81YUJuoF69yF9arl9x.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914306.mp4"
+        },
+        {
+          "nome": "Vingança a Sangue Frio (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/rM93VoRIdlgRKOzh5t0zYNRmNv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915052.mp4"
+        },
+        {
+          "nome": "Vingança Acima da Lei (2023)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/ymZ3MewWInM78zSIwW9l1m4M5cQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913584.mp4"
+        },
+        {
+          "nome": "Vingança e Redenção (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/6hLaPB3OFcRZMFQT6skxLnnErpF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914058.mp4"
+        },
+        {
+          "nome": "Vingança em Duas Rodas (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/essd7DICfIsaE5iJgwdDr03vygy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913906.mp4"
+        },
+        {
+          "nome": "Vingança Entre Assassinos (2009)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/iG1Z1wiVAkVYsBjS96YHk9Vtg1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914492.mp4"
+        },
+        {
+          "nome": "Vingança Fatal (2014)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/3RFvVREDcL3gN4uhCuQDs1q0KEr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913597.mp4"
+        },
+        {
+          "nome": "Vingança Fatal (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/y33paUKgDhJrdsvNDiGjltYkWau.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914093.mp4"
+        },
+        {
+          "nome": "Vingança Final (2003)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/tqlthKFb0aL7GCXJgltnzFJebcw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913654.mp4"
+        },
+        {
+          "nome": "Vingança Solitária (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/pz5ZrXSymSrVybrKnTwiPQ4Cg1U.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913992.mp4"
+        },
+        {
+          "nome": "Violação de Conduta (2003)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/lamkgtFVGtytaFhDQuWrI8tNnMn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913513.mp4"
+        },
+        {
+          "nome": "Virando a Mesa (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/5wLvg0RUwzIevx6kAGgYHY4SyES.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914193.mp4"
+        },
+        {
+          "nome": "Viva os Noivos! (2025)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/4AvT0zWGUcxVkEylAtKEjvY8brc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913640.mp4"
+        },
+        {
+          "nome": "Você Pertence a Mim (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/cATbdSTVLKTQqiy4gkqOrlKNKVl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914253.mp4"
+        },
+        {
+          "nome": "Volta ao Mundo em 80 Dias: Uma Aposta Muito Louca (2004)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/xcy62czpO413jOCrBnwa5AF1Wrd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914659.mp4"
+        },
+        {
+          "nome": "Voltando à Ativa (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/nBro2F7oJYCpUnrRBSeGB5YgCSF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913735.mp4"
+        },
+        {
+          "nome": "Voo Mortal (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/zY45JCOILgvz65rNeWainQTsDQx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914210.mp4"
+        },
+        {
+          "nome": "Voto de Coragem (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/uJE094SXJpgw57Ds3ID0clqS99i.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914379.mp4"
+        },
+        {
+          "nome": "Wander (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/iyMb0It6tKX3pE5l83hX9L9F5Gs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914350.mp4"
+        },
+        {
+          "nome": "Wanted Man: Marcado Para Morrer (2024)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/nqmm4YvxB2v5mnqeq7K8xN5VLYP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913810.mp4"
+        },
+        {
+          "nome": "Warcraft - O Primeiro Encontro de Dois Mundos (2016)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/2cPJhbIwsmMXsV9vihoPEFBFFHm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914619.mp4"
+        },
+        {
+          "nome": "Wasabi (2001)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/d2bIfAHnYYsOdpHAYwSzRn3da6C.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913646.mp4"
+        },
+        {
+          "nome": "Wolf Pack: Unidade de Combate (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/lE41c13A5bkiar0SwQ8JhfZGAYS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914259.mp4"
+        },
+        {
+          "nome": "Wolfwalkers (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/gCa0yDjBb6zHgy2dhbud9mfsTLK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914797.mp4"
+        },
+        {
+          "nome": "Wolverine: Imortal (2013)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/wCP2JfaRFdrFjxiXTUdNnfvyJ2K.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914748.mp4"
+        },
+        {
+          "nome": "Wu Kong: Contra a Ira dos Deuses (2017)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/uGk95dWcHnAxh7mTm0o5qXQqaGD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914864.mp4"
+        },
+        {
+          "nome": "Xeque-Mate (2006)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/jQTYxU77m39U51mENi5fXGsQQrD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914491.mp4"
+        },
+        {
+          "nome": "Xeque-Mate (2024)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/h0cp9DMcP9MFvt3FQlrr4RAwzIX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913839.mp4"
+        },
+        {
+          "nome": "X-Men 2 (2003)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/qdWe8JiEiGGbTgLhuAjDgVi4O41.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914752.mp4"
+        },
+        {
+          "nome": "X-Men Origens: Wolverine (2013)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/vnCHOYoWpbdvxFbIIABh8mQprSg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914750.mp4"
+        },
+        {
+          "nome": "X-Men: Apocalipse (2016)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/a6OjCxF8DW9huIdAPshWJpO0ldx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914746.mp4"
+        },
+        {
+          "nome": "X-Men: Dias de um Futuro Esquecido (2014)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/bUm0nSsTA6kfFfZHgNbNFisVe7M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914747.mp4"
+        },
+        {
+          "nome": "X-Men: Fênix Negra (2019)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/w4mvEKtjawXdYaq1bORuodLX6ti.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914745.mp4"
+        },
+        {
+          "nome": "X-Men: O Confronto Final (2006)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/fD0vCQ4Bz5PF71QllSUF2ULAJV6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914751.mp4"
+        },
+        {
+          "nome": "X-Men: O Filme (2000)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914753.mp4"
+        },
+        {
+          "nome": "X-Men: Primeira Classe (2011)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/nqPXRgbfzMJ4Wh4a1OkeVjOEDmK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914749.mp4"
+        },
+        {
+          "nome": "Xtremo (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/hj2mUTJktFXNA9cUtFptYiPXhEs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914438.mp4"
+        },
+        {
+          "nome": "xXx: Reativado (2017)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/csohoj37afZPMZP5H6STMDEZjdx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915004.mp4"
+        },
+        {
+          "nome": "Yaksha: Operação Implacável (2022)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/zL8KPd8Rw6KXgdcgytMbzNNrHmc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914143.mp4"
+        },
+        {
+          "nome": "Zeros e Uns (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/nUklycRTVya348M5dG7JyticAsW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914227.mp4"
+        },
+        {
+          "nome": "Zona de Combate (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/vnVQx7MJMwTvqcn5pkYDImxzlMg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914763.mp4"
+        },
+        {
+          "nome": "Zona de Confronto (2020)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/m9acLluSUQRFriTHA6V6CNvXouL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914330.mp4"
+        },
+        {
+          "nome": "Zona de Perigo (1993)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/40fmdc0apEKe8r36RRqBTqKELVS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914490.mp4"
+        },
+        {
+          "nome": "Zona Desmilitarizada (2018)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/8YDzVKbWAriDlOd0f2DRBqyENJ3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914307.mp4"
+        },
+        {
+          "nome": "Zona Fria (2017)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/c47vzme1QvFdSYaVJuyy8rtJdBB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915034.mp4"
+        },
+        {
+          "nome": "Zumbis e Robôs (2013)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/csdYAmDnEATx0itAuLxgwGOyxZp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913629.mp4"
+        },
+        {
+          "nome": "सूर्यवंशी (2021)",
+          "descricao": "Filme De Ação",
+          "capa": "https://image.tmdb.org/t/p/w780/8p3mhjyLjHKtaAv8tFKfvEBtir0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914204.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
