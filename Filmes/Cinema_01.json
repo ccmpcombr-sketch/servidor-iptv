@@ -1,0 +1,158 @@
+{
+  "canais": [
+    {
+      "album": "Cinema",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/CINEMA.png",
+      "subAlbuns": [],
+      "itens": []
+    }
+  ],
+  "filmes": [
+    {
+      "album": "Cinema",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/CINEMA.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "A Empregada [CAM] (2025)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j64BSgP6tT0Tm8qF1oQ2mwoLkBm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4167478.mp4"
+        },
+        {
+          "nome": "Anaconda [CINEMA] (2025)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRzpf8QELtzJnMt4SiDoFUmZ9KM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4167393.mp4"
+        },
+        {
+          "nome": "Avatar: Fogo e Cinzas [CINEMA] (2025)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0Wx79hH2mfIp8G4eKFtb4awolB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4167392.mp4"
+        },
+        {
+          "nome": "Demon Slayer: Kimetsu no Yaiba Castelo Infinito (2025)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w780/c55sXCaQBj3vuHqZe62tv90xCQS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893291.mp4"
+        },
+        {
+          "nome": "Devoradores de Estrelas [CAM] (2026)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOzG3SG6gBxHGGHYiq7xXeNb1bG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4177918.mp4"
+        },
+        {
+          "nome": "Dia D (2026)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5e8BQ6RP3GRPz45yno1jjlXu56.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4187241.mp4"
+        },
+        {
+          "nome": "Fascínio Perigoso (2024)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAXE3qqojPlFTGT9UkZhdayALmG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4169943.mp4"
+        },
+        {
+          "nome": "Invocação do Mal 4: O Último Ritual (2025)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w780/rV6kAFJNxKBEpJknDSAUm73LPaA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893290.mp4"
+        },
+        {
+          "nome": "Maldição da Múmia [CAM] (2026)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubN87iHY2DyWtwU2JHS0SQ1KqJu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4177919.mp4"
+        },
+        {
+          "nome": "Manual Prático da Vingança Lucrativa [CAM] (2026)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yC7kvzSBopVid128M60E5YOKsp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4176969.mp4"
+        },
+        {
+          "nome": "Mestres do Universo (2026)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPuVEyoGrtoU9O2sLDhwtKPR78Z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4187193.mp4"
+        },
+        {
+          "nome": "Michael [CAM] (2026)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FYFBgdNVVaUgVfNSh9z5WVTZ9y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4183494.mp4"
+        },
+        {
+          "nome": "O Agente Secreto [CAM] (2025)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1DQ4XXIqTm5LvUjz8jypN43JjZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4167531.mp4"
+        },
+        {
+          "nome": "O Diabo Veste Prada 2 [CAM] (2026)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/50yWyY981TyUHhoxxSEKwO70FmQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4184993.mp4"
+        },
+        {
+          "nome": "Se Não Fosse Você  [CAM] (2025)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yLe2bgpjHIFQL09LdOtoMJDlkf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4167532.mp4"
+        },
+        {
+          "nome": "Seita Virtual (2024)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/azYpyWgfItP4StMDSgFUqs1b70E.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4172675.mp4"
+        },
+        {
+          "nome": "Super Mario Galaxy: O Filme [CAM] (2026)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3WeTp42eJSRuE4UZfyPCOJW4c.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4176940.mp4"
+        },
+        {
+          "nome": "Supergirl [CAM] (2026)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhXfLI1gDWaahzfHT0cb2CH61hO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4187673.mp4"
+        },
+        {
+          "nome": "Tipos de Gentileza (2024)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w780/4WcXSrWVdqdHTQM25xzffUYipcS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893308.mp4"
+        },
+        {
+          "nome": "Todo Mundo em Pânico (2026)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlelBCtee51bFM6vgc1AeYOLzkS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4187242.mp4"
+        },
+        {
+          "nome": "Toy Story 5 [CAM] (2026)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkS4gOg1qflAysvHQ7YY0OkLDip.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4187375.mp4"
+        },
+        {
+          "nome": "Tron: Ares [CINEMA] (2025)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4167161.mp4"
+        },
+        {
+          "nome": "Zootopia 2 [CAM] (2025)",
+          "descricao": "Fimes De Cinema",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fthvYnjERbXt3ILjLjHpPNd5IVJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4167236.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
