@@ -1,0 +1,2755 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "Drama",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Drama.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "Aprisionados (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/nIjb23q0qKTrXpac4vf3Q7eP1CD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894232.mp4"
+        },
+        {
+          "nome": "Aqui (2024)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/rmqBc3qRXeSgzCcWY2H4l9M8eIT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893870.mp4"
+        },
+        {
+          "nome": "Arábia (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/3XfrtyZzLkXDC4AkEdCl0DkwnfJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895734.mp4"
+        },
+        {
+          "nome": "Aranhas de Papel (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/31dpLgUEsF4F4UgH7D3iAqYxteU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894773.mp4"
+        },
+        {
+          "nome": "Argentina 1985 (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/isLWtcB9TK3wLlTzEny2dPH6beh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894493.mp4"
+        },
+        {
+          "nome": "Argo (2012)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/dZqmn3vr80UeSSj4QbVEUI8D7yb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896154.mp4"
+        },
+        {
+          "nome": "Arkansas (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/eStS2SPitBTNzADpxNPKTA6GCXC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895621.mp4"
+        },
+        {
+          "nome": "Armadilha do Caçador (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/ind0vC70PbjQeLVYMqhSxGyjfpq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895130.mp4"
+        },
+        {
+          "nome": "Armadilha Explosiva (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/uPzZu5hmNoS3X00ewINA9zQlfGp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894624.mp4"
+        },
+        {
+          "nome": "Armageddon Time (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/w84J1MyoCczvvhjPAr4NPZ0g3HR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894500.mp4"
+        },
+        {
+          "nome": "Armas e Amores (1984)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/1Q8YQ35rqzJmZ6tQDPXkT9WATZQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895201.mp4"
+        },
+        {
+          "nome": "Armas na Mesa (2016)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/uHYwAUc4AiyUpkwjERq5icFKt2d.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893783.mp4"
+        },
+        {
+          "nome": "Arquivo X: Eu Quero Acreditar (2008)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/mtt7m7mjWcuq7XeEdbnVWUikVfu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895356.mp4"
+        },
+        {
+          "nome": "Arremessando Alto (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/25aPHMlZNP5F3fgxUo4XB7xUVz7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894705.mp4"
+        },
+        {
+          "nome": "Arremesso de Ouro (2014)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/iaBVWGCjg6C1QQTXafjDVaPI2Ny.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894120.mp4"
+        },
+        {
+          "nome": "Ártico (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/wdCDjXKJtOAHHfQKgBepAloYNUo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895749.mp4"
+        },
+        {
+          "nome": "As Almas que Dançam no Escuro (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/e4lIqS2Nr0L47ZhvOrefy5sICZR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894526.mp4"
+        },
+        {
+          "nome": "As Aventuras de Pi (2012)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/vknfMBq1ySoZ42exme9drkOQirP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896153.mp4"
+        },
+        {
+          "nome": "As Boas Intenções (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/qhfoHRQSkOb9d9CMWyFqJa8OCib.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894311.mp4"
+        },
+        {
+          "nome": "As Boas Maneiras (2017)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/rZsXwlpYluOAiWRDO1SQq4ddad6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896152.mp4"
+        },
+        {
+          "nome": "As Bonecas do Crime (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/q9XvpKgnvuLaqE14CmrO6buXvn7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893930.mp4"
+        },
+        {
+          "nome": "As Brumas de Avalon",
+          "descricao": "Filmes De Drama",
+          "capa": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iVEbAgsYBVwKH8goTkUVd59fIWB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895278.mp4"
+        },
+        {
+          "nome": "As Divas do Blue Iguana (2001)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/mqnHHF6pductvQGIXfdB37GWNkd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893762.mp4"
+        },
+        {
+          "nome": "As Donas da Noite (2010)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/xiTQGLQNeuMwjWkHcJSQ46ZnLup.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896151.mp4"
+        },
+        {
+          "nome": "As Estrelas Brilham na Cidade (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/Aw0m1Bf7CyKSp72brr9jGpDSgL2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895716.mp4"
+        },
+        {
+          "nome": "As Faces da Verdade (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/bPrySz5s1lqmw6DAnNWUMr5142Q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894527.mp4"
+        },
+        {
+          "nome": "As Férias Assustadoras de Nelly Rapp (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/gH1b9vtGinOOt3mOoUTPhkEsrgJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894806.mp4"
+        },
+        {
+          "nome": "As Fotos Vazadas (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/m0rK7QEkivsD63Rvt2wgT5WGkUN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894848.mp4"
+        },
+        {
+          "nome": "As Garotas de Cristal (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/eAmpIPhtvsgWVoMG1ta0DS1tftd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894763.mp4"
+        },
+        {
+          "nome": "As Gêmeas Silenciosas (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/bDq8q13TI0lUADyVxxTumHv4JPe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894243.mp4"
+        },
+        {
+          "nome": "As Horas (2002)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/gFxjU5eiVyzZ64RgqN36I3hIVvB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895386.mp4"
+        },
+        {
+          "nome": "As Legiões Emergentes (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/vgUoejL9fMVfXylBPekyEInOsnQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895268.mp4"
+        },
+        {
+          "nome": "As Leis da Fronteira (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/p0OP38iLcmgdz32sp7pgczdijL0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894940.mp4"
+        },
+        {
+          "nome": "As Leis da Termodinâmica (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/6Y2v1K21tL13hDS4PGovQ8t1ngS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895917.mp4"
+        },
+        {
+          "nome": "As Linhas Tortas de Deus (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/i7xCXKYkuFxx6UglVbSFaBmrwcO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894546.mp4"
+        },
+        {
+          "nome": "As Mães de Chico Xavier (2011)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/9znC61R03glG9UV0YqtRg97L9Mf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895361.mp4"
+        },
+        {
+          "nome": "As Mil Palavras (2012)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/cGDovB6FPGN9xPA2oA28OGkNto.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896150.mp4"
+        },
+        {
+          "nome": "As Nadadoras (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/l0s6z3GTRMyBs7ZBh8mKMP6QZ6V.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894562.mp4"
+        },
+        {
+          "nome": "As Ondas (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/dXHO1tPfv5rXQQOfu9Ji6EcAFbE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895616.mp4"
+        },
+        {
+          "nome": "As Órfãs da Rainha (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8WTqEfS1LSiJQWhyaFBaG858L1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4160644.mp4"
+        },
+        {
+          "nome": "As Pontes de Madison (1995)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/rwmVAGodqvd3g5V3qIjI8Jw7ltr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894315.mp4"
+        },
+        {
+          "nome": "As Sete Faces de Jane (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmLsZKzk0ttO4C7D365SC7zZbjy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4160459.mp4"
+        },
+        {
+          "nome": "As Três Filhas (2024)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/lq3inNouIht3JMxLFcW5gIPcUtu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893963.mp4"
+        },
+        {
+          "nome": "As Vantagens de Ser Invisível (2012)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/pUYWbq0I6oCrysxuL0OCxwB8wFp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895129.mp4"
+        },
+        {
+          "nome": "As Verdadeiras Aventuras do Menino Lobo (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/A2N8JHD4NHBhtWvfKlA4jqEfPCQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894978.mp4"
+        },
+        {
+          "nome": "As Verdades (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/of9YFiZW10xZ6sxeImLl1r7M9XQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894634.mp4"
+        },
+        {
+          "nome": "As Vidas de Glória (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/6oIF9dxyrF4Mn6kqK5ownv2jkLc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894448.mp4"
+        },
+        {
+          "nome": "Asas da Esperança (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/krRw1ulbJEMS6hLYwl4wpjhL9Mh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894047.mp4"
+        },
+        {
+          "nome": "Assalto Aéreo (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/hRvWo6hPCElFBkZwhHPrHLzFTgH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894497.mp4"
+        },
+        {
+          "nome": "Assassina (1995)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/lo6LzCjllup6sXW82kS2nwIbo1w.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895163.mp4"
+        },
+        {
+          "nome": "Assassinato em Gosford Park (2001)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/d7u7ohi8eXEUw7CDH4BmWTWz3Ta.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895029.mp4"
+        },
+        {
+          "nome": "Assassinato em Sparrow Creek (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/l2IpN1WhBeuu2Gt7bVO9XK2Uf6A.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894775.mp4"
+        },
+        {
+          "nome": "Assine Aquí (2024)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/1joXhDL9C4GU0yQP0hltyVHp2Ez.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894028.mp4"
+        },
+        {
+          "nome": "Ataque dos Cães (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/pTieUAFyDbC22uq0p7uMT1wBYax.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894573.mp4"
+        },
+        {
+          "nome": "Até a Última Gota (2025)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/t3nmSPWX5MOKdpAuTb2t5g69BT3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893673.mp4"
+        },
+        {
+          "nome": "Até as Últimas Consequências (1996)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/g6v8HNLCw03b0y022czoPOyww8C.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894440.mp4"
+        },
+        {
+          "nome": "Até o Fim (2016)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/4LneFCQlIwUSXxj0ml7eTS7MUI6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895013.mp4"
+        },
+        {
+          "nome": "Até o Limite (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/qrzBz2IhbusTrcPIq28VhBylRZ2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895626.mp4"
+        },
+        {
+          "nome": "Até o Último Obstáculo (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/buk4VchhkvC7jLV9qwNVRsO8GX0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4166731.mp4"
+        },
+        {
+          "nome": "Athena (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/66hefmZ1ZVLO1Hb57sZVGSlDAmM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894608.mp4"
+        },
+        {
+          "nome": "ATL: O Som do Gueto (2006)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/7fKT4KEvJX2FEPqOqwl5YRFZutL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894883.mp4"
+        },
+        {
+          "nome": "Atlantique (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/6re5NBRLemS5Ysvc60mGUGHz8C6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895796.mp4"
+        },
+        {
+          "nome": "Ato Noturno (2026)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0uHoWYGsZaGSC6O9iTRy4sAz5J.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4187923.mp4"
+        },
+        {
+          "nome": "Atormentado Pelo Passado (2017)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/cJotGbGU4pdERpowLQiN2IOLlDv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895885.mp4"
+        },
+        {
+          "nome": "Atração Fatal (1987)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/tSfJwVpXW1QqUV4ldAQScv5gmjj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894893.mp4"
+        },
+        {
+          "nome": "Atração Perigosa (2010)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/g1IF1RQasgk0o4CTi6AxdZeSAvR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895446.mp4"
+        },
+        {
+          "nome": "Atraídos Pelo Destino (1994)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/cB3TxRhK2NbjfhJhZjNQHtmJXEa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893867.mp4"
+        },
+        {
+          "nome": "Atrevida: A Paixão Não Tem Regras (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4qSFM3KiPkvD0hdDh5loXvwIPw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4160639.mp4"
+        },
+        {
+          "nome": "Audi vs. Lancia: Corrida pela Glória (2024)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/bVEpaBlASDxGfCeyA4MRrrFa18l.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893973.mp4"
+        },
+        {
+          "nome": "Auggie: Realidade Virtual (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/8w3jW2qkHr9GTIEtXHkHy9QXQQv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894444.mp4"
+        },
+        {
+          "nome": "Aura (2005)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/vPYbGxToFp0B9oDvKz1uHMi99z2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893582.mp4"
+        },
+        {
+          "nome": "Avenida Beira-Mar (2024)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/70RAQHJmLq8DslAkmjhJO4Ht3DT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893842.mp4"
+        },
+        {
+          "nome": "Babá Fora de Controle: Missão Brasil (2015)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/bbgOLOhb1ngWb5YHJncCzK02Bdk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896028.mp4"
+        },
+        {
+          "nome": "Babel (2006)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/oUmiBeGYqp7QFfrXfmXT6YWjx0H.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895427.mp4"
+        },
+        {
+          "nome": "Babilônia (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/qZUmMxJbGmkIYwnS7qRfSOREmvC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894470.mp4"
+        },
+        {
+          "nome": "Babygirl (2024)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/47AmmkY5Vo4ODLueXUksEin0aWw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893869.mp4"
+        },
+        {
+          "nome": "Back to Black (2024)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/xHQEeUT3Ac4fTY72UeNrI75xLtE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894003.mp4"
+        },
+        {
+          "nome": "Bacurau (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/qvmLAVqNB5TbGUa9QqQvXiFC4UR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895795.mp4"
+        },
+        {
+          "nome": "Baile da Morte (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/gDqz5B0jOVCvHPUrQmmy790Z7Xa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895601.mp4"
+        },
+        {
+          "nome": "Baixo Centro (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/dstq3X2uH5z2lYXeKt0hXHrQgFF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893604.mp4"
+        },
+        {
+          "nome": "Bandido: O Rei da Música (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/g2mWlq4UcgwNjEPUb8B11UsQk4I.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894020.mp4"
+        },
+        {
+          "nome": "Bar Doce Lar (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/m8VAkBqDy0XqSjz8p8biAFmrWa2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894856.mp4"
+        },
+        {
+          "nome": "Barrabás (2012)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/wCaCLrODsQwFyunqKRfXHugMzGA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893540.mp4"
+        },
+        {
+          "nome": "Basma (2024)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/lT7JSuUiymThNsV0w56cZNKK5J1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894038.mp4"
+        },
+        {
+          "nome": "Bastardos Inglórios (2009)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/n8fuS2uDDykO4P3RBPKLhWs0Ffj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896148.mp4"
+        },
+        {
+          "nome": "Bata Antes de Entrar (2015)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/3XOVtqDFRVtR2y8gUh2e6EKkQYR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895625.mp4"
+        },
+        {
+          "nome": "Bayoneta (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/gxIEbUNuBOshzcBGmnax0KlL12x.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894130.mp4"
+        },
+        {
+          "nome": "Beanie (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/bDmciui64L8MzAFWWIt405N9Kvz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893990.mp4"
+        },
+        {
+          "nome": "Beans - A Pequena Guerreira (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/ff2s9KdHxLGNj32ad7Fsy4eDMVl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894472.mp4"
+        },
+        {
+          "nome": "Bedlam (1946)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/rDYbo7kSkVjdKMAdJwN4pOMO6z1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895959.mp4"
+        },
+        {
+          "nome": "Bel Canto (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/2pRvnOhFdANmdzDXfuLlZV9jwSb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894355.mp4"
+        },
+        {
+          "nome": "Bela do Senhor (2012)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/90pbOSh1EH2Xz6iOBYqEyaC9DXu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894921.mp4"
+        },
+        {
+          "nome": "Bela e Rebelde (2024)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/icjLDiTzcXgzzbiAu6AFbWL8FmH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894066.mp4"
+        },
+        {
+          "nome": "Bela Maldição (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/o5lFvZw1UqU3eRGDDBHP6Q9JO2l.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893763.mp4"
+        },
+        {
+          "nome": "Belém: Zona de Conflito (2013)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/uDb51EIifJ3AEob0yJUaaeMs1yn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895922.mp4"
+        },
+        {
+          "nome": "Beleza (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/iA5GZWM1NmXtESsXxtXxoK8Pjtx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894578.mp4"
+        },
+        {
+          "nome": "Beleza Adormecida (2011)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/qVDP304R1LUAVico3wfbllzA3R4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895277.mp4"
+        },
+        {
+          "nome": "Beleza Americana (1999)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/9PJKsH7Btz2xjYIvLLtJ7qcJlL3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896147.mp4"
+        },
+        {
+          "nome": "Beleza Negra: Uma Amizade Verdadeira (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/xKhhceZfAzrfgetI7j69bVJimOL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895498.mp4"
+        },
+        {
+          "nome": "Beleza Oculta (2016)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/l7rwGxhH2ZDaViuxzT0qMPfhfo3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896146.mp4"
+        },
+        {
+          "nome": "Belfast (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/4xs6nHNBjYpRymw8ZQmnVIbJ8Xa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894701.mp4"
+        },
+        {
+          "nome": "Belinda (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/oRmSHt2a5gfhcvD2imovgtbp7vo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894442.mp4"
+        },
+        {
+          "nome": "Belle (2013)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/qCK00C3L0bM5jphoYU0gFpG3Hly.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895877.mp4"
+        },
+        {
+          "nome": "Bem-Vindo ao Crime (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvjYnvt5bd6j8FeqwEbftLTosvA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4160570.mp4"
+        },
+        {
+          "nome": "Bem-Vindo ao Jogo (2007)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/9JpUA1ObqFByGt3ePQhHyc0bTwy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895094.mp4"
+        },
+        {
+          "nome": "Bender: O Início (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/z6gN1mxIS87nmDBaRc2gahTY2C4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894597.mp4"
+        },
+        {
+          "nome": "Benedetta (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/eWsDoicwFFYDxZsKayAD5eZUAW1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894734.mp4"
+        },
+        {
+          "nome": "Bessie (2015)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/kanAZsL3kZwFWRuR6tqLvNrEFco.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894888.mp4"
+        },
+        {
+          "nome": "Bia Mais Um (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/8Ce6cv16U5EDP3Shh9mmgBquNDO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894505.mp4"
+        },
+        {
+          "nome": "Bicho de Sete Cabeças (2001)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/x6NXI2jvi9iKbzjjHRMtZ7mCPjB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893651.mp4"
+        },
+        {
+          "nome": "Big Bang (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/vPjahgieqIMZUr0VR79XUvmYhHl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894299.mp4"
+        },
+        {
+          "nome": "BIHTER: A FORBIDDEN PASSION (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/jfn5p0uC7cuxQSLvBNSWWQ7Iz6j.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894204.mp4"
+        },
+        {
+          "nome": "Birdman ou (A Inesperada Virtude da Ignorância) (2014)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/7gwtDnEJ39QarOyzt9bSxEj3SkD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893690.mp4"
+        },
+        {
+          "nome": "Biutiful (2010)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/iixcawSjjXSWNC1ChXK3SQDKGZW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895186.mp4"
+        },
+        {
+          "nome": "Black '47 (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/gZiu9RIcMeQLUaDVqQffQTl6bhy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895747.mp4"
+        },
+        {
+          "nome": "Blast Beat: Um Sonho na América (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/vvooawUDhc5FZSRWgb3n8CHKHk9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894804.mp4"
+        },
+        {
+          "nome": "Blaze (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/g3rMWJRP6rQO5qP9E6umeRq9hGA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894817.mp4"
+        },
+        {
+          "nome": "Bling Ring: A Gangue de Hollywood (2013)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/9nzGZBvbqhzkxPz2L511BDriBqs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895103.mp4"
+        },
+        {
+          "nome": "Blonde (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/9dmnwgKGkuxBgvDhOHaqlZtgrv9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894604.mp4"
+        },
+        {
+          "nome": "Blue Bayou (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/a4xykTie8BOSW0y6K5u1AcmW4HW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894733.mp4"
+        },
+        {
+          "nome": "Blueback: Uma Amizade Profunda (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/cARMghgpHPEc6Bg1bf9DO4YEmKX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894005.mp4"
+        },
+        {
+          "nome": "Boa Viagem (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/7w94FteEPPW5QiaYDMDy74NJ9vz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894729.mp4"
+        },
+        {
+          "nome": "Bob Marley: One Love (2024)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/7RXyg2jBgItk0wG5eNbYHb23qXt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894102.mp4"
+        },
+        {
+          "nome": "Boca de Ouro (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/8mBGLtfl2lQkmoNwyIxXaikjKSg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894914.mp4"
+        },
+        {
+          "nome": "Bodas de Papel (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/qITpBxNrxcA7hGzkdQrXgT2k2N.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894683.mp4"
+        },
+        {
+          "nome": "Bohemian Rhapsody (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/qxgdqcxI216kEoypGbA9BemB7mW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895371.mp4"
+        },
+        {
+          "nome": "Bolden - A Sensação do Jazz (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/dg5lSTQj2eeEORjSuaHj3iSS5LO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895725.mp4"
+        },
+        {
+          "nome": "Bolo de Limão com Sementes de Papoula (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/inesG5OdWAqXt7TLTdSXssP2MRu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894097.mp4"
+        },
+        {
+          "nome": "Bom Demais Pra Ser Verdade (2010)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/dSjInW1CNnnypbpB3wASY0gd3dY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894931.mp4"
+        },
+        {
+          "nome": "Boogie (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/n5xmNu7Lb4IqOahsE8K6W8xBTC7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895016.mp4"
+        },
+        {
+          "nome": "Boogie Nights: Prazer Sem Limites (1997)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLpRnmn90rX0zIL1Z4H5dRtAjmj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4160629.mp4"
+        },
+        {
+          "nome": "Borderline: Relação Obsessiva (2024)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/vReGpxcKqfkhyA7msUaDWW4peni.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893993.mp4"
+        },
+        {
+          "nome": "Bordertown: A Eliminação (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/k5TPbPsluUGMC7qZfVXNTnsAWQc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894918.mp4"
+        },
+        {
+          "nome": "Boxer (2024)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/6m2YA3FyqmTgIlYMBMYrENfrihY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893969.mp4"
+        },
+        {
+          "nome": "Boy Erased: Uma Verdade Anulada (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/aMGE7URu5EDZhwhgzP52pGZ8Gkb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895954.mp4"
+        },
+        {
+          "nome": "Boyhood: Da Infância à Juventude (2014)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/rr1rlDZXOeLqtYMEC6xEunxqsD3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895187.mp4"
+        },
+        {
+          "nome": "Brazilian Beats (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/zeJDK5LjTPSjRqyximeUXw0IAlK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896600.mp4"
+        },
+        {
+          "nome": "Breaking Point: Paixão à Dança (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/k7ijpc3yvoynohvUGzI9MOmFoOA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894274.mp4"
+        },
+        {
+          "nome": "Brexit (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/AcEPeTBU6UoCi8PgSjRxAi8pEy1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895772.mp4"
+        },
+        {
+          "nome": "Brian Banks: Um Sonho Interrompido (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/debZGNmAjeXat4iLbRmmakXiFO7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895599.mp4"
+        },
+        {
+          "nome": "Brigada 49 (2004)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/aJLDVdiJPbJFEK0XmDrLFT2WDOh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895239.mp4"
+        },
+        {
+          "nome": "Brilho Eterno de uma Mente sem Lembranças (2004)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/z3k9Y2886Uo6owGxoCteHSngwA6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893689.mp4"
+        },
+        {
+          "nome": "Broad Peak (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/hssJ3koEXveKRDXb3r6ujEuySGF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894613.mp4"
+        },
+        {
+          "nome": "Brooklyn - Sem Pai Nem Mãe (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/ph6BDYj1EK7U8Bs7WmRzr7iRyem.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895645.mp4"
+        },
+        {
+          "nome": "Buffalo Boys (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/nthbXzkCL3oUovjzVTehS5bIO2H.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895514.mp4"
+        },
+        {
+          "nome": "Bull (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/azYKnAYZH2VNWS23OTQfo474Gi9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894330.mp4"
+        },
+        {
+          "nome": "Buraco na Parede (2017)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/jCy8mbOLCQCtWKvQ57kl0bqt0CV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895597.mp4"
+        },
+        {
+          "nome": "Burlesque (2010)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/oCTvLdp6YDmKl525uk6qlJUiViS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895350.mp4"
+        },
+        {
+          "nome": "Busca no Deserto (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/8viAg1w9ZbbgEfcRtD5zmwXzWrP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894366.mp4"
+        },
+        {
+          "nome": "Buscando... (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/rVU4tDYu8d8w9T5qsBqHNXEGOd7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896145.mp4"
+        },
+        {
+          "nome": "Butter (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/9tWnnYR4uWivO5lTHLbKLCYu8wH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894343.mp4"
+        },
+        {
+          "nome": "Cabeça de Nêgo (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/vbU8viY4tzm0oO7EJWLaArWHIXz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894490.mp4"
+        },
+        {
+          "nome": "CaboBlanco (1980)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/3I36PUMSiXL88JzXr5b6ogp7NUf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893853.mp4"
+        },
+        {
+          "nome": "Cabrini (2024)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/rBiHiN8W4BqMFrDozemzkof7GmF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893880.mp4"
+        },
+        {
+          "nome": "Caça aos Gângsteres (2013)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/44Yesp933zxnSAe8y8cimlbWiGT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895182.mp4"
+        },
+        {
+          "nome": "Caçada Humana (1966)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/lpX8szjdzaXqxKBiV8xfRVNzSiu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895149.mp4"
+        },
+        {
+          "nome": "Caçadora de Gigantes (2017)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/1llJ6a7P4JShSqJtNGnmY8J6YC8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896119.mp4"
+        },
+        {
+          "nome": "Caçadoras de Aventuras (1995)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/6uvCY15ZMd7sxAOEqyf4fCE6WSz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895225.mp4"
+        },
+        {
+          "nome": "Caçadoras de Ouro (1933)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/sXsUJsW9fcVT15hfBu9LyU22qmG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896111.mp4"
+        },
+        {
+          "nome": "Caçadores de Obras-Primas (2014)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/pPr0yONkXWA9GgX3PAoM1YA8P9W.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895743.mp4"
+        },
+        {
+          "nome": "Cadáver (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/jbYvBVXbNW3eVZqKNB4FxMpSvci.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895531.mp4"
+        },
+        {
+          "nome": "Cadillac Preto (2003)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/2zFoFrdpT8X6R3j2Kw2bK4t46gS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893592.mp4"
+        },
+        {
+          "nome": "Cadillac Records (2008)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/8PqNPf57ojfh4zvOp3HjodogOKn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894139.mp4"
+        },
+        {
+          "nome": "Caixa de Memórias (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/1q7SNPmr3EsX4wODFQDfRYR0NUf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894561.mp4"
+        },
+        {
+          "nome": "Cálculo Mortal (2002)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/pGNzvmkpRtRJe1NwPYtA3vz7MKl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895264.mp4"
+        },
+        {
+          "nome": "Call in the Cheapskates (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/6uuQI1LeEuCzR33iLqVKAmLpr2j.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896450.mp4"
+        },
+        {
+          "nome": "Câmera Indiscreta (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/jyOSszi8FsMetUONo6VB6Qutnle.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894156.mp4"
+        },
+        {
+          "nome": "Camila Sairá Esta Noite (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/oqet0sPa0zUkQgriDV36Pk4Q2a6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893642.mp4"
+        },
+        {
+          "nome": "Caminho da Liberdade (2010)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/4eCeFZln8zsrgBz33BCiGQMR5EX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893837.mp4"
+        },
+        {
+          "nome": "Caminhos para Olympia (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/qt3c4ksHR4e1TWnzJ9WPjymeYtO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894816.mp4"
+        },
+        {
+          "nome": "Caminhos Perigosos (1973)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/yNsh9hqjawnvAXWATmsy8pkNWdM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895211.mp4"
+        },
+        {
+          "nome": "Camisa de Força (2005)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/4NYrcNgwR9TXeC8ksKkokEItaRo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893712.mp4"
+        },
+        {
+          "nome": "Camisa de Ouro (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/1wbtzkeabooVQj4d5z1Qh6ieEbd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894732.mp4"
+        },
+        {
+          "nome": "Campeonato dos Sonhos (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/2mVp9HGAudUZ1rv66tMC6kK22JM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894336.mp4"
+        },
+        {
+          "nome": "Campo dos Sonhos (1989)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/dKMDWgdOVCMR11lH3RYB2VnR8YV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893803.mp4"
+        },
+        {
+          "nome": "Campo Grande (2015)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/xKMp5I3FtmmcAhjr7kofIiFWUqT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895089.mp4"
+        },
+        {
+          "nome": "Camponeses (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/mBURxgfJOpK8Sy9WS1KIM5gDCzi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893911.mp4"
+        },
+        {
+          "nome": "Campos de Esperança (2012)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/c2p6EivOhPoXRiwT0YJw3xobm7t.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895742.mp4"
+        },
+        {
+          "nome": "Cão Sem Dono (2007)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/mqWILk3NenCSMkWSnX0qkPDNj5R.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893549.mp4"
+        },
+        {
+          "nome": "Capitães da Areia (2011)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/7mqbivtuSqVINuzZU7czfUMclQy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893965.mp4"
+        },
+        {
+          "nome": "Capitão (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/y6y3E3RWB4z6Pdf4OM0XmtqMqsX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894067.mp4"
+        },
+        {
+          "nome": "Capitão Phillips (2013)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/q3YN8twLWhKW4EmUw2JGRJc4xfH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895884.mp4"
+        },
+        {
+          "nome": "Cárcere Privado (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/q6VBMQ0r1kP8iYcVNmFpw9yWxae.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894383.mp4"
+        },
+        {
+          "nome": "Carcereiros: O Filme (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/mBY8sQjkc8qDYcUtS8GhlediHHz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895721.mp4"
+        },
+        {
+          "nome": "Carmen (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/8fjHguUMC8KTeIIPln9KogrYLgO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894468.mp4"
+        },
+        {
+          "nome": "Carmo (2008)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/5hicwl8uCoeBSREgnYmYqWFamLE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894949.mp4"
+        },
+        {
+          "nome": "Caros Camaradas! Trabalhadores em Luta (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/5RKhxGelSNXxbGf96Ul8nbDpFbT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895188.mp4"
+        },
+        {
+          "nome": "Carruagens de Fogo (1981)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/ceKjMhvsa98MbdLYoHsO3wH3uFh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895301.mp4"
+        },
+        {
+          "nome": "Cartas na Mesa (1998)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/sM2TTWoOY6wt5wJ9qOytqiPqxOz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895550.mp4"
+        },
+        {
+          "nome": "Cartas para Quem Ficou (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/40WWr3PqtuVE0gwguSs4orc39P4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895579.mp4"
+        },
+        {
+          "nome": "Casa Gucci (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/dAPdK3L2STpHo4DFKwtL2gdo89L.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894818.mp4"
+        },
+        {
+          "nome": "Cassandro (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/hWHwWsKVr5GkmOI1hWgHZBYkRwi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894275.mp4"
+        },
+        {
+          "nome": "Castelos de Gelo (2010)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/xTKPbJ1mFw25H91nZWdM7kFHMUz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894699.mp4"
+        },
+        {
+          "nome": "Category 7: The End of the World (2005)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/693K3kRSscqdv48ML0BT4rFFByv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895568.mp4"
+        },
+        {
+          "nome": "Cavalo de Guerra (2011)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/8KCu49IhGK5IpqKRO1i2UGLQt6A.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896144.mp4"
+        },
+        {
+          "nome": "Cavalos Selvagens (2010)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/tNotOC9KQdX3Y170ku7GWaLBks5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896143.mp4"
+        },
+        {
+          "nome": "Centurion: O Cavalo Dançante (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjQup4dRb5aBldciKt0gONRqmB2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4166713.mp4"
+        },
+        {
+          "nome": "Cheetah - Uma Aventura na África (1989)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/h2xj3S7VotlrKAm61WfsfFLP1fX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895367.mp4"
+        },
+        {
+          "nome": "Chernobyl: O Filme (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/bnB2EkaY6HEdzwVkkH7dBHy6HmZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894847.mp4"
+        },
+        {
+          "nome": "Chevalier (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/iLhp2fqA0VDIhnC20QHDnw5Yrcf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894369.mp4"
+        },
+        {
+          "nome": "Chico Xavier (2010)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/91yYiblKWYnMpoWjPFvBLjFzwCa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895360.mp4"
+        },
+        {
+          "nome": "Chinatown (1974)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895810.mp4"
+        },
+        {
+          "nome": "Chorus Line - Em Busca da Fama (1985)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/tbEtN0IXwnq0AESdtS1IYJxkdIL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893835.mp4"
+        },
+        {
+          "nome": "Christine (2016)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/d0HB3hzhmlidL0MbIJC4ekfToAq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895596.mp4"
+        },
+        {
+          "nome": "Chuva de Chumbo (1986)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/aOp7kLTkp1UAT6LjTX5V7rlnGqs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893539.mp4"
+        },
+        {
+          "nome": "Cicatrizes da Guerra (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/mDHecokikJjybKjaZ0unCJC69BP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893740.mp4"
+        },
+        {
+          "nome": "Cidadão Kane (1941)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/7RdvqkBX2gi6kiZ2yySeRqeClur.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895162.mp4"
+        },
+        {
+          "nome": "Cidadão X (1995)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/cvFkIftJGIkSv0x6i8H7paubOQk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895014.mp4"
+        },
+        {
+          "nome": "Cidade da Máfia (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/nUSjEtlVrXKDA6IVZnGfUPOcC0m.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893794.mp4"
+        },
+        {
+          "nome": "Cidade do Sol (2015)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/1ThOZmIQqYHinYo9bb2UHx9Q9Rn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893535.mp4"
+        },
+        {
+          "nome": "Cidade Louca (2016)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/zyeE5iIRJv6WvT891pwYpfHZ0hq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896142.mp4"
+        },
+        {
+          "nome": "Cidades de Papel (2015)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/4th6QFCdko42nuAVK9yu2d9ikFQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893657.mp4"
+        },
+        {
+          "nome": "Cinema Paradiso (1988)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/kkmwHNAiCea2QGX6kgPmdDKaWyp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893576.mp4"
+        },
+        {
+          "nome": "Cinquenta Tons de Liberdade (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/6dS7dlVzMq5vft6IfVCUkZcWBqv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896141.mp4"
+        },
+        {
+          "nome": "Cinturão Vermelho (2008)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/qZf5ZO64vP5ldooMqRbG9N3x1ts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895205.mp4"
+        },
+        {
+          "nome": "Círculo de Paixões (1997)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/ruBn9ItkISS6EpranNDqYc6thsq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895212.mp4"
+        },
+        {
+          "nome": "Cisne Negro (2010)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/tqlmLBt2i5SHNpXEj2nqk10Crwa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895436.mp4"
+        },
+        {
+          "nome": "Clemência (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/sUuY9dl0V1IitKjbS8RH6OyQmws.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895549.mp4"
+        },
+        {
+          "nome": "Cleópatra (1963)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/zGz6N0Gj9LWvrRrUTgkGqmxqr5s.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893663.mp4"
+        },
+        {
+          "nome": "Close (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/nOIBXhexg235lL6RsVI6rp8rQj1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894050.mp4"
+        },
+        {
+          "nome": "Closer: Perto Demais (2004)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/9hhBcRMRCD8M6N3F96i4eq1vTjQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896140.mp4"
+        },
+        {
+          "nome": "Clube da Luta (1999)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/r3pPehX4ik8NLYPpbDRAh0YRtMb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893548.mp4"
+        },
+        {
+          "nome": "Clube de Compras Dallas (2013)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/uLSEfTUCaTZ55ltUSUeVgL4E2xt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895642.mp4"
+        },
+        {
+          "nome": "Coach Carter: Treino para a Vida (2005)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/xQ3tzSGpIeoJEEamRYcFvoTfZCR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893571.mp4"
+        },
+        {
+          "nome": "Cocoricó – A Melhor Escolha (2014)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/gO6hmdQxh3H7Cktc7skAlkPnNaG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896178.mp4"
+        },
+        {
+          "nome": "Código 46 (2003)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/38cIpqFnu4RSg5qhZlzdZCmGTXP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893581.mp4"
+        },
+        {
+          "nome": "Código de Conduta (2009)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/o6QL0gaDeFub0sbG7sUwmfCCFux.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895236.mp4"
+        },
+        {
+          "nome": "Código de Ética (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/zNUR5VWzU1VNM1JAAHIb46588Ke.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896592.mp4"
+        },
+        {
+          "nome": "Código de Honra (1992)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/dlLRtzSiCK2PGc4DPFG6ScYS4xG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894486.mp4"
+        },
+        {
+          "nome": "Código Preto (2025)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/cNhofzD70SbB9PGu1o9DX3FqSO6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893730.mp4"
+        },
+        {
+          "nome": "Coisas Insignificantes (2008)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/htHU5Id8JzQeDNDKFS2ZaREULq8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895151.mp4"
+        },
+        {
+          "nome": "Colateral (2004)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/xJ6dDSQYDZeEGgSu2b0NMif3UMX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896139.mp4"
+        },
+        {
+          "nome": "Colcha de Retalhos (1995)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/lge3PeJX2Ri1H8aRKwKs1UaTCoF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893563.mp4"
+        },
+        {
+          "nome": "Cold Brook: De Volta Para Casa (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/yOlC5j13ZxLY2pxG60yg9Ylh7hf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894425.mp4"
+        },
+        {
+          "nome": "Colette (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/dMJuocb1cguv63XIVY0Dy3tfBAN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895953.mp4"
+        },
+        {
+          "nome": "Com as Próprias Mãos (2004)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/nC9rh9kG839WlElEH7FQIDHrKri.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896138.mp4"
+        },
+        {
+          "nome": "Com as Próprias Mãos (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/lzZxuIXVSlsKrRVZVJbZgdwKPXq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896520.mp4"
+        },
+        {
+          "nome": "Com Deus no Caminho (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/gf8UorHYHxTR8hZAgElXGHLWMDF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895874.mp4"
+        },
+        {
+          "nome": "Como Cães de Guerra (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/tXM7xslfnbK0B4NxgIfNPqe32wG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894024.mp4"
+        },
+        {
+          "nome": "Como Descartar um Corpo (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXqZvvgIEbZM3gQBa4jLcNnLWmx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4160559.mp4"
+        },
+        {
+          "nome": "Como Ganhar Milhões Antes Que a Avó Morra (2024)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/5CQXxYfjDmxS4aQJP7U2J5shoMI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893745.mp4"
+        },
+        {
+          "nome": "Como Matar seu Marido (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/qZlyPAm2Z79oL7KSmTwafcWDMPA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894042.mp4"
+        },
+        {
+          "nome": "Como Me Apaixonei por um Gângster (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/y0XvEUqkLiaiwlq9XovN3p4dkKi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894850.mp4"
+        },
+        {
+          "nome": "Como os Anos me Deixaram (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/yVIe897guSz9i7S2MkuqCqRvrnw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894420.mp4"
+        },
+        {
+          "nome": "Como Uma Onda no Mar (2025)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/d1EhLFtfWgOXVhByDxuos6HDovw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893696.mp4"
+        },
+        {
+          "nome": "Compartilhar (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/g3sdrWXD7GknI0e5OTIyH01Kxs9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894727.mp4"
+        },
+        {
+          "nome": "Compromisso Precioso (1999)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/nN8Yt3h8A7wXloBwYTPolIu23oS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893570.mp4"
+        },
+        {
+          "nome": "Conclave (2024)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/wWn78TMMw8yOdr5sG0Yl9v4saoA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893797.mp4"
+        },
+        {
+          "nome": "Conduzindo Miss Daisy (1989)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/4FB6xnmvtW2vT1t4mKb5vs7JiE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894559.mp4"
+        },
+        {
+          "nome": "Conectados Pelo Amor (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/9ZKauRkxwRnlhzXCfntJDWlrUEQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894211.mp4"
+        },
+        {
+          "nome": "Conexão de Elite (2016)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/p18WtyTy9mSAdaeHW94a4dxRLhM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895318.mp4"
+        },
+        {
+          "nome": "Conexão Escobar (2016)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/xwHZTilUbtAAb4rfwNBRJbzVmlY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895805.mp4"
+        },
+        {
+          "nome": "Conexão Perigosa (2013)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/q4EsAk0IeIaNe9tpGPCe86t3YZ7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895354.mp4"
+        },
+        {
+          "nome": "Confetti: Além das Palavras (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/m2DvXwnSb17gKVj3UM6Ht26ec7m.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893796.mp4"
+        },
+        {
+          "nome": "Confissões de Um Filho (2015)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/hlYHBbGzsNw6ZzPI5Yqrh4Y4kRB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895803.mp4"
+        },
+        {
+          "nome": "Conrad e Michelle: Se Palavras Matassem (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/3XcGbTPByI0pAYI1tcv5hoiDNXZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895762.mp4"
+        },
+        {
+          "nome": "Consentimento (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/kb5L9DbZTGeRnsrBrVD5MXlWNWG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893855.mp4"
+        },
+        {
+          "nome": "Consequências (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/p3j8GWWWS04N5eoKHeyDsTjbqp1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895892.mp4"
+        },
+        {
+          "nome": "Consequências (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/lez1BYutROwBDo1NCcp0pISSAM9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894093.mp4"
+        },
+        {
+          "nome": "Consequências Irreversíveis (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/AekJC3BUrt9XLxcmq8agVKtIp8W.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894132.mp4"
+        },
+        {
+          "nome": "Conserto de motor pequeno (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/8xYm5fZXT0DNuGRUHdkQJ1puNYH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894721.mp4"
+        },
+        {
+          "nome": "Construindo uma Carreira (1991)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/21OizrXoHal5L9x0Lby6Yj5zmrs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895213.mp4"
+        },
+        {
+          "nome": "Conta Comigo (1986)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/mRjlNNPo5wzQ67Ikg5ZWFwWF2jM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895655.mp4"
+        },
+        {
+          "nome": "Contágio (2011)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/vKCC5qNMJAdJwOKZoVSAzGJRO2x.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895739.mp4"
+        },
+        {
+          "nome": "Contágio: Epidemia Mortal (2015)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/2Qusc8k4d2UbryDu1lIJQqcHk3Y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895693.mp4"
+        },
+        {
+          "nome": "Contato (1997)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/jUihxs38jpwhc6rO256h4iRdqNb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895534.mp4"
+        },
+        {
+          "nome": "Contra Corrente (2004)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/uBeTSeYhpBtP8goCCu6ckhejMAC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894965.mp4"
+        },
+        {
+          "nome": "Contra o Gelo (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/Ak7vO8UJS32bOub3aWXCYl7YaQx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894800.mp4"
+        },
+        {
+          "nome": "Controle: A História de Ian Curtis (2007)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/oQbosZPyHzZM9QICz4zfeCNCh6u.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893834.mp4"
+        },
+        {
+          "nome": "Copperman - Um Herói Especial (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/qgyTgQ6xoeuqHLcTLOIV0ZfCtYO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894458.mp4"
+        },
+        {
+          "nome": "Coração de Caçador (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/ea0p1FbOidbtVtfm8thabvHeBlJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893988.mp4"
+        },
+        {
+          "nome": "Coração de Campeão (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/cTayZvZzIqHPihU86ei7XhJ8JkD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894745.mp4"
+        },
+        {
+          "nome": "Coração de Cavaleiro (2001)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/zn0PeaYPzcTto29R9MEieXAyaQd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894377.mp4"
+        },
+        {
+          "nome": "Coração de Cowboy (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/rsap8bgIaZ6HB8OZsyHprh5uMOP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895921.mp4"
+        },
+        {
+          "nome": "Coração de Neon (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/lRPANd37PjCj5kyboB6s3mtBlGm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894265.mp4"
+        },
+        {
+          "nome": "Coração Errante (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/8CvelbX5L4Yl9na097PSqPMcpZa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895043.mp4"
+        },
+        {
+          "nome": "Coração Indomável (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/e94ABS22s5Va2t6dhIEgpDbxelZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894618.mp4"
+        },
+        {
+          "nome": "Coração Violento (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/yMraHsIrr3Wc90tVKtBDAN7ePXP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894939.mp4"
+        },
+        {
+          "nome": "Corações Batendo Alto (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/wwC8ssH8Xu0WVkOi2gdTIle3Pa0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895771.mp4"
+        },
+        {
+          "nome": "Corações Prometidos (2025)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/5w4tc7RJOT104dHXQUla5xRQVPT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893759.mp4"
+        },
+        {
+          "nome": "Coragem para Amar (2017)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/p8zmvvIoxVyu6tKpVb0v3gZ9m5Q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895830.mp4"
+        },
+        {
+          "nome": "Coragem para Vencer (2016)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/eAtkibhtvRBGrwRNraaqhrbEhV8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893600.mp4"
+        },
+        {
+          "nome": "Coragem para Vencer (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/iKx63lE5UfRsAhYBX1weYQ43bx7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894000.mp4"
+        },
+        {
+          "nome": "Coragem Sob Fogo (1996)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/daaF6xyYdTnGAgQ3H9OMV14v43Q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895005.mp4"
+        },
+        {
+          "nome": "Coringa: Delírio a Dois (2024)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/jNttwl5CYgnxNwQ8157BxyYJqu2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893936.mp4"
+        },
+        {
+          "nome": "Coriolano (2011)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/gT0PDU2W5gtSpqOjb5rhIvqBrSe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893639.mp4"
+        },
+        {
+          "nome": "Corpo Fechado (2000)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/t0NieBaFxHuHr692RkjccBAnU9X.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896136.mp4"
+        },
+        {
+          "nome": "Corpus Christi (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/94l5tagsFM2x8SFa0ANtUrcB5Il.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895594.mp4"
+        },
+        {
+          "nome": "Corra (2014)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/yJzjUpSrnRGzCJ1YotbtFsr1ynd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893562.mp4"
+        },
+        {
+          "nome": "Correndo Contra o Vento (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/qCH1BFZ98GzYBm3tJb23ELpHGLm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894997.mp4"
+        },
+        {
+          "nome": "Correndo Por Um Sonho (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/2L31gDii1TybJKveiaMhnnVaXZG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895680.mp4"
+        },
+        {
+          "nome": "Corrida Selvagem (2006)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/cbEPW9aEfDAkfwgMLpn4JzqqpOL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896135.mp4"
+        },
+        {
+          "nome": "Cosmópolis (2012)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/nWCaRAY5ihCBZQHRXh6yTnplWYB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895321.mp4"
+        },
+        {
+          "nome": "Cowboys (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/aCpNIX9oKp5qxA3WCVgT3Hk3yL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894917.mp4"
+        },
+        {
+          "nome": "Crash: Estranhos Prazeres (1996)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/e6fWwKUqMWO4Bqj4Nky019UO4tK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895448.mp4"
+        },
+        {
+          "nome": "Crash: No Limite (2005)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/4pwHDsYeOVsdLT8TykM047hIkKA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895240.mp4"
+        },
+        {
+          "nome": "Creed III (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/kLgmZVrRVY41FWCCidi9IqmM473.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894446.mp4"
+        },
+        {
+          "nome": "Creed: Nascido para Lutar (2015)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/53VTzu0nhbNYmIbqdDbFqobsLHt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896134.mp4"
+        },
+        {
+          "nome": "Crescendo Juntos: A História de Erik e Malik (2024)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/cuZlmYHa3FL7BvsFM9iJoqaapia.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894031.mp4"
+        },
+        {
+          "nome": "Crescer é Muito Chato (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/bs49EWboZTO12cxu4cXyUSAxxib.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894641.mp4"
+        },
+        {
+          "nome": "Criaturas do Senhor (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/rrlBIHAZ8yvqbhgzrMMGtMG9mO5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894378.mp4"
+        },
+        {
+          "nome": "Crime e Sentença (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/5nqM9gRElByVA5IPRhLzIzEuHYQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893641.mp4"
+        },
+        {
+          "nome": "Crime na Rodovia Paraíso (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/dvORIgcnRclbvGQ7jtcyDqPLKju.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894488.mp4"
+        },
+        {
+          "nome": "Crimes de Família (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/suVb5zxMvfoJ0ugvthas41KMDqq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895578.mp4"
+        },
+        {
+          "nome": "Crimes Na Escola (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/x0fSsTZpeNjMmjI2uFV69nYuwHW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895929.mp4"
+        },
+        {
+          "nome": "Cristais de Sangue (1975)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/lwwIOyaiLAqVvJRV79keVEyKmnK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893718.mp4"
+        },
+        {
+          "nome": "Cruzada (2005)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/2VXjb6myxAppgfu6YRF4YsVmjZo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896133.mp4"
+        },
+        {
+          "nome": "Cry Macho: O Caminho para a Redenção (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/qj6NMf7CXgidcjgR3IhmZIfr780.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895015.mp4"
+        },
+        {
+          "nome": "Crypto Boy (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/6QOukjAgAm9L1WNiOjqJzlg5luU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894246.mp4"
+        },
+        {
+          "nome": "Culpa (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/wYDk06rt8WAKnhBZX30LVFTh6A3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895845.mp4"
+        },
+        {
+          "nome": "Curiosa (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/eyJgh0oh73YZ63nJHOJxHkLatgb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895694.mp4"
+        },
+        {
+          "nome": "Curral (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/mbSOhSteIIJuJE4ApNgM2fcQUP2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894722.mp4"
+        },
+        {
+          "nome": "Curvas da Vida (2012)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/3T0yuq3lH2xbnA1Ur8DIcXYuduf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893597.mp4"
+        },
+        {
+          "nome": "Cyrano (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/e4koV8iC2cCM57bqUnEnIL2a2zH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894749.mp4"
+        },
+        {
+          "nome": "Dança com Lobos (1990)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/rhdrY0b7AftFnA6yaQXWLVHxDag.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895516.mp4"
+        },
+        {
+          "nome": "Dança Comigo? (2004)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/nBjSWrqs84g8fSbuCoU3WC0t8VX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894607.mp4"
+        },
+        {
+          "nome": "Dano Colateral (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/6fhqb5JegWJGMuomR3Jqmo0Skqn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895047.mp4"
+        },
+        {
+          "nome": "De Agora Em Diante (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/sl7uXQhX8IM5rdiHbRWHdv4pKKB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894590.mp4"
+        },
+        {
+          "nome": "De Coração Partido (2009)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/pHo33GcAdx0lJyh6B0XHmRtZKqk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893603.mp4"
+        },
+        {
+          "nome": "De Costas Para o Mundo (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/74exd8HNYE3ERzuJWvJ6ifuVUkL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893919.mp4"
+        },
+        {
+          "nome": "De Encontro com o Amor (2005)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/zAugaFKkGYjM5UwPbt1YitvoWmc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893819.mp4"
+        },
+        {
+          "nome": "De Férias para o Amor (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/67Q6ga3DoVnTkxmFsW1p5hbTMMC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894431.mp4"
+        },
+        {
+          "nome": "De Fora para Dentro (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/j8W4VbOU72Y8brL705uefNlcCRF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896132.mp4"
+        },
+        {
+          "nome": "De Olhos Bem Fechados (1999)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/pmU8WQ2fOdxLuYaNe1kHE2L8SlI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894009.mp4"
+        },
+        {
+          "nome": "De Repente Drag (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/kQxH3EoJMZZot2jRUNo0NuX09A0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894406.mp4"
+        },
+        {
+          "nome": "De Tyler Perry: Duplicidade (2025)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/qo2NF3cybNajzf1nP71X3KQk7AJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893777.mp4"
+        },
+        {
+          "nome": "De Volta à Lagoa Azul (1991)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/1Ok3ZAnUXJk4y0Ij4QCt1LyYX7b.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896182.mp4"
+        },
+        {
+          "nome": "De Volta ao Mar (2024)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/a1PVrIfWecgmzv5x799NVMssUAp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893812.mp4"
+        },
+        {
+          "nome": "De Volta Para Casa (2017)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/cYtSGwqq5fbfYckCqYplchg3MCo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895669.mp4"
+        },
+        {
+          "nome": "De Volta para Casa (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/c32HxMz6Ao55YLVlyLGHPWeC3eL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894783.mp4"
+        },
+        {
+          "nome": "De Volta para o Presente (1999)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/uagAZJ5Uo0UUqk2nn8Geom42Mdh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893793.mp4"
+        },
+        {
+          "nome": "Decisão (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/2yMnVX4Tslzv1mKLsgDc9VOcTE2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895573.mp4"
+        },
+        {
+          "nome": "Decisão de Partir (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/5dA7KWckx8LbUrj4GlTZgngeJ4S.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894474.mp4"
+        },
+        {
+          "nome": "Defendor (2009)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/a1ce5xYYkwSCqIHh0nGKnh7Zs7Q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895122.mp4"
+        },
+        {
+          "nome": "Deixe-o Partir (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/fDVKqWgljauo1Frc1CbdeKr2G8O.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895385.mp4"
+        },
+        {
+          "nome": "Del Otro Lado Del Jardín",
+          "descricao": "Filmes De Drama",
+          "capa": "http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/gdvyfFis1lCNh21yWjObksgm0wK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893938.mp4"
+        },
+        {
+          "nome": "Dentro (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/yQjcYCFfBLRQvnvkHy5rbHMUewH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894166.mp4"
+        },
+        {
+          "nome": "Depois da Chuva (1999)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/oDMFrrjfJSMGRUAb6VSZum7CeQ5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893863.mp4"
+        },
+        {
+          "nome": "Depois da Escuridão (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/v5pZrA9q4RM9KpLMen4WiM9MmKG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895770.mp4"
+        },
+        {
+          "nome": "Depois do Apocalipse (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/jr3nB10cbgIR1wd4cHyrJTGH6I.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895920.mp4"
+        },
+        {
+          "nome": "Depois do Casamento (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/phGuz7jLh8qUNoBw2QsFIVeuRRk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895761.mp4"
+        },
+        {
+          "nome": "Desafiando os Limites (2005)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/1WqFOSF3RwyK7OcgPtc51uJB9ym.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896131.mp4"
+        },
+        {
+          "nome": "Desafie a Escuridão (2025)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/s1qCaXeiYABTxqFmiMEpD1xvywW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893764.mp4"
+        },
+        {
+          "nome": "Desamantes (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/3oqbsKLOVfgCGFNCNqsBcLTNueu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894928.mp4"
+        },
+        {
+          "nome": "Descobrindo Novos Ventos (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjq231E2zVe4wnzIdakembLdxW4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4166648.mp4"
+        },
+        {
+          "nome": "Desconhecida (2016)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/kN69Ab3d68owotgHAimF2stUv3Y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893646.mp4"
+        },
+        {
+          "nome": "Desejo Fatal (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/hitaPwcBpcoQPx8ZjxbFZ48zm6s.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895919.mp4"
+        },
+        {
+          "nome": "Desejo Proibido (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/xa0xWdFSGuFVVK5GMt8GSurfFjl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894352.mp4"
+        },
+        {
+          "nome": "Desejos Passageiros (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/vRC6KFyHboWTtcorlr6SK6D5fOP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894399.mp4"
+        },
+        {
+          "nome": "Desencaixados (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/faBlHGSclZX96MOUiQowSOJOO5J.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894157.mp4"
+        },
+        {
+          "nome": "Deserto (2015)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/oXbThdfSnR9tZbhItsJURZVSIZp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894308.mp4"
+        },
+        {
+          "nome": "Deserto Particular (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/jEKDQnXdRG7wRjvPmJwXJJGLN8t.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894776.mp4"
+        },
+        {
+          "nome": "Desgrávida (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/A9nh1wqylySqotT1CWYW0mrZSAA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895210.mp4"
+        },
+        {
+          "nome": "Desobediência (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/jxTaF3jMaZ5Bui7Qva2vCaD3Dix.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894854.mp4"
+        },
+        {
+          "nome": "Despedida em Las Vegas (1995)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/tKt65ySaTfxtFQyXJt6y9Pjl6xZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894376.mp4"
+        },
+        {
+          "nome": "Despertar para a Vida (1992)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/d9Pcz5Ii8xQ9inaGLo5do7JORdl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895134.mp4"
+        },
+        {
+          "nome": "Destacamento Blood (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/sl2qDR4aRHW5bAJdfiFC4H2NKWZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895615.mp4"
+        },
+        {
+          "nome": "Desterro (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/w3y7C8p2CfenguopR2yCOlIthP0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894535.mp4"
+        },
+        {
+          "nome": "Destino Londres (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/8Lee7JPuq7XWUErCoJZqCMhuBMQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894122.mp4"
+        },
+        {
+          "nome": "Desventuras da Vida Adulta (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/dA5zSBUPCv7xh2V7NQStJC4cpP5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894236.mp4"
+        },
+        {
+          "nome": "Detroit em Rebelião (2017)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/nPQYIRH6WRnQuZk8bDcBZV1iacq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895896.mp4"
+        },
+        {
+          "nome": "Deus Não Esta Morto: O Próximo Capítulo (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/kPLGhukHKy8kbYntAOvHQgztxe4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894796.mp4"
+        },
+        {
+          "nome": "Dezessete (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/lxtK0OemfcOH6DfusR5ZT4C7Afd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895829.mp4"
+        },
+        {
+          "nome": "Diamante de Sangue (2006)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/hPxJvcZJiuDdYCUzwCbOCzsKAOf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895741.mp4"
+        },
+        {
+          "nome": "Diamantes do Caos (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/sBH3IkwCCMGIWAkdQ00tOEmLPkm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894250.mp4"
+        },
+        {
+          "nome": "Diário de um Adolescente (1995)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/mdQoyPS3QICr3texSpvNqkdmqD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896130.mp4"
+        },
+        {
+          "nome": "Diarios de Motociclista",
+          "descricao": "Filmes De Drama",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Diarios%20de%20Motociclista.png",
+          "url": "http://servidor/movie/{user}/{pass}/3896129.mp4"
+        },
+        {
+          "nome": "Dias de Desejo (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/ihkJjmIPwno6uDF6njWcCwbL8a6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894423.mp4"
+        },
+        {
+          "nome": "Dias Melhores (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/hHt3i1CZWwI6BRpheCcVvBdrBcb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895181.mp4"
+        },
+        {
+          "nome": "Dias Perfeitos (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4oCDJgtYPg8lWqmeNIsqPwzZ7X.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4160509.mp4"
+        },
+        {
+          "nome": "Dias Sem Fim (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/spMoofhPZfSOMJpbsDfltvWkU9p.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895650.mp4"
+        },
+        {
+          "nome": "Difícil de Engolir (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/1ByR9H5av86GaRkZqnbzP3kRVJY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895064.mp4"
+        },
+        {
+          "nome": "Dinheiro Fácil (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/l3pI4Nbe9vRC2cd7WsHtiMGZW0T.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894134.mp4"
+        },
+        {
+          "nome": "Direito à Vida (2015)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/vKyGnQz0hcvYaVABLM2ByDWcFAI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894057.mp4"
+        },
+        {
+          "nome": "Dirty Dancing 2: Noites de Havana (2004)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/w0wPl3d1yvveInjV2kpO2NCZNMz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896127.mp4"
+        },
+        {
+          "nome": "Dirty Dancing 3: Capoeira Nights (2010)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/bZ75Ycwp3rAy1NZczxscnYS3jU1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896126.mp4"
+        },
+        {
+          "nome": "Dirty Dancing: Ritmo Quente (1987)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/mUVIRUpqKQa8uKDgyYrQHs6rlbz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896128.mp4"
+        },
+        {
+          "nome": "Disque Jane (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/qK2sx7wBd3bhkdh6S2fsfS0CuCd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894525.mp4"
+        },
+        {
+          "nome": "Divaldo: O Mensageiro da Paz (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/a0qUWUddEMySjvvOUpAAlXWNrZt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895665.mp4"
+        },
+        {
+          "nome": "Divino Amor (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/drfb2OVV6mKnJqY4EUl6OHREk2l.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895842.mp4"
+        },
+        {
+          "nome": "Do Fundo do Coração (2012)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/7pvBKUEEs1kwZOtJMevZ9NUM2CH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893792.mp4"
+        },
+        {
+          "nome": "Doce Tentação (2012)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/1mC7n5YVSdo76qxgEjeeAb9c7s4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893543.mp4"
+        },
+        {
+          "nome": "Doce Vingança: O Mistério de Hannah Swensen (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/6Wbq2D8VbZ1uVS3WUTYpCr7Iz4I.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894655.mp4"
+        },
+        {
+          "nome": "Doce Virginia (2017)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/LCtVQdNo2d9WLU1kfXi4gqgWXr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896125.mp4"
+        },
+        {
+          "nome": "Doente de Amor (2006)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/xX5TRjkUxkIdWbOmXM0zaxGq5ru.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894948.mp4"
+        },
+        {
+          "nome": "Dog - A Aventura de Uma Vida (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gln0b5rezteLuyv9kO1q0h0vqnA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4160534.mp4"
+        },
+        {
+          "nome": "Doi Boy (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/79Fpqtpw1bpnzAkqz2vcxplzI84.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894191.mp4"
+        },
+        {
+          "nome": "Dois Homens Contra uma Cidade (2014)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/587tbv6TZxaTXvLbwwvqWNRssU7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895641.mp4"
+        },
+        {
+          "nome": "Dois Lados do Amor (2014)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/f1a7J3LG4tNTXcDPkxGnEBm9ASw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894877.mp4"
+        },
+        {
+          "nome": "Dois Papas (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/lZmD4lMCgZydh8vAkx7JsykfqcW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895769.mp4"
+        },
+        {
+          "nome": "Domando o Destino (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/lLL5KBzOywkqg2agi6SE3Ss3ulg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895903.mp4"
+        },
+        {
+          "nome": "Donnie Brasco (1997)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895336.mp4"
+        },
+        {
+          "nome": "Donnie Darko (2001)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/6FKym4sm5LcqUC80HNpn2ejVoro.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893547.mp4"
+        },
+        {
+          "nome": "Donnybrook - Luta Pela Redenção (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/jbw7jGT9PFLJQqyoxuXLqbhQmWQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893775.mp4"
+        },
+        {
+          "nome": "Dor e Glória (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/9dUZqJyoCtqv8rPOWIrOwrErb2Q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895738.mp4"
+        },
+        {
+          "nome": "Dora e Gabriel (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/nfy3ZYbIboTD10YyHDEykL3tmY9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895026.mp4"
+        },
+        {
+          "nome": "Dormindo com o Inimigo (1991)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/MDHMzwa1xkTZDhed68kviLIIj2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893774.mp4"
+        },
+        {
+          "nome": "Doutor Gama (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/rnQZz5SAHMB6DSEhM9bSZ6DdSw6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895158.mp4"
+        },
+        {
+          "nome": "Downhill (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/ruLqLb2bfWKykckxVlVZayuBOgW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894652.mp4"
+        },
+        {
+          "nome": "Downton Abbey (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/lXoUmgHslfmC6kIhy814unBhptx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895406.mp4"
+        },
+        {
+          "nome": "Downton Abbey II: Uma Nova Era (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/bbYN97IJhezFG9bGnSSG42Cz3lm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894664.mp4"
+        },
+        {
+          "nome": "Dr. Fantástico (1964)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/gSTwvjt8BmZ3IwlpsltNzasamgt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895199.mp4"
+        },
+        {
+          "nome": "Dr. Semmelweis (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/ea105uIesnD56ajaPsRDVTm3Fmm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896539.mp4"
+        },
+        {
+          "nome": "Dreamgirls: Em Busca de um Sonho (2006)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/iOnvL3i8yVgFiIe6cLPELp1Yi1K.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893717.mp4"
+        },
+        {
+          "nome": "Drive My Car (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/z9QqfYRtYS3VqIsWkD09hpilyQ3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894101.mp4"
+        },
+        {
+          "nome": "Driveways: Uma Amizade Inesperada (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/c5u8upKRX1vLbYeSQF4PwP1YHuI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894415.mp4"
+        },
+        {
+          "nome": "Drogada e Prostituída (1981)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/gG6ys9aWL5RhUgx5PW0QZ9thgG7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894397.mp4"
+        },
+        {
+          "nome": "Duas Rainhas (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/xFw9yOMb8M7tPmXXXY2xkInmSkA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895905.mp4"
+        },
+        {
+          "nome": "Dublê de Anjo (2006)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/h7N9tVbkODyKlZMNwG9mLLXG6bU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896179.mp4"
+        },
+        {
+          "nome": "Duck Butter (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/uhO5WFmf17ckCKwy6l3k9tt0z9z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893628.mp4"
+        },
+        {
+          "nome": "Duelo de Espiões (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/abQ2AxjfiDRcflfPX1EUe4rXy0i.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893875.mp4"
+        },
+        {
+          "nome": "Duelo de Titãs (2000)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/kuKyp6Owly8yWXeqdi4H8NAXhU6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895468.mp4"
+        },
+        {
+          "nome": "Duetto (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/rLDxei8UyZbwOnP8Q7NoCikzDsI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894569.mp4"
+        },
+        {
+          "nome": "Duma (2005)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/opoDxQW9S6SaiP8rY7urw16QVTL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894911.mp4"
+        },
+        {
+          "nome": "Dunkirk (2017)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/kO6ewhlh7OIGRRbHwylDafEM1QG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896124.mp4"
+        },
+        {
+          "nome": "Durante a Tormenta (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/9budLmEhV6mw4ewT56JVL2sAIe7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895964.mp4"
+        },
+        {
+          "nome": "E Amanhã... O Mundo Todo (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/qid8NlS6dbD5UXc6Ysaq8YUnGwr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895300.mp4"
+        },
+        {
+          "nome": "É Como Se Ninguém Me Entendesse (2017)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/6aBeF8TFqIOYjpEgPgKiGIST3wt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894300.mp4"
+        },
+        {
+          "nome": "E Então Nós Dançamos (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/aGKXB1VxKxs7FdrewRYndr1vvYH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894565.mp4"
+        },
+        {
+          "nome": "Eclipse Total (1995)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/fxh3CSHaUD4uoKFAOHj31VENb6l.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895276.mp4"
+        },
+        {
+          "nome": "Ecos do Passado (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/zKfsrotIlbjas1g31e9lMTFMqeo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894088.mp4"
+        },
+        {
+          "nome": "Éden - O Mundo de Eva (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/8Z55ugPVeMUICXQjyxUt8cLGbLa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894841.mp4"
+        },
+        {
+          "nome": "Educação (2009)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/6qmTM8mzJddhOnKBDMiapkVPerm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895275.mp4"
+        },
+        {
+          "nome": "Efeito Dominó (2008)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/2V1qr9Ts1UCUuhPYBNh8TCut91P.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894294.mp4"
+        },
+        {
+          "nome": "Efeito Espacial (2002)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/yiKOfMwKlPsF3e3uYvr8RxlK8Fc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893862.mp4"
+        },
+        {
+          "nome": "El Camino: A Breaking Bad Film (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/5RjDlj17jz31kBIRYRk6iEB3YnJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895828.mp4"
+        },
+        {
+          "nome": "El Chicano: O Mito (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/iz3P41zgLjkNwr3zmAnesgioDAs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895614.mp4"
+        },
+        {
+          "nome": "El(a) (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/503ldQNv88Mx3hTitNtcY2aL0XD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894867.mp4"
+        },
+        {
+          "nome": "Ela (2013)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/5MKayZIHqdIxAEfWa51iX2amZEG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895906.mp4"
+        },
+        {
+          "nome": "Ela Disse (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/8BNJjZRfNoD0bskwuY3Oekzz2Ih.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894477.mp4"
+        },
+        {
+          "nome": "Ela é Demais (1999)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/mo6KM7wxkxEeNGJmNsiANMP1jfK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894292.mp4"
+        },
+        {
+          "nome": "Ela Morre Amanhã (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/j004fsXKPnrj0EIZgMhy8IMT0mr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895241.mp4"
+        },
+        {
+          "nome": "Elas por Elas (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/iCdg0eujue8YBWc1czYwIXOiRcM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894213.mp4"
+        },
+        {
+          "nome": "Ele Nunca Morre (2015)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/8luTYxMN8DtQouu0RrEsVCMrAd5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895073.mp4"
+        },
+        {
+          "nome": "Elena Sabe (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/nm90M4WPMXk9B4xjuaQQee4YvGF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894194.mp4"
+        },
+        {
+          "nome": "Elisa e Marcela (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/q55eMaSitp2UlbMrb5TXhsNWGt2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895899.mp4"
+        },
+        {
+          "nome": "Ella e John (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/vVxbWZuUOopIqN9ObJqPNL9k703.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894746.mp4"
+        },
+        {
+          "nome": "Elle (2016)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/4lbQtYYEXphkDvjJ8sD8EM6eo11.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895952.mp4"
+        },
+        {
+          "nome": "Elon Não Acredita na Morte (2017)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/6rC8EDH6uULqunsH5pwNFYWmdlx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895951.mp4"
+        },
+        {
+          "nome": "Elvis & Anabelle: O Despertar de Um Amor (2007)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/x6AgxjqoZwAOqJLs3uXT4DFdup1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895083.mp4"
+        },
+        {
+          "nome": "Elvis & Nixon (2016)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/pwUXhwUAOq3J7ixxwOIWpMAFbje.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895640.mp4"
+        },
+        {
+          "nome": "Elvis (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894646.mp4"
+        },
+        {
+          "nome": "Elyse - A coragem vem do coração (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/agOc0OEXdLr7bB8IgzbUBeEhOB9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894533.mp4"
+        },
+        {
+          "nome": "Em Algum Lugar do Passado (1980)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/aKGMcizZuTMKMkqmdP9cRECtwyQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893832.mp4"
+        },
+        {
+          "nome": "Em Busca da Eterna Juventude (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/lhCQc23RjqfJkKK3iApwvoqnZ9s.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894320.mp4"
+        },
+        {
+          "nome": "Em Busca de Mim (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/liJ4HcdAl8oizjZ8maOJ9ddW9Fv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894499.mp4"
+        },
+        {
+          "nome": "Em Busca de um Lar (2013)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/2A7xvsyhofE0gPKzi4WYVo5507h.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895384.mp4"
+        },
+        {
+          "nome": "Em Busca de um Milagre (2020)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/tV4RPHjdpR5Yfe4e6gpGjp13kW4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895485.mp4"
+        },
+        {
+          "nome": "Em Busca de Zoe (2019)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/uqotnP1wZ7tn03cFmbzPFLRYx8O.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895679.mp4"
+        },
+        {
+          "nome": "Em Chamas (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/dh0xebH7dT8keNFflIdjhqeiMVY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894068.mp4"
+        },
+        {
+          "nome": "Em Nome da Honra (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/sDi26fw5cOqUzFE7RVtOro1KokZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893893.mp4"
+        },
+        {
+          "nome": "Em Nome do Pai (1993)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/xbCk3YJOZD5PKYD6nnDEWyJBFeI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895372.mp4"
+        },
+        {
+          "nome": "Em Outros Tempos (2023)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/qoWxHD6oDgkFdlonqEq0l46MqB4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894317.mp4"
+        },
+        {
+          "nome": "Em Retirada (2017)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/qQfybAMGw5Cu6tkPY994yAzAovl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894970.mp4"
+        },
+        {
+          "nome": "Em um Bairro de Nova York (2021)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/57stjvmmKTEsscXfWmFHsFoISq5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895189.mp4"
+        },
+        {
+          "nome": "Em Um Relacionamento Sério (2018)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/87AoWAqeW0DH6xbpJaVm7RA2MEa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895136.mp4"
+        },
+        {
+          "nome": "Emancipation: Uma História de Liberdade (2022)",
+          "descricao": "Filmes De Drama",
+          "capa": "https://image.tmdb.org/t/p/w780/izTIOynukDcN9dp7uPlwBjHr8f5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3894544.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
