@@ -1,0 +1,2816 @@
+{
+  "canais": [
+    {
+      "album": "Comedia",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Comedia.png",
+      "subAlbuns": [],
+      "itens": []
+    }
+  ],
+  "filmes": [
+    {
+      "album": "Comedia",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Comedia.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "Mais Que Especiais (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/zKrz1drYSUMq3swGIay3tpvPzJ6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916433.mp4"
+        },
+        {
+          "nome": "Mais Um Verão Com Mamãe (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/dULsliSxx0cO9m4XEOFT7AOmR2z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916811.mp4"
+        },
+        {
+          "nome": "Mais Uma Sexta-Feira em Apuros (2000)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/hcCH7uqwln8FfFdc2GeaZ0ue6gK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915434.mp4"
+        },
+        {
+          "nome": "Mais Uma Vez (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/iQ8nXd8L4aVNExq0RKjyl1EtA7A.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916023.mp4"
+        },
+        {
+          "nome": "Mais Uma Vida (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/byMdaD2oQNmgcI9Ohak9m1T0wE0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915744.mp4"
+        },
+        {
+          "nome": "Maldita Sorte (2007)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/zauSy5HbzTSoA6cKnMYIr3DTSnR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916753.mp4"
+        },
+        {
+          "nome": "Malibu Crush (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/8TszCQUjievKmO0i8eMpXQIQQSz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916217.mp4"
+        },
+        {
+          "nome": "Mamãe É Uma Espiã (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/AfAr4WwsDUrNunENXRBqf4op6IK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917034.mp4"
+        },
+        {
+          "nome": "Mamãe Foi Viajar (2017)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/bVOFiML9ArNTSIUpTPCV4AfYLkR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915412.mp4"
+        },
+        {
+          "nome": "Mamãe: Operação Balada (2014)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/5sY6GH2DACNPfihqrJuUBAZVEv1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915371.mp4"
+        },
+        {
+          "nome": "Mamma Mia! (2008)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/xb3SnxHBLYUjpYU78C0qv0RLLtd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916666.mp4"
+        },
+        {
+          "nome": "Mamma Mia!: Lá Vamos Nós de Novo (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/5nWqFF7wfLO9UllwS7i9qScK5GV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915446.mp4"
+        },
+        {
+          "nome": "Mapa do Sexo (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/gEj0FAcl1eCho9nigWyCAc92cgi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916890.mp4"
+        },
+        {
+          "nome": "Máquina de Guerra (1998)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/h9d4kafpsC4Wgd9qUro3QXDT00Q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916515.mp4"
+        },
+        {
+          "nome": "Maratona do Amor (2007)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/e9H8t69TDp3LI1GIBVeGXfoIOJX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915558.mp4"
+        },
+        {
+          "nome": "Maré de Azar (2009)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/bXsbDnZs2AC9dGXIq0qvZhiBshW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916632.mp4"
+        },
+        {
+          "nome": "Maria do Caritó (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/rKhdv1t80EEvsSTidzcR4WgBovq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916174.mp4"
+        },
+        {
+          "nome": "Marido e Mulher (2017)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/atfIvKtOW2NtI5n383x0Vps1wTP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917353.mp4"
+        },
+        {
+          "nome": "Marido por Acaso (2008)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/rqOaIW7bmKB5MsZVuvW5DgoQqZM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917352.mp4"
+        },
+        {
+          "nome": "Maridos (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvOEOblAQl3ZWIMo4XbjtCXeMsy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4166682.mp4"
+        },
+        {
+          "nome": "Marley & Eu (2008)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/4P9L5dFWz8q79YJ9mdAQ5BcQBTG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916653.mp4"
+        },
+        {
+          "nome": "Marley & Eu 2 - Filhote Encrenqueiro (2011)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/x10cgSz3ePjbls4Eyufu9ySopvQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916656.mp4"
+        },
+        {
+          "nome": "Marmaduke (2010)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/e1hxniKMiRIpGiad0BCATn4d8uv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915470.mp4"
+        },
+        {
+          "nome": "Mary & Outras Pessoas (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/3kbBVx5MRaPq7sN01CR4dF6quqj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916210.mp4"
+        },
+        {
+          "nome": "Mary para Prefeita (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/nkaJZGeVm0nR3i1n8Kc1Ja2rwsk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916057.mp4"
+        },
+        {
+          "nome": "Más Intenções (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/hkcMlbheyOy6sNlIiglTGX6nvoS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917000.mp4"
+        },
+        {
+          "nome": "MASH (1970)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/sGT8KMnARjnv3ODPF1QfdBtnPGr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916727.mp4"
+        },
+        {
+          "nome": "Matadores de Velhinha (2004)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/xT3o0tIpUjNsOhhsBUDINUl2wN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916696.mp4"
+        },
+        {
+          "nome": "Mate-me se Puder (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/e2ghk75hCIu7N2Xk7baIJtvwMPP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915910.mp4"
+        },
+        {
+          "nome": "Matilda (1996)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/anKGylXCQ8NUv41TusuxIxbA06i.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917351.mp4"
+        },
+        {
+          "nome": "Mazzaropi - A Carrocinha",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20A%20Carrocinha.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917349.mp4"
+        },
+        {
+          "nome": "Mazzaropi - As Aventuras de Pedro Malazartes",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20As%20Aventuras%20de%20Pedro%20Malazartes-01.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917348.mp4"
+        },
+        {
+          "nome": "Mazzaropi - Betao Ronca Ferro",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20Betao%20Ronca%20Ferro.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917347.mp4"
+        },
+        {
+          "nome": "Mazzaropi - Casinha Pequenina",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20Casinha%20Pequenina.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917345.mp4"
+        },
+        {
+          "nome": "Mazzaropi - Chico Fumaca",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20Chico%20Fumaca.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917344.mp4"
+        },
+        {
+          "nome": "Mazzaropi - Chofer de Praca",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20Chofer%20de%20Praca.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917343.mp4"
+        },
+        {
+          "nome": "Mazzaropi - Fuzileiro Do Amor",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20Fuzileiro%20Do%20Amor.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917342.mp4"
+        },
+        {
+          "nome": "Mazzaropi - Gato de Madame",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20Gato%20de%20Madame.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917341.mp4"
+        },
+        {
+          "nome": "Mazzaropi - Jeca contra o Capeta",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20Jeca%20contra%20o%20Capeta.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917339.mp4"
+        },
+        {
+          "nome": "Mazzaropi - Jeca e Seu Filho Preto",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20Jeca%20e%20Seu%20Filho%20Preto.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917338.mp4"
+        },
+        {
+          "nome": "Mazzaropi - Jeca Tatu",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20Jeca%20Tatu.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917340.mp4"
+        },
+        {
+          "nome": "Mazzaropi - Jecao Um Fofoqueiro No Ceu",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20Jecao%20Um%20Fofoqueiro%20No%20Ceu.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917337.mp4"
+        },
+        {
+          "nome": "Mazzaropi - Meu Japao Brasileiro",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20Meu%20Japao%20Brasileiro.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917336.mp4"
+        },
+        {
+          "nome": "Mazzaropi - No paraiso das solteironas",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20No%20paraiso%20das%20solteironas.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917334.mp4"
+        },
+        {
+          "nome": "Mazzaropi - O Cineasta das Platéias (2002)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20O%20Cineasta%20das%20Plat%C3%A9ias%20(2002).png",
+          "url": "http://servidor/movie/{user}/{pass}/3917325.mp4"
+        },
+        {
+          "nome": "Mazzaropi - O Grande Xerife",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20O%20Grande%20Xerife.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917332.mp4"
+        },
+        {
+          "nome": "Mazzaropi - O Jeca e a Egua Milagrosa",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20O%20Jeca%20e%20a%20Egua%20Milagrosa.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917330.mp4"
+        },
+        {
+          "nome": "Mazzaropi - O Lamparina",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20O%20Lamparina.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917328.mp4"
+        },
+        {
+          "nome": "Mazzaropi - O Puritano da rua augusta",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20O%20Puritano%20da%20rua%20augusta.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917327.mp4"
+        },
+        {
+          "nome": "Mazzaropi - Portugal Minha Saudade",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20Portugal%20Minha%20Saudade.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917324.mp4"
+        },
+        {
+          "nome": "Mazzaropi - Tristeza do Jeca",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20Tristeza%20do%20Jeca.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917322.mp4"
+        },
+        {
+          "nome": "Mazzaropi - Um Caipira em Bariloche",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20Um%20Caipira%20em%20Bariloche.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917321.mp4"
+        },
+        {
+          "nome": "Mazzaropi - Uma Pistola para Djeca",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20Uma%20Pistola%20para%20Djeca.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917320.mp4"
+        },
+        {
+          "nome": "Mazzaropi - Ze Periquito",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi%20-%20Ze%20Periquito.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917319.mp4"
+        },
+        {
+          "nome": "Mazzaropi- O Noivo Da Girafa",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Mazzaropi-%20O%20Noivo%20Da%20Girafa.png",
+          "url": "http://servidor/movie/{user}/{pass}/3917318.mp4"
+        },
+        {
+          "nome": "Me Assuste (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/8X6ODeD0LxeYv4ckIgr6YdmcOb3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916078.mp4"
+        },
+        {
+          "nome": "Megarromântico (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/w0w61UOMCrTIFdKvXjWgn17UXjQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917174.mp4"
+        },
+        {
+          "nome": "Meia Noite em Paris (2011)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/qzDVTWnFKimOqQK3QwkiweoLiva.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917055.mp4"
+        },
+        {
+          "nome": "Meio Grávida (2025)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/qh4H7H0XYv9TJ0ZSFsOc64NUG1W.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915589.mp4"
+        },
+        {
+          "nome": "Meio-Irmãos (2015)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/27PaaXyZ87pl3xOhGTCei6gzjIe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915374.mp4"
+        },
+        {
+          "nome": "Meios-Irmãos (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/ziKSNo9yVx50FYhJg0aPvCAzKbD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916594.mp4"
+        },
+        {
+          "nome": "Melhor Viúva Do Que Mal Acompanhada (2024)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/cuhfurVh5zfHsS6RZD1RLvPTstO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915671.mp4"
+        },
+        {
+          "nome": "Memórias de Uma Paixão (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/s3O00aHSrdneODbqNYeHItiOCuc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916289.mp4"
+        },
+        {
+          "nome": "Meninas Malvadas (2004)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/iV7YxvjdmRZo0amjGA2BZW5kkAu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917316.mp4"
+        },
+        {
+          "nome": "Meninas Malvadas (2024)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/vZx6gIkqiZ559w1S8wFHIeKmp7C.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915783.mp4"
+        },
+        {
+          "nome": "Meninas Malvadas 2 (2011)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/r6txygQJDeujgLMeamaihdw7GY5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917317.mp4"
+        },
+        {
+          "nome": "Menino Maluquinho: O Filme (1995)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/jjfE6gZW0TfjskQXAzcsy5Qp6wd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915951.mp4"
+        },
+        {
+          "nome": "Mens@gem para Você (1998)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/xWReGRSFuAr7tuPA3k67gtThix1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916655.mp4"
+        },
+        {
+          "nome": "Mensagem em uma Garrafa (2025)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/5YZvw2lGYs0aP68ehnVayYt7Hdt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915423.mp4"
+        },
+        {
+          "nome": "Mesa para Quatro (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/4iHOgjnPRUHaobosB9HIiMPSE9W.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916333.mp4"
+        },
+        {
+          "nome": "Mesmo Se Nada Der Certo (2014)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/g58iIunao1G9z8jISal0mkbucKN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916074.mp4"
+        },
+        {
+          "nome": "Metal Lords (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/r97txZRmBb75SGsIAWqmplWJnO3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916285.mp4"
+        },
+        {
+          "nome": "Metaleiros de Jesus (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/rErRBExV53etYGeHInrpJjhVOKe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916102.mp4"
+        },
+        {
+          "nome": "Meu (Querido) Primo (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/g9ujj6U1E7uotn75TKtILAAysv2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916206.mp4"
+        },
+        {
+          "nome": "Meu ",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/1Cwg2mv8ONhAFyo8ChPQ8vtfPNN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916238.mp4"
+        },
+        {
+          "nome": "Meu Amigo Enzo (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/26lLdJ8IG5EfzJwusx2DpfsuwLf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917058.mp4"
+        },
+        {
+          "nome": "Meu Bebê (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/wjW1gJWMhcYusLaBfe16WcG9mjK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917021.mp4"
+        },
+        {
+          "nome": "Meu Caro Vampiro (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/5wEgMKWY0It1pAiRCbCgGGKFmHz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915959.mp4"
+        },
+        {
+          "nome": "Meu Eu do Futuro (2024)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/auYvFnxhWzFxuhVQVSrDw8qkDAS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915422.mp4"
+        },
+        {
+          "nome": "Meu Marido Virou um Cachorro (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/geGmY1YtD3Xp0cimMPQWIL0d8zZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915519.mp4"
+        },
+        {
+          "nome": "Meu Melhor Amigo Vai Casar (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/4WuxbxcQzL7AXY4aSeFoyRA4sb2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915824.mp4"
+        },
+        {
+          "nome": "Meu Monstro Favorito 2 (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/uO8GdiUpVOAh8LNo6gCysS5eav4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915693.mp4"
+        },
+        {
+          "nome": "Meu Namorado Fake (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/zGDMNqWTtkWL6So4yM3ewNCtYY1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916233.mp4"
+        },
+        {
+          "nome": "Meu Nome é Ninguém (1973)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/a1PAAdhqTxqmQgZ1Bug4AZqY7AE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917315.mp4"
+        },
+        {
+          "nome": "Meu Novo Brinquedo (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/9qcmGvWKqdlpUmbRUaeyOyfkwA5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915862.mp4"
+        },
+        {
+          "nome": "Meu Pai é um Perigo (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/oCB2aFP9EpRU92UEb0iMqfOGLe3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915966.mp4"
+        },
+        {
+          "nome": "Meu Porto Seguro 2 (2024)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/oZjoNQs3FTvARP3QQOl3HUC2Slf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915733.mp4"
+        },
+        {
+          "nome": "Meu Primeiro Verão na Califórnia (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/k9yvYGnnMuUuNdwVBBCbx9mFuVd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915848.mp4"
+        },
+        {
+          "nome": "Meu Psicólogo Imaginário (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/kns2SXQ8ImqDBmakJzPpuJYII67.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916246.mp4"
+        },
+        {
+          "nome": "Meu Querido Demônio (1987)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/drWFcNggxxrR0KrDptOmQrkoEFE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915505.mp4"
+        },
+        {
+          "nome": "Meu Vizinho Mafioso (2000)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/5lw45lDlamxHWdxu1t2p8gFdl8T.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915901.mp4"
+        },
+        {
+          "nome": "Meu Vizinho Mafioso 2 (2004)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/qmUL4rmG8fabHQqyKVDfv1eWFpX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916695.mp4"
+        },
+        {
+          "nome": "Meus 15 Anos (2017)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/oF915XBphUKpnzro1WjOP01XVEp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917313.mp4"
+        },
+        {
+          "nome": "Meus Amigos Dinossauros 2 (1994)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/zroUBSteC6ZQDd0Em4RnnUF1Ued.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915474.mp4"
+        },
+        {
+          "nome": "Meus Encontros com Amber (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/lwNkKITSmHFojnjcFFB7H8kLgQX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915427.mp4"
+        },
+        {
+          "nome": "Meus Vizinhos São um Terror (1989)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/8zcC3YIyajlm2A4sYp4WHNiI1An.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917312.mp4"
+        },
+        {
+          "nome": "Mexido (2024)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/unPuCzgQBYU4LEginXorZeFGXIX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915738.mp4"
+        },
+        {
+          "nome": "Milagros: Uma Ursa Extraordinária (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/srGK179sVHiuk4gwIQKGvnRtVJs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4166706.mp4"
+        },
+        {
+          "nome": "MILF (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/bJGK2006L36f0Ybi7A4LfJpgiBb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916911.mp4"
+        },
+        {
+          "nome": "Mimadinhos (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/tXPWkZ03VfFPhok3DkUlJSxWpFv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916377.mp4"
+        },
+        {
+          "nome": "Minha Amiga Morta Zoe (2025)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/bRoDBpwGU5UW03hQMExN2l92Q93.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915447.mp4"
+        },
+        {
+          "nome": "Minha Estranha Família (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/vDc1qSK8lHIV6vymuvoZdFbuKf5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915831.mp4"
+        },
+        {
+          "nome": "Minha Familia Já Te Ama! (2016)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/CXxHpj2ixCQBPOk9Z3m00dybmb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917123.mp4"
+        },
+        {
+          "nome": "Minha Família Perfeita (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/sxZg6CWOmMXXGOhlkEHj10kAdPO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916028.mp4"
+        },
+        {
+          "nome": "Minha Mãe é uma Peça 2: O Filme (2016)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/eDApDWU6r9zxk9MZLc6rfnBb3vu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917311.mp4"
+        },
+        {
+          "nome": "Minha Mãe é uma Peça 3: O Filme (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/zw77BFPGJ73Lig8GwRzYj1XHq53.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916978.mp4"
+        },
+        {
+          "nome": "Minha Mãe é uma Peça: O Filme (2013)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/2kj8VJEcqcxPmbuIjh5wf6FjMBH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917310.mp4"
+        },
+        {
+          "nome": "Minha Noiva é de Matar (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/lkb9SMXSRzXHlK02tKpZ0K3jdQw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916255.mp4"
+        },
+        {
+          "nome": "Minha Obra-Prima (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/d4ihi2TPPVEGU6JwhyfhyYORq2Z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915689.mp4"
+        },
+        {
+          "nome": "Minha Professora de Francês (1983)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/tUgRBW8oCGYgQce58MROci7mSIl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916603.mp4"
+        },
+        {
+          "nome": "Minha Querida Confraria (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/mkIVyoqmv14QEwym3QMuWaGFj9I.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917032.mp4"
+        },
+        {
+          "nome": "Minha Querida Nora (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/lTNI66alw3kkOdwHMyDSbpc7J5f.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916800.mp4"
+        },
+        {
+          "nome": "Minha Teoria da Popularidade (2024)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/hGPTbZTdmYgAuS58hY2JAI7B1Mx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915755.mp4"
+        },
+        {
+          "nome": "Minha Vida Além do Circo (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/1jgaY0hLnJag3LrawF3XWmuptJg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916053.mp4"
+        },
+        {
+          "nome": "Minha Vida Dava um Filme (2012)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/ib7KRQYXbWa8s0MMRJzMFtEF50M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916533.mp4"
+        },
+        {
+          "nome": "Minha Vida Incomoda Muita Gente (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/9ZA1Nc7B6z6MuGZz289YUTmAvOR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916298.mp4"
+        },
+        {
+          "nome": "Minha Vida Pela Sua (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/1zNBq5KGZAX9kcykAer3796T2PC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916046.mp4"
+        },
+        {
+          "nome": "Minha Vida Perfeita (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/7QkjP5o3FepBX8SujOMnEEOoOqR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916300.mp4"
+        },
+        {
+          "nome": "Minhas Adoráveis Ex-Namoradas (2009)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/1Hqz44MBvh9ZknMa34M8Gx7jb5y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917309.mp4"
+        },
+        {
+          "nome": "Minhas Férias com Patrick (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/onoPni9IYWuMKwuN5e9YppOX249.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916222.mp4"
+        },
+        {
+          "nome": "Minhas Mães e Meu Pai (2010)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/AeFUOqhMmMlJngN0IG3sBI4s8ET.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916349.mp4"
+        },
+        {
+          "nome": "Minta Para Mim (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/s3NoPF6LAKDl3KUGkZsYPX9ionc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916169.mp4"
+        },
+        {
+          "nome": "Miss França (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/etEyeFdrO6OEta3fDZsima3Eqic.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916072.mp4"
+        },
+        {
+          "nome": "Miss Simpatia (2000)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/9oae5r1ATLwVY7yJyTXhMaZSGGq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916924.mp4"
+        },
+        {
+          "nome": "Miss Simpatia 2: Armada e Poderosa (2005)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/owjBgjLRs8TNs5NiWrL3NFsiIQ3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915373.mp4"
+        },
+        {
+          "nome": "Missão Despedida de Solteira (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/3u8wB2GbfwLfmsN0Ihta7YZdb9T.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915949.mp4"
+        },
+        {
+          "nome": "Mistério da Terra dos Doces (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/xyPRWZk6tWyrCVnSGMR2Sl0H5rY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916112.mp4"
+        },
+        {
+          "nome": "Mistério em Paris (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/pf1dQDb55mJ13KQMEYa4O0fni64.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916036.mp4"
+        },
+        {
+          "nome": "Mistério no Mediterrâneo (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/etbe0OUfPmW1eXDB5rPXrOsKQ4S.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916626.mp4"
+        },
+        {
+          "nome": "Mixed by Erry (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/wkC1bTYLyi1psSFpUn1vSjU7yHE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916008.mp4"
+        },
+        {
+          "nome": "Mo Gilligan: Momentum (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/c0TrqcymD4EYtp7aczJwIpTJ1gY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917084.mp4"
+        },
+        {
+          "nome": "Modo Avião (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/hDZBhyl83F07syVhQ0q21NBZSCC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917011.mp4"
+        },
+        {
+          "nome": "Modo Herói (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/z8BgAXmIwPlK54wtqdeWrBXYXNt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916195.mp4"
+        },
+        {
+          "nome": "Momentos Decisivos (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/tpJas6s5vw5XRBaCgHAC7IGBaS2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915435.mp4"
+        },
+        {
+          "nome": "Monsterville: O Armário das Almas (2015)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/e8HbRwjNkoX1zq5ecGdaM0EK38i.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916795.mp4"
+        },
+        {
+          "nome": "Morando com a Sogra (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/4fSfxxLZG6jVPhDE4dNRM5GJ89q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915640.mp4"
+        },
+        {
+          "nome": "Morando Com o Ex (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rKQrU9vNnYUaQPXHGjAFjespVV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4166643.mp4"
+        },
+        {
+          "nome": "Morro! (1978)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/2sQRuK0CrVJ9uL5UTQ1QOMO0viJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916782.mp4"
+        },
+        {
+          "nome": "Morte Antes do Casamento (2025)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/fQOyS5280smeEOqXJ6VQbGFospl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915576.mp4"
+        },
+        {
+          "nome": "Morte ao Verão (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/w9QODeryktRQktmfZuxGNinna7M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916243.mp4"
+        },
+        {
+          "nome": "Morte de um Operador de TeleMarketing (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/2IE7rltYzVJrV2Mdsgg9nDeHlWo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916272.mp4"
+        },
+        {
+          "nome": "Morte no Funeral (2010)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/raHwBfrpOQ2B24EXg2ntTD1Qn4g.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916551.mp4"
+        },
+        {
+          "nome": "Moxie: Quando as Garotas Vão À Luta (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/odxiLTEkI7QacNcEpajJbXKzZPT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916764.mp4"
+        },
+        {
+          "nome": "Mr. Bean - O Filme (1997)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/yoFGuw59e1KPFSwzrQexBL5khMx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916080.mp4"
+        },
+        {
+          "nome": "Mr. Magoo (1997)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/zlsDfK40kky772prEMfYhKt54W8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915522.mp4"
+        },
+        {
+          "nome": "Mudança de Hábito (1992)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/kUOX7ATkXq1R5QpmIXZ5rXT9NOX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917308.mp4"
+        },
+        {
+          "nome": "Mudança de Hábito 2: Mais Loucuras no Convento (1993)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/Zl3wQzgqG4lnA4TfFRU7W7bpMA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917307.mp4"
+        },
+        {
+          "nome": "Muita Calma Nessa Hora (2010)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/gpyl7xI1SEb8WgC5PeRUQcw19cx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917305.mp4"
+        },
+        {
+          "nome": "Muita Calma Nessa Hora 2 (2014)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/m22N5QelYWptGUIYHl76RcOg2yn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917306.mp4"
+        },
+        {
+          "nome": "Muito Além do Ordinário (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/dngVw1DKVcKZ2lTidROTdCjdsJC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916866.mp4"
+        },
+        {
+          "nome": "Muito Amor Pra Dar (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/r9587vedpUOx1lHk6lcvC53juBg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916896.mp4"
+        },
+        {
+          "nome": "Muito Bem Acompanhada (2005)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/6XWauGcWfx3o2KJW7saIg8SAC6z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917304.mp4"
+        },
+        {
+          "nome": "Muito Louca (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/6za5y0DNUulELnVRLL1kf9OYaLF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917303.mp4"
+        },
+        {
+          "nome": "Mulheres ao Ataque (2014)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/dWWkDxsOnHnl6vP2wQiENwdTLHr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917302.mp4"
+        },
+        {
+          "nome": "Mulheres Perfeitas (2004)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/wGD7VQr4VDEolsPOpUqXwpLQWbd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916621.mp4"
+        },
+        {
+          "nome": "Mulheres: Jogar para Ganhar (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/bEa93enEUKs0Jk4hJnSYSN5RsCH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915807.mp4"
+        },
+        {
+          "nome": "Muppets 2: Procurados e Amados (2014)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/aiEWfjDgYnCe5Nvvd6KnaEXgu5g.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915411.mp4"
+        },
+        {
+          "nome": "Murilo Couto: 2020 (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/fD0YRXfB422Alg2femTom33DUxK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916821.mp4"
+        },
+        {
+          "nome": "Música a Bordo (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/sBJ5gFjeGDMjAbqpAZBva8tyhGo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916451.mp4"
+        },
+        {
+          "nome": "Música e Amor (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/2A0udDaAgWyJdZBYQC3aPZvjx9M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917158.mp4"
+        },
+        {
+          "nome": "Na Balada do Amor (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/mmprgFb80BRcKXEp36mjQXNlcec.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915943.mp4"
+        },
+        {
+          "nome": "Na Mira do Chefe (2008)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/sbiE2zV3RipiEaWX6mUEYMEvK01.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916629.mp4"
+        },
+        {
+          "nome": "Na Rédea Curta (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/rkGIrww1XY61uKVHi3jPW3HCSN8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916034.mp4"
+        },
+        {
+          "nome": "Nada a Esconder (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/1juJkwaqoJShq5NhdC7q7sBGApa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917301.mp4"
+        },
+        {
+          "nome": "Nada a Perder (1997)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/2By6Jx9hfhQUif5JdBQSNEqeTrS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916809.mp4"
+        },
+        {
+          "nome": "Nada Vai Dar Certo! (2011)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/2AsEpkZpDsnLgZPSQgADZwouKHV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917299.mp4"
+        },
+        {
+          "nome": "Nadando Com Homens (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/hgvWauLn7gh8OfkCpaxeanhERVY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917031.mp4"
+        },
+        {
+          "nome": "Nadando em Dinheiro (1952)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/57qa906MsDpw0daO268vOtxYUn7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917335.mp4"
+        },
+        {
+          "nome": "Namoro ou Liberdade (2014)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/cxin8yPKsLpbnJ7wx8Wxkwouk4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917113.mp4"
+        },
+        {
+          "nome": "Nancy Drew e a Escada Secreta (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/vOybq1uLJr6oDc7omLcU4yflD0e.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917163.mp4"
+        },
+        {
+          "nome": "Não Aceitamos Devoluções (2013)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/zbzXLbTFZU0AUeoS4knTEzZJzpZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917300.mp4"
+        },
+        {
+          "nome": "Não Case! - Parte II (2011)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/sz9UqGxRZb70j3rNAnn4Hkic24v.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917238.mp4"
+        },
+        {
+          "nome": "Não Case! - Parte III (2013)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/hu9nqzPjw0ObviYi6iKFK3kvebB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917237.mp4"
+        },
+        {
+          "nome": "Não Case! (2009)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/q55Gluy15mKdjgES7TdETHecWqv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917239.mp4"
+        },
+        {
+          "nome": "Não é Mais um Besteirol Americano (2001)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/9pZVYcqNeQKxUXWf043spSHxgZH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916768.mp4"
+        },
+        {
+          "nome": "Não Enche! (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/jX8vNKif3C8UPc5pNHnyCz0sr5X.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915842.mp4"
+        },
+        {
+          "nome": "Não Faça o Que Eu Faço (2008)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/2knwFtrCwnMLrioOl6ZiycpRxOp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915753.mp4"
+        },
+        {
+          "nome": "Não Olhe para Cima (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/6Sc7Tjt7aPsdghYK32mDMFeZkqJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916341.mp4"
+        },
+        {
+          "nome": "Não Posso Viver Sem Você (2024)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/6GwVxZRiKS2TPCnfp0RoA1iXr9P.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915687.mp4"
+        },
+        {
+          "nome": "Não Sei o Que Fizemos na Noite Passada (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/pJBhU5idnpKSmpm6KdFAliMdZiN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915606.mp4"
+        },
+        {
+          "nome": "Não Vamos Pagar Nada (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/c0izXc21pFtf98dwiiudIGmm4lX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916877.mp4"
+        },
+        {
+          "nome": "Napoleon Dynamite (2004)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/6Iv6Uwa2SBLN0dSGM00rdrwN4MJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915482.mp4"
+        },
+        {
+          "nome": "Nas Ondas da Fé (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/fddUEnP5pII7U1f09pQVjw9Gv4v.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916026.mp4"
+        },
+        {
+          "nome": "Negócios Fora de Controle (2015)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/tU4U3FR7WoDWphFakkIuiktOb99.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917069.mp4"
+        },
+        {
+          "nome": "Nekrotronic (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/skrJT8VrXbLpgwIBKEOSZo7tqhr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916880.mp4"
+        },
+        {
+          "nome": "Nem Tudo é Negociável (2024)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/vF6avV3yzZlLhCFBB1xbIG94fdC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915698.mp4"
+        },
+        {
+          "nome": "Neve pra Cachorro (2002)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/5fotEfHCJnIj6SE4ybg493A9mkJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916710.mp4"
+        },
+        {
+          "nome": "Nice Girls (2024)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/zdoqqR2OtQ0b1gnFQkGIsY5rDuF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915681.mp4"
+        },
+        {
+          "nome": "Nick & Norah: Uma Noite de Amor e Música (2008)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/tlZ7ctwrn2wtLcFR5jwagilZstT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916817.mp4"
+        },
+        {
+          "nome": "Night of the Living Deb (2015)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/4zYHMNeK9gqr4x7GiY5YpjDEeG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915405.mp4"
+        },
+        {
+          "nome": "Nina: No Palco e Na Vida (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/lMM8ZKphFD57IuF6k6CeX8lVJkR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917083.mp4"
+        },
+        {
+          "nome": "Ninguém Brinca com Jesus Quintana (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/8DzBggJ7xQKQjadsBgjEosLZ2Dw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916833.mp4"
+        },
+        {
+          "nome": "Ninguém Precisa Acreditar em Mim (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/jS8YfaaGFiqimhph4VCrsRaF42l.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915863.mp4"
+        },
+        {
+          "nome": "Ninguém Sai (2017)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/aUV6DQrYBlJFvdmRoiDssxyU42g.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916399.mp4"
+        },
+        {
+          "nome": "Ninguém Segura Este Bebê (1994)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/dOpzTdejvtegkHGk5Uf5ILspXVe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917298.mp4"
+        },
+        {
+          "nome": "No Balanço das Coisas (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/n18Nnjyl4GUJx2paLNZASRppLkb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916919.mp4"
+        },
+        {
+          "nome": "No Caminho Certo (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/k0TjTcPfifQXjpTbE7cueD4XFas.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915790.mp4"
+        },
+        {
+          "nome": "No Game No Life: Zero (2017)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/aC2u68gvupS5gD3tOSAKg8jhd9T.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917035.mp4"
+        },
+        {
+          "nome": "No Gogó do Paulinho (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/qmCAciCurvDWZJY8wo3lvo9S9b2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916861.mp4"
+        },
+        {
+          "nome": "No Jogo do Amor (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/xiNXACFvtjn0rCzArwnzMfCGK05.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916436.mp4"
+        },
+        {
+          "nome": "No Manches Frida 2: Paraíso Destruído (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/hKGX8vbL7iQWT1Lr4Vl7dxie9Mr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917118.mp4"
+        },
+        {
+          "nome": "No Pique de Nova York (2004)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/sw8G4Ym2i9844daWcSmAyS1ITXB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917297.mp4"
+        },
+        {
+          "nome": "No Ritmo da Vida (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/3buPH9NTCVBwN3nYWBzymGmbdWT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916000.mp4"
+        },
+        {
+          "nome": "Noelle (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/18VK2h2TUQRTnWRMn9ecqFGXov0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916946.mp4"
+        },
+        {
+          "nome": "Noite de Jogos (2024)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/AjRV3LC1Edi3HfVnwxnMgJKTWQn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915705.mp4"
+        },
+        {
+          "nome": "Noiva em Fuga (1999)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/tdfBt3DDIeqrkJ7hRGrxO8jGavm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915836.mp4"
+        },
+        {
+          "nome": "Noiva Nervosa (1977)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/wMNaDD9GXM74w6D2b63LgZokZ8B.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916394.mp4"
+        },
+        {
+          "nome": "Noivas em Guerra (2009)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/qAnMYIChZqBi7t2WgFuz9404ahh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915697.mp4"
+        },
+        {
+          "nome": "Nonnas (2025)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/lZEOKj5wtgUGpaQkzJRl7cjEv21.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915485.mp4"
+        },
+        {
+          "nome": "Norbit - Uma Comédia de Peso (2007)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/sExfA7YUSXQJRGmOZ9v52lxd16I.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915469.mp4"
+        },
+        {
+          "nome": "Nos Limites da Amizade (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/3MGKjRpO47qEdWaIIq2W8U4OfYW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916147.mp4"
+        },
+        {
+          "nome": "Nós Somos os Campeões (1992)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/qnDtm74JkcAlqzPaTfO0ChwRNZJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916728.mp4"
+        },
+        {
+          "nome": "Nós Somos os Campeões 2 (1994)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/1mxurJNKvQujUVm1yKkYCZ28fmo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916723.mp4"
+        },
+        {
+          "nome": "Nós Somos os Campeões 3 (1996)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/7o4BTRgXWRL56QtnqAlBj6uwsXs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916722.mp4"
+        },
+        {
+          "nome": "Nossa Mãe é Para Sempre (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/coPl2pKqOtwiq7HttcUlrkYe1y3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916157.mp4"
+        },
+        {
+          "nome": "Nossa Vida com Cães (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/mJoFG7M9edUIkh8y6tYnLCRHZyO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917120.mp4"
+        },
+        {
+          "nome": "Nossas Meninas (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/9QHA9UXs34jB1IxeitCgOdWmr5Z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916205.mp4"
+        },
+        {
+          "nome": "Nosso Ex-Marido (2017)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/6xpdwyko6HUqWw090UvLYSsbVqy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917144.mp4"
+        },
+        {
+          "nome": "Nosso Mundo (2024)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/iP1wYVjnBKUyeRyf2qDtP2GEB60.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915656.mp4"
+        },
+        {
+          "nome": "Nosso Professor é um Herói (1996)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/wiO6LZ6FyHkqTBklR011vlkEZyK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916654.mp4"
+        },
+        {
+          "nome": "Nosso Último Verão (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/AqFUYtRJimLwDg5RwQnjYE8Tflo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917153.mp4"
+        },
+        {
+          "nome": "Nossos Sonhos de Marte (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/pENW055usqNIzYB7YM0R61qFPMu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916288.mp4"
+        },
+        {
+          "nome": "Nota 10 em Confusão (2003)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/fRvyyPmCevYVnXwQgYkt9Cmabkm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915349.mp4"
+        },
+        {
+          "nome": "Notas de Rebeldia (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/sNB6DoHiAr1epeDlqIh3onfjv8M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916976.mp4"
+        },
+        {
+          "nome": "Novo no Pedaço (2002)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/niSHZPXqfc5DXs2VkeRrYQk5MpU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4167476.mp4"
+        },
+        {
+          "nome": "Novos Ricos (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/jfEuk5VdwaDN4UAGBPqUwZWAteg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915867.mp4"
+        },
+        {
+          "nome": "Nunca é Tarde para Recomeçar (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/9L68dKZrA6q7jPCmEa1sjBLcOdO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916236.mp4"
+        },
+        {
+          "nome": "Nunca Fui Santa (2000)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/8il4yGHbms9AZ1PaHge5ufcnyF9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915473.mp4"
+        },
+        {
+          "nome": "Nunca Visto (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/pkvM5TA9S2haJBta1P8p9zzhYd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917070.mp4"
+        },
+        {
+          "nome": "O Agente da U.N.C.L.E. (2015)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/vwcO16PV78DLEcazIRVnSdbt3oD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916637.mp4"
+        },
+        {
+          "nome": "O Amor Custa Caro (2003)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/x1WAuVhDW7g6WVT2rPLTkF6dpjt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916665.mp4"
+        },
+        {
+          "nome": "O Amor dá Voltas (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/fynvbvRZzkIWa2Q8h9Gg5w6FgzD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916030.mp4"
+        },
+        {
+          "nome": "O Amor é Cego (2001)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/mPv9h1Dig3uRG0Lm9r29gCzT3kc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917296.mp4"
+        },
+        {
+          "nome": "O Amor e Suas Surpresas (2025)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/hh6vcu5nHhwJ0kbQ0XCD946XJe0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915564.mp4"
+        },
+        {
+          "nome": "O Amor Não Tira Férias (2006)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/4TvrnjDdIACRp9Jy4KWO3VxrUrg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917295.mp4"
+        },
+        {
+          "nome": "O Amor Vai Te Encontrar (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/n7pKhTZXBnVevm5sDhLzyqcZMDm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915325.mp4"
+        },
+        {
+          "nome": "O Ano em que Comecei a Vibrar por Mim (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/sWLDNBluDgAhQ0m4S3dsfETO7S4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916009.mp4"
+        },
+        {
+          "nome": "O Assalto de Nossas Vidas (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/rCVi9jlnRfnZQU5FjM6ys0lHlDe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915754.mp4"
+        },
+        {
+          "nome": "O Auto da Boa Mentira (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/hUPmGxi00UJhzDYuXbvtCXRZEio.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916475.mp4"
+        },
+        {
+          "nome": "O Auto da Compadecida (2000)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/xWCKF7hgOicb3A0XiY13SdlwRcn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917294.mp4"
+        },
+        {
+          "nome": "O Babá(ca) (2011)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/4mAWUxXTxohkZ9kijPzWBUx5YkA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915691.mp4"
+        },
+        {
+          "nome": "O Balconista 3 (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/AqkD9kVLULmbMdeCJKktriaUnC1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916163.mp4"
+        },
+        {
+          "nome": "O Bebê de Bridget Jones (2016)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/rWNGMyqaJsu0noN1rSl03xotpcw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917442.mp4"
+        },
+        {
+          "nome": "O Bom Doutor (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/b6AJO7VKq0c63zjyS1nFJXIcfZw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916338.mp4"
+        },
+        {
+          "nome": "O Bom Filho à Casa Torna (2008)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/sVouzUFigdRg7ZWHTvJOXIBqQ3V.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916181.mp4"
+        },
+        {
+          "nome": "O Bom Garoto (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/vq6vMhuCZ741bqB1lY8NfzJEUUJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916143.mp4"
+        },
+        {
+          "nome": "O Caçador de Crocodilos: Rota de Colisão (2002)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/fRJsRX2j1lBuEJhKfdPOQkbFo7u.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916407.mp4"
+        },
+        {
+          "nome": "O Caçador de Ratos (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/5fHwVtgJLeOiaKENJ2s8BPY6Rvv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915912.mp4"
+        },
+        {
+          "nome": "O Cachorro Que Salvou as Festas (2012)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/xRoZSl2eAYnZhylNdHrzrWpGUP7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916367.mp4"
+        },
+        {
+          "nome": "O Calouro (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/2Ul7iFSvhCyklMJmrhv49AEZEwr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916414.mp4"
+        },
+        {
+          "nome": "O Candidato Honesto (2014)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/dNFjUdDmyJmAST6qOz2ie10UwTP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917292.mp4"
+        },
+        {
+          "nome": "O Candidato Honesto 2 (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/nies8ZuM673DAtSufh4Ww3dJJyd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917293.mp4"
+        },
+        {
+          "nome": "O Cara da Piscina (2024)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/yGn6SxUOnU5dvUNeSjw79ks2EfS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915706.mp4"
+        },
+        {
+          "nome": "O Cara Que Não Aglomerava (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcwFlNX3YzzRlp8o4R5srcmfv4i.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4160475.mp4"
+        },
+        {
+          "nome": "O Casamento dos Meus Sonhos (2001)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/afrqngvnCJk50KkIAdb9NN5mMhi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916556.mp4"
+        },
+        {
+          "nome": "O Caso Susie (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/9ws1WSghZ8JPQl6JnzhpG65C0tS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915675.mp4"
+        },
+        {
+          "nome": "O Cavalo dos Meus Sonhos (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/eEQw1QtoeHg2yBP4H5XqI5WxgEm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916287.mp4"
+        },
+        {
+          "nome": "O Chefe (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/jvHzkK0VvKQ3noByKaRnKB2VYYt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917101.mp4"
+        },
+        {
+          "nome": "O Cheiro do Ouro (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/ouzdmcuQAdoNKVrzl85XpxXuQ8g.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915989.mp4"
+        },
+        {
+          "nome": "O Ciclista (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/8CIyZgPAZoWJX9KDcav2rExJT5n.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916304.mp4"
+        },
+        {
+          "nome": "O Circo (1928)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/oUGO7ZTjXdMfsfK8dm1wgiGXVfT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916488.mp4"
+        },
+        {
+          "nome": "O Clube das Babás (1995)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/juT5eKRDhmluaiVhymjViyXArCq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916520.mp4"
+        },
+        {
+          "nome": "O Clube dos Canibais (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/hR7v2W9yQ0H6RAtOmj8sUPnGsP2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917291.mp4"
+        },
+        {
+          "nome": "O Clube dos Milagres (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/fQwEEKyZ5WVIs9UscUg7fUbyduW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915823.mp4"
+        },
+        {
+          "nome": "O Começo de Um Novo Amor (2017)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/ft70E8GWVH0J0OntJxzj07puyXS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916968.mp4"
+        },
+        {
+          "nome": "O Comediante (2016)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/jR7PZd7K0dFT6oL9qhbSsiJXDsR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916519.mp4"
+        },
+        {
+          "nome": "O Confessionário (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/pXXY1dHi9cjOguZJVTnRPI8rLuZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916355.mp4"
+        },
+        {
+          "nome": "O Corintiano (1967)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/6m3Q4lzp6rPNQjr5rw1xY8ul56C.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917333.mp4"
+        },
+        {
+          "nome": "O Crime da Cabra (2015)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/dmTB39jwwttoMAIR6RiJulKoNH8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916384.mp4"
+        },
+        {
+          "nome": "O Date Perfeito (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/thJQ8l4G7SipYicKtK8zinuyxQO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917173.mp4"
+        },
+        {
+          "nome": "O Desafio Final (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/ctftbe5zdoNzahZkoEh4YHJNwxN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916077.mp4"
+        },
+        {
+          "nome": "O Despertar de Motti (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/vKvDfh9NMdFgTWv7rVUJAEDMTEL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917076.mp4"
+        },
+        {
+          "nome": "O Dia Mais Lindo do Mundo (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/vv1fkFLMB6pXxEaCGbthWPtOYBd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915450.mp4"
+        },
+        {
+          "nome": "O Dia Vai Chegar (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/kJNrM111zMDTTfe616AHYxOi3Jo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916892.mp4"
+        },
+        {
+          "nome": "O Diabo Veste Prada (2006)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/clsvqIWM5ZILUcHjobQd4WtHZdu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916752.mp4"
+        },
+        {
+          "nome": "O Diabólico Agente D.C. (1997)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/lPQuyy0oW6xU520f5CpLphrdN4g.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915521.mp4"
+        },
+        {
+          "nome": "O Diário da Princesa (2001)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/7oYNvPAPSFBDh4o7NdRc58ICzUR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917290.mp4"
+        },
+        {
+          "nome": "O Diário da Princesa 2: Casamento Real (2004)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/5MoDnvPW64Sfw3QZ6ADnCYopnTv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917289.mp4"
+        },
+        {
+          "nome": "O Diário de Bridget Jones (2001)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/acjZNtv1H6wVadXnleSmYFjZk5k.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915335.mp4"
+        },
+        {
+          "nome": "O Diário de Uma Babá (2007)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/5eNbFM5wB0lSdL1oafDY87cpd3B.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916397.mp4"
+        },
+        {
+          "nome": "O Diário de uma Virgem (2013)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/mKTLOm4d9Uu8LBLMSG2UrUvkTlD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916608.mp4"
+        },
+        {
+          "nome": "O Dilema (2011)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/oc4r1EA43bV0WzZuh1fa2B3ZY46.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916713.mp4"
+        },
+        {
+          "nome": "O Ditador (2012)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/g1dteMYVbust5inabAxNkYft2Ym.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916644.mp4"
+        },
+        {
+          "nome": "O Dono da Festa (2002)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/4rqZ0O4Rc6ckFYqx8ECD0LfchJj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916487.mp4"
+        },
+        {
+          "nome": "O Dono da Festa 3: A Vez dos Calouros (2009)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/nDUGtkcj0wg8jPul4cUNlxabY4S.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917288.mp4"
+        },
+        {
+          "nome": "O Doutor da Felicidade (2017)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/9kNpSdSAHiXxjfezIOAr1nR7lFK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917287.mp4"
+        },
+        {
+          "nome": "O Duelo (2024)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/lobSXthKJtYL6dezaQa8J9L8k02.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915662.mp4"
+        },
+        {
+          "nome": "O Duque (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/kL0k4cUHlcM9mfjWuxna9QzxaBN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916177.mp4"
+        },
+        {
+          "nome": "O Durão (2015)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/cx7KlVrCUYQdRztKNB5bc4cQhNn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916967.mp4"
+        },
+        {
+          "nome": "O Elfo Construtor (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/8elBfIT1glTjn0KeArTJhWuf5Dj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915855.mp4"
+        },
+        {
+          "nome": "O Empregado do Mês (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/fhUvY8CvgGXIjGd3Wf9aL9caCYi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896558.mp4"
+        },
+        {
+          "nome": "O Esquema Fenício (2025)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/vL2tEhfa4UsazLURzHu2KpXLERS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915396.mp4"
+        },
+        {
+          "nome": "O Estado das Coisas (2017)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/45OzWnoHbQA4JXiLQBwJeaotfeG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917286.mp4"
+        },
+        {
+          "nome": "O Fabuloso Destino de Amélie Poulain (2001)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/4zMUKCBq1OqMXFnNSLMVT0MgHXz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917285.mp4"
+        },
+        {
+          "nome": "O Fada do Dente (2010)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/hk67XO1Fa1TVU3hmdCMqsnil1Ox.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917284.mp4"
+        },
+        {
+          "nome": "O Filho da Noiva (2001)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/2Em1WXYGSf2yfH7bWye4UQ9Uzgd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915419.mp4"
+        },
+        {
+          "nome": "O Filho do Ace Ventura (2009)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/yj8a9BMuIUgeKhKZRWJVeKE5jXl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916787.mp4"
+        },
+        {
+          "nome": "O Filho do Máskara (2005)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/dYiQoSOtnKqdlpIqNGr3JS7xKBx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916813.mp4"
+        },
+        {
+          "nome": "O Filho do Noivo (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/5X8srQiZo4f9V4HdqTiCfdqxAAH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916681.mp4"
+        },
+        {
+          "nome": "O Filme Mais Idiota do Mundo (1996)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/tlakU3uwNiUgd7aOlb2RoAsGTnY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915565.mp4"
+        },
+        {
+          "nome": "O Futebol ou Eu (2017)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/5dl0B6Hetwr5ZZqNsxFK5fBw6EV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915410.mp4"
+        },
+        {
+          "nome": "O Galã (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/rJz8Ll7mRTBPvYkb69T7IC27SBa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917015.mp4"
+        },
+        {
+          "nome": "O Garoto (1921)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/8DR5wvUYaSF234MnDi9ruEQOIdJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916504.mp4"
+        },
+        {
+          "nome": "O Genro Da Minha Vida (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/5fvcUtJwnGsiHXneDOOlaUPFc4E.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917082.mp4"
+        },
+        {
+          "nome": "O Golfinho 2 (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/eIJh0bF1dxfNsRxVlgRhdo8YJkv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915802.mp4"
+        },
+        {
+          "nome": "O Golpista do Ano (2010)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/i0LQDAfveTTw7OLiKQKT6MWyVgr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916855.mp4"
+        },
+        {
+          "nome": "O Grande Dave (2008)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/sEzO5ls8mjsUbgdcYEbg57FQr7v.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915609.mp4"
+        },
+        {
+          "nome": "O Grande Ditador (1940)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/Mjc994AW1r5hcXAh0PFjTdd7iY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916493.mp4"
+        },
+        {
+          "nome": "O Grande Duque da Córsega (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/vCLw7tuqLcI41VV92gRFzfcMZ4M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915441.mp4"
+        },
+        {
+          "nome": "O Grande Golpe do Leste (2024)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/6JUgGBoCjfKo28FgfPPFFkVcxJv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915425.mp4"
+        },
+        {
+          "nome": "O Grande Lebowski (1998)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/hR3VJEf7t8WdFD4gLIzpMozfG4T.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916794.mp4"
+        },
+        {
+          "nome": "O Grinch (2000)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/vDtJA6DdwLpwoV60rKLWOCt63gK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917283.mp4"
+        },
+        {
+          "nome": "O Guarda-Costas em Ação (1994)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/1kvFkLB7kYIhSQTx98bRquvjN2M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916729.mp4"
+        },
+        {
+          "nome": "O Guia da Família Perfeita (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/kLwfTFAZPbGKrkqXQHkKqLcpoHj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916588.mp4"
+        },
+        {
+          "nome": "O Guia do Mochileiro das Galáxias (2005)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/vOnXZOjipDTelrK9Wteo2kzrOsz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916694.mp4"
+        },
+        {
+          "nome": "O Halloween do Hubie (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/AhWYlsPynRZtyJH6MTsiuLGOCNu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916882.mp4"
+        },
+        {
+          "nome": "O Homem Bicentenário (1999)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/9WEqZFMqi92KyweBbbNCwV8fDzp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917282.mp4"
+        },
+        {
+          "nome": "O Homem Certo (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/6LFx4D7UfcLx0ARYCVa6N2Fzmlc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916783.mp4"
+        },
+        {
+          "nome": "O Homem da Cabeça de Laranja (2017)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/jEH0tVKDA8ClpTZNg7vhPRt2KOy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916390.mp4"
+        },
+        {
+          "nome": "O Homem das Cavernas (1981)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/cfZfl3wxO8QxHKJsiWUHZg1D62B.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917281.mp4"
+        },
+        {
+          "nome": "O Homem dos Sonhos (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/pI6bCgmnvodCSUNfYMDg4QWiJmK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915737.mp4"
+        },
+        {
+          "nome": "O Homem Que Matou Dom Quixote (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/nZ93dEu9747rsSOTA82hKmtOrn5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917112.mp4"
+        },
+        {
+          "nome": "O Imigrante (1917)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/p26smKiVPD1qx8lT2H8oI0NLNou.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916491.mp4"
+        },
+        {
+          "nome": "O Império (do Besteirol) Contra-Ataca: Reboot (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/hE7eBTSDoZ8tuv6ZZCorRLiRIWc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916991.mp4"
+        },
+        {
+          "nome": "O Incrível Mágico Burt Wonderstone (2013)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/s9YtHivf0wdl8UgifsgecuV7oPZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915510.mp4"
+        },
+        {
+          "nome": "O Inesperado Acontece (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/2HezvyqqzTd3FTevcoKjtrqwhNo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915639.mp4"
+        },
+        {
+          "nome": "O Jeca e a Freira (1968)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/vMb8pki9s2xXY2ggig44qYSD1EI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917329.mp4"
+        },
+        {
+          "nome": "O Jeca Macumbeiro (1975)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/uEnAkonmjhqJb4VDoO2JJUgJB5H.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917331.mp4"
+        },
+        {
+          "nome": "O Jeremias (2016)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/A0q8bzwaPUhmWBcS52YfH5QDNMw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916358.mp4"
+        },
+        {
+          "nome": "O Jogo da Paixão (1996)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/9EXnLLoSKOluLE60w77odBL9GJC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916441.mp4"
+        },
+        {
+          "nome": "O Jovem Kieslowski (2014)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/sw8o1moi2snM2s0BQUTkErZo7Qe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916839.mp4"
+        },
+        {
+          "nome": "O Juramento (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/oPkw4LPWCuJSigzUZBvCrEYERDo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917030.mp4"
+        },
+        {
+          "nome": "O Lado Simples da Vida (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/nuzGWirxAvVtG4LcTx4MboBO9Ux.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915936.mp4"
+        },
+        {
+          "nome": "O Livro de Floyd (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/y8QcfGNfOJeAgOMJSwKYI8PMhu5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916144.mp4"
+        },
+        {
+          "nome": "O Livro Do Amor (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/rql0TINECt8CmIUnmKfNZk4YB7w.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915799.mp4"
+        },
+        {
+          "nome": "O Máskara (1994)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/q9O7aYk2unOdKXt6HCCalF9Jup8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916814.mp4"
+        },
+        {
+          "nome": "O Melhor Amigo da Noiva (2008)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/uB74TtG5kxL5SsGRfQjcxgvZ3uE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917280.mp4"
+        },
+        {
+          "nome": "O Melhor do Mundo (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/4kEsUVpzjvPMsY7TQOQP5ipVmnh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915512.mp4"
+        },
+        {
+          "nome": "O Melhor do Show (2000)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/xkYA0UeREztK8T90F73SgN0IPJ9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916566.mp4"
+        },
+        {
+          "nome": "O Melhor está por vir (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/scjDcAaxscXJeRUkBjNFOwqc7W.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916916.mp4"
+        },
+        {
+          "nome": "O Melhor Lugar da Terra (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/sL44B6R6yjuWWqUQENQRQUsHFfI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915942.mp4"
+        },
+        {
+          "nome": "O Melhor Pai do Mundo (2009)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/xnRlpRIr4Dsxfm1aGlRCBJAjYhm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915525.mp4"
+        },
+        {
+          "nome": "O Melhor Presente é o Amor (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/drURajYe5LGV9wqNvdmhbJmbdoI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917279.mp4"
+        },
+        {
+          "nome": "O Melhor Professor (2015)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/mslmtORArwwfbTtwiAAmP9bFe8x.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916547.mp4"
+        },
+        {
+          "nome": "O Melhor Torcedor do Mundo (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/okXMbp63nNInk6z5T3BfcZxxt3Z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915655.mp4"
+        },
+        {
+          "nome": "O Melhor Verão da Minha Vida (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/wIYFfsEv0xaRBmYr4ACzJZhDLwC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915334.mp4"
+        },
+        {
+          "nome": "O Melhor Verão das Nossas Vidas (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/pHUxVCnB3DPu9afBnl01MtlH7q6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916949.mp4"
+        },
+        {
+          "nome": "O Mentiroso (1997)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/9fViD1rsvp95an7PN0oj3dqGIk0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917277.mp4"
+        },
+        {
+          "nome": "o Milionário Irresistível (2011)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/ggWYKLNzj0vnfL9LlsQ2Kxrrusl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916455.mp4"
+        },
+        {
+          "nome": "O Noivo da Minha Amiga (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/vtnYDjsm9Ovv4yQkO5BL9pMsf1j.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916084.mp4"
+        },
+        {
+          "nome": "O Noivo da Minha Melhor Amiga (2011)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/2ZqBcpueADR7HJsPkbDLngAE8d3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917276.mp4"
+        },
+        {
+          "nome": "O Otário (2000)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/wKcKRuIIDPxlybaJhLBulmsqRBJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915504.mp4"
+        },
+        {
+          "nome": "O Pacote (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/soOtoU3f2lj23EOWr3VOURJNRfq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917275.mp4"
+        },
+        {
+          "nome": "O Pai da Rita (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/t1Xs4xqE7pk3A6cbq5ohJagoNt2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916204.mp4"
+        },
+        {
+          "nome": "O Paizão (1999)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/ci7KJRsHS1FfGAbF0BgIHEsnaTe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916537.mp4"
+        },
+        {
+          "nome": "O Palestrante (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/pMuCfqBlaHaxTD2eIK1IyhQlXUx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916130.mp4"
+        },
+        {
+          "nome": "O Passageiro das Trevas (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/wnliRC1aamZJGzgBTx2PgDpOYYy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916235.mp4"
+        },
+        {
+          "nome": "O Pequenino (2006)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/hhz8suBlc45xIyanIIAg7DmWHCB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917274.mp4"
+        },
+        {
+          "nome": "O Pequeno Roubo do Grande Nunu (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/k4fi3epbUws0Y8qbudyCIaNjciw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915969.mp4"
+        },
+        {
+          "nome": "O Pequeno Spirou (2017)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/oSGAjR1pm8jpKCWEqOTnstLNlCl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917081.mp4"
+        },
+        {
+          "nome": "O Perfeito Sr. Cha (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/2jgL3Hdt3arpW3gsMSx6YI5z9EP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916664.mp4"
+        },
+        {
+          "nome": "O Peste (1997)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/2k3Z7iNfxdXeHO70aHL6ozUUlZO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915404.mp4"
+        },
+        {
+          "nome": "O Pestinha (1990)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/wjaQT9gs3sRs3YGMhuDQKOeFEhR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915481.mp4"
+        },
+        {
+          "nome": "O Pestinha 2 (1991)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/8IHLYVF7Pl7GflinQh2TW8cnN8m.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915480.mp4"
+        },
+        {
+          "nome": "O Pestinha 3 (1995)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/d6kvCIl4OkLcGIO6SNniY0wq0Ni.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915538.mp4"
+        },
+        {
+          "nome": "o Piloto Sumiu (1980)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/7pPDjwmlNKhOui2CTuSZDBCmGZG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915458.mp4"
+        },
+        {
+          "nome": "o Pimentinha (1993)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/A9zJyQvF8yXC5HPTMB24hMeQFq1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916805.mp4"
+        },
+        {
+          "nome": "o Pimentinha Ataca Novamente (1998)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/9AnwwTia1JiQH6lItJ3dSz9onvI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916804.mp4"
+        },
+        {
+          "nome": "O Pintor (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/kRcY98IwFutA4b9Xmh1ERpFliMj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915971.mp4"
+        },
+        {
+          "nome": "O Pior Vizinho do Mundo (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/jN1IEK3G75XsyLJoxFpxX0x5VB9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916052.mp4"
+        },
+        {
+          "nome": "O Plano (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/eIEPC3GVaM3pCIx9Ngo4ZkJbql3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915692.mp4"
+        },
+        {
+          "nome": "O Plano de Milhões (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/7JnAVrls2rY4RwJYTq2vvqNzTKU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915793.mp4"
+        },
+        {
+          "nome": "O Poder da Voz (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/9iOiqMvOt7q0JXznPWeacceTYcc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916185.mp4"
+        },
+        {
+          "nome": "O Poder do Amor (1995)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfAwtqbZQq9EXjjdPof5bWQhdUC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4160470.mp4"
+        },
+        {
+          "nome": "o Porquinho Atrapalhado (1995)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/2iNuwcEPz7rzuQqxi1ysT0NtgOc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916673.mp4"
+        },
+        {
+          "nome": "o Porquinho Atrapalhado na Cidade (1998)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/xseIZmlJYWhZM6jspvRXQ2M1kMQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916672.mp4"
+        },
+        {
+          "nome": "O Preço da Família (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/LajfxwKDkZlbKacfLvrzLMIocQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916076.mp4"
+        },
+        {
+          "nome": "O Preço da Herança da Vovó (2024)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/91Oi51b6unAU2ziK0o9wIkOMNda.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915726.mp4"
+        },
+        {
+          "nome": "O Preço da Noiva (2024)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/A70tnH9pY9TO9QFYOLP3Fisk8zf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915704.mp4"
+        },
+        {
+          "nome": "O Preço de Educar (2024)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/ny1jE0FKJBapd9dwzpEFGOKHhSh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915650.mp4"
+        },
+        {
+          "nome": "O Preço de Uma Escolha (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/sQlBOrm4twKjXVTJyVYoceKaelN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915734.mp4"
+        },
+        {
+          "nome": "O Primeiro Mentiroso (2009)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/sOBaj9lVwKcU57LVkPWezgb7xRh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916489.mp4"
+        },
+        {
+          "nome": "O Primeiro Passo (2016)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/9PJTJNxpf9Z3yYCZBrOPOQCar3Y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917074.mp4"
+        },
+        {
+          "nome": "O Professor Aloprado (1963)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/3lEZUKwiSvXBPwwvdVh5Fxbxumq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916485.mp4"
+        },
+        {
+          "nome": "O Professor Aloprado (1996)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/xNIOICZCMItkhO5lgthktduNbDA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916602.mp4"
+        },
+        {
+          "nome": "O Professor Aloprado (2008)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/nJKpdRo9Tm5PL2et4YCWfTqcsNy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917273.mp4"
+        },
+        {
+          "nome": "O Professor Aloprado 2: A Família Klump (2000)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/oGXbXxYzSP5EJncRqKlkRFeHaWa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916599.mp4"
+        },
+        {
+          "nome": "O Quarto Passageiro (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6esLDD0bcUXYCumhpyBi4eriYx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4160646.mp4"
+        },
+        {
+          "nome": "O Que Ficou Perdido (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/3rj5Oky3akGa6f0IGTk4o9ATrrL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916907.mp4"
+        },
+        {
+          "nome": "O Que Nós Fizemos no Nosso Feriado (2014)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/kG0lzFfFExidzrOwXiVXn772qz8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916553.mp4"
+        },
+        {
+          "nome": "O Que Pode Dar Errado? (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgSIsvpxbXmgFob4N66C8xYzWkL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4160608.mp4"
+        },
+        {
+          "nome": "O Quiosque (2024)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/eZExVc4fuAFSdh2VsHI1pN4Izqp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915674.mp4"
+        },
+        {
+          "nome": "O Radicão (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/AqH1hjH7sAmPGuFoK9zugLmPsr9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915938.mp4"
+        },
+        {
+          "nome": "O Rapto do Menino Dourado (1986)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/VjC6xrU8gHMXTaL6aFfrLeT4Ao.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917278.mp4"
+        },
+        {
+          "nome": "O Reencontro da Turma (2024)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/4453GL9YGkqzbIQHvoyLm3u4J9Q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915758.mp4"
+        },
+        {
+          "nome": "O Rei da Comédia (1982)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/bdCJM9YbYbcphpWHz8gvRuMRR9J.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916371.mp4"
+        },
+        {
+          "nome": "o Rei da Floresta (1997)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/txoCXWx2X582EXfSpiwBGio2QDa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916703.mp4"
+        },
+        {
+          "nome": "O Rei das Fugas (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/7QpoARuHNYZdpUUd0YUIHCaOi9P.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916263.mp4"
+        },
+        {
+          "nome": "O Rei Perdido (2022)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/iHQ7xOXBHMIdyyTz977YJDfoIAQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915646.mp4"
+        },
+        {
+          "nome": "o Repórter (2012)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/sA7eFsHAdlSwdqtbxuATV9QaOiL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916646.mp4"
+        },
+        {
+          "nome": "O Retorno (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/bySCgLjkmPFuUd0ExwruObY9VHn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916323.mp4"
+        },
+        {
+          "nome": "O Retorno dos Thundermans (2024)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/wEquopFw43QCKsBp1fpIabmGlYc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915780.mp4"
+        },
+        {
+          "nome": "O Roqueiro (2008)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/cyxRRpyttI9LcmovpcUSiCXUC7O.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916328.mp4"
+        },
+        {
+          "nome": "O Roubo do Século (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/8uAwFcUqBpxe4hMCnFwhHCOk3Qt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916231.mp4"
+        },
+        {
+          "nome": "O Segurança Fora de Controle (2009)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/gEt0TiGi3Sng8WmcNexqShV8SuP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916510.mp4"
+        },
+        {
+          "nome": "O seresteiro de Acapulco (1963)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/6rcIQvAoXa8NTJm3XwFgDFtKVIu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916134.mp4"
+        },
+        {
+          "nome": "O Shaolin do Sertão (2016)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/hHmD5ziiVvOM1femGTazj4bfkGK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917272.mp4"
+        },
+        {
+          "nome": "O Show de Truman: O Show da Vida (1998)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/k1pwKQs2erSy6q4qhi0tTaXrSOf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917271.mp4"
+        },
+        {
+          "nome": "O Sol de Riccione (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/ySCx1nZXw5CRy0BHQdDjx6nc2HS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916918.mp4"
+        },
+        {
+          "nome": "O Super Agente Makey (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/A5uyxQxMVuCDD6lgHVUFC79EH0X.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915977.mp4"
+        },
+        {
+          "nome": "O Super-Herói Está de Volta (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/fc5tpyQrKCfbAbaP5ujpVRgrjF0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915468.mp4"
+        },
+        {
+          "nome": "O Terminal (2004)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/2CZBOYsm1cqAKMM68qGwOPCt3EF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917270.mp4"
+        },
+        {
+          "nome": "O Tesouro da Montanha Nebulosa (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/1mMG78tbmYUN5VSy61MeUVzLNco.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915801.mp4"
+        },
+        {
+          "nome": "O Tiro Que Não Saiu Pela Culatra (1989)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/a2Vx0eeASEwIm3Gv5ri2Z9wOD9L.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915503.mp4"
+        },
+        {
+          "nome": "O Trapaceiro (2012)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/mYgicNd1CENL4BfEsrBnAO6dekc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916370.mp4"
+        },
+        {
+          "nome": "O Truque do Amor (2025)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/gi6xUdJgh2OyF4yM7YAGGwKgKYS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915608.mp4"
+        },
+        {
+          "nome": "O Turista Acidental (1988)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/o4M9aoCC8UwnaPFz9xEgqvkLpkg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915574.mp4"
+        },
+        {
+          "nome": "O Último Desejo (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/djXXkS8UiC3QjltM6X16qAUEFy8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917162.mp4"
+        },
+        {
+          "nome": "O Último Desejo de Sardar (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/nlQFKybBpJrpKS65wd7lhiSpnkt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916650.mp4"
+        },
+        {
+          "nome": "O Último Hotel (2016)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/4Pa8X8LxMMC4R5huYKsYQUUxRJr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917269.mp4"
+        },
+        {
+          "nome": "O Último Jogo (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/aZgtoSGnW0DNcsHkDbY5ZulAFXv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916330.mp4"
+        },
+        {
+          "nome": "O Último Turno (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/cEe6L1gETZyBJxvQZnycXnUKjfe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916831.mp4"
+        },
+        {
+          "nome": "O Velho e a Arma (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/24wx6tKWPQwum5DLXgvNicFgrf3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916935.mp4"
+        },
+        {
+          "nome": "O Vendedor de Linguiça (1962)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/arkiWJjZMlLqtNqS7kljtaN7v9o.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917326.mp4"
+        },
+        {
+          "nome": "O Verão da Minha Vida (2013)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/7Qp5Vmql5usbMbsf1QnUuSGB1fx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915443.mp4"
+        },
+        {
+          "nome": "O Verão de Adam (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/84A8eAMdScRBO9B84VDWapAr3Pn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915937.mp4"
+        },
+        {
+          "nome": "O Verdadeiro Papai Noel (2011)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/uYpOQYOlA4nzxW2P7dICCwmrncl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916369.mp4"
+        },
+        {
+          "nome": "O Vigarista (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/4kiVg3QJQghjtRupyfWYI3T1R0O.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915893.mp4"
+        },
+        {
+          "nome": "O Virgem de 40 Anos (2005)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/e2qfitm4lm1g3mGc7nGmnnnQa3c.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916583.mp4"
+        },
+        {
+          "nome": "O Zelador Animal (2011)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/k8XEkCbaBwjdHMhBgG3PLEmY0sv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915809.mp4"
+        },
+        {
+          "nome": "Obcecado por Cinema (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nT05GJhGazB5VtUIFrk9pr8u3RD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4169921.mp4"
+        },
+        {
+          "nome": "Obrigada Por Tudo (2019)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/kb6b8x44yqHIglI2aMLk15RBy65.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915918.mp4"
+        },
+        {
+          "nome": "Obrigada por Tudo! Julie Newmar (1995)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/e5hCXMXM0ZLK1tjJaeIFtEBNFot.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915573.mp4"
+        },
+        {
+          "nome": "Obrigado Por Fumar (2005)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/1TnnktqvgWLerkBJXkB2v9qRs7U.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915682.mp4"
+        },
+        {
+          "nome": "Obrigado Por Ligar (2015)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/4ISvoI3QeGkQi3i0irLCPDKKtOg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915865.mp4"
+        },
+        {
+          "nome": "Oitava Série (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/5cXqKpHo2vydjnaYOGbYrKbqXk8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917152.mp4"
+        },
+        {
+          "nome": "Oito Mulheres e um Segredo (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/mymTjvZeg9hkSSofg78nH0GOtLS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917490.mp4"
+        },
+        {
+          "nome": "On the Rocks (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/fcijRCmB7yTtloh4Pumy9b1rkwU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916872.mp4"
+        },
+        {
+          "nome": "Onda de Crimes (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/rpxMp4CzP1cDAPJtXyKjSiogmy2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916531.mp4"
+        },
+        {
+          "nome": "Onde Está a Vovó? (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/o79P7KjDt7dKXeFhTnLLOSZibx3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917111.mp4"
+        },
+        {
+          "nome": "Open: Abrindo a Relação (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/jPgSjWjlhNNQXXLKpQPBKGY29gx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915958.mp4"
+        },
+        {
+          "nome": "Operação Cupido (1998)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/ztIUJ94m2lH7G2utUJ9AzJhTSvr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915362.mp4"
+        },
+        {
+          "nome": "Operação Divórcio (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/3upFUOD8JH6AMIoBaOKd0BO08Ot.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916085.mp4"
+        },
+        {
+          "nome": "Operação Portugal (2021)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/jnJRQ8iSCncMe38339H9BvukkiX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916415.mp4"
+        },
+        {
+          "nome": "Operação Supletivo: Agora Vai! (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/I1jDPWDC3DvnZTViTaOPKCF1YU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917117.mp4"
+        },
+        {
+          "nome": "Orgulho e Preconceito e Zumbis (2016)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/xWp81fGy6Fbg7zXWEvVILZoIhTT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916972.mp4"
+        },
+        {
+          "nome": "Os (Quase) Ídolos da Bahía Colorada (2023)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/olT4pIcEwP3160jXETWP1zawaCe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915978.mp4"
+        },
+        {
+          "nome": "Os Acompanhantes (2010)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/r6D6V0FJTa3uQ53RLIEbWJ831Rx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916389.mp4"
+        },
+        {
+          "nome": "Os Aloprados (2008)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/r1X907lfrQQlP1gZNxs5qZ7RhrF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916514.mp4"
+        },
+        {
+          "nome": "Os Altos e Baixos do Amor (2025)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/t8KCMc40E4A9m8AsUkr9D9wUgjE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915563.mp4"
+        },
+        {
+          "nome": "Os Amantes (2017)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/xXbg3pvt9X1CKNAMu7NHXb68qS2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916889.mp4"
+        },
+        {
+          "nome": "Os Bad Boas (2025)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/sCMbtE4Owgbgndty07jCA7wH08F.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915379.mp4"
+        },
+        {
+          "nome": "Os Batutinhas (1994)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/x4UChnACHypljR6fmKg6vuM14Nh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915438.mp4"
+        },
+        {
+          "nome": "Os Batutinhas: Uma Nova Aventura (2014)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/cc4BnONgtqt7FzZbCLh5IqOKHcA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916951.mp4"
+        },
+        {
+          "nome": "Os Candidatos (2012)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/yNVKRSwGM3nokNDeZA8J8cDfiS0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915387.mp4"
+        },
+        {
+          "nome": "Os Caubóis do Apocalipse (2016)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/d3hUfBBfkdH91A1xxvpWO3j5Ur7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917161.mp4"
+        },
+        {
+          "nome": "Os Delírios de Consumo de Becky Bloom (2009)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/vAKq7AS4CZVZDlgfLR2fLO38Lng.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916669.mp4"
+        },
+        {
+          "nome": "Os Deuses Devem Estar Loucos 2 (1989)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/vqsKkl4Tr1IU7rPmwoeE5p6BIwi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917268.mp4"
+        },
+        {
+          "nome": "Os Deuses Devem Estar Loucos 3 (1991)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/tz3sQxWuDC3wo7W3PBQswqsgqMx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917267.mp4"
+        },
+        {
+          "nome": "Os Donos da Noite (1989)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/jTy1FVBx4uj693mRxvGFv4bG7Nz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3915567.mp4"
+        },
+        {
+          "nome": "Os Espetaculares (2020)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/f6AdI8EK4IHBFpWZ0BK2uX038O7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916887.mp4"
+        },
+        {
+          "nome": "Os Esquenta-Banco (2006)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/4JRwxvVoYu8YFFwMEX4JprOmFeY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916348.mp4"
+        },
+        {
+          "nome": "Os Estagiários (2013)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/eJ2yNRyP3QJ36lO81f19ep98eWw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917266.mp4"
+        },
+        {
+          "nome": "Os Estragos de Sábado à Noite (1998)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/qxhyAtQUYVyktakrLwZkAHZPwSa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916438.mp4"
+        },
+        {
+          "nome": "Os Futeboleiros (2018)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/8ONtcNySNiAogcZWODCCGB1R6ZB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3916188.mp4"
+        },
+        {
+          "nome": "Os Garotos da Minha Vida (2001)",
+          "descricao": "Filmes De Comédia",
+          "capa": "https://image.tmdb.org/t/p/w780/p6vywmyIO9DaAgIi2uHuiqsOBta.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917062.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
