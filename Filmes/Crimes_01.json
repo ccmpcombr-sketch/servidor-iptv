@@ -1,0 +1,1471 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "Crimes",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Crimes.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "10 Dias de um Homem Curioso (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/oYfKed3vI58cNN86OxDZ1Ryrgft.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893404.mp4"
+        },
+        {
+          "nome": "10 Dias de um Homem Mau (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/fl0vUwiKyxEauecs9UCh8cGRzZH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893459.mp4"
+        },
+        {
+          "nome": "1992 (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/HV5hFJsqogckCfHiAwgKpP9R1j.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893386.mp4"
+        },
+        {
+          "nome": "A Caçada (2014)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/2JeU5c86NeoxkYY2hL6VdGFCAUd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893322.mp4"
+        },
+        {
+          "nome": "A Confissão (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/qlEiLLjRsZdW6txwBV9Mlf7cy1r.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893388.mp4"
+        },
+        {
+          "nome": "A Criminosa (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/jc00UmxmsMmQB04VNBm1L4e57Rn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893499.mp4"
+        },
+        {
+          "nome": "A Fuga de Akilla (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/7F3zWqksCUYErdDRugVQOQgY8NJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893513.mp4"
+        },
+        {
+          "nome": "A Hora do Silêncio (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/vbfSnLfrh5yiIAs05eFANNJPKhj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893391.mp4"
+        },
+        {
+          "nome": "A Informante (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/bfziuazNnGF9ASMoaSLtwZHGp9T.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893449.mp4"
+        },
+        {
+          "nome": "A Luta (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/u7hSjwNjMYtORwOErHNLpAXeIEp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893443.mp4"
+        },
+        {
+          "nome": "A Maldição (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/wrigJThMLpla8RpGKkT6NhBnIos.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893473.mp4"
+        },
+        {
+          "nome": "A Nova Geração da Máfia (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/cZ3dqWWwjbMZHItNBOFrYbD7VQK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893378.mp4"
+        },
+        {
+          "nome": "A Ordem (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/r6ldDGMzdWErm3auCuKSmsXL125.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893381.mp4"
+        },
+        {
+          "nome": "A Rede do Tráfico (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/bkfjZ5LBYfGOHnwx2ElgLahz44T.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893331.mp4"
+        },
+        {
+          "nome": "A Sombra de um Homem (2002)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/i3InMSlLUNBEdQTKazMdyVP1ryX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893336.mp4"
+        },
+        {
+          "nome": "A Teia (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/f4pxgFHotbm8rzIPxW1zVvugYOb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893417.mp4"
+        },
+        {
+          "nome": "A Troca (2008)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/feBAF48a6hmOr3KMlrxwGzlHCbK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893354.mp4"
+        },
+        {
+          "nome": "A Última Aposta (2007)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/heDxanXVHX3p0SKSnom3tXBsT0d.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893357.mp4"
+        },
+        {
+          "nome": "A Última Fonte (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/q2SPbWtkYdB7k5YZlJ6J4vjr1yO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893466.mp4"
+        },
+        {
+          "nome": "A Última Noite (2002)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/fALUwfVfkgkYoKDgdh7CbB7GRw0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893348.mp4"
+        },
+        {
+          "nome": "A Última Parada no Arizona (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/8VQnyvSwjnpRERoc1h7I767rwqk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893406.mp4"
+        },
+        {
+          "nome": "A Vida de Togo (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/vmUNcjfQn3NqqA0wWz43F4xOLlQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893506.mp4"
+        },
+        {
+          "nome": "A Viúva Negra (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/tGkpjxJ96EV0T7HiFkEt7C5h3ds.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893514.mp4"
+        },
+        {
+          "nome": "Abismos (2020)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/AjsvStrb4nN0e1pQHXIl8qm3aar.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893486.mp4"
+        },
+        {
+          "nome": "Acompanhante Fatal (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHLSB5y42sPjbZhMabG0NVkWtUH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4160580.mp4"
+        },
+        {
+          "nome": "Acordo com o Diabo (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/ePvoTxLtmJe2IiR7i10NuZaJFMH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893349.mp4"
+        },
+        {
+          "nome": "Alta Temperatura (2009)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/tEZKz8x1fZjphsC8RjWMQJCv7vG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893317.mp4"
+        },
+        {
+          "nome": "American Sicario (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/nQRPSUmHGLrFRPK6v3BI1frAM1O.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893517.mp4"
+        },
+        {
+          "nome": "Amor & Vingança (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/daMdK8wKqRyfnj6UzzFUcIkUFei.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893353.mp4"
+        },
+        {
+          "nome": "Amor a Sangue Frio (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/lb2TPhrkkqfP5rZt25ojSsVXRUx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893422.mp4"
+        },
+        {
+          "nome": "Amor Sem Limites (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/rsnZmL3oW0XUU9tICw7JB1zLa4m.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893480.mp4"
+        },
+        {
+          "nome": "Amsterdam (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/k5FFYxjmWshMMcSAtuIMhvfdOQI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893497.mp4"
+        },
+        {
+          "nome": "Anatomia de uma Queda (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/woXYl0DJTx6TsfYWPkSfNHTsoOx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899076.mp4"
+        },
+        {
+          "nome": "Anjo da Morte (2009)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/14sZ1J3bPbSJpjjd9TJ5W5rEmz4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893366.mp4"
+        },
+        {
+          "nome": "Anjos da Lei 2 (2014)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/x6WSL1FmxCswB08Vkz19yoXs56l.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893464.mp4"
+        },
+        {
+          "nome": "As Cores do Mal: Vermelho (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/s1h7CqxjZg3yreNVjXQaBdGMVaw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893429.mp4"
+        },
+        {
+          "nome": "As Duas Faces de um Crime (1996)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/kVvaqP1iZXHG3dmkC8rCaC6wnNY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893437.mp4"
+        },
+        {
+          "nome": "As Duas Mortes de Henry Baker (2020)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/8rFxEx60Ns0pBZtDnrNSOhkpHxz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893523.mp4"
+        },
+        {
+          "nome": "Assalto Brutal (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/gEpydgURgNqyYMLH6u7CG4y9N6v.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893407.mp4"
+        },
+        {
+          "nome": "Assassinato nas Minas Carter (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/ztI8hqxP4kGoht89B9AlXChLokV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896636.mp4"
+        },
+        {
+          "nome": "Assassino Americano (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/aa71PKnCgGZ2ahOQSvXw05SlNpK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893488.mp4"
+        },
+        {
+          "nome": "Assassino por Acaso (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/gWrdBimWApP3bm2Sk0CSJvjrj0r.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893414.mp4"
+        },
+        {
+          "nome": "Bandido (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/y1EnJdRe9qm3VFEbDXc6PotfDhz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893481.mp4"
+        },
+        {
+          "nome": "Bastion 36 (2025)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/f90q0CUFsWwOyZ1mamcmkhPY6q9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893374.mp4"
+        },
+        {
+          "nome": "Believer 2 (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/oWFPnj92XoZhlmgLlMpXMvLwxZs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893451.mp4"
+        },
+        {
+          "nome": "Bilhete de Fuga (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/ihss7lYlG9xON9RnOIy2pwLbdLX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893501.mp4"
+        },
+        {
+          "nome": "Blitz (2011)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/qjqmhhc7uLub22mhu4V6DjOBwXM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893319.mp4"
+        },
+        {
+          "nome": "Boca de Fumo (2025)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKr6jSFBrL1VFZIJ541boREu0a4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4169935.mp4"
+        },
+        {
+          "nome": "Bonnie e Clyde: Uma Rajada de Balas (1967)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/tfwqGUFxz7j0DmOJpHg3Y9u5qER.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893320.mp4"
+        },
+        {
+          "nome": "Breakdown: Implacável Perseguição (1997)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/qOAa9olK9bhFkZYPvixacglbo3N.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893347.mp4"
+        },
+        {
+          "nome": "Breaking (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/rKbgbzJbVM7MLjN7EwdO1QcIXCz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893482.mp4"
+        },
+        {
+          "nome": "Cabo do Medo (1991)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/AfUtnysJQGFH5mZsoQNjle9Nibg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893389.mp4"
+        },
+        {
+          "nome": "Caçada em Atlanta (1981)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/lZi8aIIsYreofQ9IR6H7joJkNky.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893380.mp4"
+        },
+        {
+          "nome": "Casamento Mortal (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/jGlSDr8ETshHHJ1soHPkY7etPff.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893425.mp4"
+        },
+        {
+          "nome": "Chamas da Fúria (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/utfhJGVMXNfFqzyPfCQDTBLYi19.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893474.mp4"
+        },
+        {
+          "nome": "Chris Watts: Confissões de um Assassino (2020)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/452Kzv2dRPqgI9APb6hlYjLnMzu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4176838.mp4"
+        },
+        {
+          "nome": "Circuito Fechado (2013)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/v8udqEuebz2AeUpxrpSN3VA2JlG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893312.mp4"
+        },
+        {
+          "nome": "Círculo de Espiões (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/jGUcSkXhBpgqIjSW5f5QKAmi2SQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893455.mp4"
+        },
+        {
+          "nome": "Clube dos Vândalos (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/6zWYq8gYzyUMN6pWNWmV0f6cR8M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893415.mp4"
+        },
+        {
+          "nome": "Colarinho Branco 2 (2025)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/m8R3BysHg0onALR6xDT8ZMO673f.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893330.mp4"
+        },
+        {
+          "nome": "Como Virei Gângster (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/soBP2LIL5JPL2tIAFYrhQAau23Q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893494.mp4"
+        },
+        {
+          "nome": "Confidencial (2006)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/1FGjjtpjyUU1KGWE3SfT8hQJ2Jk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893362.mp4"
+        },
+        {
+          "nome": "Confissões (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/i7tkwHYyNNK5WF2lIeVUKdGUzv1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893432.mp4"
+        },
+        {
+          "nome": "Cop Land: Zona Exclusiva (1997)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/wr7CqiTL8mIxu93jPkNNJELihHt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893346.mp4"
+        },
+        {
+          "nome": "Copycat - A Vida Imita a Morte (1995)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/4jf2ZtreVJjog3b8zNkjvGVitv3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893327.mp4"
+        },
+        {
+          "nome": "Crimes e Mentiras: O Assassinato de Grace Millane",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://i.imgur.com/d3SxsA4.jpeg",
+          "url": "http://servidor/movie/{user}/{pass}/4167292.mp4"
+        },
+        {
+          "nome": "Crimes e Mentiras: O Caso de  Gabby Petito",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://i.imgur.com/7VDS7Rv.jpeg",
+          "url": "http://servidor/movie/{user}/{pass}/4167289.mp4"
+        },
+        {
+          "nome": "Crimes e Mentiras: O Caso de Arthur Labinjo Hughes",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://i.imgur.com/rOjn5mw.jpeg",
+          "url": "http://servidor/movie/{user}/{pass}/4167288.mp4"
+        },
+        {
+          "nome": "Crimes e Mentiras: O Caso de Michael Jackson",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://i.imgur.com/Dr1t4TE.jpeg",
+          "url": "http://servidor/movie/{user}/{pass}/4167287.mp4"
+        },
+        {
+          "nome": "Crimes e Mentiras: O Caso Joe O'Reilly",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://i.imgur.com/uOXOjee.jpeg",
+          "url": "http://servidor/movie/{user}/{pass}/4167290.mp4"
+        },
+        {
+          "nome": "Crimes e Mentiras: O Caso Jussie Smollett",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://i.imgur.com/3NLhM2N.jpeg",
+          "url": "http://servidor/movie/{user}/{pass}/4167291.mp4"
+        },
+        {
+          "nome": "Criminosa Do Sul (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/sE4H8njoZZWGwzNmW2TxUxWwDrI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893439.mp4"
+        },
+        {
+          "nome": "Custe o Que Custar (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/3y7LbJsCbyp99A7UgoLfDQ7wmm4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893329.mp4"
+        },
+        {
+          "nome": "Dark Country (2009)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/w3DE4rxX5vY4ybq08zxQWrmbFaU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893326.mp4"
+        },
+        {
+          "nome": "De Sombra e Silêncio (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/dOuPJKkK6ks5V435jgrANVD0OyO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893387.mp4"
+        },
+        {
+          "nome": "De Volta ao Crime (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/jbwGX0S31kJ0y42SojjoD2pN6D7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893412.mp4"
+        },
+        {
+          "nome": "Depravação (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/n19vWwaN3NgxazMbxxNYn5h30EE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893371.mp4"
+        },
+        {
+          "nome": "Desconhecidos (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/wNzdnCoVosaeY0vRWajlrFUfUhN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893345.mp4"
+        },
+        {
+          "nome": "Despertar de um Pesadelo (1996)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/iPOXTAUguRqlRXJYBMWWVZGLBe3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893365.mp4"
+        },
+        {
+          "nome": "Dia das Bruxas (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/yFJ0vCbuSkzXBwg2KBueM3j1QbA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893460.mp4"
+        },
+        {
+          "nome": "Dinheiro Sujo (2002)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/4bRMUS1zhvN1EJcjc1PrVWsauvy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893318.mp4"
+        },
+        {
+          "nome": "Dominada Pelo Medo (1991)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/96TKKCpeYT4q8ib8OHV0IOrxuFO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893377.mp4"
+        },
+        {
+          "nome": "Dublê de Corpo (1984)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/hGB9Up4weNkpi2HzTqA9VjvJRzA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893376.mp4"
+        },
+        {
+          "nome": "Echo Boomers: A Geração Esquecida (2020)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/p18bvjZiroyCggjARjK41eTaEmb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893491.mp4"
+        },
+        {
+          "nome": "Em Águas Agitadas (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/3PpCag294nEPeX9JQSiJCQO4kV5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893485.mp4"
+        },
+        {
+          "nome": "Em Busca do Bilhete Premiado (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/x0FBgHdLW4PTEhybUTDrsWasahS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893502.mp4"
+        },
+        {
+          "nome": "Encontro Com a Morte (2020)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/80EwTpZ3Ry2SSGms1DManD65eTP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893489.mp4"
+        },
+        {
+          "nome": "Encontro Maligno (2012)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/pkEumpJ7NwdrrRcLRtx91zgjcwj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893350.mp4"
+        },
+        {
+          "nome": "Encurralados (2007)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/oFQc8cc1CDXfb6wY7XxSAN1Evav.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893310.mp4"
+        },
+        {
+          "nome": "Enquanto a Cidade Dorme (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/vIx4Ua4gAuQEn9OTVfBnIFbT3uV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893337.mp4"
+        },
+        {
+          "nome": "Era Uma Vez em Londres (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/8SSEYwqCYNJDjhRbXR93DNEEKWX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893457.mp4"
+        },
+        {
+          "nome": "Escapando da Seita Nxivm: A Luta de uma Mãe para Salvar a Filha (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/q3UXYbmYiNVF7DVFZIgdCi25Qw1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893431.mp4"
+        },
+        {
+          "nome": "Espetáculo de Sangue (1967)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/2bWAMWmwULOehWD1Ge7GOJ7Kksc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893313.mp4"
+        },
+        {
+          "nome": "Espionagem em Londres (2020)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/asP02uJm1ziJnm7FY3U7lvVAt5f.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893390.mp4"
+        },
+        {
+          "nome": "Estado de Emergência (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/r5WedEP5puK7AQMBJHDocurWJGV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893475.mp4"
+        },
+        {
+          "nome": "Estrada do Crime (2018)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/getO89cEumcc5Yl4ttJ0A40HqAi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893411.mp4"
+        },
+        {
+          "nome": "Falcões da Noite (1981)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/vIkcfN2UY1CLRKORn4O8KwZ942V.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893385.mp4"
+        },
+        {
+          "nome": "Ferry 2 (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/oIeHeuhxUpU7wWDqqo769s8D91s.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893392.mp4"
+        },
+        {
+          "nome": "Finestkind (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/4Nj22XjqaOwc37IJ9WrOJ5UZi7q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893447.mp4"
+        },
+        {
+          "nome": "First Shift (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/ajsGI4JYaciPIe3gPgiJ3Vw5Vre.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893333.mp4"
+        },
+        {
+          "nome": "Fletch (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/vbi7lQ7tABBZb1z0TzpBEdEjUmn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893498.mp4"
+        },
+        {
+          "nome": "Fogo vs Fogo (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXqzmtYY4JrQKEvJ0rw04O1Cakq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4166646.mp4"
+        },
+        {
+          "nome": "Força Policial (2008)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/tEQIxqW8TZfvBcj4VsNRMtGbdXM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893309.mp4"
+        },
+        {
+          "nome": "Fortaleza: O Olhar do Sniper (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/oVW5crMk8va8mb2auWPdXXjMGEp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893521.mp4"
+        },
+        {
+          "nome": "Freestyle (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/x6HrGmmpVUX8XBI9Vg4hbSsdBCX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893458.mp4"
+        },
+        {
+          "nome": "Fúria Sem Limites (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/ehWX8KcjL138ztz56c3Gfd00aUX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893401.mp4"
+        },
+        {
+          "nome": "Guerrilha Sem Face (2002)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/jG662jKzEf63fhcbbN3WiLlz5MX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893328.mp4"
+        },
+        {
+          "nome": "Homens de Ouro (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/vDwyRJbUS5Fsla5Xpb6UTbMNgPq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893509.mp4"
+        },
+        {
+          "nome": "Homens Maus (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/pk1gAWIAWMsNMvX15eu3KXAwpRu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893400.mp4"
+        },
+        {
+          "nome": "iHostage (2025)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/h87bgIhs4keL005Ch5aeKhnaAIL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893359.mp4"
+        },
+        {
+          "nome": "Indiferença (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/ufFrD3NgeFZdNlORyOgXkjCyeJA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893441.mp4"
+        },
+        {
+          "nome": "Infância Roubada (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/d9m4uzov6qrxFVk3uAgPQBtlbf7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893335.mp4"
+        },
+        {
+          "nome": "Inferno no Bronx (1981)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/w6fpOWwPPXYR6xUg6dUnIWED1ao.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893367.mp4"
+        },
+        {
+          "nome": "Infiltrado na Máfia (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oH7yZcpWf7MddYIhs1Xvdk7NUbz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4166992.mp4"
+        },
+        {
+          "nome": "Inocência (2020)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/o4l1kl6rmnnT32YZuJEYwfAEztm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893448.mp4"
+        },
+        {
+          "nome": "Instinto Secreto (2007)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/uwgrln1BB1KZqvktSO6HtpW62Qk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893352.mp4"
+        },
+        {
+          "nome": "Instinto Selvagem 2 (2006)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/6jFs6wuMRKfR0jdfsA4lyLTCdmI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893384.mp4"
+        },
+        {
+          "nome": "Irmãos do Crime (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/ggklPPxUfYEXv9VVI37F1XnfSEr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893477.mp4"
+        },
+        {
+          "nome": "jigra (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/mhnT27mgtiMNowOhAlMWSqBoSyb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893397.mp4"
+        },
+        {
+          "nome": "Jogo do Destino (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/3V0iiaCYgaJHL1Z6aiTyacDzfof.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893436.mp4"
+        },
+        {
+          "nome": "Jurado Nº2 (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/8Enmby25murJWBYYKaPRgoXhW8U.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893396.mp4"
+        },
+        {
+          "nome": "Justiça Além do Sistema (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/9ymJrovCopWJQC5ojNqFHEpFAbc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893526.mp4"
+        },
+        {
+          "nome": "Justiça Brutal (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/fbZi8jRG0tZTdXx3GH6CZthkFzc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893363.mp4"
+        },
+        {
+          "nome": "Justiça Vermelha (1997)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/7jtoCR2yEmjS4IgDUvfYT3r5sZg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893324.mp4"
+        },
+        {
+          "nome": "Laços do Crime (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/mOlGmvhAyBhHXEk3qUonUdiJJWb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893445.mp4"
+        },
+        {
+          "nome": "Lendas do Crime (2015)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/bIlkCztaqGtGOBSrFHnHG0qCZmU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893430.mp4"
+        },
+        {
+          "nome": "Livrai-nos do Mal (2020)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/oZu6D88XVuxJ7hEZIM1bIWUcUS6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893490.mp4"
+        },
+        {
+          "nome": "Loteria Fatal (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/3zwqemYFrYiWISWeC64OumJW95v.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893372.mp4"
+        },
+        {
+          "nome": "Mafia Mamma: De Repente Criminosa (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/ldMp0tTPzlcjdoAJI1jfnDXRrfX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893467.mp4"
+        },
+        {
+          "nome": "Mão na Cabeça (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/ptEiKa281TiK7FTBGinLunfQFbm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893338.mp4"
+        },
+        {
+          "nome": "Marcados Para Morrer (2012)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/jKdsR67jLbn4cVQgaERyLmpGLOW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893311.mp4"
+        },
+        {
+          "nome": "Matança (2020)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/csapBzUWR7rmuwtmno8oCeWA2HX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893454.mp4"
+        },
+        {
+          "nome": "Mea Culpa (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893440.mp4"
+        },
+        {
+          "nome": "Memória de um Crime (2018)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/ht1TuxKV4fMlHdPetWaQdgwiMwT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893368.mp4"
+        },
+        {
+          "nome": "Meu Nome Era Eileen (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/h71cz1w2xMN5rErxlB4LMnRVk5k.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893438.mp4"
+        },
+        {
+          "nome": "Morte no Nilo (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/dRMuS6S0NSqvkDxBbNqCjon95iY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893528.mp4"
+        },
+        {
+          "nome": "Mulheres Rebeldes (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/txwuFj1sco2iiHFcSqSn3sYQdQv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893427.mp4"
+        },
+        {
+          "nome": "Na Mira dos Assassinos (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/68qms1WCeRagS9XX4NaPgxpSUWV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893435.mp4"
+        },
+        {
+          "nome": "Nas Sombras de Paris (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/msESTlps71nVfWOTc3XXSQr7ll0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893315.mp4"
+        },
+        {
+          "nome": "No Lugar da Outra (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/j2gA2dkhJVvM5i4Sd91SuTg9J35.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893408.mp4"
+        },
+        {
+          "nome": "O Agente Secreto (2025)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1DQ4XXIqTm5LvUjz8jypN43JjZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4169900.mp4"
+        },
+        {
+          "nome": "O Agiota (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/sdbAoj5akfFHj7dTDOpUIrTcHT1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893370.mp4"
+        },
+        {
+          "nome": "O Alfaiate (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/n2CUl7VOOShmsXPuOW6jGvcSu1C.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893508.mp4"
+        },
+        {
+          "nome": "O Amor Sangra (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/3SvswOeTAzVoUSU7wD9T8ZUUcmO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893418.mp4"
+        },
+        {
+          "nome": "O Assassino (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/mkEQgdQcvmxSYvY4bMhabxLjjXY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893452.mp4"
+        },
+        {
+          "nome": "O Assassino em Série de Long Island (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/lTRTHmMBoJAynzGC0VrutOpgph9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893516.mp4"
+        },
+        {
+          "nome": "O Beco do Pesadelo (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/nndZUt9Lf8ZwefYBTGe5opGLJuY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893364.mp4"
+        },
+        {
+          "nome": "O Beijo no Asfalto (1981)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/iI9Fi4YUAVpBHIbgGz0sEWyMczm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893342.mp4"
+        },
+        {
+          "nome": "O Clube de Apostas (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/ljS9zHjqilgvqfuzcrGqrK9E8N9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893426.mp4"
+        },
+        {
+          "nome": "O Código do Silêncio (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/j80L97soVZdgSM3S4fXpSUFvOM0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893419.mp4"
+        },
+        {
+          "nome": "O Contador (2016)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/br5SjDttw1AwAiTfneWxZBBaqjC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893361.mp4"
+        },
+        {
+          "nome": "O Contador 2 (2025)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/7wschRKyIWpjPl1Fm1AhpR4MheQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893339.mp4"
+        },
+        {
+          "nome": "O Crime de Georgetown (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/iOWbf5oPwCpUznpXJD2snOODprk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893511.mp4"
+        },
+        {
+          "nome": "O Crime Não Descansa (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/9XuN02Or1ydSjWboR0NZ6hNHWp4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893405.mp4"
+        },
+        {
+          "nome": "O Desconhecido (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/pt4Ukp5FzN3PFFiG14E6phEV2rZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893505.mp4"
+        },
+        {
+          "nome": "O Diabo que Você Conhece (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/hUmspDO0ihRtP2P38D4TS4WR6nE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893522.mp4"
+        },
+        {
+          "nome": "O Enigma da Medusa (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/78CwLdaNRPc5Jv9IWyMoajn5nbI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893462.mp4"
+        },
+        {
+          "nome": "O Estranho (1999)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/cJI7qDQrtBRBqTRkFpAh9GnMIi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893314.mp4"
+        },
+        {
+          "nome": "O Falsário (2026)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kruMkxPyLf8bZIuu53JxgyZ29kj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4172674.mp4"
+        },
+        {
+          "nome": "O Fim da Lealdade (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/sy1r4ABRjNrk6Xsp2hPnfhDPM7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893369.mp4"
+        },
+        {
+          "nome": "O Gângster (2007)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/gXHWwa2EUCE9BKrdzwyOiWxuufh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893379.mp4"
+        },
+        {
+          "nome": "O Golpe (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/rOIWNpTDUfIqBJI87vCDqGkCY0h.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893525.mp4"
+        },
+        {
+          "nome": "O Grupo (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/8AYXm2NISpt0XQCHH3FnS0IwPgd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896530.mp4"
+        },
+        {
+          "nome": "O Homem Sem Medo (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/jILHhjChpQgKwMMPxKEhK1YzDnx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893398.mp4"
+        },
+        {
+          "nome": "O Interrogatório (2020)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/lBNbNXumaDW5k4veOBBgdEqA7F7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893479.mp4"
+        },
+        {
+          "nome": "O Jogo do Disfarce (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/d9O2dIxU1X8Qc8s8kf9RFiiDMMB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893444.mp4"
+        },
+        {
+          "nome": "O Limite do Prazer (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmLQaEPC9uRCbjPs1NI4S90qimH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4160609.mp4"
+        },
+        {
+          "nome": "O Maior Roubo de Arte da História (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/mlLiUFxmOHlbmIhPtLdABMYOhLA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893343.mp4"
+        },
+        {
+          "nome": "O Mistério das Palavras Cruzadas: Enigma Mortal (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/vE5BiUSVKiSiDiFMvsgDa0qCQLT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893515.mp4"
+        },
+        {
+          "nome": "O Mistério do Vinhedo (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/rai1NpvlCgZiaKzxaNAjbUY72GJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893334.mp4"
+        },
+        {
+          "nome": "O My Darling (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/hiXLk6vdFBI8mVslso1VqzJEe45.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893395.mp4"
+        },
+        {
+          "nome": "O Passado (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/dPvgiDbZ16wrB9CTaYtBBUuF4q8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893504.mp4"
+        },
+        {
+          "nome": "O Preço da Sedução (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/5PhCJDL4jquPP23buc58vR9w1o2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893512.mp4"
+        },
+        {
+          "nome": "O Profissional (1994)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/qgco9a59jPKOzwNN99s2mUYRgig.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893360.mp4"
+        },
+        {
+          "nome": "O Rei das Drogas (2018)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/zLuOVMApk1zQq1T4lsoygdwGjFY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893472.mp4"
+        },
+        {
+          "nome": "O Rei do Crime (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/1m18uBBXzlwv0sVXAVE2tWe9rsb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893393.mp4"
+        },
+        {
+          "nome": "O Roubo de 88 (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/nHw4ECQTKYr5GC0EAaNt6DeTcbQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893416.mp4"
+        },
+        {
+          "nome": "O Roubo do Quadrado Negro (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/xK5UOTEDB0Jlhz0dvMRjB1qhAFS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893420.mp4"
+        },
+        {
+          "nome": "O Silêncio da Chuva (2020)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/8nUWNGJYNx4Y4WDIe9kJkgeFBfK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893446.mp4"
+        },
+        {
+          "nome": "O Suspeito da Rua Arlington (1999)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/5Q7cwtIauymBsQxZHw4nEDgNd75.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893351.mp4"
+        },
+        {
+          "nome": "O Último Acordo (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/nLzOajCEeJVN1xGn9X2fleTtVR7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893340.mp4"
+        },
+        {
+          "nome": "Obcecada (2020)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/oQoHoVNJZAHKpUabMjiIvyFLahN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893424.mp4"
+        },
+        {
+          "nome": "Oito Mulheres e um Segredo (2018)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/mymTjvZeg9hkSSofg78nH0GOtLS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893413.mp4"
+        },
+        {
+          "nome": "Onde os Fracos Não Têm Vez (2007)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/mCCoKay6QPxvgaYmTmF3aGpNS4k.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893344.mp4"
+        },
+        {
+          "nome": "Original Gangster (2020)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/dNnmaGIjy5PyfjpRMx0opPEsMaP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893524.mp4"
+        },
+        {
+          "nome": "Os Assassinatos de Buckingham (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/bnn1jR0JMJE1uiv5HAz3BbbSAPC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893402.mp4"
+        },
+        {
+          "nome": "Os Conflitos na Irlanda (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/j5cddOCZYWqHdIxKaZ3z44Ckst6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893325.mp4"
+        },
+        {
+          "nome": "Os Filhos Bastardos (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnu6KKOoebmoYADGqpzTaVKcqPq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4169919.mp4"
+        },
+        {
+          "nome": "Os Matadores (1997)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/imAr9FVxxvwHAvwymcx2SFPtvXU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893321.mp4"
+        },
+        {
+          "nome": "Os Segredos da Cosa Nostra (1972)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/nYJCNk31L6WWpFcVEFdHTl31Zjg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893383.mp4"
+        },
+        {
+          "nome": "Pacto de Redenção (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/1jVlr869bV5ulcrJzqNlJs5KTMx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893403.mp4"
+        },
+        {
+          "nome": "Passado Violento (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/4cxFO7AlQOotgA45nuuej2DMyiw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893520.mp4"
+        },
+        {
+          "nome": "Pastoral Americana (2016)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/nK2lA3LPPqkuetlMTqYZJ8P2fb3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893375.mp4"
+        },
+        {
+          "nome": "Pesadelo Americano (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/ba9uZk87T5Kmvdd6TNf6NzRiQNs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893450.mp4"
+        },
+        {
+          "nome": "Plano de Aula (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/akK0REohti8YWwGZGD1MHPZvBRh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893500.mp4"
+        },
+        {
+          "nome": "Quando a Morte Chega (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJGLHZaa9AmmKABkxr8kPDJS8XQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4160684.mp4"
+        },
+        {
+          "nome": "Quem Matou Lady Winsley? (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/mWmommP8HkJKH0fq5MHkLSlRZdv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893484.mp4"
+        },
+        {
+          "nome": "Rastos de Sangue (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/yHwi0rNp3tCJp4Nd30fed8k6vC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893471.mp4"
+        },
+        {
+          "nome": "Rastro de Violência (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/rNT546tDBkIMJU2c3ETEJ82822j.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893463.mp4"
+        },
+        {
+          "nome": "Rastros de um Crime (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/bT90ikAfeBHDkijtNbtLA7vq6st.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893519.mp4"
+        },
+        {
+          "nome": "Reféns da Noite (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/aS4zCGn0NOkNNXjYEp8VaiK6WWJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893421.mp4"
+        },
+        {
+          "nome": "Ressurreição - Retalhos de Um Crime (1999)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/5JdRH9xymK7pzE5ODIVqwp7lvoF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893332.mp4"
+        },
+        {
+          "nome": "Rosario Tijeras (2005)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/sxaKqNtcFi9qkWraecFfg50PCZt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893428.mp4"
+        },
+        {
+          "nome": "Roubo pelos Ares (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/9wbjshzUHdfFhvdqHoNraGXhpLY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893483.mp4"
+        },
+        {
+          "nome": "Santosh: Vozes da Hierarquia (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/5qkog1Esn1OKOoreg42Z1mIP0Fw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893373.mp4"
+        },
+        {
+          "nome": "Segredos de uma Golpista (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MbZcj9WzoD795JHs6TqNj8nD4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4169905.mp4"
+        },
+        {
+          "nome": "Segurança Máxima (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/y7Wq8boLNOqlFhGGIhzV2YtZ4ki.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893442.mp4"
+        },
+        {
+          "nome": "Sem Evidências (2013)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/xtfhSGn6hBE3m47CCmDKLoyf60U.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893341.mp4"
+        },
+        {
+          "nome": "Sem Rastro (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/m3ZNSvplELOkVZKPXElMwdapIr4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893478.mp4"
+        },
+        {
+          "nome": "Sequestro: Elizabeth Smart (2026)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdjJZWxjmKACZtrebAcipm86cl3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4172676.mp4"
+        },
+        {
+          "nome": "Sequestro: Inocência Roubada (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/tzVpukXgB0BwLu1Rr14o9q1495p.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893510.mp4"
+        },
+        {
+          "nome": "Serpico (1973)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/7vgKnuqj2wM1wozIbZCzJBkFjYw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893316.mp4"
+        },
+        {
+          "nome": "Setor 36 (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/PHGnl1VfJxD1E6k53lBJ3foG34.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893409.mp4"
+        },
+        {
+          "nome": "Sharper - Uma Vida de Trapaças (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/nkvg5RbmDcLMfu5gfJHhMqdWBpK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893487.mp4"
+        },
+        {
+          "nome": "Sob Suspeita (2006)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/eHnER4yLY8GAzrLPq9lqSydnZU7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893356.mp4"
+        },
+        {
+          "nome": "Sob Suspeita (2018)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/8ZGPFc92abjZ8QMkR2syDGC535Q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893476.mp4"
+        },
+        {
+          "nome": "Sombras de um Crime (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/vRSbYibtGcEYBFfCAkkvSCF9eES.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896584.mp4"
+        },
+        {
+          "nome": "Soror (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/wMf4Z1YURW5F2Fwk3ZEgHQgS8qF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893465.mp4"
+        },
+        {
+          "nome": "South of Heaven (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/sUdlWpnpNIWPIvXDnucLRjDHOvQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893527.mp4"
+        },
+        {
+          "nome": "Suriname (2020)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/mAUc29CvwbDHOcyLJI4Bpai1jvG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893468.mp4"
+        },
+        {
+          "nome": "Suspeito X (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/sJqObd9wfW5EhCvnpzJuOar5fR1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893456.mp4"
+        },
+        {
+          "nome": "Tarde Demais Para Voltar (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/sKQzdURWkYdSaZI3jnRwi7OEVTG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893410.mp4"
+        },
+        {
+          "nome": "Ted Bundy: A Irresistível Face do Mal (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/7CvQye9OtsO7XQjnFjyBexNXr1J.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893461.mp4"
+        },
+        {
+          "nome": "Terror em Crescent City (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/Awe926CUphkeRUPJsAhAsVdrEfV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893394.mp4"
+        },
+        {
+          "nome": "Texas (2024)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/ySlZE3n43iXDBtGBWdc6dTBRiiM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893399.mp4"
+        },
+        {
+          "nome": "The Alto Knights: Máfia e Poder (2025)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/lA7OGYnQGBp5K4DtDKHvMaACGZp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893355.mp4"
+        },
+        {
+          "nome": "Tiro às Cegas (2020)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/n7DubA0XNioTnfw3AedrCTxDMPN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893518.mp4"
+        },
+        {
+          "nome": "Totalmente Selvagem (1986)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/p5fpzwo5FRBAGlxyJr963iUZhde.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893323.mp4"
+        },
+        {
+          "nome": "Tráfico Sexual (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/yw5cNvn2F2lXl2gDoXrjy167QAO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893433.mp4"
+        },
+        {
+          "nome": "Truque de Mestre (2013)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUxuIF95QDeKP1iyDyoLvDsGQNn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4167017.mp4"
+        },
+        {
+          "nome": "Um Homem Misterioso (2010)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/hPdrnldwY8Ds7ToYz259zQONBzI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893423.mp4"
+        },
+        {
+          "nome": "Um Passado Sombrio (2014)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/v8ppQiNYXOtYYRiO143Hs0zdP1b.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893434.mp4"
+        },
+        {
+          "nome": "Um Plano Brilhante (2007)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/eDMGDQ8MHoOPn5V159Fx1RTKRdQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893453.mp4"
+        },
+        {
+          "nome": "Uma Criança Por Testemunha (1989)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/iy6kAr4ldXX7kqtdsG5L6uIZAMy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893382.mp4"
+        },
+        {
+          "nome": "Uma Garota de Muita Sorte (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/9qJOLqZ7Gcx8HeCkt5iYqEyMjJs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893507.mp4"
+        },
+        {
+          "nome": "Uma Noite Apavorante (2020)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/2enfmp4VW7LHMUpnlnto0uf2Hqz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893495.mp4"
+        },
+        {
+          "nome": "Uma Noite Sombria (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/nzePP5O9smcQ7QKdKa6jZauby5D.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893496.mp4"
+        },
+        {
+          "nome": "Valan: Vale dos Anjos (2019)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/gmUgxxki8WcaPANgi5uUeq6EmSU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893493.mp4"
+        },
+        {
+          "nome": "Vento Selvagem (2022)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/suTCgEyS9KWexoaO1XJuzdgC7IQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893503.mp4"
+        },
+        {
+          "nome": "Vingança Brutal (2025)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHkiapXNCtO9G9tLEWzfdxKC0LN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4172682.mp4"
+        },
+        {
+          "nome": "Vingança em Dobro (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/e2p9E20sU6uBldcZto7CYS6PzJe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893469.mp4"
+        },
+        {
+          "nome": "What Happened at 625 River Road? (2023)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/u1qcXeagbXcEGLLIezGAnC3c4ok.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896550.mp4"
+        },
+        {
+          "nome": "Wild Indian (2021)",
+          "descricao": "Filmes De Crimes",
+          "capa": "https://image.tmdb.org/t/p/w780/yhOpkNvgW1ZzmEpR4iqxKwKKShL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3893358.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
