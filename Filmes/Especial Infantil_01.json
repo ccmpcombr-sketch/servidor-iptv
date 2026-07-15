@@ -1,0 +1,343 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "Especial Infantil",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Especial%20Infantil.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "A Abelhinha Maya e O Ovo Dourado (2021)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/nA6Jg8fLhJtabQYozYOUM3GzXs7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913431.mp4"
+        },
+        {
+          "nome": "A Bela Adormecida (1959)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/2MjuCYa6RkhNHmNDl4MqktxK8XH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913474.mp4"
+        },
+        {
+          "nome": "a Lenda de Ladydragon (2021)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/qStibJTjjgriA7nqrA1LVCeNMIu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913439.mp4"
+        },
+        {
+          "nome": "A Princesa Encantada - O Reino da Música (2019)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/6WU5ORvayBF1Cep3FYyo17KYGDG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913436.mp4"
+        },
+        {
+          "nome": "Amigos (1942)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/dWWITF02c1M1w6Q4jTFuC5KqTc7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913455.mp4"
+        },
+        {
+          "nome": "As Aventuras de Ichabod e Sr. Sapo (1949)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/mK6JBRA9g7g4dzejndEp2j346Ap.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913454.mp4"
+        },
+        {
+          "nome": "As Peripécias do Ratinho Detetive (1986)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/2V4c6xPivHkFp2n0U6Y6AGZz2WI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913448.mp4"
+        },
+        {
+          "nome": "Aventuras de Betty (2020)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/gMZRPm4tcwdzfx7xu3sVzdNPVYi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913434.mp4"
+        },
+        {
+          "nome": "Barbie & Chelsea: O Aniversário Perdido (2021)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/i2pMxkhKpDjMHXxmgAYVKXfGVxP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913424.mp4"
+        },
+        {
+          "nome": "Barbie e as Sapatilhas Mágicas (2013)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/59FPQDQWyiPhDJH06mUeOxU0Oo5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913472.mp4"
+        },
+        {
+          "nome": "Barbie e As Três Mosqueteiras (2009)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/aulv0DUM41tmEM9BoDVaczBojsz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913471.mp4"
+        },
+        {
+          "nome": "Barbie e o Castelo de Diamante (2008)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/9TtBy4l0yFZoUhR8dVwI3x5PJ5a.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913470.mp4"
+        },
+        {
+          "nome": "Barbie e o Segredo das Fadas (2011)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/u3OiN7HWxi9S8lcRqkmLVJ0BP1u.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913469.mp4"
+        },
+        {
+          "nome": "Barbie: Super Princesa (2015)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/89KU9Zk4l1EEDdS88wzvReAwVlj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913432.mp4"
+        },
+        {
+          "nome": "Benji (2018)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/79pacM3h5FoETnfuRC6O2qPfzn4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913468.mp4"
+        },
+        {
+          "nome": "Branca de Neve e os Sete Anões (1938)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/5l0dsoLXP2eifLQ0lFCYNC5Lcv0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913453.mp4"
+        },
+        {
+          "nome": "Cantando de Galo: O Resgate dos Ovinhos (2021)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/crPmQKdQMS2DGbvMS3oDYG3Xe92.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913428.mp4"
+        },
+        {
+          "nome": "Carrossel: O Filme (2015)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/7mFT1RnjzI83o65kh6NRsg2P8V8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913423.mp4"
+        },
+        {
+          "nome": "Cinderela (1950)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/Acj5mmoZQ5lKLNpU2y0XQCt5rNb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913441.mp4"
+        },
+        {
+          "nome": "Cinderela (2021)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/CC4WbohCVj9QlflZBPIYfj1Vc1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913438.mp4"
+        },
+        {
+          "nome": "Cinderela II: Os Sonhos Se Realizam (2002)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/bDYXOB4JMnVI6Rx3HGuJmTluQyN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913443.mp4"
+        },
+        {
+          "nome": "Cinderela III: Uma Volta no Tempo (2007)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/3z1lbzZHHWOjpX7mKYrkQ3rBAMw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913442.mp4"
+        },
+        {
+          "nome": "Como é Bom se Divertir (1947)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/tGOVtD7F6WYb0n3dR4PLauS6wj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913452.mp4"
+        },
+        {
+          "nome": "Dumbo (1941)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/hKDdllslMtsU9JixAv5HR9biXlp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913451.mp4"
+        },
+        {
+          "nome": "Flummels: Extintos! (2021)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/9AMJnitm4Kmw7ZrC7EnwXpYpwFK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913425.mp4"
+        },
+        {
+          "nome": "Galinha Pintadinha 2 (2010)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/y5hyi7xnc8rjqpx9SRQLfWnScG4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913467.mp4"
+        },
+        {
+          "nome": "Galinha Pintadinha 3 (2012)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/dh5RAkisuHtTtd2lTzT52f1qHdB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913465.mp4"
+        },
+        {
+          "nome": "Galinha Pintadinha 4 (2014)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/8lAOuS7QCT2jxWJbxNN7i1PTAdH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913466.mp4"
+        },
+        {
+          "nome": "Galinha Pintadinha Mini - Volume 7 ()",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/o5qYkbCnScrnzbXITCGSmO69m0U.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913456.mp4"
+        },
+        {
+          "nome": "Go! Festa Inesquecível (2019)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/nlOwY83L5xkIkwqcMFm3rkuqVjF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913447.mp4"
+        },
+        {
+          "nome": "Kart Nervoso (2020)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/fMFh6ESVe4m1iHQilNybOpScjYB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913444.mp4"
+        },
+        {
+          "nome": "LEGO DC Comics Super Heróis - Aquaman: A Fúria de Atlântida (2018)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/l1j8HormdXdbZZ2BJWJb9HG0LwQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913426.mp4"
+        },
+        {
+          "nome": "Manda-Chuva: O Filme (2011)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/yKLuExp4jmSiHFQWq1CTIS3LonF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913457.mp4"
+        },
+        {
+          "nome": "Masha e o Urso (2016)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/zZZDHukS9VOpicduVl8oR4imSSt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913464.mp4"
+        },
+        {
+          "nome": "Meu Malvado Favorito (2010)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/sqXerJ5VvfW15xbniuq4CZ77hQJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913461.mp4"
+        },
+        {
+          "nome": "Meu Malvado Favorito 2 (2013)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/iuo55j52aC6sKx3MkYxZZFC7wH6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913463.mp4"
+        },
+        {
+          "nome": "Meu Malvado Favorito 3 (2017)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/nJcT21OKUiS3XDxBo2IWafkSIMk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913462.mp4"
+        },
+        {
+          "nome": "My Little Pony: Nova Geração (2021)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/gsd8CzmWi4daZbEvuH4rgWbu5yT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913433.mp4"
+        },
+        {
+          "nome": "O Caldeirão Mágico (1985)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/euAKR1FKFxkS7MCVDVYgdoa15km.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913446.mp4"
+        },
+        {
+          "nome": "O Cão e a Raposa (1981)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/xy6TyyX9sr5rYeViJuAYLUAWEwN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913445.mp4"
+        },
+        {
+          "nome": "O Cão e a Raposa 2 (2006)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/p7tPn2knHDMTlgr63L5bdPBPZf7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913420.mp4"
+        },
+        {
+          "nome": "O Cavaleiro do Dragão (2020)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/v8O3Sk7xw50LMLpxYNhEY4gTZvd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913435.mp4"
+        },
+        {
+          "nome": "O Fantástico Halloween do Tubacão (2021)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/llKx3r1iKqkojnAhQpED0GZwqKL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913429.mp4"
+        },
+        {
+          "nome": "O Poderoso Chefinho 2: Negócios da Família (2021)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/2wBy31OCllFS1pSHkTnInxoHXOX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913427.mp4"
+        },
+        {
+          "nome": "O Retorno de Mary Poppins (2018)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/8g1P4sxOitwFaf3UBeT8n4F5sBy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913459.mp4"
+        },
+        {
+          "nome": "Os Ursinhos de Yellowstone (1963)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/obfsGf8eQKCOVSAHYrNF1vvexq3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913440.mp4"
+        },
+        {
+          "nome": "Patrulha Canina: O Filme (2021)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/56V3xa8ymXzOQLFGsiU9T1sDmfI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913430.mp4"
+        },
+        {
+          "nome": "Perdido pra Cachorro (2008)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/aKpkqpVYyUYqV8ahTAspbu7cCJw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913419.mp4"
+        },
+        {
+          "nome": "Perdido pra Cachorro 2 (2011)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/XGGblbJN5OTqsspH6BZnOTBILs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913422.mp4"
+        },
+        {
+          "nome": "Perdido pra Cachorro 3 (2012)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/hcvzgsNPoS2ImrSkWCRl2bxMdbA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913421.mp4"
+        },
+        {
+          "nome": "Pica-Pau: O Filme (2017)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/vJXWViokoejHZqEn7GWdNMQ4BRv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913460.mp4"
+        },
+        {
+          "nome": "Pinóquio (1940)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/vu1nTbBoQPCtdvrUOe6UFxa8wIr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913450.mp4"
+        },
+        {
+          "nome": "Spirit: O Indomável (2021)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/dSFaiG2xgwq2Z0ceUXPyfxnITC8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913437.mp4"
+        },
+        {
+          "nome": "Você Já Foi à Bahia? (1944)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/wllGcOAeh4bVNVNLK5H0thC74Cx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913449.mp4"
+        },
+        {
+          "nome": "Zé Colmeia: O Filme (2010)",
+          "descricao": "Filmes De Especial Infantil",
+          "capa": "https://image.tmdb.org/t/p/w780/fJznQfkWmN8MDnOvwxrt1UOnEAG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913458.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
