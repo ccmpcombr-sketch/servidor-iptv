@@ -1,0 +1,427 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "Família",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Fam%C3%ADlia.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "13: O Musical (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/3ndpRWh8iOvckVtHptIsD4OtayN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896317.mp4"
+        },
+        {
+          "nome": "A Cozinheira Curiosa: Receita Assassina (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/43PkvE2c5YQTPMpeHXemiZJbD3Q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896304.mp4"
+        },
+        {
+          "nome": "A Família Noel 2 (2021)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/6EV8G1tESAjelFEvrdn1rEMz8Z0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896306.mp4"
+        },
+        {
+          "nome": "A Grande Aventura de Blue na Cidade (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/sAYBC3WhhiX25629HLpCvkpGk9q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896302.mp4"
+        },
+        {
+          "nome": "A Guerra dos Botões (2011)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/pO92gxdzcIMZgdDCnvfTF1WNNkb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896248.mp4"
+        },
+        {
+          "nome": "A Jogada de Chang (2023)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896276.mp4"
+        },
+        {
+          "nome": "A Menina que Acredita em Milagres (2021)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/jhVnf6QmiRujRx2cYIZOnI8cPZ9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896315.mp4"
+        },
+        {
+          "nome": "A Turma dos Geeks (2020)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/g1tbXOXLMqqxIANtIapzwiJVDCS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896265.mp4"
+        },
+        {
+          "nome": "A.R.C.H.I.E. 2 - Missão Impecável (2018)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/5ZDrgpohqmVcofQ0ljOvNAYHr3i.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896252.mp4"
+        },
+        {
+          "nome": "Alice dos Anjos (2021)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/1eaNYp8sgO0SUPoolQPIzICvvfM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896614.mp4"
+        },
+        {
+          "nome": "Amar é para Os Fortes (2018)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/6KC0t4zL0nsEIg4RpmEoeKTwI4J.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896326.mp4"
+        },
+        {
+          "nome": "Aprendiz de Espiã (2020)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/s6i5Ypd9RGgUCU5YyJvrBllcGj7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896274.mp4"
+        },
+        {
+          "nome": "Aventura em Duas Rodas (2019)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/gVKYg7HseTtYFavutwC2mZJn8iO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896322.mp4"
+        },
+        {
+          "nome": "Caminho Para a Liberdade (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/4c9rgq7pDR7R4i1H9UrUD9lWcce.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896270.mp4"
+        },
+        {
+          "nome": "Coração de Campeão (2023)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/nzEPUz2tBnT2QH44HhaLqcHggPe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896257.mp4"
+        },
+        {
+          "nome": "Dakota (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/j3eUOPUoDwkupwTPTDk6ESqrzGt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896320.mp4"
+        },
+        {
+          "nome": "De Volta para Casa (2020)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/60cmS9njm7eHQSRSPTTBpxCWJeL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896314.mp4"
+        },
+        {
+          "nome": "Em Busca do Portal Mágico (2018)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/xskyvcKEvsGtv7FKavCIMEKw374.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896324.mp4"
+        },
+        {
+          "nome": "Escola de Magia (2020)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/w8K4fa8VUrBYI9QjSOVpF3nqTph.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896328.mp4"
+        },
+        {
+          "nome": "Eu e Meu Guarda Chuva (2010)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/gyfNyuKNIQeXreMSZ2Est6azY3w.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896268.mp4"
+        },
+        {
+          "nome": "Faça Um Desejo! (2020)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/801RIZKpUeSrXjgmWGiiurzERls.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896310.mp4"
+        },
+        {
+          "nome": "Fall & Order (2019)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/1U7k4jmMwa9nZYdSitEqV4Y7oql.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896307.mp4"
+        },
+        {
+          "nome": "Felix e o Tesouro de Morgan (2021)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/a4uzmvJEQ251fXF0L4G7D1RdRai.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896331.mp4"
+        },
+        {
+          "nome": "Feliz Ano Novo... de Novo (2023)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/1ECITzA9sQVbTjbcaFcYINN9Nkr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896283.mp4"
+        },
+        {
+          "nome": "Gol! III: Assumindo o Mundial [L] (2009)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSrDAJSFWSDgERw0BNrcae5TBs1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4167166.mp4"
+        },
+        {
+          "nome": "Hurricane – Livre como o Vento (2021)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/r3ch0DYa5cKdavne8bMZiR0Wq1S.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896295.mp4"
+        },
+        {
+          "nome": "Indomáveis (2021)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/lRfobPWMv6PSRyu5C5JKCZcHJM1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896253.mp4"
+        },
+        {
+          "nome": "Ivy e Bean (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/622G9bcbZWFT61ZUhPfZhhMKilq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896311.mp4"
+        },
+        {
+          "nome": "Ivy e Bean Entram na Dança (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/33rar2W6gp0ErhHxFMYzQkbqFpD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896312.mp4"
+        },
+        {
+          "nome": "Ivy e Bean: O Fantasma do Banheiro (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/3E6qOU3ClxrkWM5Cz5NHHTqGtos.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896313.mp4"
+        },
+        {
+          "nome": "Jornada Para Belém (2023)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/tv0Ta1lAIZYuLKAcQhnRTe8bUTV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896254.mp4"
+        },
+        {
+          "nome": "LEGO Star Wars: Férias de Verão (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/i56VuUUxgDUQB6SzJ9xfW60Rsy1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896316.mp4"
+        },
+        {
+          "nome": "Lucia e o Cristal Mágico (2020)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/bv44fVFbCtfJV6hgat524vvByIN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896262.mp4"
+        },
+        {
+          "nome": "Matilda: O Musical (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/x5GR75CM0FbATtHjnAaE7WwUXkX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896291.mp4"
+        },
+        {
+          "nome": "Monster High 2 (2023)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/mClrCMfGpOqTSiuCTSK67WZ92x5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896263.mp4"
+        },
+        {
+          "nome": "Monstro Robô - Meu Melhor Amigo (2018)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/vIAahLn2qgIxmWWpQ45BuQfxd9w.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896271.mp4"
+        },
+        {
+          "nome": "Nate (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/rGDKEbrblKMXrHOgPO0w7tDsbzV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896330.mp4"
+        },
+        {
+          "nome": "O Desejo de Charlie (2020)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/iR3i2AESKn9Y2TxWbyRyDR81zCk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896321.mp4"
+        },
+        {
+          "nome": "O Despertar do Tigre (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/w2efaHolCVmubFWZDxFgkc0ZKnx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896325.mp4"
+        },
+        {
+          "nome": "O Grinch - Musical (2020)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/rHJlD4ElNBZmejPATAjkuLUooSB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896284.mp4"
+        },
+        {
+          "nome": "O Jardim Secreto de Mariana (2021)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/62hZk5rAc1BB4LBDpajmr0URA7c.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896327.mp4"
+        },
+        {
+          "nome": "O Jovem Viking (2018)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/zLBhwOuV5IfY98vSCTUkk5AZI9q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896329.mp4"
+        },
+        {
+          "nome": "O Lendário Cão Guerreiro (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/zwS6boYHEUOgQUMVrAFAPk9J0zF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896309.mp4"
+        },
+        {
+          "nome": "O Lobo e o Leão (2021)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/x3JsrunysUwsIV9XS7hQtZG4knm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896299.mp4"
+        },
+        {
+          "nome": "O Melhor da Neve (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/g8yTNX5aaDZdpg5FG73cLWSWA1y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896301.mp4"
+        },
+        {
+          "nome": "O Menino e o Tigre (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/1MUFa3ZgAgjKvGtwO3qcMjKEGPF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896275.mp4"
+        },
+        {
+          "nome": "O Paciente Perdido (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/3ZSZ2wtbABFnFlFgroY3RSlNmP8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896298.mp4"
+        },
+        {
+          "nome": "O Pequeno Bulldog (2020)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/2QEqmXf0yYpzooe24LJyETlhM9L.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896273.mp4"
+        },
+        {
+          "nome": "O Que Faria Jesus? (2010)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/mJfcvlF8B1bOYu7T0yDgoLL1HX3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896250.mp4"
+        },
+        {
+          "nome": "O Relógio Encantado (2020)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/4k0WZtJOzO5xIR9AhVwrrfbHXRt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896318.mp4"
+        },
+        {
+          "nome": "Operação Filhote (2019)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/ceS9i9TGmXfVShM89AFBvBvcSxX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896269.mp4"
+        },
+        {
+          "nome": "PAPAI X DOIS (2025)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sW23aL0W7iGCjN53XJTfXAuMzN3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4169904.mp4"
+        },
+        {
+          "nome": "Para Sempre Amor (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/yuIsVUUQHvOc5UH5R0pVcXVUTX0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896296.mp4"
+        },
+        {
+          "nome": "Pequenos Espiões: Apocalipse (2023)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/cwCKYjIPXapuBtO51S81GNhoGxV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896266.mp4"
+        },
+        {
+          "nome": "Pequenos Grandes Astros 2 (2006)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGNRy5fOZAfSlbLwcxU2PVETjbr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4177503.mp4"
+        },
+        {
+          "nome": "Pequenos Mágicos (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/1iB5W30WIGuKRWuPA8dmnN0ChWH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896264.mp4"
+        },
+        {
+          "nome": "Procura-se Gonker (2023)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/ziAL5224J9QHA0S0exarpkz4eUN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896287.mp4"
+        },
+        {
+          "nome": "Procura-se um dono (2012)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/ZCvQ7ZNgtL7B0ejhkOOjUTT3hA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896249.mp4"
+        },
+        {
+          "nome": "Programa de Proteção para Princesas (2009)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/zuQDHKbFgtBMtFqUMX0J8orEfAT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896267.mp4"
+        },
+        {
+          "nome": "Quebrando o Gelo (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/dnwf2DyI41EkWvJnOLfWV6DFRNW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896277.mp4"
+        },
+        {
+          "nome": "Silverstar - Uma História de Amizade (2021)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/bT1TtABU4zFHLQ6AtwU6P9737ek.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896278.mp4"
+        },
+        {
+          "nome": "Snoopy Apresenta: A Escola da Lucy (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/ikvLmYOsYjy5qoGS9Lpu092rO6z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896261.mp4"
+        },
+        {
+          "nome": "Terra dos Sonhos (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/pKul2I03FI6QYxHnhMOkQ72EDPE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896305.mp4"
+        },
+        {
+          "nome": "Tom & Jerry: Terra do Boneco de Neve (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/pZke9IRWqbrBeliSw8usGmXqFTL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896289.mp4"
+        },
+        {
+          "nome": "Um Gato de Rua Chamado Bob (2016)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/cEJ4i5O3Bjd9gLKmJBQJ1R7iwhJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896323.mp4"
+        },
+        {
+          "nome": "Um Novo Conto de Cinderela (2018)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/31xYCkp7c7CGDwx8tv7F5yeKJKR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896319.mp4"
+        },
+        {
+          "nome": "Um Paparazzi Animal (2019)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/7yeHtZDBVD6DiMQYSb2OJIPKQLM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896251.mp4"
+        },
+        {
+          "nome": "Uma Viagem Incrível: O Mistério do Ovo (2021)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/3TzBRICphKmphLr6vzRqD0hXPzb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896290.mp4"
+        },
+        {
+          "nome": "Under Wraps: Uma Múmia no Halloween 2 (2022)",
+          "descricao": "Filmes De Família",
+          "capa": "https://image.tmdb.org/t/p/w780/gLUmgjn4MxkciKeSLbirX4Jr8Zj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896294.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
