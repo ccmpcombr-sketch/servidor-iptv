@@ -1,0 +1,835 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "Faroeste",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Faroeste.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "A Balada de Buster Scruggs (2018)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/nb4crpD43qLIlNj3k5mqC0izPCk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897158.mp4"
+        },
+        {
+          "nome": "A Balada do Pistoleiro (1995)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/nKY2FQm7GYtGPkxSDkN9lh6Mogm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897169.mp4"
+        },
+        {
+          "nome": "A Floresta do Escalpe (2021)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/2OG6YCYabCBNcmXv5w4AP9uTbsb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897099.mp4"
+        },
+        {
+          "nome": "A Noite Em Que Voltaram Para Casa (2024)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/bgvmGUwUH4Iyoz0LpihR1y8eqlQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897076.mp4"
+        },
+        {
+          "nome": "À Procura da Vingança (2007)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/3DLOaSIovu5SMkA5fkzLfTXydTE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897132.mp4"
+        },
+        {
+          "nome": "A Qualquer Custo (2016)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/fz3RPQPquiyb4xi0isCIf6lIx7F.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897053.mp4"
+        },
+        {
+          "nome": "A Revolta dos Sete Homens (1969)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/lyIo9NT7eBGQjRmvtjdOzjwfNOY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897060.mp4"
+        },
+        {
+          "nome": "A Sombra de um Revolver (1965)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/v0B331VlMnCmTrsLDQhtfEe8286.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897150.mp4"
+        },
+        {
+          "nome": "A Última Caçada (2022)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/5JQv2JqtN6dRs670yEn99FjNrKf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897068.mp4"
+        },
+        {
+          "nome": "A Última Fronteira do Oeste (2020)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/56aYP5usPlSwq95Cn4GZCNdBM0o.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897088.mp4"
+        },
+        {
+          "nome": "A Vingança Está na Moda (2015)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/fXNobPTdS2sDUTFGd6j4A7bluog.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897114.mp4"
+        },
+        {
+          "nome": "Abutres Humanos (1948)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/p46uII7te9cwU5KSrgfz0s5SEbq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897137.mp4"
+        },
+        {
+          "nome": "Amaldiçoada (2016)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/qZOWoWHH8Ukwtxl6MASFtXfy84c.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897145.mp4"
+        },
+        {
+          "nome": "Apache Junction – Cidade Sem Lei (2021)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/A9K2LeeXnVIvtd6LworYwXNpp3v.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897079.mp4"
+        },
+        {
+          "nome": "Appaloosa - Uma Cidade sem Lei (2008)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/31EyHyUEijrxExHHGlKfSH6clDN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897144.mp4"
+        },
+        {
+          "nome": "Ardida como Pimenta (1953)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/mYsageDBMvUbqP9svZ2Y5B8CKLv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897151.mp4"
+        },
+        {
+          "nome": "Assassinato em Yellowstone (2022)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/muKA4GHl51d4i2l0a7GeXz8ky8N.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897087.mp4"
+        },
+        {
+          "nome": "Assassino de Aluguel (2018)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/eYIkE5wwM2rQgMyKdAkrnhYZ5zQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897078.mp4"
+        },
+        {
+          "nome": "Banzé no Oeste (1974)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/tgPPqdMgOutIGmUnnhJi4uXgtrg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897149.mp4"
+        },
+        {
+          "nome": "Billy The Kid: O Fora da Lei (2019)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/2vlhQKwzEPoZC5cTfzLHrmKjbsk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897138.mp4"
+        },
+        {
+          "nome": "Bravura Indômita (1969)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/3unRxrwRr1yKvN0GKgsftoYajiK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897168.mp4"
+        },
+        {
+          "nome": "Caçadores de Recompensas (2022)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/Ad3JHINn6GYUR2UkadJTHvaK71q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897094.mp4"
+        },
+        {
+          "nome": "Cahill - O Xerife do Oeste (1973)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/hzxcSilaWXwOm6RXbHT1Mm56o4W.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897127.mp4"
+        },
+        {
+          "nome": "Cattle King (1963)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/hS0lCkNbgbzwAEAATBKqnHDBSUx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897044.mp4"
+        },
+        {
+          "nome": "Cavaleiros Desesperados (2022)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/vMfcyQAb1YybrQEazNPZlPiG1ag.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897106.mp4"
+        },
+        {
+          "nome": "Cercados (2023)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/53zYYgWqxxmTaMlsIfiCWCLRwJf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897084.mp4"
+        },
+        {
+          "nome": "De Volta ao Velho Oeste (2022)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/dbtpbqGt0U24zhtRd6U3CdY61UG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896570.mp4"
+        },
+        {
+          "nome": "Deadwood (2019)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/yfjU44FxUxjgedHafq8o3HmzIja.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897038.mp4"
+        },
+        {
+          "nome": "Dívida de Honra (2014)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/ogzksmWnN6z3cOkj1PGKcRMf0s0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897167.mp4"
+        },
+        {
+          "nome": "Django Livre (2012)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/1t5UXZYhjqoaz7vUUNJw78F1Yzz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897131.mp4"
+        },
+        {
+          "nome": "Do Outro Lado da Lei (2020)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/cw0izcXHFuOGwgaVmdoYZL6lDyf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897113.mp4"
+        },
+        {
+          "nome": "Duas Pecadoras e Uma Mula (2023)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/aRaO9OMNfsw03C04NHEgzBVWCiK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897092.mp4"
+        },
+        {
+          "nome": "Duelo de Titãs (1959)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/sQt4xNsSzuiZ0MhgxLeXfcypclv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897119.mp4"
+        },
+        {
+          "nome": "E Agora Me Chamam O Magnífico (1972)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/zJy9Z33gU2sYzeH0HlhVsjimvcg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897153.mp4"
+        },
+        {
+          "nome": "El Dorado (1966)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/o5HwSBjcAX9As6qUpDDMhXle5Pu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897121.mp4"
+        },
+        {
+          "nome": "Em Busca da Justiça (2015)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/eAqBjWgs67vzh5JhNFvIsj284G9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897166.mp4"
+        },
+        {
+          "nome": "Enterrem Meu Coração na Curva do Rio (2007)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/wANzNYcnY4uxyGPFKBtreVN6Kev.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897115.mp4"
+        },
+        {
+          "nome": "Era Uma vez no México (2003)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/cdSWDmDD7VVuBKlEar7H8abN1Ox.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897165.mp4"
+        },
+        {
+          "nome": "Era uma Vez no Oeste (1968)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/zaCMbBMT9v3lGBXT4RAOkWqpb4h.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897072.mp4"
+        },
+        {
+          "nome": "Estranha Forma de Vida (2023)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/tr8LOwkfUHx2W6SB9NPoU7vi4XB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897066.mp4"
+        },
+        {
+          "nome": "Flechas da Vingança (1951)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPsYgzWIUrcx1vnp9b5YcpJCsXD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4166647.mp4"
+        },
+        {
+          "nome": "Frontera (2014)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/rjdJN48tBaLB7HdmyzBnlypXvPj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897049.mp4"
+        },
+        {
+          "nome": "Gigantes em Luta (1967)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/eeLi9BAjyOJGfD76ZR9lq5vGVvP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897164.mp4"
+        },
+        {
+          "nome": "Hordas Selvagens (1953)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/ebRCwSX1adz4jUjO7Mt4HIB3EG7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897039.mp4"
+        },
+        {
+          "nome": "Horizon: Uma Saga Americana - Capítulo 1 (2024)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/wScEgkA3eWfhyp5WoxGt5Zu3sug.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897067.mp4"
+        },
+        {
+          "nome": "Hostis (2017)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/ncHc81uGBw4PmsKfkFTJNCSKWgc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897163.mp4"
+        },
+        {
+          "nome": "Inferno na Fronteira (2019)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/lp9yaPNrdz1cck6qLcMZNQ27wsd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897155.mp4"
+        },
+        {
+          "nome": "Inferno no Faroeste (2013)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/wwpD6suBvsqIgSVm7xyqeVQ21LI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897162.mp4"
+        },
+        {
+          "nome": "Irmãos Inimigos (1953)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/u6NITVON02CDLWI2adN5TazrWFL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897124.mp4"
+        },
+        {
+          "nome": "Jesus Kid (2022)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/umDI2rmGpLhXNq7RX1mO7YptM1i.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897045.mp4"
+        },
+        {
+          "nome": "Jonah Hex: Caçador de Recompensas (2010)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/ageBP5EWpmdGKJmp0RhsNDIDRh5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897102.mp4"
+        },
+        {
+          "nome": "Jornada Para o Inferno (2023)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/yRJUdzPrqh1QcVBWEU54qQzB8sR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897083.mp4"
+        },
+        {
+          "nome": "Josey Wales: O Fora da Lei (1976)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/7qhPffMpzmXQKcShsnlf0aln1ej.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897047.mp4"
+        },
+        {
+          "nome": "Jovens Demais para Morrer (1990)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/yWFgFHW1snV4yYRtPMdR10Qw10n.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897090.mp4"
+        },
+        {
+          "nome": "Jovens Justiceiros (2001)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/cfPnWsHzMlnNwLPdkR8Vimg7w0M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897069.mp4"
+        },
+        {
+          "nome": "Mar de Fogo (2004)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/1xFLWSxUp28egthMzqdfEokYa3h.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897135.mp4"
+        },
+        {
+          "nome": "Meu Ódio Será Sua Herança (1969)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/ibkP7TzPFZ3s8YlJAjzQEonDOEb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897136.mp4"
+        },
+        {
+          "nome": "Meu Último Desejo (2022)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/esrobDvR6vz1yA6l3lf0kYr3VCw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897074.mp4"
+        },
+        {
+          "nome": "Minha Arma Era a Lei (2023)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/kwl5FxszBJ9kfdHuy14pv8pJspT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897073.mp4"
+        },
+        {
+          "nome": "No Coração do Velho Oeste (2024)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/1UL2Fd4DV65ubXenv3psZdcMry8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897070.mp4"
+        },
+        {
+          "nome": "O Assassinato de Jesse James Pelo Covarde Robert Ford (2007)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/9vpIhmdk0jq6POxz7Fm06gBP3YZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897133.mp4"
+        },
+        {
+          "nome": "O Beco da Morte (2021)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/nFDtZ9B8sGJtoUWi6CquziyA5Qg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897075.mp4"
+        },
+        {
+          "nome": "O Caçador de Recompensas (2021)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/td0uLMhr67ateeoUZRQZYIqzp2B.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897139.mp4"
+        },
+        {
+          "nome": "O Cavaleiro Solitário (2013)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/oz7euNg7BmA5aYjcjKIzIAMT8V6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897126.mp4"
+        },
+        {
+          "nome": "O Estranho Sem Nome (1973)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/41GVKLQ4rnggqm5Y8eQ4LE1Gn3s.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897055.mp4"
+        },
+        {
+          "nome": "O Fora da Lei (2021)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/TUAU5KMVs9uPbCAeLOjv2toU69.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896583.mp4"
+        },
+        {
+          "nome": "O Grande Xerife (1972)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/rOQDqsR4iJMGjwymWQCPRlhHQEz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897107.mp4"
+        },
+        {
+          "nome": "o Homem que Veio para Matar (1969)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/cpP0q88LSxcZ0UDVlhURaLhA3mF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897143.mp4"
+        },
+        {
+          "nome": "O Mistério de Ozarks (2022)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/7lK1qXVg7Gw80aEDyjw4Tx8qPor.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897095.mp4"
+        },
+        {
+          "nome": "O Ouro de Mackenna (1969)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/bY2nhM1Va91Ps5NYUIxTq8wKBjT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897103.mp4"
+        },
+        {
+          "nome": "O Passado Não Perdoa (1960)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/3PMlfD9bJxy396a4BjhEq0U8I1P.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897111.mp4"
+        },
+        {
+          "nome": "O Portal do Paraíso (1980)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/kW4Vk31nhtKPKGuYMaVATq3wcHC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897110.mp4"
+        },
+        {
+          "nome": "O Primeiro Tiro: A Lenda de Wyatt Earp (2019)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/ljv0GaDP1BDt8HbxTMlU6ylnoaJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897077.mp4"
+        },
+        {
+          "nome": "O Rapto (2017)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/jwncNJ0j66bqTcFbEKhtRpQ0LlP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897062.mp4"
+        },
+        {
+          "nome": "O Regresso (2015)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/yY9Gy3NBltZWy0rxn9hqfi2Zx8j.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897134.mp4"
+        },
+        {
+          "nome": "O Rio das Almas Perdidas (1954)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/1lApFeeQZwoQNUYP9cF7X0sTaNF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897148.mp4"
+        },
+        {
+          "nome": "O Tesouro de Sierra Madre (1948)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/jJtN1SKgAxcPO6ssGadj8zq808G.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897129.mp4"
+        },
+        {
+          "nome": "O Último Duelo (2018)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/usROxYQpFfuV79hTqkTqD6ktdfB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897056.mp4"
+        },
+        {
+          "nome": "O Último Duelo (2021)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/4bTUK455ZQPdbHiRX1udYhdO8BH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897057.mp4"
+        },
+        {
+          "nome": "O Último Homem (2018)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/rFIt7GRwJR9RJEt6aiiZqDkgsUd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897154.mp4"
+        },
+        {
+          "nome": "O Último Selvagem (1992)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/8zil2Jj2tfLRFCf0YDqRUb6ngL5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897108.mp4"
+        },
+        {
+          "nome": "O Vale Roubado (2024)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/yk4enXvb2ohdDhVScnFy9LMhss8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897052.mp4"
+        },
+        {
+          "nome": "Onde Começa o Inferno (1959)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/zbE1IDcN91G6RxWDBkAqiPE4U1M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897123.mp4"
+        },
+        {
+          "nome": "Os Colonos (2023)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/yrTKNdlSuXTzWBvsrkpswdsYQxn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897059.mp4"
+        },
+        {
+          "nome": "Os Desajustados (1961)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/ruk7OR9bvGXXfiQzeX1gWIzdRni.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897050.mp4"
+        },
+        {
+          "nome": "Os Desajustados (2018)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/oxAGYHNQeScvCxZuhzMj0dRUEFp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897041.mp4"
+        },
+        {
+          "nome": "Os Guardiões da Estepe (2022)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/uATzvIXB3w4zO4m3x5elCwwY8NU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897058.mp4"
+        },
+        {
+          "nome": "Os Imperdoáveis (1992)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/4kKECOE65RoVjrXI1ukAZCutLUO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897097.mp4"
+        },
+        {
+          "nome": "Os Indomáveis (2007)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/emXjVhz8LL4ZWahmUsk6YSg5wcU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897142.mp4"
+        },
+        {
+          "nome": "Os Infratores (2012)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/xWSPROw6QXxNeP4pwyMGOiv4lq5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897116.mp4"
+        },
+        {
+          "nome": "Os Jovens Pistoleiros (1988)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/pVSLobLOyZqgUguTF5BZKEfRuhs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897122.mp4"
+        },
+        {
+          "nome": "Os Mortos Não Matam (2024)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/4WUev9jg54tEmiBRBfOYnR1Q7we.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897065.mp4"
+        },
+        {
+          "nome": "Os Oito Odiados (2015)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/jfTo9U9OgOXODEEspNnYFuZdR1q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897161.mp4"
+        },
+        {
+          "nome": "Outback (2020)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/1eEaliCKndXuINMjcb2ATXUMYIa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897086.mp4"
+        },
+        {
+          "nome": "Pacto de Justiça (2003)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/xttAh5kaSUzFq1gfL9uLNFztdde.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897082.mp4"
+        },
+        {
+          "nome": "Paixão Perigosa (2019)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/17jgYhamB6anfnKCTciqTEEOcsK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897098.mp4"
+        },
+        {
+          "nome": "Pat Garrett & Billy the Kid (1973)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/dni2ILWvEZkc8w6VlaLhOhTMOg1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897043.mp4"
+        },
+        {
+          "nome": "Pegue a Bala (2021)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/m3DUe1cpiBsLg0caIO2JDr7HK5Z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897118.mp4"
+        },
+        {
+          "nome": "Perseguição Mortal (1981)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/pa20WNcppTVj5fCeAhCr2Jn3Pzt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897104.mp4"
+        },
+        {
+          "nome": "Pistoleiros - Mãos que Matam (2023)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/eNFL2RokVHXl1Mwv0oW6kaboAZN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896536.mp4"
+        },
+        {
+          "nome": "Por uns Dólares a Mais (1965)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/1oh6GjdcCbUE6Tlr2ZTSl2XdmSE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897037.mp4"
+        },
+        {
+          "nome": "Quando Explode a Vingança (1971)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/n9j27jiV3SMowO6QfvuwCcWOQuS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897040.mp4"
+        },
+        {
+          "nome": "Quem Dispara Primeiro? (1968)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/vf69o0Mrtu4OSByxTi83xUMn8AV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897146.mp4"
+        },
+        {
+          "nome": "Rápida e Mortal (1995)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/lBQmZPxS6y9U4j6cs78DUd8QuYQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897160.mp4"
+        },
+        {
+          "nome": "Resgate no Oeste (2016)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/cZc77NqnbELikUxv8i7YpnOCfkO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897157.mp4"
+        },
+        {
+          "nome": "Resgate Suicida (2024)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6kJ4CAJzNM8kUovZvrOUjMfhy8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4187926.mp4"
+        },
+        {
+          "nome": "Rio Lobo (1970)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/wHM3T5Dd32mZqIllD41katmvvul.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897128.mp4"
+        },
+        {
+          "nome": "Sangue de Pistoleiro (1958)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/iehRN7KNPu5KpzR1Sw35tJugBeO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897048.mp4"
+        },
+        {
+          "nome": "Segredos de Família (2023)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/nP2rqnnkCZz5U55I5xD1QqAeFSH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897081.mp4"
+        },
+        {
+          "nome": "Sete Homens e Um Destino (2016)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/vz0XUPOYLsGAOnvuRbcRTFDTY7a.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897159.mp4"
+        },
+        {
+          "nome": "Sete Noivas Para Sete Irmãos (1954)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/eExiNiIMAQ6ArzudNG3G3ehPTc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897109.mp4"
+        },
+        {
+          "nome": "Silverado (1985)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/k6zurzegRKsNGMICXZ57VJDUzXO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897042.mp4"
+        },
+        {
+          "nome": "Sob o Sol do Oeste (2018)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/aSA7maO0olKMY16hwTiG6PCKOXq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897156.mp4"
+        },
+        {
+          "nome": "Sol Vermelho (1971)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/gFTOCKx2f5AVTHFGHUT31ndkvzy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897063.mp4"
+        },
+        {
+          "nome": "Sua Última Façanha (1962)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/iBL4gJpXz33bueuaj3fhjjz7o3R.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897147.mp4"
+        },
+        {
+          "nome": "Tensão em Montana (2022)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/tyNA2L96pFhWvMa3BHm3TgbVCiG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897085.mp4"
+        },
+        {
+          "nome": "Terra dos Bravos (2019)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/bvbgUujcz9UF1fBe31v755bOmFG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897140.mp4"
+        },
+        {
+          "nome": "Terra Sem Lei (2019)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/dYBWgaJwQ5RXk9I4S6gN0LGq0P9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897105.mp4"
+        },
+        {
+          "nome": "Terra Sem Lei (2022)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/wVT4caFoX6dAiBwu0YV0z3UQhzF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897091.mp4"
+        },
+        {
+          "nome": "Terra Violenta (2016)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/27PAeztGdJLa32Y0ycS5roljYzI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897096.mp4"
+        },
+        {
+          "nome": "Território Hostil (2022)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/nJTzX2LmbRlsH2rnWYZCyigTdUd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897100.mp4"
+        },
+        {
+          "nome": "The Thicket (2024)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/ukqWWQrJRgJym6dsTt1x3EwR2Kp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897046.mp4"
+        },
+        {
+          "nome": "Tombstone: A Justiça Está Chegando (1993)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/3DQe3q5SqapTPhIMWaZvOJHDhcY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897101.mp4"
+        },
+        {
+          "nome": "Três Homens em Conflito (1966)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/bHwIzQrbJKiFwArLLngS1Ej6xPc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897054.mp4"
+        },
+        {
+          "nome": "Trilha da Justiça (2023)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/6WRm9EgaiDmf3LsayulBLp17Slr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897071.mp4"
+        },
+        {
+          "nome": "Trilha de Sangue (2021)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/sSG7noMZN9Vx1EzHrAcx6sP41fa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897089.mp4"
+        },
+        {
+          "nome": "Trilha de Vingança (2019)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/spddh0y6VMwMyDFFAe6NlDxZY3K.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897080.mp4"
+        },
+        {
+          "nome": "Um Punhado de Chumbo (2018)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/jOUDR00zyiKoOSUwWAo5Dz1GuRI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897152.mp4"
+        },
+        {
+          "nome": "Uma Escolha pela Vida (2025)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/2FdGI9nF0DvrPDEBTaxr27PdiHP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897051.mp4"
+        },
+        {
+          "nome": "Vera Cruz (1954)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/7sDTIHW0nG8CqzskwBJtmUnBwcK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897120.mp4"
+        },
+        {
+          "nome": "Vingança & Castigo (2021)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/29WYtxffy1NJhxXZ8al5XJ8US1s.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897112.mp4"
+        },
+        {
+          "nome": "Vingança Cega (1994)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/zwonyZQ9ZidBMQ3BoJxjxe5ShyP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897125.mp4"
+        },
+        {
+          "nome": "Vingança em Cold Cross (2023)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/W47bfUXsfHezplXioyJotYPCi4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896577.mp4"
+        },
+        {
+          "nome": "Viva Django! (1968)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/gy30ziLMI2heuHacvFmnxcvc582.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897130.mp4"
+        },
+        {
+          "nome": "Wild Bill - Uma Lenda No Oeste (1995)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/4OkVImn4c5CyX7TEtql7kAfuAZM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897093.mp4"
+        },
+        {
+          "nome": "Winchester 73 (1950)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/rqRgjWqSmK9oI6duvigPmn49aVG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897061.mp4"
+        },
+        {
+          "nome": "Wyatt Earp (1994)",
+          "descricao": "Filmes De Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/51LItgyecu2KMAtIchYogEykCIu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897117.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
