@@ -1,0 +1,103 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "Ficcao",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Ficcao.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "18 Rosas (2026)",
+          "descricao": "Filmes De Ficcao",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TApAJqCQekKeoRV1Nza2damyfz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4177132.mp4"
+        },
+        {
+          "nome": "A Noiva! (2026)",
+          "descricao": "Filmes De Ficcao",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcdnSEcm0f0shJohkJnrOBcCq1m.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4177139.mp4"
+        },
+        {
+          "nome": "À Procura de Harry: A Arte por Trás da Magia (2026)",
+          "descricao": "Filmes De Ficcao",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKsg1Q9IZmKlN6a1ykxUZf8BkGL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4177129.mp4"
+        },
+        {
+          "nome": "Anêmona (2025)",
+          "descricao": "Filmes De Ficcao",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8niHlyUkkQ3UQd1kmJP3fFDtvdn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4177143.mp4"
+        },
+        {
+          "nome": "Depois do Fogo (2025)",
+          "descricao": "Filmes De Ficcao",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zK4HmDCTALWOrVpUJV8fh2yPGFf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4177140.mp4"
+        },
+        {
+          "nome": "Domingo Sem Deus (2026)",
+          "descricao": "Filmes De Ficcao",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AtlHj48RlkN2ghdXbcagDf0qud.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4177141.mp4"
+        },
+        {
+          "nome": "É Quase Verdade (2026)",
+          "descricao": "Filmes De Ficcao",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYLSUuloTcDS273R9NJwcqDjVJ8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4177138.mp4"
+        },
+        {
+          "nome": "Loucos por Justiça (2020)",
+          "descricao": "Filmes De Ficcao",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IHzwdwI9hjg4whXjRzf15s5arz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4177144.mp4"
+        },
+        {
+          "nome": "O Atirador: Sem Nação (2026)",
+          "descricao": "Filmes De Ficcao",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGhjs14pomQA6N8parCw5Bl3qoh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4177136.mp4"
+        },
+        {
+          "nome": "o Impulso e a Razão (2025)",
+          "descricao": "Filmes De Ficcao",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wf73CbB2Ag6NmMofdas79EBfGu3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4177133.mp4"
+        },
+        {
+          "nome": "O Momento (2026)",
+          "descricao": "Filmes De Ficcao",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/br52pIFl1dLvoDwMtFtmm6BapIH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4177142.mp4"
+        },
+        {
+          "nome": "O Verão que Mudou Tudo 2024",
+          "descricao": "Filmes De Ficcao",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/O%20Ver%C3%A3o%20que%20Mudou%20Tudo.png",
+          "url": "http://servidor/movie/{user}/{pass}/4177130.mp4"
+        },
+        {
+          "nome": "Para Sempre Medo (2025)",
+          "descricao": "Filmes De Ficcao",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKByzETrFFrycbDf63WXxvaltz1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4177131.mp4"
+        },
+        {
+          "nome": "Perfeitos Desconhecidos (2025)",
+          "descricao": "Filmes De Ficcao",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPYgyhFaD8a1yALsRHkxmOmw3wV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4177135.mp4"
+        },
+        {
+          "nome": "Untold: O Rei em Xeque (2026)",
+          "descricao": "Filmes De Ficcao",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilbjnuyWeWGH50JVxCpZgRCZK0s.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4177137.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
