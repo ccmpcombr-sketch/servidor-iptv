@@ -1,0 +1,667 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "Guerra",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Guerra.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "20 Dias em Mariupol (2023)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/21rFQUyP8SDJhWm6cpAbHdOL5f0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899083.mp4"
+        },
+        {
+          "nome": "100 Dias de Resistência (2019)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/naG6PCVZupvYaOf9kGgKd2MVZRZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897260.mp4"
+        },
+        {
+          "nome": "A Batalha das Ardenas: A Última Ofensiva de Hitler (2018)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/brVPZyqIdTAScO8vg1Au8fbsd0b.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897250.mp4"
+        },
+        {
+          "nome": "A Conquista da Honra (2006)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/ru8jduqNxGQfccVKYcJ5doKau34.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897200.mp4"
+        },
+        {
+          "nome": "A Corte Marcial Da Nave Da Revolta (2023)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/jii0CWMcjFmCfrTXsRyMuwjlNY3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897223.mp4"
+        },
+        {
+          "nome": "A Era de Kasym (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/eKDT8G4qWNqpe889WFOHTyuWusk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897178.mp4"
+        },
+        {
+          "nome": "À Espreita (2023)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/qfglisVh5Nmo1nGYCoMzqyZUWcz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897240.mp4"
+        },
+        {
+          "nome": "A Face da Guerra (2018)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/3uTyEas5u5zfzwsSCX3yMBd6Mww.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897205.mp4"
+        },
+        {
+          "nome": "A Grande Fuga (2023)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/lU1sqCOEDLUAG7tcRfBVVHEKqc1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897212.mp4"
+        },
+        {
+          "nome": "A Guerreira Chinesa (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/qA9irK7Hog7VAn4CfjcYjtCzb7M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897211.mp4"
+        },
+        {
+          "nome": "A Irmandade da Guerra (2004)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/gqGZehMFRo2fnrSxWUitCH8cLfi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897255.mp4"
+        },
+        {
+          "nome": "A Rainha Guerreira (2023)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/zXiqgwerUrAtIzVL9OyRcG90oTh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897230.mp4"
+        },
+        {
+          "nome": "A Redenção – A História Real de Bonhoeffer (2024)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/i4X0YFXLI1dvT6WOiIjLqVVpFoP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897194.mp4"
+        },
+        {
+          "nome": "A Sniper Russa (2015)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/6Rj2CW7ZaNOcEhGKndXka2p86s4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897219.mp4"
+        },
+        {
+          "nome": "A Sombra do Comandante (2024)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6O51vrYJLt1042lDrkQmGiFjq5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4169897.mp4"
+        },
+        {
+          "nome": "A Última Esperança Soviética (2021)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/dYAIG6RxtSRPcge3Rzw9fxPSUzE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897236.mp4"
+        },
+        {
+          "nome": "A Última Linha de Defesa (2020)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/qESC7AdyfqMwYl1ZhQpp5d5iJiG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897227.mp4"
+        },
+        {
+          "nome": "Abaixo da Superfície (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/iUgjpI8ts5hNR9ZR6dJH85xpgFo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897195.mp4"
+        },
+        {
+          "nome": "Acima das Linhas Inimigas (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/sUz7EJ0Ec9vw8g9i2BmymwvzJjo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897215.mp4"
+        },
+        {
+          "nome": "Além da Escuridão (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/hkjOox98ZM5UVvcTXCYAwWltECS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897244.mp4"
+        },
+        {
+          "nome": "Amor em Tempos de Ódio (2018)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/7ZGqze3H7kNIIKZxWYf60Eng5jX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897246.mp4"
+        },
+        {
+          "nome": "As Legiões Emergentes (2019)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/vgUoejL9fMVfXylBPekyEInOsnQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897254.mp4"
+        },
+        {
+          "nome": "Ataque à Colina 400 (2023)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/7ZtIxZp4tf0Gp5JtVKV4iCShTrg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897222.mp4"
+        },
+        {
+          "nome": "Até o Limite da Honra (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/7fZxEnhh8VY1N5ftRIkTMaC7xAA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897235.mp4"
+        },
+        {
+          "nome": "Ate o Ultimo Homem (2016)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPnU3yKuZpmLjkVXGplhkpX31LY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3895374.mp4"
+        },
+        {
+          "nome": "Batalha Aérea (2023)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/8aRl9fIIjCiOc7dREwcXSEmKbQS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897210.mp4"
+        },
+        {
+          "nome": "Batalhão 6888 (2024)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/hSIXnORYGY3mvmxeo1JMzSnX6Yz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897197.mp4"
+        },
+        {
+          "nome": "Beasts of No Nation (2015)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/buCUqL6iF8dtnYYrKGbPX2GrwL2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897204.mp4"
+        },
+        {
+          "nome": "Blitz (2024)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/e9tyjbF2rugENtBolTtEhHOXgzD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897202.mp4"
+        },
+        {
+          "nome": "Brigada Heróica (2021)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/aMOQnZU5edUGwKE8Ls3MlavMexj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897258.mp4"
+        },
+        {
+          "nome": "Caminhos da Sobrevivência (2023)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/FSFhUQD96WlDLfYfheod05WOQo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897231.mp4"
+        },
+        {
+          "nome": "Che: O Argentino (2008)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/ekUpkM5tStkZuzpIzg77PbkG6SM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897176.mp4"
+        },
+        {
+          "nome": "Códigos de Guerra (2002)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/yEHEAa0dP56gGbQb4A21QYu4uHP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897248.mp4"
+        },
+        {
+          "nome": "Codinome: Banderas (2018)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/dBUXcKPe4od2yRAYN4wUUdmahBF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897217.mp4"
+        },
+        {
+          "nome": "Comboio 48: A Última Resistência (2019)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/xSF9LRDRoie7YNwMT1yAfJ8IWNz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897268.mp4"
+        },
+        {
+          "nome": "Coragem Sem Limites (2019)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/aAB0Twce1wryIaUY1CC88Xj81N2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897220.mp4"
+        },
+        {
+          "nome": "Corruptos e Sanguinários (1970)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/ffSgwjvw8cgPDOpAAWZNDjyklyi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897188.mp4"
+        },
+        {
+          "nome": "Corvo Branco (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/1zNcJWXQYgMDAF3pNoqxU47FHfc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897243.mp4"
+        },
+        {
+          "nome": "Deixando o Afeganistão (2019)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/k7ITNM3zLK6FhRlfG1yi0oIAQQv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897253.mp4"
+        },
+        {
+          "nome": "Em Busca do Cálice Sagrado (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/GGaWFbLZvCEja7StT4d4UC1vLG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897183.mp4"
+        },
+        {
+          "nome": "Escuridão (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/uvBP9j3bchm9aRsyl1to5xHLuCZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897229.mp4"
+        },
+        {
+          "nome": "Faces da Guerra (2021)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXBWM0Swd8YEbKcwAIFti1B5RB3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4172725.mp4"
+        },
+        {
+          "nome": "Guerra Civil (2024)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/3Use5sOQWXL3BvcaKqUH7eQ7I53.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897216.mp4"
+        },
+        {
+          "nome": "Guerra Sem Regras (2024)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/xVlsA37y6w9COClNkvk6xq8yN5p.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897213.mp4"
+        },
+        {
+          "nome": "Heróis do Amanhecer (2024)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/17BlmWEnUKoYq4tiNRh0T9EpcC0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897181.mp4"
+        },
+        {
+          "nome": "II Guerra Mundial Filmes Perdidos: A Guerra no Ar (2010)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/9Pln5epyS37fVZAsfirKifHsUs8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897172.mp4"
+        },
+        {
+          "nome": "Indivisível (2018)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/uBxo5pQWj08sEVr664F5DV71Rme.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897196.mp4"
+        },
+        {
+          "nome": "Inferno no Gelo (2019)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/y4EL88PYlAu74PwP5jOo3xTtGOt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897207.mp4"
+        },
+        {
+          "nome": "Irmãos de Guerra (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/ozHweLTPGEWRQyr1z4npGjm6ko0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897234.mp4"
+        },
+        {
+          "nome": "Irmãos de Honra (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/cxyiG2FWcNDDVSnyRw1eBabsAzp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897257.mp4"
+        },
+        {
+          "nome": "Lados Opostos (2021)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/4LLBtwwAqMfou51XQax0Axr2dSo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897233.mp4"
+        },
+        {
+          "nome": "Lee (2024)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/ffw51hmecHHdTWihncJZgmp9XH2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897186.mp4"
+        },
+        {
+          "nome": "Mariya: O Simbolo de Uma Guerra (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/tKhZ07SBiTaCljSOXyseUrzQQfJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897267.mp4"
+        },
+        {
+          "nome": "MASH (1970)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/sGT8KMnARjnv3ODPF1QfdBtnPGr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897175.mp4"
+        },
+        {
+          "nome": "Na Mira do Atirador (2017)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/cPOTcTNkvmARiv8ikYZbDfUYezJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897241.mp4"
+        },
+        {
+          "nome": "Nada de Novo no Front (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/9GOLUnuh6UnTXPxr1WDpVFoIdbX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897259.mp4"
+        },
+        {
+          "nome": "Napoleão (2023)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/oaUS0YJN3cHpvin1BMNmmnv0gRX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897208.mp4"
+        },
+        {
+          "nome": "Narvik (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/lutKUOeedR5TZdfuMbD4fcAy64b.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897256.mp4"
+        },
+        {
+          "nome": "Nascido Para Matar (1987)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/qHm54HjL1F6CFVyYOz6Q2HAPTfS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897173.mp4"
+        },
+        {
+          "nome": "Negociando com o Inimigo (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/pW6gJtLujvHKCL4fQ95Ea5N9X66.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897203.mp4"
+        },
+        {
+          "nome": "Número 24 (2024)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/jB096esffwNRFO65QcNTAPAfIX0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897193.mp4"
+        },
+        {
+          "nome": "O Atirador 4 (2011)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/vlftZ2EqKKjpiKW5f4SqHGfOxt2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897218.mp4"
+        },
+        {
+          "nome": "O Barco: Inferno no Mar (1981)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/5ZYw60u95SxaLWY6YjoVoRaQKfg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897184.mp4"
+        },
+        {
+          "nome": "O Destemido Senhor da Guerra (1986)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/ztSXQQXnBkMPo6hBqZFuIcs0UbB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897199.mp4"
+        },
+        {
+          "nome": "O Dia da Invasão (2015)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/6vDUjlBmMZEDZdT8pqBughuKul3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897174.mp4"
+        },
+        {
+          "nome": "O Fantasma Vermelho (2021)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/7OpcrpuTSYOXd5IGfcPPPjbzNhm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897265.mp4"
+        },
+        {
+          "nome": "O Herói do Holocausto (2023)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/xrSyVLzZcLNEU5uvR81eg0ml3Ei.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897206.mp4"
+        },
+        {
+          "nome": "O Infiltrado (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/8Yesp1pUKqtm3Ygg1vOnXNxcCr2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897191.mp4"
+        },
+        {
+          "nome": "O Mensageiro (2019)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/90wQuKiwuJYzOFcJpRMLwQUdyd0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897252.mp4"
+        },
+        {
+          "nome": "O Pacto (2023)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/pTQZT9R6YjKrweJ0llPtq57j1Z0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897249.mp4"
+        },
+        {
+          "nome": "O Piloto - Uma Batalha Pela Sobrevivência (2021)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/c9jU4cj27YQmdk3Rc5lQbBJ0SHQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897238.mp4"
+        },
+        {
+          "nome": "O Resgate: O Dia da Redenção (2021)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/pB3bVpghYknmwII295HQRQVlbVw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897185.mp4"
+        },
+        {
+          "nome": "O Sexto Ônibus (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/7FmU7GOV6fEUO4fNZRD5vwemMzM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897226.mp4"
+        },
+        {
+          "nome": "O Silêncio na Noite (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/tnIl6PPOVUS2uPTWpZYZ09UgXhp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897201.mp4"
+        },
+        {
+          "nome": "O Soldado que Não Existiu (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/rEjApeKwpghfFY72XPjNMI7bCGM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897270.mp4"
+        },
+        {
+          "nome": "O Tanque de Guerra (2025)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzmIilvyxhhS5mOtUNBbEaAA9dQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4169923.mp4"
+        },
+        {
+          "nome": "O Trono Dourado (2019)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/xuTh7oTFqBCUjdc0QaaLKnvj8d2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897190.mp4"
+        },
+        {
+          "nome": "O Último Ataque de Hitler (2020)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/pPrGCHk7SVQWLpviozVlOa6HUmF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897263.mp4"
+        },
+        {
+          "nome": "O Último Soldado (2023)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/iHdKtUUnZu0pAprpkr1Wdw7DlJr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897209.mp4"
+        },
+        {
+          "nome": "Operação Cerveja (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/purjgeOOOZKJ9MIHTyGdAJ0LsJE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897262.mp4"
+        },
+        {
+          "nome": "Operação Chromite (2016)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/bzMHYaEh5CiqaQDVSHz15X1H2tP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897177.mp4"
+        },
+        {
+          "nome": "Operação Tempestade (2023)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/acw90kRwdmYNDQMWV6IDiHuFz2t.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897180.mp4"
+        },
+        {
+          "nome": "Os 5 Odiados (2019)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/dEkG6vEVTLIDyujEbgUc3DrXngf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897237.mp4"
+        },
+        {
+          "nome": "Os 800 (2020)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/mx0PP392PYCZ4x0xNryO5ry637X.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897261.mp4"
+        },
+        {
+          "nome": "Os Músicos (2021)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/z4K5lcMGC6C6HsiQK0pIBsoaeAd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896418.mp4"
+        },
+        {
+          "nome": "Pássaro Branco: Uma História de Extraordinário (2023)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/kirufy0MfyDja7ZHP9GmfjoOO3G.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897192.mp4"
+        },
+        {
+          "nome": "Pelotão de Elite (2010)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/wCNWZ67c23SsW38HpdYn0H4rPas.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897187.mp4"
+        },
+        {
+          "nome": "Perigo Iminente (2019)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/zkCljVHb1SdhuPTMftSFegju6q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897264.mp4"
+        },
+        {
+          "nome": "Quando a Guerra Acabar (2023)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/zglxxVFyhiwwh0X3xfvXa8bPAve.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897214.mp4"
+        },
+        {
+          "nome": "Quando os Bravos se Calam (1998)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/65qqVZqOn2vdfv0esZ3I6wUsfV9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897170.mp4"
+        },
+        {
+          "nome": "Relatos de Guerra (2015)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/rlZMz2aplYK6AFtQ18CFQTE1Q7M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897198.mp4"
+        },
+        {
+          "nome": "Resistência (2020)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/jMPSL9R3TyGZC1lSItTDWqah89G.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897266.mp4"
+        },
+        {
+          "nome": "Saltwater: The Battle for Ramree Island (2021)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/oET7xoEmZQfwvsQDCr33JTGXwFA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896617.mp4"
+        },
+        {
+          "nome": "Sangue e Ouro (2023)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/1YZT69IKGRUV620PZFmniAGoVrG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897251.mp4"
+        },
+        {
+          "nome": "Seals: Operação Resgate (2023)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/oIHgYhUsdUQV1KOw4n58F4aUhFt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897189.mp4"
+        },
+        {
+          "nome": "Segredos de Espiões (2020)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/iPtwg29ai63UOo7X9BQI6UvVlwJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897232.mp4"
+        },
+        {
+          "nome": "Sisu: Uma História de Determinação (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/z47Fl4WYfKBg1n1hfqxq05OVMdR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897247.mp4"
+        },
+        {
+          "nome": "Tempo de Guerra (2025)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/vZO0U8hkmU4HEEc9t8lm4gYXBNc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897179.mp4"
+        },
+        {
+          "nome": "Tigerland - A Caminho da Guerra (2000)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/pnFdCvxxL44sPLkKEIJCUaIZa7M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897182.mp4"
+        },
+        {
+          "nome": "Traumas de Guerra (2020)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/jLSiWNnWYqIelgKRakUKruwEKi9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897239.mp4"
+        },
+        {
+          "nome": "Três Mulheres: Uma Esperança (2022)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/u6AIND02DUvtYUBHQSKu8ZAeFbo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897245.mp4"
+        },
+        {
+          "nome": "Tróia (2004)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/iKp2NxUkqPVSPN2FdXUn9gxj4Nn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897171.mp4"
+        },
+        {
+          "nome": "U311: Guerra em Alto Mar (2020)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/iyZ5xWPmGEuGopE1NPzSQiPO0Zj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897242.mp4"
+        },
+        {
+          "nome": "Um Gesto de Esperança (2021)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/8GIxHlXltseirZjKh1EsHw31lq5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896415.mp4"
+        },
+        {
+          "nome": "Uma Lição de Esperança (2020)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/7EzVSW5F9Kbt8VIJJJ2G4x1hz5q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897269.mp4"
+        },
+        {
+          "nome": "Uma Vida: A História de Nicholas Winton (2023)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/o65cLhzXPp9nBb5RvKRqLfZiMcH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897221.mp4"
+        },
+        {
+          "nome": "Wildcat - Prisioneira de Guerra (2021)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/bE2vVe6lREydPEOh4iB2TjGIpye.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897224.mp4"
+        },
+        {
+          "nome": "Zona de Interesse (2023)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/v8pTxM7Hqzkjb53lyv2isMj3G9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899082.mp4"
+        },
+        {
+          "nome": "Zona de Risco (2024)",
+          "descricao": "Filmes De Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/qLqI0lA5WFIpItLCQNqPJYM3W6p.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897228.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
