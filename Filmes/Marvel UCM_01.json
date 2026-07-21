@@ -1,0 +1,217 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "Marvel UCM",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Marvel%20UCM.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "031 - As Marvels",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/wpp5KIwjtrKoWj5H0TSsJdqsDx7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898878.mp4"
+        },
+        {
+          "nome": "002 - Capitã Marvel",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/n3BisLdTMceUWcdP1ooP5VwN9JF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914594.mp4"
+        },
+        {
+          "nome": "009 - Capitão América 2: O Soldado Invernal",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/88iNcBQl9eK6DWIlek9NG2b5fLX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914604.mp4"
+        },
+        {
+          "nome": "034 - Capitão América: Admirável Mundo Novo",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/viUricKwbToOJIRrKOUr0Bg9rOY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898765.mp4"
+        },
+        {
+          "nome": "014 - Capitão América: Guerra Civil",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/3bN7YZnf0mWpYwcektizfNlrCwC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914600.mp4"
+        },
+        {
+          "nome": "001 - Capitão América: O Primeiro Vingador",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/f976JQnjMhCTa1yLXz7UH1pV4DG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914608.mp4"
+        },
+        {
+          "nome": "032 - Deadpool & Wolverine",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/xq4v7JE8niZ75OYYPDGNn6Gzpyt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913690.mp4"
+        },
+        {
+          "nome": "028 - Doutor Estranho no Multiverso da Loucura",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/hq2igFqb31fDqGotz8ZuUfwKgn8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3896733.mp4"
+        },
+        {
+          "nome": "017 - Doutor Estranho",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/oW4odCdgmYHgKt6AVOqUasrMVjC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914599.mp4"
+        },
+        {
+          "nome": "025 - Eternos",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/mzezdUZEnpiUIlxpdyLO1R08Lqm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914192.mp4"
+        },
+        {
+          "nome": "011 - Guardiões da Galáxia - Vol. 2",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/jGtBLu0JAKf5JxhWgmF68HROzCA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914598.mp4"
+        },
+        {
+          "nome": "010 - Guardiões da Galáxia",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/xaY92XMToaSnBuvCui3LHzNGqZB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914603.mp4"
+        },
+        {
+          "nome": "033 - Guardiões da Galáxia: Vol. 3",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/4yycSPnchdNAZirGkmCYQwTd3cr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898906.mp4"
+        },
+        {
+          "nome": "004 - Homem de Ferro 2",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/vzROjQbgKWMVf2EldXipCcjpuBL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914610.mp4"
+        },
+        {
+          "nome": "008 - Homem de Ferro 3",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/C7MZwRTjvEy7gkWcLJeBGZFE1w.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914605.mp4"
+        },
+        {
+          "nome": "003 - Homem de Ferro",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/adSJ0DpgOsMwrpUH78cZpLGOOAk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914612.mp4"
+        },
+        {
+          "nome": "015 - Homem-Aranha: De Volta ao Lar",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/jBcZuqugLRxEvazMPvxKiQlfWlo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914724.mp4"
+        },
+        {
+          "nome": "023 - Homem-Aranha: Longe de Casa",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898782.mp4"
+        },
+        {
+          "nome": "026 - Homem-Aranha: Sem Volta Para Casa",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/8qBccgSj0Ru9Odm1Mjv82cxDr7l.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898962.mp4"
+        },
+        {
+          "nome": "020 - Homem-Formiga e a Vespa",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/smRrzh8W4PfIYiqAEqc6U1D6Ekl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914595.mp4"
+        },
+        {
+          "nome": "030 - Homem-Formiga e a Vespa: Quantumania",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/q7CfFjOvjLz9GZoh5RoCOSVniWm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898920.mp4"
+        },
+        {
+          "nome": "013 - Homem-Formiga",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/yiLqv1gwBENjbqTAdPxW4LhX6aA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914601.mp4"
+        },
+        {
+          "nome": "005 - O Incrível Hulk",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/pA6dp7I97HoTcZ30xKLxkYj59w2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914611.mp4"
+        },
+        {
+          "nome": "007 - Os Vingadores: The Avengers",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/j9hwS307Zlc5mQTbAnwV75vXG0H.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914607.mp4"
+        },
+        {
+          "nome": "018 - Pantera Negra",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/ubXNpxL2ASSzY0f8Hxv08pOsV2L.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3913552.mp4"
+        },
+        {
+          "nome": "027 - Pantera Negra: Wakanda para Sempre",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/nj9cgMhqXQJkXutKmvVelKNP1Aa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914003.mp4"
+        },
+        {
+          "nome": "024 - Shang-Chi e a Lenda dos Dez Anéis",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/ArrOBeio968bUuUOtEpKa1teIh4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914248.mp4"
+        },
+        {
+          "nome": "006 - Thor",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/aEV9QmgBqjRTdjsvdCgdK89tavQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914609.mp4"
+        },
+        {
+          "nome": "029 - Thor: Amor e Trovão",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/71XnRvkadkWZZowCGcuBi4XAKdJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914062.mp4"
+        },
+        {
+          "nome": "019 - Thor: Ragnarok",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/3MZlw0ztDak4ATX2FqA5qUh4DfN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914597.mp4"
+        },
+        {
+          "nome": "012 - Vingadores: Era de Ultron",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/vGIIl89vglo66yUfbuTxzNAs4y5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914602.mp4"
+        },
+        {
+          "nome": "021 - Vingadores: Guerra Infinita",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/d6jUbQj4E4R5MJlFYfdzANEZbkL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914596.mp4"
+        },
+        {
+          "nome": "022 - Vingadores: Ultimato",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/7jvlqGsxeMKscskuUZgKk0Kuv99.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898780.mp4"
+        },
+        {
+          "nome": "016 - Viúva Negra",
+          "descricao": "Filmes De Marvel UCM",
+          "capa": "https://image.tmdb.org/t/p/w780/1olJMMIUYkV6XwET1xRIROqYkxO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3914398.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
