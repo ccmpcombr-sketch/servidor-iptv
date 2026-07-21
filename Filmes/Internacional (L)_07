@@ -1,0 +1,2773 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "Internacional (L)",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Internacional%20(L).png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "Inside Llewyn Davis: Balada de um Homem Comum (2013) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/8SZPBjEt29cdHv1oAmciu4KhwEL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918456.mp4"
+        },
+        {
+          "nome": "Inspetor Bugiganga 2 (2003) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/iIy2CIWZbclTSfHRV3fYmLnbpzA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917576.mp4"
+        },
+        {
+          "nome": "Inspetor Zende (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/hmbTqeOre6L9mB1cgYMyvyR4BJm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917648.mp4"
+        },
+        {
+          "nome": "Inspiração de Natal (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/mqnFg0fIUec2i8TIiOnjfudhT6J.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921148.mp4"
+        },
+        {
+          "nome": "Instinto Assassino (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/4Mynv1TcKx5AwCsv1wr5Y2hnm6S.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922407.mp4"
+        },
+        {
+          "nome": "Instinto Materno (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/fa8nf1EzfU8TbZevEdjosWk7vIF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923531.mp4"
+        },
+        {
+          "nome": "Instinto Materno (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/rAbreodoriF4LeyEjm3DrypFMTB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922805.mp4"
+        },
+        {
+          "nome": "Instinto Materno (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/5ft87E9fosb9O9zLtdR9Cu5tiCa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920466.mp4"
+        },
+        {
+          "nome": "Instinto Policial (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/ls4g4OxSCf2egNa0D548VEbGL16.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921397.mp4"
+        },
+        {
+          "nome": "Instinto Predador (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/awFeMJIo2KibIBCrzcsgmcZnMHf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920060.mp4"
+        },
+        {
+          "nome": "Instinto Secreto (2007) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/uwgrln1BB1KZqvktSO6HtpW62Qk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918644.mp4"
+        },
+        {
+          "nome": "Instinto Voraz (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/pWFBKjwtQC9MnpzgEUDhX2V3jmV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918826.mp4"
+        },
+        {
+          "nome": "Interceptor (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/jBKNAfANo4e3rzJtb7aHfYNd7b3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922366.mp4"
+        },
+        {
+          "nome": "InterReflexões (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/eGb5HdsCYJCS7jFyAD6uKqri9Vt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923348.mp4"
+        },
+        {
+          "nome": "Interrompida (1999) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/wUO6W6DVF5x5ppQ2X2YXi7HIm1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918877.mp4"
+        },
+        {
+          "nome": "Intrusion (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/o6ozTBflWXlBje0uxJv4m6s4HTq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923050.mp4"
+        },
+        {
+          "nome": "Intruso (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/7he2IBkpbedIOJiBBq5LjY4ZCC5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921010.mp4"
+        },
+        {
+          "nome": "iNumber Number: O Ouro de Joanesburgo (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/lfsbL4QcmMKJvdVYE36tPRmoaiv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921808.mp4"
+        },
+        {
+          "nome": "Invasão (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/pq3ec68VWN93GQXY7yf5KBGAK1C.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919923.mp4"
+        },
+        {
+          "nome": "Invasão Alienígena: Hudson Valley (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/iGeS46JuFkpfjCSYO3G7xQK4UPn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920136.mp4"
+        },
+        {
+          "nome": "Invasão ao Serviço Secreto (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/8LfvpWS7bLUtyOzs3KsdxRflHSu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923650.mp4"
+        },
+        {
+          "nome": "Invasão Cósmica (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/v5Jodmj8equxBklBlhZMHJtkp5J.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923042.mp4"
+        },
+        {
+          "nome": "Invasão de Domicílio (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/x2jy6PV0uoPMG7L8bLEfkE9iMrH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920001.mp4"
+        },
+        {
+          "nome": "Invasão de Lua de Mel (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/JRF2CsPVaqbjxJkZM0zAKfdoXH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919199.mp4"
+        },
+        {
+          "nome": "Invasão Terrorista (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/x1rT6tRdDsSjSIvY86X9uHMTTrA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921097.mp4"
+        },
+        {
+          "nome": "Invasor (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/kRTFXVCedeh2PqKwkhPLhUCg1c4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921278.mp4"
+        },
+        {
+          "nome": "Invasores - Nenhum Sistema Está à Salvo (2014) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/9sML6FGEDVPg1ecAWHmX03xg1O.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917868.mp4"
+        },
+        {
+          "nome": "Invencível (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/stQDEhudlR2bMwaHdUhk8OrGB5J.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918555.mp4"
+        },
+        {
+          "nome": "Inventor do Cool (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/OTueOn4XUfr5jG8Qy44e25rgvw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923541.mp4"
+        },
+        {
+          "nome": "Inverno de Sangue em Veneza (1973) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/9rOCKHdxeiMRlCH1lrNl0HYBaam.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919296.mp4"
+        },
+        {
+          "nome": "Inverno em Chamas (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/hcfDoTS3Cjy1RQml6WyGBsDDOhY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917719.mp4"
+        },
+        {
+          "nome": "Inverno Sem Fim (2018) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/riJ2M32mwrPBJb1STImzcij13bG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919403.mp4"
+        },
+        {
+          "nome": "Invisíveis (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/gX6JfIPPv1HPmsgSNykUR7pWLKb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922505.mp4"
+        },
+        {
+          "nome": "Invisíveis (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/a0nV5qELvg4tmwiq6DbajlBjrmP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921859.mp4"
+        },
+        {
+          "nome": "Invocação do Mal 3: A Ordem do Demônio (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/tLmaOXT9rMb17ISQDURKQIu3Okk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923212.mp4"
+        },
+        {
+          "nome": "Irmã de Neve (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/ljS93csJXgVP35RpDQgaT03y3LY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919562.mp4"
+        },
+        {
+          "nome": "Irma la Douce (1963) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/8lK5voP0N4NFEgGgk77zFjHqUaj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923447.mp4"
+        },
+        {
+          "nome": "Irmã Morte (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/jZXjucSt0SLxZjKa74lvxPsyKeg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921314.mp4"
+        },
+        {
+          "nome": "Irmãos (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/3cA9T9Gt9oinyNWGeOX8qjPFtcc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919772.mp4"
+        },
+        {
+          "nome": "Irmãos de Guerra (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/ozHweLTPGEWRQyr1z4npGjm6ko0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921031.mp4"
+        },
+        {
+          "nome": "Irmãos de Sangue: Muhammad Ali e Malcolm X (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/8niel2KjxfcOGmLWQc6p2fo5pUm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923112.mp4"
+        },
+        {
+          "nome": "Irmãos do Crime (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/ggklPPxUfYEXv9VVI37F1XnfSEr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922004.mp4"
+        },
+        {
+          "nome": "Irmãos por Acidente (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/b8BS8gF7O90vmb71vSo3nk1uzwJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920322.mp4"
+        },
+        {
+          "nome": "Irmãs de Sorte (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/1QdtOFFyDpZ8WO6l0SOPF7OSiMG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919966.mp4"
+        },
+        {
+          "nome": "Irresistível (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/gv258c25YeGVLFC3cFH5kVYJGMa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923427.mp4"
+        },
+        {
+          "nome": "Isca (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/lpDbjUc6RawYC4UJj1YAn9OW802.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920142.mp4"
+        },
+        {
+          "nome": "Isolado na Pandemia (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/aI8ETMVoOf0GuBHWSiOjPaqhufI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923350.mp4"
+        },
+        {
+          "nome": "Isolados: Medo Invisível (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/irojlZd3fTBWgiLyxS7zmElokH7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919037.mp4"
+        },
+        {
+          "nome": "Isolamento Mortal (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/tDXYFCA3EAvYiZLAgvTYBHKZ1YG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921976.mp4"
+        },
+        {
+          "nome": "Isto não é Berlim (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/1sFOoXxnVdeaccLIC8Pv9hO42ik.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922883.mp4"
+        },
+        {
+          "nome": "It (2017) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/cBu6jlMvlaB3H8oKL8gNcOqzU4C.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918150.mp4"
+        },
+        {
+          "nome": "It Blooms in June (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/iFGT3x4o6ps0ufEFjm5hcOHRfqk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920182.mp4"
+        },
+        {
+          "nome": "Izzy Lyon - O Rei do Giro (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/fQwtAKGz8OxPrwamqhv7vlX5WJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919546.mp4"
+        },
+        {
+          "nome": "J. Edgar (2011) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/hWHFPhGvCvfHbZCxJSR3n6GsXIf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917820.mp4"
+        },
+        {
+          "nome": "Jaat (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/guTflsCTgLNqTbpHTi9gJANk1Rf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918313.mp4"
+        },
+        {
+          "nome": "Jack & Jill Nos Passos do Amor (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/7quAseCUjPhksKWnvEFyyJWZMdc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920615.mp4"
+        },
+        {
+          "nome": "Jack Chega A Tempo Para O Natal (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/rArOcRAVyrFwy1kcCpLLpZJWycY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919545.mp4"
+        },
+        {
+          "nome": "Jack: A Caixa Maldita (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/8kejSfDi4eM9JcjdX1mEbMXDzju.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922145.mp4"
+        },
+        {
+          "nome": "Jack: A Caixa Maldita 2 - O Despertar (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/uRzhyPrwsfHxSKIvywkKw0Noy6D.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918053.mp4"
+        },
+        {
+          "nome": "Jack: A Caixa Maldita 3 - A Ascensão (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/4NBsH4eaDYykvGMObg5r47K3lk0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919728.mp4"
+        },
+        {
+          "nome": "Jackass 4.5 (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/bl686OSeMQOvs90IQAgt8QipCsB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922406.mp4"
+        },
+        {
+          "nome": "Jackass para Sempre (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/aPwVtkrMXSPIqb7bc5KAhagqKn6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922512.mp4"
+        },
+        {
+          "nome": "Jackpot: Loteria Mortal! (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/elzEsnRrrhvsPgY0xVbWzhF9mun.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920066.mp4"
+        },
+        {
+          "nome": "Jade: Guerreira Solitária (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/hTjVhegRP6fruQHWuC0sL9zsqQz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920488.mp4"
+        },
+        {
+          "nome": "Jagun Jagun: O Guerreiro (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/2NrM70jJ4NPST409wHER8ZVZiKo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921637.mp4"
+        },
+        {
+          "nome": "Jamie Foxx: What Had Happened Was... (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/4KzwXRpiUA765QTDynsfdbQsqGN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919478.mp4"
+        },
+        {
+          "nome": "Jamón (1992) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/eU8O8CGdZuuXx7KJ3P5HZeXQXWW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919275.mp4"
+        },
+        {
+          "nome": "Jane Goodall: A Esperança (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/tn7oWdDC541wX7jTJMaLf9aBZsZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922271.mp4"
+        },
+        {
+          "nome": "Janelas Para o Mundo (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/z754gihJv1YXKU0UNueDLfzcaqB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920970.mp4"
+        },
+        {
+          "nome": "Jardim dos Desejos (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/7CRGkkZkJMEv3Fp5Qf4SQbGz6Td.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919428.mp4"
+        },
+        {
+          "nome": "Jason X (2001) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/ggOND0hfoE0f3K857joSzEeIchb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918856.mp4"
+        },
+        {
+          "nome": "Je Suis Karl (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/gQJcTlIfLJayp5TdlvFzwh9gtMp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923045.mp4"
+        },
+        {
+          "nome": "Jenny Slate: Seasoned Professional (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/vQx7kF78GDEgjJtCCqsGU2vaUwN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920727.mp4"
+        },
+        {
+          "nome": "Jerry & Marge Tiram a Sorte Grande (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/cVUjmKcXwhSoySHmCqsUR3e0W6C.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922314.mp4"
+        },
+        {
+          "nome": "Jessabelle: O Passado Nunca Morre (2014) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/zntIFehSIsMrARh2k6XJFGwsJJy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917970.mp4"
+        },
+        {
+          "nome": "Jester: A Morte Sorri (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/xMvd6QBbXFsRG1LHoEVJafWj6Xj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921068.mp4"
+        },
+        {
+          "nome": "Jexi: Um Celular Sem Filtro (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/lmsKVJbOuSFYzBazWm8djmiCcNg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923624.mp4"
+        },
+        {
+          "nome": "Jigarthanda DoubleX (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/2bZq5MKTw79ebxZhYg7TLOXSwg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920904.mp4"
+        },
+        {
+          "nome": "Jim Knopf e os 13 Piratas (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/6DKRfX1gHnjiSyz0Kf8azP6kvLA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921221.mp4"
+        },
+        {
+          "nome": "Jiu Jitsu (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/rq19yPpEF2O1d1JjoH7It4ZViP1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923282.mp4"
+        },
+        {
+          "nome": "JJ+E (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/tY2giXB3tUUhUPPjMi8zElHpQxY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923113.mp4"
+        },
+        {
+          "nome": "João e Maria - Depois do para Sempre (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/8Xv3NuOu772IhhlpixNSosUB1jY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921928.mp4"
+        },
+        {
+          "nome": "Jockey (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/eMgskfX9BfG6i872hawQC17dPzr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921755.mp4"
+        },
+        {
+          "nome": "Joe Bell: Você Nunca Andará Sozinho (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/hQW9o6QnjTP9chmSnByOBPgyGr1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922602.mp4"
+        },
+        {
+          "nome": "Joey e Anna - Mundo de Aventuras (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/15Nz91i5zCBvh8LiHgZs6L1Whhu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920266.mp4"
+        },
+        {
+          "nome": "Jogada Certa (2010) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/dJuWCqpyJOERLdjMq7UHrAbYQsq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921717.mp4"
+        },
+        {
+          "nome": "Jogada De Amor (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/Anvor6NY8DlQjAmIe67VqLbTvcn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921822.mp4"
+        },
+        {
+          "nome": "Jogada Decisiva (1998) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/8F6ez4TOfbsMZ8vmgYl11XCsA3y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918418.mp4"
+        },
+        {
+          "nome": "Jogando a Linha (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/tQpEqBoOWkNJRGpSQDTTsXCxVVL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921382.mp4"
+        },
+        {
+          "nome": "Jogando com o Amor (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/rYicWsnzTi9uTLE9KpUjogWcLNC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920246.mp4"
+        },
+        {
+          "nome": "Jogando Sujo (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/kNO7C2848Jn0QQYlhgWprVm4K0H.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920699.mp4"
+        },
+        {
+          "nome": "Jogo Bonito (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/lYR7Ob8qmtwxjNzrfGaPNjvbIln.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920603.mp4"
+        },
+        {
+          "nome": "Jogo das Traições (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/kNM2gZTBxzoZJ8vm7v1BqPK4VFx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922578.mp4"
+        },
+        {
+          "nome": "Jogo de Amor em Las Vegas (2008) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/wPfCkAZjxcgbCN7X65Aut8Vtq4c.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918370.mp4"
+        },
+        {
+          "nome": "Jogo de Assassinato (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/zHBnfCzPJq4cQtXzsIxMGeRz3od.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919544.mp4"
+        },
+        {
+          "nome": "Jogo de Bruxas (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/jnJpUGzPdey2bj0jDtODGRu1SBY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917992.mp4"
+        },
+        {
+          "nome": "Jogo de Risco (2003) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/2wiDZ8phnCQbUfh3luPJ0vntvbU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918593.mp4"
+        },
+        {
+          "nome": "Jogo de Sacrifício (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/n1cGwzuSi3bBKscH9axAJOQgXUq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919053.mp4"
+        },
+        {
+          "nome": "Jogo de Sedução (2003) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/q8jpufdxejUfoBgJ0YWQl41n0K5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917931.mp4"
+        },
+        {
+          "nome": "Jogo de Traições - A Origem (2017) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/lnk1z8hhHrEstiVsROxIXKv8dU6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919089.mp4"
+        },
+        {
+          "nome": "Jogo do Amor (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/cnOvRDoYqcrOVjOBqRAP5NlhpkS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921586.mp4"
+        },
+        {
+          "nome": "Jogo do Destino (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/3V0iiaCYgaJHL1Z6aiTyacDzfof.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920511.mp4"
+        },
+        {
+          "nome": "Jogo Duplo (2018) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/lqNiRYErqND6A0pSyEy4EPBQndt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918257.mp4"
+        },
+        {
+          "nome": "Jogo Justo (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/AteINDGu2VqyI1M8mBZXYMA7Yhs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921415.mp4"
+        },
+        {
+          "nome": "Jogo na Escuridão (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/wBUt6oTFZOMN1skbhIq0gpxpe6J.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923687.mp4"
+        },
+        {
+          "nome": "Jogo Perigoso (2017) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/kYFyeWz6AfKq9e3PEY2GREZ39Ay.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922914.mp4"
+        },
+        {
+          "nome": "Jogo Perigoso: Vítimas da Herança (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/r3cbG9vXgbP3PypCR9ILP7b6aSE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922014.mp4"
+        },
+        {
+          "nome": "Jogos de Amor (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/r43jx9Km2ONGa8sFuzXFWM3iDhp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920799.mp4"
+        },
+        {
+          "nome": "Jogos de Estrada (1981) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/kxTuW0Mgx1cRUvu2q6wO4rYYW13.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919168.mp4"
+        },
+        {
+          "nome": "Jogos de Sedução (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/oZJo80VXSSbQ4lYNocA92oazgtw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918080.mp4"
+        },
+        {
+          "nome": "Jogos Entre Amigos (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/qrFr8NVI5EuHbCn5dDpO2fNPhSg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923322.mp4"
+        },
+        {
+          "nome": "Jogos Entre Amigos 2: Eulogia Atrapalhada (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/aQMEx4h2UDGElCmnQ4tAQBIAYzV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921200.mp4"
+        },
+        {
+          "nome": "Jogos Mortais X (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/l749SGWMIlVf9sXoc7Ib8QhDTgr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921351.mp4"
+        },
+        {
+          "nome": "Jogos Sombrios (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/7huzfsCTNlodWqZdIgbQoRiFs8b.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919860.mp4"
+        },
+        {
+          "nome": "Jogos Virtuais: O Início (2018) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/maDJlKxWrf5xtzBMG6x31sI5yVH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921760.mp4"
+        },
+        {
+          "nome": "Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/5LVmgxNMCWPVY0XtcAccm7rP6FW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921067.mp4"
+        },
+        {
+          "nome": "Jogos Vorazes: A Esperança - O Final (2015) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/3RhLwBs4IcYuAlVhmvnOJUAexYR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918455.mp4"
+        },
+        {
+          "nome": "John Farnham: Finding the Voice (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/tjmcIvMln0Fku5m6gz99Ob7LYuq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920444.mp4"
+        },
+        {
+          "nome": "John Wick 3: Parabellum (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/bE6XutmB6tcvzTHBx4JGJLlzouM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923689.mp4"
+        },
+        {
+          "nome": "John Wick 4: Baba Yaga (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/dHQEM7aqsvBQnPmjdyTgb5fUG5q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921892.mp4"
+        },
+        {
+          "nome": "Johnny & Clyde - Parceiros no Crime (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/h3luJ9fz6IuqBSMuafRgkGf2nvW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919640.mp4"
+        },
+        {
+          "nome": "Joika: Uma Americana no Bolshoi (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/79s50ORnmW7gUCiMULFD91uPXQr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920433.mp4"
+        },
+        {
+          "nome": "Jojo Rabbit (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/zFJZKMcjBaVLNPZJQUAFNoTL48d.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923601.mp4"
+        },
+        {
+          "nome": "Jolt: Fúria Fatal (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/3NxiSG1nt9d4Ewf4MHxVbmlUpY9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922800.mp4"
+        },
+        {
+          "nome": "Jon Batiste: American Symphony (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/skfO62LOEg805x9fMYeEDQRorXP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920923.mp4"
+        },
+        {
+          "nome": "Jonas Kaufmann – Mein Wien (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/ws9CtnI4Qo1aXbVjiabsn3RIwDw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923196.mp4"
+        },
+        {
+          "nome": "Jornada do Herói: Os Bastidores do Percy Jackson e os Olimpianos (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/lc9Glu7gK0HgLS4FZRoR4rH6Rob.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920933.mp4"
+        },
+        {
+          "nome": "Jornada Para Belém (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/tv0Ta1lAIZYuLKAcQhnRTe8bUTV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920903.mp4"
+        },
+        {
+          "nome": "Jornada Para o Inferno (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/yRJUdzPrqh1QcVBWEU54qQzB8sR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921173.mp4"
+        },
+        {
+          "nome": "Josey Wales: O Fora da Lei (1976) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/7qhPffMpzmXQKcShsnlf0aln1ej.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918214.mp4"
+        },
+        {
+          "nome": "Jovens Bruxas: Nova Irmandade (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/tZ3JJ2BevksKc0BwM4kdM3H6jV1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923166.mp4"
+        },
+        {
+          "nome": "Jovens Canibais (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/cor72PrsyggiVrOKiCt8ST4rwEx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923376.mp4"
+        },
+        {
+          "nome": "Jovens Demais para Morrer (1990) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/yWFgFHW1snV4yYRtPMdR10Qw10n.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917819.mp4"
+        },
+        {
+          "nome": "Jovens Feiticeiras (2018) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/k7SJYfXvz0152eMUtuy0OS8CYBn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921945.mp4"
+        },
+        {
+          "nome": "Joy (2018) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/z4u8WhPExORqRnx6BAZkSvguAHy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923738.mp4"
+        },
+        {
+          "nome": "JOY (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/gWcq6GZcpo8ULwB7FRCZ0Dw8L3F.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919586.mp4"
+        },
+        {
+          "nome": "Judas e o Messias Negro (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/oA4Hsn1G0sBI8U61BpX05GsrrfF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923259.mp4"
+        },
+        {
+          "nome": "Judy: Por Trás do Arco-Iris (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/1frazS4iRtqLG2lcJKuoLaqRTo4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923631.mp4"
+        },
+        {
+          "nome": "Julgamento: O Estado Contra Um Homem Comum (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/5Ptu1NCrqx5ZOaLKxwQ0nRjkiJc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918822.mp4"
+        },
+        {
+          "nome": "Jumanji: Próxima Fase (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/jR3EmKf2ymEVqJXDObpmYQiugpS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923590.mp4"
+        },
+        {
+          "nome": "June (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/ybt8XseXREN5WKXRaDy70ERvHnL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920902.mp4"
+        },
+        {
+          "nome": "June e John (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/xRa3VBDf9RRz26SYtCTgOu9lQK2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918079.mp4"
+        },
+        {
+          "nome": "Jungle Cruise (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/9E76j2DcQv8LdbX1Wa9jpbDBfw1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923192.mp4"
+        },
+        {
+          "nome": "Juntos (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/oeocQg0Bhmy0pqqRy50wEo0iwFB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922470.mp4"
+        },
+        {
+          "nome": "Juntos (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/si2wO7OoKviKBXz6SfKkf6yKiGe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917622.mp4"
+        },
+        {
+          "nome": "Juntos para Sempre (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/9xARxrBE38tWUmHLTZy5NyGcLQ9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923694.mp4"
+        },
+        {
+          "nome": "Juntos Pelo Acaso (2010) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/iPNVHYV3OmhONO3GGNGQb4R3QLP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919187.mp4"
+        },
+        {
+          "nome": "Jurado Nº2 (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/8Enmby25murJWBYYKaPRgoXhW8U.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919543.mp4"
+        },
+        {
+          "nome": "Jurassic World: Domínio (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/w6Jz1AgjscqBuS8qXBd0wUHz5zC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922243.mp4"
+        },
+        {
+          "nome": "Jurassic World: Recomeço (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/g81Wxr9rskMsmKx3RoPZP6PnlkX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917953.mp4"
+        },
+        {
+          "nome": "Justiça Além do Sistema (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/9ymJrovCopWJQC5ojNqFHEpFAbc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922457.mp4"
+        },
+        {
+          "nome": "Justiça Brutal (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/fbZi8jRG0tZTdXx3GH6CZthkFzc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918855.mp4"
+        },
+        {
+          "nome": "Justiça em Família (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/cygRJp2OQKsiGbJxKq5TbvzW9QR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923147.mp4"
+        },
+        {
+          "nome": "Justiça Vermelha (1997) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/7jtoCR2yEmjS4IgDUvfYT3r5sZg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918164.mp4"
+        },
+        {
+          "nome": "Justiceiras (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/rF0ItNyvhMIavqcuVtHFPhbW6Yf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922064.mp4"
+        },
+        {
+          "nome": "Justin Bieber: Nosso Mundo (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/iCzzCUgsFSlaEbgKKmJttSAUXGr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922850.mp4"
+        },
+        {
+          "nome": "Juventude Perdida (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/RDE1VrClRgNIvMKsyrKcRRlRgM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919542.mp4"
+        },
+        {
+          "nome": "K.O. (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/o0brhd2qdfFL3o7VxFDsUfUSaML.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918429.mp4"
+        },
+        {
+          "nome": "Kaamelott: Parte 1 (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/4mcovnajaLoy7dbv5arykJjDFFC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922133.mp4"
+        },
+        {
+          "nome": "Kaiju No. 8: Missão de Reconhecimento (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/5xFbaAZIprcOD1iBP7vlQ08OM7c.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918101.mp4"
+        },
+        {
+          "nome": "Kali: Anjo Vingador (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/npYnwimjiKqWfg4Y9A1OoiBhmoU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920406.mp4"
+        },
+        {
+          "nome": "Kalinda (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/aigJxGPcgyB7gr2sOuolPh6LdOn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922561.mp4"
+        },
+        {
+          "nome": "Kalki 2898 A.D. (Hindi) (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/rstcAnBeCkxNQjNp3YXrF6IP1tW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919119.mp4"
+        },
+        {
+          "nome": "Kamen Rider Faiz: Paraíso Reconquistado (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/7UG7IexpoJyApmYswqTwZ7qVWtc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920726.mp4"
+        },
+        {
+          "nome": "Kamen Rider Gotchard: Graduations (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/qkNQEezIfXr8yhIj0hgsXQ9ZB0y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917537.mp4"
+        },
+        {
+          "nome": "Kamen Rider Gotchard: The Future Daybreak (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/tC4qJ5WD5qS2hHNadZiV6niy59b.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919365.mp4"
+        },
+        {
+          "nome": "Kandasamys: O Bebê (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/byF0OTIt67FXCqan5bjPgF1v0Hi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921349.mp4"
+        },
+        {
+          "nome": "Kandisha: Invocação ao Demônio (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/2DJjZhbV5qsoBVGAyKOTSiFTXiO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919160.mp4"
+        },
+        {
+          "nome": "Karatê Kid: Lendas (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/gnuSSOVBVWlKL8dFEGKRoOiiKTS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918096.mp4"
+        },
+        {
+          "nome": "Kate (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/uJgdT1boTSP0dDIjdTgGleg71l4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923109.mp4"
+        },
+        {
+          "nome": "Kayara - A Princesa Inca (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/1F9XXHadJR2as6YAi9hkG6bkDEE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918624.mp4"
+        },
+        {
+          "nome": "Keanu Reeves: The One and Only (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/zcM3twJ5E75MAz5lGggcU9N0Tf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919679.mp4"
+        },
+        {
+          "nome": "Kenia Os: A OG (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/g40k1IrpCK9sjaXoGw2LuNh9N9a.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917647.mp4"
+        },
+        {
+          "nome": "Kentucky em Chamas (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/l1avNggOkC89Wy48l5asqDdmpkY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918643.mp4"
+        },
+        {
+          "nome": "Kevin Hart e Chris Rock: Só os Headliners (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/4dwKP2S9XJVKnTyEpmh8jaiWKpm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920896.mp4"
+        },
+        {
+          "nome": "Kevin James: Irregardless (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/rCI9ZFPzPb4rGxvG9NrNf0zLUva.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920899.mp4"
+        },
+        {
+          "nome": "Khutulun - A Princesa Guerreira (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/h1tgT77aMRnMstr3soizs0ALir.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921543.mp4"
+        },
+        {
+          "nome": "Kickboxer 3: A Arte da Guerra (1992) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/6Bkul5qft7BFHoHaPEs7ojx5Kr4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917867.mp4"
+        },
+        {
+          "nome": "Kickboxer 4: O Agressor (1994) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/zkkZ0exLO4cZWWfRQYB4OgImg47.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917855.mp4"
+        },
+        {
+          "nome": "Kids Are Growing Up: A Story About a Kid Named Laroi (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/ksj8IPyvNIDOBk15wcxEH4tsG0O.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920000.mp4"
+        },
+        {
+          "nome": "Kill (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/mvQVUZ4CNJO2FSb0miNpHM9HhDo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920115.mp4"
+        },
+        {
+          "nome": "Kill the Jockey (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/lDQYDhoScX4txsXacE4nG62pYdd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919376.mp4"
+        },
+        {
+          "nome": "Kill Tony: Kill or Be Killed (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/w2PnMs3nGj4bfLROUGGnxR1zl6v.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918623.mp4"
+        },
+        {
+          "nome": "Kill: O Massacre no Trem (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/mxgrtJvngNhppjCwu2AvdCtvSXa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919671.mp4"
+        },
+        {
+          "nome": "Killer Weekend (2018) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/gx7r93OxpDCmBWZ6wdsS5Toszg3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917706.mp4"
+        },
+        {
+          "nome": "Kimi: Alguém Está Escutando (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/i8fRpmBAw69emdYL8o1pCY6RliH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922613.mp4"
+        },
+        {
+          "nome": "Kin (2018) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/yyM6NktVICFnRj7tyvYBMUUq6g3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918611.mp4"
+        },
+        {
+          "nome": "King - Meu Melhor Amigo (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/jfypKseXKHEqRVXoXHBWeppA1hn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922376.mp4"
+        },
+        {
+          "nome": "King of the Apocalypse (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/wX4IYNR3h8JdwD4FVbf1ukk2NTh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918908.mp4"
+        },
+        {
+          "nome": "King Richard: Criando Campeãs (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/1GzzYMqCUbx0RMY3yAdrKdKVonh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922371.mp4"
+        },
+        {
+          "nome": "Kingdom (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/boKvuUckVWW328JGLqmENTx0b5q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917588.mp4"
+        },
+        {
+          "nome": "Kingdom 3: A Chama do Destino (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/7bj3O5gGf1YDJ1geqJP7h0UUYzy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920705.mp4"
+        },
+        {
+          "nome": "Kingdom 4: O Retorno do Grande General (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/iqmFUnlzYLOzNqRFOYSTHUIZq8J.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919350.mp4"
+        },
+        {
+          "nome": "King's Man: A Origem (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/bRegMnwf0s7cYjPrtFhNba5TXzc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922624.mp4"
+        },
+        {
+          "nome": "Kingsglaive: Final Fantasy XV (2016) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/nIBoAAlV08z7Cfb7LMuXZD8uhWB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918642.mp4"
+        },
+        {
+          "nome": "Kissufim (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/5NUqMBnAmpZO7OQA9W5uBH6hCZv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919999.mp4"
+        },
+        {
+          "nome": "KIZUMONOGATARI -Koyomi Vamp- (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/eu8sceq9lNS8JM3D52XCsNTgz49.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919477.mp4"
+        },
+        {
+          "nome": "KM17 (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/rmBAwMJRYF9K6BOVRe40bctBdtR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919175.mp4"
+        },
+        {
+          "nome": "Kneecap: Música e Liberdade (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/uafQEdiSQasBQipcnolkJN2Pj8W.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919561.mp4"
+        },
+        {
+          "nome": "Knives and Skin (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/u80rybIz75SZ862YcYU2ZRXGvFm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923477.mp4"
+        },
+        {
+          "nome": "Koko-di Koko-da (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/45AhARdSylYfml2Vkq2UFuafXty.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923368.mp4"
+        },
+        {
+          "nome": "Kraven: O Caçador (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/pWvQsP9o1MQ4vQNjpL9QeYFXKOs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919370.mp4"
+        },
+        {
+          "nome": "Krwawe trofeum (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/iaBfsRdlRjXfSWyjH4KKLPqXDoJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917954.mp4"
+        },
+        {
+          "nome": "Kung Fu Panda 4 (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/vU5MZaZfdl6P7SRHGjpWYiNYa1t.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920550.mp4"
+        },
+        {
+          "nome": "Kursk: A Última Missão (2018) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/e2IfN9oSfu7n1raLplXx4hjRdUc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919841.mp4"
+        },
+        {
+          "nome": "L.S. Lowry – Retratos de Uma Paixão (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/sByaTDqKKfWeLnfjxBG3ivraQ0e.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921219.mp4"
+        },
+        {
+          "nome": "l’attentat de la secte Aum (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/xHMs0aBn2Y4rhDHg3dcAoQYyEBD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918395.mp4"
+        },
+        {
+          "nome": "La bête dans la jungle (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/geIkoK4Ohm4SwssbhEGFLCXTeEV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920829.mp4"
+        },
+        {
+          "nome": "La Bonga (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/tAGq2lSUbtxtWUq4ZagQyqW0Kfv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918657.mp4"
+        },
+        {
+          "nome": "La Chimera (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/dV6SYHmmFLXQU7oKRfK4pOFCX6M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920443.mp4"
+        },
+        {
+          "nome": "La Dolce Villa (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/y3GXsdVfxIMA5IVQ2KNnBzDi1RM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919185.mp4"
+        },
+        {
+          "nome": "Lá Fora (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/2mRpZ01DFVmZARJBEKPa1RMCKn2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919771.mp4"
+        },
+        {
+          "nome": "La grande noirceur (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/xVz1dASnIIQdJhYKe9ZcHEuQY9z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923367.mp4"
+        },
+        {
+          "nome": "La La Land: Cantando Estações (2016) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/yArr9VMatOTEMRZ0H1s8pNHQW78.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918900.mp4"
+        },
+        {
+          "nome": "La lutte est une fin (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/vwpO9oor0zXViWxTp98pbBUOtJT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920840.mp4"
+        },
+        {
+          "nome": "La Nuit se traîne (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/jzZJXEa8KX5hsjCCpRaWc69e9gz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918535.mp4"
+        },
+        {
+          "nome": "La posada (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/hkxTqSU30OIKkviHrTy8vXxXseE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919503.mp4"
+        },
+        {
+          "nome": "La Situación (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/3BNqD7CtGlEjwbSshW5cPAc3Qec.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919115.mp4"
+        },
+        {
+          "nome": "Laços de Afeto (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/p41xN3j0OHWIci7MGWlw9DQcjSH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922594.mp4"
+        },
+        {
+          "nome": "Laços de Sangue (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/fBck0353UAGYf6qD32fJpjbYD7u.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919128.mp4"
+        },
+        {
+          "nome": "Laços do Crime (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/mOlGmvhAyBhHXEk3qUonUdiJJWb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921024.mp4"
+        },
+        {
+          "nome": "Laços do Passado (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/knvzPgw1k26Hixz9Nktf4zLD9aC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921796.mp4"
+        },
+        {
+          "nome": "Lados Opostos (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/4LLBtwwAqMfou51XQax0Axr2dSo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921029.mp4"
+        },
+        {
+          "nome": "Ladrão de Joias: Começa o Assalto (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/5MXN7gIekUFRvneYeWqa0bQQNUB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918751.mp4"
+        },
+        {
+          "nome": "Ladrões (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/7iw7CFHDVblVmAosmcNs42UP3Im.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917496.mp4"
+        },
+        {
+          "nome": "Ladrões de Ouro (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/9ii6tt7jwGiMiZS7qpWVrKKWwzk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917840.mp4"
+        },
+        {
+          "nome": "Lady Ballers (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/kN7M57SiaF57XJPHTVeXpkgj1Ez.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920894.mp4"
+        },
+        {
+          "nome": "Lady Scorpions (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/vLKsSOCASmJU6oUbiE2msiDsSmF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919922.mp4"
+        },
+        {
+          "nome": "Ladybug - Aventura dos Insetos (2018) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/9FmcoHW0YSpmNOXxgDn6tO4ICP7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920995.mp4"
+        },
+        {
+          "nome": "Lakatabu (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/nTCRhPEPhokiMmEuDAYjcBTO7ye.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919755.mp4"
+        },
+        {
+          "nome": "Lamb (2015) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/aj0pgKR4dWlRRb1Q05JGQtwxHbj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922300.mp4"
+        },
+        {
+          "nome": "Lamborghini: O Homem Por Trás da Lenda (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/kchdd5IbZzUursmoDOB7ztn6CSs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921265.mp4"
+        },
+        {
+          "nome": "L'Amour ouf (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/6akNNv4KyrguZUiG4uemfV6toVq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917880.mp4"
+        },
+        {
+          "nome": "Lançando Segundas Chances (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/4yGhktbhmLixEfpK3yrRFHXdL7W.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921491.mp4"
+        },
+        {
+          "nome": "Land Ho! (2014) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/sjRksEzgB70a8KzEEqjsuvPRVwX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917925.mp4"
+        },
+        {
+          "nome": "Landline (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/sgZYD9TSifuVKSGRoJLF1nNQMnA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918738.mp4"
+        },
+        {
+          "nome": "Lansky: Uma História da Máfia (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/brvSFZ1GMhbMzL3Is8kkvG1LbMt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922549.mp4"
+        },
+        {
+          "nome": "Lanterna Verde: Cuidado Com Meu Poder (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/9jKuuMoCuAlu0NHvPSHzabkmXtz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920059.mp4"
+        },
+        {
+          "nome": "Lara (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/wH60gUc3NydFyunK56NP4U693ya.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923276.mp4"
+        },
+        {
+          "nome": "Largo Winch: O Preço do Dinheiro (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/5H5rmjHYr9YHrBbCGW0nVA43nl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919541.mp4"
+        },
+        {
+          "nome": "Larissa: O Outro Lado de Anitta (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/e1znkPMVSZv44DfRMeTrQ6G6Da2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919047.mp4"
+        },
+        {
+          "nome": "Latency (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/yNBDVUFmvgCgxzpEl5ZJ9TUSc8t.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919828.mp4"
+        },
+        {
+          "nome": "Laura e a Estrela (2004) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/mOuXN2fccMPyglQkyZ9vkUSi41V.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917548.mp4"
+        },
+        {
+          "nome": "Lava (2014) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/SAYI5SHLGbMSY3vApWRbpgqErn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918163.mp4"
+        },
+        {
+          "nome": "Le Paradis (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/97sWWWBtdgoATYPXMTRko6629OI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920831.mp4"
+        },
+        {
+          "nome": "Le Royaume (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/pPyKCFU7nkeLw4B2II5BAA1yWxD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918400.mp4"
+        },
+        {
+          "nome": "Lection (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/lHBUrlCxgcnJUqiqTA4iTDCTMZJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923483.mp4"
+        },
+        {
+          "nome": "Lee (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/ffw51hmecHHdTWihncJZgmp9XH2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918989.mp4"
+        },
+        {
+          "nome": "Legado de Mentiras (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/cDDNF6ccdyUKQOOAlMVcHEc8UJk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923164.mp4"
+        },
+        {
+          "nome": "Legado Explosivo (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/twYROzuKox3JfvB9JagOXCr8UIQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923311.mp4"
+        },
+        {
+          "nome": "LEGO DC Comics Super Heróis - Aquaman: A Fúria de Atlântida (2018) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/l1j8HormdXdbZZ2BJWJb9HG0LwQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922881.mp4"
+        },
+        {
+          "nome": "LEGO Disney Princesa: Vilões Unidos (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/ajcRSuv1rYbrDxnlNN5xx5H44Ft.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917804.mp4"
+        },
+        {
+          "nome": "LEGO Marvel Vingadores: Código Vermelho (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/bhs2CZWqoee3JFMvSZd1Vg7HLfL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921312.mp4"
+        },
+        {
+          "nome": "LEGO Marvel Vingadores: Missão Demolição (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/nylT8v3H6Amnc7UakIp8ZhIAZXj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919763.mp4"
+        },
+        {
+          "nome": "LEGO Star Wars: Contos Aterrorizantes (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/fUOPfnGknCYmdTbAsrWsgvwR7Ah.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923023.mp4"
+        },
+        {
+          "nome": "LEGO Star Wars: Férias de Verão (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/i56VuUUxgDUQB6SzJ9xfW60Rsy1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922162.mp4"
+        },
+        {
+          "nome": "Leio - A Criatura Gigante (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/7poX6IZtPjI07T3BPT1pGI8bht5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919436.mp4"
+        },
+        {
+          "nome": "Lembranças Sombrias (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/8pf7EeQ1UicjaUjp6MaR009rGDM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922492.mp4"
+        },
+        {
+          "nome": "Lenda Maldita (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/5KHs3UCf68eWTg6fP5AM6N6E7q5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919965.mp4"
+        },
+        {
+          "nome": "L'Envol (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/euIKFOO4xhcCUnVfbi1FQeAfBgy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921562.mp4"
+        },
+        {
+          "nome": "Leo (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921198.mp4"
+        },
+        {
+          "nome": "Leo Grande (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/dBDDdt8uRHu6nn6p94mZQ885q3F.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921834.mp4"
+        },
+        {
+          "nome": "Leões-Marinhos de Galápagos (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/hPm2azqZ8r0SnCz8L4Fp22n9nqh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918105.mp4"
+        },
+        {
+          "nome": "Leona (2018) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/mVPkcBOm0ZIScQVRgIBTqDzSowo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922090.mp4"
+        },
+        {
+          "nome": "Leroy & Stitch (2006) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/8ddTcTllI5U1Gq2EvGYE2CBprOS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918941.mp4"
+        },
+        {
+          "nome": "Let's Dance (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/x38vQCzCpWZWlWJhSVPFWhmTadu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919540.mp4"
+        },
+        {
+          "nome": "Levels (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/y1xm0jMIlx9Oo2a3jWNyLGm43sJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919131.mp4"
+        },
+        {
+          "nome": "Levo Você Comigo (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/4AiQsYiuqaxAIjXqfJImGnLjEA3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921967.mp4"
+        },
+        {
+          "nome": "Lick (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/hpPG14pFqGMS2FLvAWDtzGL7sUr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919364.mp4"
+        },
+        {
+          "nome": "Lições de Liberdade (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/hZ7rDX01j86x8O1E7Pe7658QYs4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917803.mp4"
+        },
+        {
+          "nome": "Licorice Pizza (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/deV9SBeCQG2rrbKBsWQDiMerQjQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922299.mp4"
+        },
+        {
+          "nome": "Lift: Roubo nas Alturas (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/ca74jjIYRVDdsnlWk8JzyVY49dE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920989.mp4"
+        },
+        {
+          "nome": "Liga da Justiça de Zack Snyder (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/lsZ5dmMuvZVNMBrkozvJedujbgU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923252.mp4"
+        },
+        {
+          "nome": "Liga da Justiça x RWBY: Super-Heróis e Caçadores - Parte 1 (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/aNC4ycThH4sLhM7D1JkraV3NZrZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921984.mp4"
+        },
+        {
+          "nome": "Liga da Justiça x RWBY: Super-Heróis e Caçadores - Parte 2 (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/eOJJrar0zaFfAh4Do8Jou32wsxI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921296.mp4"
+        },
+        {
+          "nome": "Liga da Justiça: Crise nas Infinitas Terras - Parte Dois (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/oQJWjO5aw5N4uCoh6CYrxf1LePv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920533.mp4"
+        },
+        {
+          "nome": "Liga da Justiça: Crise nas Infinitas Terras - Parte Três (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/xwmo4ZGTyGe82LL6E2yoCmf5OVv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920221.mp4"
+        },
+        {
+          "nome": "Liga da Justiça: Crise nas Infinitas Terras - Parte Um (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/epdREWqn5CAvpBNtGS9jXb4Se3S.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920900.mp4"
+        },
+        {
+          "nome": "Liga da Justiça: Mundo Bélico (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/yxXOMGosmqgjFicfmde61wnwQQ4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921670.mp4"
+        },
+        {
+          "nome": "Liga da Justiça: Os Cinco Fatais (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/wGUGI6zPSXYx9eUxaoihEXO5mf2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923745.mp4"
+        },
+        {
+          "nome": "Ligação Sombria (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/fQ8CQlejkIzbd26W5NQEjaG1syB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919699.mp4"
+        },
+        {
+          "nome": "Ligações do Passado (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/A4AERoe4Mh5dtJDCaBQJqopP6UA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921313.mp4"
+        },
+        {
+          "nome": "Ligadas pelo Desejo (1996) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/jvy0RFmTRJDlceqqF4bfbxfd7Dk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917575.mp4"
+        },
+        {
+          "nome": "Ligados Pelo Amor (2013) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/gB7LZHirRX8VbDixkmk32uXxZSN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917866.mp4"
+        },
+        {
+          "nome": "Ligados Pelo Sangue (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/dyvC5WQoSt6NoW9mbuFurDyqAug.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922958.mp4"
+        },
+        {
+          "nome": "Lightyear (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/quK8xFFhFsAlPTjxEL6CXytuYCr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922219.mp4"
+        },
+        {
+          "nome": "Lilo & Stitch (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/etRDHyD3FszWdMGHVJA5bMXvoem.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917694.mp4"
+        },
+        {
+          "nome": "Limbo (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/1gkXhkAesdep1cC1mSTceccwbOt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922583.mp4"
+        },
+        {
+          "nome": "Limerence (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/dmXYIXS48KpIp7Xc5LaEP0dArBh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923476.mp4"
+        },
+        {
+          "nome": "Limoeiro (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/wS48XAnCTi3bB3wUikAACynsUKA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920241.mp4"
+        },
+        {
+          "nome": "Limonov: O Camaleão Russo (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/fweZyRVletoZAsGaq0enR6jdxWP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918349.mp4"
+        },
+        {
+          "nome": "Lindo de Morrer (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/zhm9NhbSM57VpFxzX3cGFSyeGs7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923064.mp4"
+        },
+        {
+          "nome": "Linha de Fogo (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/iF7VAcrXKxps8iAhw4OPCv0hSsq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917771.mp4"
+        },
+        {
+          "nome": "Linha Reta (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/co43RxflrWS5OqdhdxYPaCPWiWk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923703.mp4"
+        },
+        {
+          "nome": "Linhas Inimigas (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/2MuH7e5uNagt9djLR74JTgVFzEa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922767.mp4"
+        },
+        {
+          "nome": "Linhas Opostas (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/g6rY0f50JNdPaMVhayzSbVfBTTF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922132.mp4"
+        },
+        {
+          "nome": "Lisa Frankenstein (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/jAW7ZdIm4HLKB3g15uMOWYNdU8r.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920504.mp4"
+        },
+        {
+          "nome": "Little Bites (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/lb8p3sR9A9Y3TTJZm6QgBicD6hJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919754.mp4"
+        },
+        {
+          "nome": "Little Wing (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/nEMc5IK3rkAtKCMhzBe3CX2Wpds.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920432.mp4"
+        },
+        {
+          "nome": "Live Is Life (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/cHIn2VHEdZ30KyL60yPzD8KqL1M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922218.mp4"
+        },
+        {
+          "nome": "Livre: Encanto criminal (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/cE7C87RQUMRVwAShtNeua49mHsy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919690.mp4"
+        },
+        {
+          "nome": "Liza (2002) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/dAjQy6CpYMTZ4ClrcaeJcoT3UHa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918218.mp4"
+        },
+        {
+          "nome": "Lobisomem (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/nQLt14Yb7B5Mlq4KruQHTSaTCE6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919062.mp4"
+        },
+        {
+          "nome": "Lobisomens (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/jt99DRVbB7DKHNEWsZd1Xgi2M4o.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919111.mp4"
+        },
+        {
+          "nome": "Lobos (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/1AZ2S0MeeswLfR8YUMNE5r1Zqmj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920230.mp4"
+        },
+        {
+          "nome": "Lobos (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/5LvefZZsapIsOIckLZHbYlwCAkm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919847.mp4"
+        },
+        {
+          "nome": "Local Sagrado: A História da Escola Piney Woods (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/e1BKTqnkW4YhTW9YJCrRwOlK8e1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920632.mp4"
+        },
+        {
+          "nome": "Locomía (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/veNhSeNyJN1ZXXqtDYdPhoxE9DR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919925.mp4"
+        },
+        {
+          "nome": "Logan (2017) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/f0CtZbae9cXj8bkWdCHzUHx5lsR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919088.mp4"
+        },
+        {
+          "nome": "Logan Lucky: Roubo em Família (2017) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/jFF47VdTL8DydZaytF7mHftAitk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918854.mp4"
+        },
+        {
+          "nome": "Lolo e Kid (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/uNvm06DyYS0zqhJROwKFqxmEgDO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920097.mp4"
+        },
+        {
+          "nome": "Longing (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/yWSng63Hw8fZlpAxruytOoxSVQU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919908.mp4"
+        },
+        {
+          "nome": "Longlegs - Vínculo Mortal (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/uvkIjbEVPvMxY6HqQYHyrXnF2WQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919775.mp4"
+        },
+        {
+          "nome": "Look Back (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/uawgC9JOtbBGXwWygb3lon8SaEL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919651.mp4"
+        },
+        {
+          "nome": "Look Into My Eyes (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/uEieJvULQZ0J06WxaJu3l8mAsMg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917859.mp4"
+        },
+        {
+          "nome": "Looney Tunes - O Filme: O Dia Que a Terra Explodiu (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/tNaUrIxvAVlJNF49r5pCH8Gtu6F.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917879.mp4"
+        },
+        {
+          "nome": "Loop Infinito (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/hXXKlr7GZnPG6yr1QraAMGyhsQG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919491.mp4"
+        },
+        {
+          "nome": "Lorelei - Amores do Passado (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/L7IfaA6XpmB22lgU6f2cTGc3Zd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921504.mp4"
+        },
+        {
+          "nome": "Los Bandoleros (2009) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/oAV6YTJKrhCQatv3pwqRblcMa0u.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918142.mp4"
+        },
+        {
+          "nome": "Lost on a Mountain in Maine (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/elKEzHpbdoTMkK0IpUKcK6x1Ttl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918444.mp4"
+        },
+        {
+          "nome": "Loteria Fatal (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/3zwqemYFrYiWISWeC64OumJW95v.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918988.mp4"
+        },
+        {
+          "nome": "Loucas Aventuras em Punjab (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/roGgIw4W7C5lTGwLctnPSlqrLWm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920235.mp4"
+        },
+        {
+          "nome": "Loucas em Apuros (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/kjFuCcTiTTmFbaNWIMcwrnZpMpr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921421.mp4"
+        },
+        {
+          "nome": "Loucos por Justiça (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/5bZuSurW14ICJL3YX3Ls76hgmL3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923172.mp4"
+        },
+        {
+          "nome": "Loucuras na Idade Média (2001) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/Aibgm0dWaFWTE6XMpF4hQ4tjWcV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918190.mp4"
+        },
+        {
+          "nome": "Loud House: Sem Tempo Para Espionar (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/eXVflCGYGUbNSN4TmkLqQqM1rXc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920311.mp4"
+        },
+        {
+          "nome": "Love (2015) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/tyJIhINIfwlSRBpllwHKm87QJ2u.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920100.mp4"
+        },
+        {
+          "nome": "Love (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/hbwf6kY7Wnl3XRUdDGrKmbSvO5z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918716.mp4"
+        },
+        {
+          "nome": "Love in the Forecast (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/jM2D5NgBvl7ifSJ5PsreYAxO9vA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922298.mp4"
+        },
+        {
+          "nome": "Love in the Maldives (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/8PprbqYxejASjE2g3ZohEc0l9bG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920306.mp4"
+        },
+        {
+          "nome": "Love Reset (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/9HYAkujh1UAKXByIF6LB4D3KsgA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920773.mp4"
+        },
+        {
+          "nome": "Love Sonia (2018) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/qiCMgBHncFnH9IGn5KPWRz0hEDv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919998.mp4"
+        },
+        {
+          "nome": "Lowlifes (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/vxTyYoIRgutvzMpB97XAC8FhJiH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919997.mp4"
+        },
+        {
+          "nome": "Lua Cheia (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/rNYWjCvK4m6WQeJwiF7wZTIXTu9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922653.mp4"
+        },
+        {
+          "nome": "Lua de Mel com a Minha Mãe (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/j2uwa64qm3hSOBAd5XAgIWodhHD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922446.mp4"
+        },
+        {
+          "nome": "Lua de Mel Inusitada (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/jLjZ3QBL5nrDyaSg5T8vmYjb2RR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920503.mp4"
+        },
+        {
+          "nome": "Lua de Sangue (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/cWk95aq4dn3mJdfbMlAMLR7bbJU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919874.mp4"
+        },
+        {
+          "nome": "Luccas e Gi em: Dinossauros (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/7NZAwKv6jGVLyMAkX7bhE5fPobE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919996.mp4"
+        },
+        {
+          "nome": "Lucia e o Cristal Mágico (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/bv44fVFbCtfJV6hgat524vvByIN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921252.mp4"
+        },
+        {
+          "nome": "Luciferina (2018) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/jDjiT5dVwL0B3CgBHhBQo9yB1Yv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921625.mp4"
+        },
+        {
+          "nome": "Luck (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/aeJHkkrDvbXPB25NghNbv5kUBVi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922157.mp4"
+        },
+        {
+          "nome": "Lucky: Uma Mulher de Sorte (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/tLeg58YcLbJIDbLeEMYvQlcUmC6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922966.mp4"
+        },
+        {
+          "nome": "Lucy! (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/bqx5WTWPX4H4g9LUCmnrtg9BIPZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922788.mp4"
+        },
+        {
+          "nome": "Luigi Mangione: O Assassino do CEO (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/hhndjUdo9wblPlcu1pjwu6rrCjH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919130.mp4"
+        },
+        {
+          "nome": "Lumberjack the Monster (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/6dKz0iEom8J0wfQT2kecjyIfkCV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920356.mp4"
+        },
+        {
+          "nome": "Luta de Classes (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/4tCvbUyx3C4APWjwv5yQyTXcWnq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917732.mp4"
+        },
+        {
+          "nome": "Luta e Sobrevivência (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/b5AP8jqUiy2WRkS7fimI3weoVkJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920940.mp4"
+        },
+        {
+          "nome": "Luta Pela Fé: A História do Padre Stu (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/hgbPZfE7kIB8QXppksiexuZKoE2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922369.mp4"
+        },
+        {
+          "nome": "Luta pela Sobrevivência (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/x6JEK2rD0emPpk1N0MxoNuyoVdp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919248.mp4"
+        },
+        {
+          "nome": "Luta por Justiça (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/bFRVqGzWeHSNgddjpJh7L2iyAZB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923585.mp4"
+        },
+        {
+          "nome": "Luta por Liberdade (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/sngUIfdqUDSV9bGVuG1ZO7untzJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921736.mp4"
+        },
+        {
+          "nome": "Luta por Vingança (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/geG6hgy6WaGt5kTshuPeCF4bHIW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921442.mp4"
+        },
+        {
+          "nome": "Lutar ou Morrer (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/yMBrpHHiNUGDc1AaowhVYR26tNp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920297.mp4"
+        },
+        {
+          "nome": "M - A Última Esperança (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/8oQxbLDGcQ0ZQqNgKfQqmOnrWKs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919964.mp4"
+        },
+        {
+          "nome": "M3GAN 2.0 (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/q2PIq2SwizKNzWD37KBV1TH10fc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917959.mp4"
+        },
+        {
+          "nome": "Má Influência (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/dKp87mqKqNygSNiQH4pMfIFAcyJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918653.mp4"
+        },
+        {
+          "nome": "maboroshi (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/piDXkSvBA56NTIC6D3uA1eECwtd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920983.mp4"
+        },
+        {
+          "nome": "Macaco vs. Máquina (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/isXDRoaeOm7BJVXVwPzPTnKWKqi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920563.mp4"
+        },
+        {
+          "nome": "Macbeth - Vozes do Harlem (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/uzLXIUEDjGnskxTsKvxZtwzjYjT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918791.mp4"
+        },
+        {
+          "nome": "Machete (2010) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/4nDgg0DgIuNk1FpyI7jHJyB9Rd8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918331.mp4"
+        },
+        {
+          "nome": "Machete Mata (2013) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/4zyIttMBPUzwaD7CoBLxmNsPBF9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918007.mp4"
+        },
+        {
+          "nome": "Macho Alfa (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/qyTcFzfsI3sPlvkLZ8CyrlSlsCg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920229.mp4"
+        },
+        {
+          "nome": "Mad Max: Estrada da Fúria (2015) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/mtgqrSlT47VsmeMVanLTny7BknB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918899.mp4"
+        },
+        {
+          "nome": "Madame Teia (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/oLo24iTLbvJAMGr3xcwosXGeCFG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920660.mp4"
+        },
+        {
+          "nome": "Madea e o Casamento nas Bahamas (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/1efas2epb0eEIUAFDZWM60ttVGN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918111.mp4"
+        },
+        {
+          "nome": "Madea: O Retorno (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/38QFDeoEk2s0tyZIhrydAS9Mvib.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922593.mp4"
+        },
+        {
+          "nome": "Madly (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/dOQ8deNWlDsXyDUdFAF0dGR8RMf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917756.mp4"
+        },
+        {
+          "nome": "Madre Superiora (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/8r4lGvrfU4my83oJYSjbaTkV936.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919318.mp4"
+        },
+        {
+          "nome": "Madres: Mães de Ninguém (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/stis1m7qXASrrQg0WwcB74kTAQU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923006.mp4"
+        },
+        {
+          "nome": "MadS (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/61Ub8r6YibJEPKig9g6m1r3rTgG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919678.mp4"
+        },
+        {
+          "nome": "Madu (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/jDnj5eCZ8Dd6YTO9gdo7NrtA9Do.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920596.mp4"
+        },
+        {
+          "nome": "Mãe de Aluguel (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/de9xsSD1fLOJs8B1il2DZ9cQS7j.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920610.mp4"
+        },
+        {
+          "nome": "Mãe em Fúria (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/6ejm4Sx3rp44awUE0qyG1APBvpI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920549.mp4"
+        },
+        {
+          "nome": "Mãe Terra (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/qC54MsfnOMnQ8U9fsOONvNs7j7B.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920580.mp4"
+        },
+        {
+          "nome": "Mãe x Androides (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/hfEuG7GkU2LOiT2O32OEfynRJqV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922720.mp4"
+        },
+        {
+          "nome": "Mães Paralelas (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/uguW6OmnV5wgcuNYev7y77rJcrU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922600.mp4"
+        },
+        {
+          "nome": "Maestro (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/spcH3yaPUtoSh0hNHikZ01D2OZ7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921066.mp4"
+        },
+        {
+          "nome": "Máfia da Dor (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/m3JAB0LIofPUaka941lyZb7yZlo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921320.mp4"
+        },
+        {
+          "nome": "Máfia Digital (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/dgjNKd3LueeMyMBci7WwzuyKIfV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917902.mp4"
+        },
+        {
+          "nome": "Mafia Mamma: De Repente Criminosa (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/ldMp0tTPzlcjdoAJI1jfnDXRrfX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921802.mp4"
+        },
+        {
+          "nome": "Máfia no Divã (1999) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/avZDalXvozcwYXINCm7q5MvIcDC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918189.mp4"
+        },
+        {
+          "nome": "Máfia S.A (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/dQOs0FbJFvh4AgNmzzEkv6GXrfk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922666.mp4"
+        },
+        {
+          "nome": "Magazine Dreams (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/vSidx9NHKuQIPEQ4yI9b9zkTeh3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917952.mp4"
+        },
+        {
+          "nome": "Magic Farm (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/9XGkkT6KAx5ZYNPGNEF6U34sUf7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917893.mp4"
+        },
+        {
+          "nome": "Magnatas do Crime (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/vaeQ0Xersj2y5t1Hkqljb9i8RaU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920058.mp4"
+        },
+        {
+          "nome": "Magnífico (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/AeQ9pQOopcAZDi8k9VQ1ipMZ3z3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921328.mp4"
+        },
+        {
+          "nome": "Magnum 578 (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/96RTCoAC86dusyBhwoBzZUS8OzF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920217.mp4"
+        },
+        {
+          "nome": "Mahalia (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/dwTafeO7kAtFiUXltCstiRu7k97.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922582.mp4"
+        },
+        {
+          "nome": "Maharaja (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/s0m4TM1XRAftQStgKpw024RvkJo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919995.mp4"
+        },
+        {
+          "nome": "Maid to Order (1987) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/5C1MIa1QaLDhvwd5sycUIK4wu06.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918028.mp4"
+        },
+        {
+          "nome": "Maigret e a Jovem Morta (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/zG17L04rdnD5PFgOEzpAViEAqX0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921235.mp4"
+        },
+        {
+          "nome": "Mainstream (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/npepKBvIfyO16Kj5mrgjAixpPZf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922633.mp4"
+        },
+        {
+          "nome": "Maior que o Mundo (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/4kBYriZGKavfk27qg2IBsVO6Xan.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921446.mp4"
+        },
+        {
+          "nome": "Mais que Amigos (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/fDwxAM6z1Igkwv7b4qobwf46xdM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920046.mp4"
+        },
+        {
+          "nome": "Mais Que Amigos: Vizinhos (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/2FkdO8T5sob67WEiYi6cqcHUAv7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922953.mp4"
+        },
+        {
+          "nome": "Mais Que Demais Pra Mim (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/qRJ7L5huiphoISr53arpwkHzdvR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922790.mp4"
+        },
+        {
+          "nome": "Mais Que Especiais (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/zKrz1drYSUMq3swGIay3tpvPzJ6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922963.mp4"
+        },
+        {
+          "nome": "Mais que Vencedores (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/lkaemscrvzhVexiS4LYfBE6lvR0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923605.mp4"
+        },
+        {
+          "nome": "Mais Um Tiro Certo (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/zkHkMLoC41euiPZG62wslcHLreH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920993.mp4"
+        },
+        {
+          "nome": "Mais Uma Vez (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/iQ8nXd8L4aVNExq0RKjyl1EtA7A.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922009.mp4"
+        },
+        {
+          "nome": "Mais Uma Vida (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/byMdaD2oQNmgcI9Ohak9m1T0wE0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920502.mp4"
+        },
+        {
+          "nome": "Make Up (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/t9hOwlERpcTkMhXFBJiVq39V0hn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923301.mp4"
+        },
+        {
+          "nome": "Maldição da Floresta (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/xbid31YaAyhekE9rpf3IiNONzYi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922675.mp4"
+        },
+        {
+          "nome": "Maldição de Crom: A Lenda do Halloween (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/g8YqXTQoInK3ZnO47Rlc33P19VL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919317.mp4"
+        },
+        {
+          "nome": "Maldição de Família (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/pJJYHQujBUI7hWLDRQuV9WKBxmf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919191.mp4"
+        },
+        {
+          "nome": "Maldito Futebol Fantasy (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/AiPT48EL2NywdCZUJqNnKLUKac8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917795.mp4"
+        },
+        {
+          "nome": "Malévola: Dona do Mal (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/2VlGbVShN1qQx6WbshMA4Ex04qJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918898.mp4"
+        },
+        {
+          "nome": "Malícia (1993) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/izSwVDdoogxG8Oyf68euchoOpx4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919274.mp4"
+        },
+        {
+          "nome": "Maligno (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/iIAIlKKk0r0GCFeDo2SNFzW8sbS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919100.mp4"
+        },
+        {
+          "nome": "Maligno (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923086.mp4"
+        },
+        {
+          "nome": "Mamãe (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/vgONeDoY02WPjCw4ApDaPohxqrv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922458.mp4"
+        },
+        {
+          "nome": "Mamãe Foi Viajar (2017) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/bVOFiML9ArNTSIUpTPCV4AfYLkR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918290.mp4"
+        },
+        {
+          "nome": "Mamãe Golpista (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/mzAi1dm3y0m6CiewsUyuy5VpqkO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918934.mp4"
+        },
+        {
+          "nome": "Mamãe: Operação Balada (2014) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/5sY6GH2DACNPfihqrJuUBAZVEv1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918006.mp4"
+        },
+        {
+          "nome": "Mamma Mia!: Lá Vamos Nós de Novo (2018) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/5nWqFF7wfLO9UllwS7i9qScK5GV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918503.mp4"
+        },
+        {
+          "nome": "Man with No Past (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/eWHvROuznSzcxBAAkzX1X0Rmzoe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918100.mp4"
+        },
+        {
+          "nome": "Maníaco do Controle (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/qPuI8LRpT6kLbBvymltiYymf263.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918992.mp4"
+        },
+        {
+          "nome": "Maníaco do Parque (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/vytA7BTXLBD4UjXOVUh2pPBTlUQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919762.mp4"
+        },
+        {
+          "nome": "Manobra Arriscada (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/7oxk7Qic7F6iISvNG5rt8DGbrWV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920082.mp4"
+        },
+        {
+          "nome": "Manobra Radical (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/c2fnPEl982s65SEQefdfWxpzIzF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919736.mp4"
+        },
+        {
+          "nome": "Manobras do Destino (2018) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/29ZSBmqQfzSGNh8f1m2YkqljNZ9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922024.mp4"
+        },
+        {
+          "nome": "Manodrome (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/nSAqIzuCqCQAt3HFsHwiffFSj96.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920750.mp4"
+        },
+        {
+          "nome": "Mansão Mal-Assombrada (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/3puybXuYPlZPRplIVSrExZnWibb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921424.mp4"
+        },
+        {
+          "nome": "ManSuang (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/kj4qVhsA4pPQsn7TKG7ZaYqTpFg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920273.mp4"
+        },
+        {
+          "nome": "Mantis (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/8Jqrvmq1dwfJtOfUOt8ByinEPts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917520.mp4"
+        },
+        {
+          "nome": "Manufacturing Death: Birth of the Atom Bomb (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/iZwDk5O7uwsuM5ihAUNh5Mm4RI7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919827.mp4"
+        },
+        {
+          "nome": "Mão na Cabeça (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/ptEiKa281TiK7FTBGinLunfQFbm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918423.mp4"
+        },
+        {
+          "nome": "Máquinas Assassinas (2018) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/mls3JPEznyt3QuOpzoccE5GXCnU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921478.mp4"
+        },
+        {
+          "nome": "Mar em Chamas (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/znrMRCeim6z8BVdCh9NdBuLFxi2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922071.mp4"
+        },
+        {
+          "nome": "Mar Profundo (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/hCVHTHc1MkTBi8lMtZxHhiicnNZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917789.mp4"
+        },
+        {
+          "nome": "Marc Maron: Panicked (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/55PvgGXYoMT8rU6WFMYRPLjquvZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917892.mp4"
+        },
+        {
+          "nome": "Marcados Para Morrer (2012) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/jKdsR67jLbn4cVQgaERyLmpGLOW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917741.mp4"
+        },
+        {
+          "nome": "Marcados: A História do Racismo nos EUA (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/zKr6pPEtvyc0wGiiFseLNPvYhz9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921169.mp4"
+        },
+        {
+          "nome": "Marcas da Maldição (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/a2EBrVUZTPp3Y9YMnCy5JfMaxQu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922127.mp4"
+        },
+        {
+          "nome": "Marcas da Vida (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/pZXrHR1GnavaZDX9Kl6VERHHTmi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920712.mp4"
+        },
+        {
+          "nome": "Marcas do Passado (2006) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/mvbCCsYSgHyO4O5y4pi7yF31CuG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918734.mp4"
+        },
+        {
+          "nome": "Marcas do Passado (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/sjEBZw8ADzs0rNyaOQydJNyEafp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917621.mp4"
+        },
+        {
+          "nome": "Marcello Mio (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/xQ5v2jqjPBt6T71OIBnTFkDXUz4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917750.mp4"
+        },
+        {
+          "nome": "Maré Alta (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/dX3w5aaPQHT6WtE3FbuatqTXnqB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918303.mp4"
+        },
+        {
+          "nome": "Maré Baixa (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/iEZrBPoWu4QYgOh594uCxDCEQDx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921878.mp4"
+        },
+        {
+          "nome": "Maré Negra (2018) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/6uiK7KaqlHqm3dnaScH6y3JDMkh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923625.mp4"
+        },
+        {
+          "nome": "Margaux: A Inteligência Mortal (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/xUqJ8l6l3nAePq2TPGX4eVnkDqx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921791.mp4"
+        },
+        {
+          "nome": "Maria Callas (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/bvwkLv20GrNIU7WSjCcpJVKxFUc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919046.mp4"
+        },
+        {
+          "nome": "María Soledad: O Fim do Silêncio (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/3irwzj1cFInr0g6N0j2eSymJ6b6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919784.mp4"
+        },
+        {
+          "nome": "Marinette (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/aM7o55PKT45q630Qmma1fNu99Cd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918962.mp4"
+        },
+        {
+          "nome": "Mario Batali: A Queda do Superchef (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/wjA2DA3PrGpNbvGmEylmKIPaEZc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921237.mp4"
+        },
+        {
+          "nome": "Mariya: O Simbolo de Uma Guerra (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/tKhZ07SBiTaCljSOXyseUrzQQfJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922323.mp4"
+        },
+        {
+          "nome": "Marmaduke (2010) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/e1hxniKMiRIpGiad0BCATn4d8uv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918592.mp4"
+        },
+        {
+          "nome": "Marmaduke (2022) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/bMUhBeMp0vLQzaPBX0izFdnFvh0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922434.mp4"
+        },
+        {
+          "nome": "Mars Express (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/JEPbbxkFtRASU1WzeQGRvKqjuO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920076.mp4"
+        },
+        {
+          "nome": "Marshmallow (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/3RasbjB6H9K90DLhGQMzH9qxWzS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918279.mp4"
+        },
+        {
+          "nome": "Martha (2024) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/4WN19oCTXlK8jXC0QZgNkBpcJcw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3919698.mp4"
+        },
+        {
+          "nome": "Martin Eden (2019) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/kOC91b6y0CKbwmPHZLlBnXkNGlV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3923603.mp4"
+        },
+        {
+          "nome": "Mártires (2008) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/68k6yxU07hjTBDrXTLPcuPlMKMc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3917601.mp4"
+        },
+        {
+          "nome": "Mary & Outras Pessoas (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/3kbBVx5MRaPq7sN01CR4dF6quqj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922224.mp4"
+        },
+        {
+          "nome": "Mary J. Blige: Minha Vida (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/zlnZnhYHl9gfBoEWvOA1T7HNBwy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920420.mp4"
+        },
+        {
+          "nome": "mas Pouco (2021) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/dQemuRJRsksRbA7ivPVqRBm3Ou4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3922760.mp4"
+        },
+        {
+          "nome": "Mas Vou Te Matar (2020) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/qtViCHlPDZ4YXfIIiZKZefeao1Z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3920604.mp4"
+        },
+        {
+          "nome": "Masameer Junior (2025) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/tpe9zjdhP7r4KJrZ6J4k5ilaTeR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3918359.mp4"
+        },
+        {
+          "nome": "Massa Cinzenta (2023) [L]",
+          "descricao": "Filmes De Legendados",
+          "capa": "https://image.tmdb.org/t/p/w780/svjoahV70ZyZVRAmU3CJKbNKtKD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3921346.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
