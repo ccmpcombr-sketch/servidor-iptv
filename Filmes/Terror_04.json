@@ -1,0 +1,229 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "Terror",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Terror.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "Van Helsing: O Caçador de Monstros (2004)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/s8fhGCLWbFDbBAOitRzVlMPk5pd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897445.mp4"
+        },
+        {
+          "nome": "Vem Brincar (2020)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/xe81mq4HqJravUpRPpng1rGJxhr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898288.mp4"
+        },
+        {
+          "nome": "Vende-se Imóvel (2019)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/1C7oR00KB1dzaHwnbf4a1SO08U5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898575.mp4"
+        },
+        {
+          "nome": "Venom (2018)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898597.mp4"
+        },
+        {
+          "nome": "Vênus (2022)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/qKPCbZKjrCqR7PSBhgp48Omvhgq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897941.mp4"
+        },
+        {
+          "nome": "Verão Fantasma (2022)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/55EmWZI9rLxzVRMqAG0Qz4gINb3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897979.mp4"
+        },
+        {
+          "nome": "Vestido Maldito (2018)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/sBFi1ni8mSzm1ZQ1ZypCXy3yoCi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898457.mp4"
+        },
+        {
+          "nome": "Viagem Maldita 2: O Retorno dos Malditos (2007)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/tFLQiq2nOZoRYyZUnmRdRToTpfM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898437.mp4"
+        },
+        {
+          "nome": "Viagem Sombria (2023)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/wOCMbAK7icsr8XrPLJGVbeCkfUg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897790.mp4"
+        },
+        {
+          "nome": "Vigiados (2020)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/gsOyXyBWMtzXXRQ3PVLSk8Fsvz5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898456.mp4"
+        },
+        {
+          "nome": "Vila do Medo (2022)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/2MWZy92O30GX0HwKyVvQ8rddqGU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898028.mp4"
+        },
+        {
+          "nome": "Vilões (2019)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/nFDevg9HeRftVxGGkvriABJO2VF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898287.mp4"
+        },
+        {
+          "nome": "Vingança Ancestral (2023)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwHAWJ0rsFeRHukFGU7NN0Y4QWw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4166622.mp4"
+        },
+        {
+          "nome": "Vingança FM (2019)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/4oyrL3j3sj6G05Ew7mXTsQokeVP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898514.mp4"
+        },
+        {
+          "nome": "Violência Explícita (2020)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/8QrzjL1RbLhFnDyUDflFbROHtii.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897782.mp4"
+        },
+        {
+          "nome": "Violência Gratuita (2008)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/exjfELa0IvAu6Mz6nXTtZOocnAh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897406.mp4"
+        },
+        {
+          "nome": "Viralize ou Morra (2022)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/qJ2nJq6F9hQ6uqLiZyBqxcs49tC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897724.mp4"
+        },
+        {
+          "nome": "Visões do Passado (2015)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/kl1jbDAVwjE2vgI8qS5lGOh46xK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898596.mp4"
+        },
+        {
+          "nome": "Visões Mortais (2023)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/aG68lR36HbEASelSpwK7PHi8N9H.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897825.mp4"
+        },
+        {
+          "nome": "Vítimas do Silêncio (2021)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/nmQRyvCUXoHzutgyONkg46i3Qg7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897759.mp4"
+        },
+        {
+          "nome": "Você Deveria Ter Partido (2020)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/48g3GxLLekaan7agQAOd7i386qK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898363.mp4"
+        },
+        {
+          "nome": "Você é o Próximo (2013)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/cAfG87R0hOTXxXN3vMpqzvr43gW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898404.mp4"
+        },
+        {
+          "nome": "Você Está Aí? (2019)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/t2dwWZ5pDvxieFBhh25Lyg1ZLie.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897658.mp4"
+        },
+        {
+          "nome": "Você Não Está Sozinha (2020)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/m2IJvRrBm3oxdL0vCvSZsgkWEHC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897881.mp4"
+        },
+        {
+          "nome": "Você Não Estará Só! (2022)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/Aqj4qpubd5GKfZho6KUBFEBzMtU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898045.mp4"
+        },
+        {
+          "nome": "Você Nunca Me Encontrará (2023)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/oa4IBO64nlc14lip3PmPO2vjMPq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897493.mp4"
+        },
+        {
+          "nome": "Vozes (2020)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/gerJv1jffNWWyZFt6i9SehTsjSY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898434.mp4"
+        },
+        {
+          "nome": "Vozes da Escuridão (2016)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/phH7UIoDPLtYgJTw3P4uzEyhJib.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898423.mp4"
+        },
+        {
+          "nome": "Vozes do Passado (2020)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/pySMhUBTjJX5QQwUVTX4XxoyZaw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898158.mp4"
+        },
+        {
+          "nome": "Vozes na Escuridão (2020)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/oawvK7MlAtKIkeOfgKjhhJ7pYD9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898122.mp4"
+        },
+        {
+          "nome": "Werewolves (2024)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/7CCTW7IALnbp7vRtaZaz11kva0v.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3897458.mp4"
+        },
+        {
+          "nome": "Wildling: Criaturas Noturnas (2018)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/nTHxCGspqhWxyVEnfe568vLiR0r.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898539.mp4"
+        },
+        {
+          "nome": "Willy's Wonderland: Parque Maldito (2021)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/ep6aUTpYamQUW2Mr8HmwrPcPTxB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898127.mp4"
+        },
+        {
+          "nome": "X: A Marca da Morte (2022)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/As5dKK7fLOlCyVwjqoW5pyiDz6D.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898043.mp4"
+        },
+        {
+          "nome": "Zona Z (2024)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nS1u84WTIAnn7KPYg5Nd1xVVQew.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4172766.mp4"
+        },
+        {
+          "nome": "Zumbilândia: Atire Duas Vezes (2019)",
+          "descricao": "Filmes De Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/x8T7xy6usNhTWphfQTH7vmr4tOC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3898520.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
