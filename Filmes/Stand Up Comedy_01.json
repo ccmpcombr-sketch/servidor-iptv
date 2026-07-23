@@ -1,0 +1,157 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "Stand Up Comedy",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Stand%20Up%20Comedy.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "A Galera do Pretinho em Deixa eu te Falar",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "https://imageup.me/images/db5a01d6-a25a-4ff5-b482-3f5d2eb34165.jpeg",
+          "url": "http://servidor/movie/{user}/{pass}/3899094.mp4"
+        },
+        {
+          "nome": "Afonso Padilha: Gerações (2023)",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "https://image.tmdb.org/t/p/w780/e0e0pI3OoaNEfLx6z4FkUkzlJEK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899086.mp4"
+        },
+        {
+          "nome": "Afonso Padilha: Não Tá Compensando Ser Adulto (2017)",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "https://image.tmdb.org/t/p/w780/xU9LRFCHFWt1hDJvPixZmYSGyUR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899134.mp4"
+        },
+        {
+          "nome": "Ary Toledo: Cê Senta (2024)",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "https://image.tmdb.org/t/p/w780/vuI6n1IrW6XjuiL54xRaFEhlcEh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899069.mp4"
+        },
+        {
+          "nome": "Comedians Of The World - Afonso Padilha",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "https://i.imgur.com/2UBKbeu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899133.mp4"
+        },
+        {
+          "nome": "Comedians Of The World - Mhel Marrer",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "https://i.imgur.com/2UBKbeu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899132.mp4"
+        },
+        {
+          "nome": "Comedians Of The World - Thiago Ventura",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "https://i.imgur.com/2UBKbeu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899131.mp4"
+        },
+        {
+          "nome": "Dihh Lopes - Sem Maldade (2017)",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "https://image.tmdb.org/t/p/w780/xBtny4Z9x9IHUf7UcUkLEFdWe7A.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899126.mp4"
+        },
+        {
+          "nome": "Fábio Rabin: Tá Embaçado (2023)",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "https://image.tmdb.org/t/p/w780/zuMSt0INgW7fd1e0hOuOYVx26Sw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899068.mp4"
+        },
+        {
+          "nome": "Fritada Pablo Marcal",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "https://i.ibb.co/0C5b9jF/maxresdefault-1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899074.mp4"
+        },
+        {
+          "nome": "Lugar de Mulher - Bruna Louise",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "http://gstaticontent.com/images/nxyKCdpI2WwWv6ea6cLAf6mx521_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899130.mp4"
+        },
+        {
+          "nome": "Lugar de Mulher - Carol Zoccoli",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "http://gstaticontent.com/images/nxyKCdpI2WwWv6ea6cLAf6mx521_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899127.mp4"
+        },
+        {
+          "nome": "Lugar de Mulher - Cintia Rosini",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "http://gstaticontent.com/images/nxyKCdpI2WwWv6ea6cLAf6mx521_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899128.mp4"
+        },
+        {
+          "nome": "Lugar de Mulher - Micheli Machado",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "http://gstaticontent.com/images/nxyKCdpI2WwWv6ea6cLAf6mx521_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899129.mp4"
+        },
+        {
+          "nome": "Marcus Cirillo - A Verdadeira Virada de Ano",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "https://i.imgur.com/40oT68j.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899137.mp4"
+        },
+        {
+          "nome": "Murilo Couto: Leso (2023)",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "https://image.tmdb.org/t/p/w780/4UMDeMLfX1Ycl0S1m4VZz0nrHsE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899103.mp4"
+        },
+        {
+          "nome": "Nando Viana: Da Turma do Fundão desde 1981 (2016)",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "https://image.tmdb.org/t/p/w780/fg9rKVS2MosiqUiK9Yl547qczkk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899125.mp4"
+        },
+        {
+          "nome": "Renato Albani: O Plano Era Bom (2021)",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "https://image.tmdb.org/t/p/w780/nYLIFL3yhiQAhf4ZMbm3os0SO9I.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899067.mp4"
+        },
+        {
+          "nome": "Rodrigo Marques: O Inimigo do Nível (2022)",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "https://image.tmdb.org/t/p/w780/miA6VI6fUANcvlQ4avvM7mCCldT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899085.mp4"
+        },
+        {
+          "nome": "Thiago Ventura - Especial Isso E Tudo Que Eu Tenho",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "https://i.imgur.com/ChDBWG9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899136.mp4"
+        },
+        {
+          "nome": "Thiago Ventura - Só Agradece (2020)",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "https://image.tmdb.org/t/p/w780/gq47fNbjwYjrKFaK7XtzmY8Cqn1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899135.mp4"
+        },
+        {
+          "nome": "Thiago Ventura: Modo Efetivo (2024)",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "https://image.tmdb.org/t/p/w780/mNU5k7aOKVJ0klEiXwy9Q3CAnFP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899053.mp4"
+        },
+        {
+          "nome": "Whindersson Nunes: Adulto (2019)",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "https://image.tmdb.org/t/p/w780/oilvqcZDNXpneiouCZEY2qZXmwp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899140.mp4"
+        },
+        {
+          "nome": "Whindersson Nunes: Isso não é um culto (2023)",
+          "descricao": "Fimes De Stand Up Comedy",
+          "capa": "https://image.tmdb.org/t/p/w780/om3ojwYvXOkEifztuSIFKqUruly.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/3899114.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
