@@ -1,0 +1,91 @@
+{
+  "canais": [],
+  "filmes": [],
+  "series": [
+    {
+      "album": "12 Monkeys (2015)",
+      "capa": "https://image.tmdb.org/t/p/w780/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "Episódio 1",
+          "descricao": "Conteúdo Sobre Demanda.",
+          "capa": "https://image.tmdb.org/t/p/w780/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg",
+          "url": "http://servidor/series/{user}/{pass}/4027022.mp4"
+        },
+        {
+          "nome": "Episódio 2",
+          "descricao": "Conteúdo Sobre Demanda.",
+          "capa": "https://image.tmdb.org/t/p/w780/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg",
+          "url": "http://servidor/series/{user}/{pass}/4027023.mp4"
+        },
+        {
+          "nome": "Episódio 3",
+          "descricao": "Conteúdo Sobre Demanda.",
+          "capa": "https://image.tmdb.org/t/p/w780/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg",
+          "url": "http://servidor/series/{user}/{pass}/4027024.mp4"
+        },
+        {
+          "nome": "Episódio 4",
+          "descricao": "Conteúdo Sobre Demanda.",
+          "capa": "https://image.tmdb.org/t/p/w780/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg",
+          "url": "http://servidor/series/{user}/{pass}/4027025.mp4"
+        },
+        {
+          "nome": "Episódio 5",
+          "descricao": "Conteúdo Sobre Demanda.",
+          "capa": "https://image.tmdb.org/t/p/w780/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg",
+          "url": "http://servidor/series/{user}/{pass}/4027026.mp4"
+        },
+        {
+          "nome": "Episódio 6",
+          "descricao": "Conteúdo Sobre Demanda.",
+          "capa": "https://image.tmdb.org/t/p/w780/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg",
+          "url": "http://servidor/series/{user}/{pass}/4027027.mp4"
+        },
+        {
+          "nome": "Episódio 7",
+          "descricao": "Conteúdo Sobre Demanda.",
+          "capa": "https://image.tmdb.org/t/p/w780/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg",
+          "url": "http://servidor/series/{user}/{pass}/4027028.mp4"
+        },
+        {
+          "nome": "Episódio 8",
+          "descricao": "Conteúdo Sobre Demanda.",
+          "capa": "https://image.tmdb.org/t/p/w780/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg",
+          "url": "http://servidor/series/{user}/{pass}/4027029.mp4"
+        },
+        {
+          "nome": "Episódio 9",
+          "descricao": "Conteúdo Sobre Demanda.",
+          "capa": "https://image.tmdb.org/t/p/w780/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg",
+          "url": "http://servidor/series/{user}/{pass}/4027030.mp4"
+        },
+        {
+          "nome": "Episódio 10",
+          "descricao": "Conteúdo Sobre Demanda.",
+          "capa": "https://image.tmdb.org/t/p/w780/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg",
+          "url": "http://servidor/series/{user}/{pass}/4027031.mp4"
+        },
+        {
+          "nome": "Episódio 11",
+          "descricao": "Conteúdo Sobre Demanda.",
+          "capa": "https://image.tmdb.org/t/p/w780/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg",
+          "url": "http://servidor/series/{user}/{pass}/4027032.mp4"
+        },
+        {
+          "nome": "Episódio 12",
+          "descricao": "Conteúdo Sobre Demanda.",
+          "capa": "https://image.tmdb.org/t/p/w780/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg",
+          "url": "http://servidor/series/{user}/{pass}/4027010.mp4"
+        },
+        {
+          "nome": "Episódio 13",
+          "descricao": "Conteúdo Sobre Demanda.",
+          "capa": "https://image.tmdb.org/t/p/w780/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg",
+          "url": "http://servidor/series/{user}/{pass}/4027011.mp4"
+        }
+      ]
+    }
+  ]
+}
