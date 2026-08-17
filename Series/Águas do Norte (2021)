@@ -1,0 +1,66 @@
+{
+  "canais": [
+    {
+      "album": "Águas do Norte (2021)",
+      "capa": "https://image.tmdb.org/t/p/w780/lLxkJ3nn5UEGF3urCYndD1DmlIq.jpg",
+      "subAlbuns": [
+        {
+          "subAlbum": "1° Temporada",
+          "itens": []
+        }
+      ],
+      "itens": []
+    }
+  ],
+  "filmes": [
+    {
+      "album": "Águas do Norte (2021)",
+      "capa": "https://image.tmdb.org/t/p/w780/lLxkJ3nn5UEGF3urCYndD1DmlIq.jpg",
+      "subAlbuns": [
+        {
+          "subAlbum": "1° Temporada",
+          "itens": [
+            {
+              "nome": "Episódio 1",
+              "descricao": "1° Temporada, Águas do Norte (2021)",
+              "capa": "https://image.tmdb.org/t/p/w780/lLxkJ3nn5UEGF3urCYndD1DmlIq.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4028234.mp4"
+            },
+            {
+              "nome": "Episódio 2",
+              "descricao": "1° Temporada, Águas do Norte (2021)",
+              "capa": "https://image.tmdb.org/t/p/w780/lLxkJ3nn5UEGF3urCYndD1DmlIq.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4028235.mp4"
+            },
+            {
+              "nome": "Episódio 3",
+              "descricao": "1° Temporada, Águas do Norte (2021)",
+              "capa": "https://image.tmdb.org/t/p/w780/lLxkJ3nn5UEGF3urCYndD1DmlIq.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4028236.mp4"
+            },
+            {
+              "nome": "Episódio 4",
+              "descricao": "1° Temporada, Águas do Norte (2021)",
+              "capa": "https://image.tmdb.org/t/p/w780/lLxkJ3nn5UEGF3urCYndD1DmlIq.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4028237.mp4"
+            },
+            {
+              "nome": "Episódio 5",
+              "descricao": "1° Temporada, Águas do Norte (2021)",
+              "capa": "https://image.tmdb.org/t/p/w780/lLxkJ3nn5UEGF3urCYndD1DmlIq.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4028238.mp4"
+            },
+            {
+              "nome": "Episódio 6",
+              "descricao": "1° Temporada, Águas do Norte (2021)",
+              "capa": "https://image.tmdb.org/t/p/w780/lLxkJ3nn5UEGF3urCYndD1DmlIq.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4028239.mp4"
+            }
+          ]
+        }
+      ],
+      "itens": []
+    }
+  ],
+  "series": []
+}
