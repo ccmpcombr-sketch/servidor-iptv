@@ -7,7 +7,7 @@
       "itens": [
         {
           "nome": "HBO 2",
-          "descricao": "",
+          "descricao": "HBO",
           "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HBO%202.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/784726.m3u8",
@@ -17,7 +17,7 @@
         },
         {
           "nome": "HBO FAMILY",
-          "descricao": "",
+          "descricao": "HBO",
           "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HBO%20FAMILY.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/784729.m3u8",
@@ -27,7 +27,7 @@
         },
         {
           "nome": "HBO",
-          "descricao": "",
+          "descricao": "HBO",
           "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HBO.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/784732.m3u8",
@@ -37,7 +37,7 @@
         },
         {
           "nome": "HBO MUNDI",
-          "descricao": "",
+          "descricao": "HBO",
           "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HBO%20MUNDI.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/784733.m3u8",
@@ -47,7 +47,7 @@
         },
         {
           "nome": "HBO POP",
-          "descricao": "",
+          "descricao": "HBO",
           "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HBO%20POP.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/784736.m3u8",
@@ -57,7 +57,7 @@
         },
         {
           "nome": "HBO SIGNATURE",
-          "descricao": "",
+          "descricao": "HBO",
           "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HBO%20SIGNATURE.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/784740.m3u8",
@@ -67,7 +67,7 @@
         },
         {
           "nome": "HBO XTREME",
-          "descricao": "",
+          "descricao": "HBO",
           "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HBO%20XTREME.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/784743.m3u8",
@@ -77,7 +77,7 @@
         },
         {
           "nome": "HBO+",
-          "descricao": "",
+          "descricao": "HBO",
           "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HBO%2B.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/784746.m3u8",
