@@ -7,7 +7,7 @@
       "itens": [
         {
           "nome": "COMBATE",
-          "descricao": ".",
+          "descricao": "ESPORTE",
           "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/COMBATE.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/101019.m3u8",
@@ -17,7 +17,7 @@
         },
         {
           "nome": "DAZN 01",
-          "descricao": ".",
+          "descricao": "ESPORTE",
           "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DAZN.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/785266.m3u8",
@@ -27,7 +27,7 @@
         },
         {
           "nome": "JOVEM PAN NEWS",
-          "descricao": ".",
+          "descricao": "ESPORTE",
           "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/JOVEM%20PAN%20NEWS.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/97951.m3u8",
@@ -37,7 +37,7 @@
         },
         {
           "nome": "NSPORTS",
-          "descricao": ".",
+          "descricao": "ESPORTE",
           "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/NSPORTS.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/785285.m3u8",
@@ -47,7 +47,7 @@
         },
         {
           "nome": "OFF",
-          "descricao": ".",
+          "descricao": "ESPORTE",
           "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/OFF.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/101021.m3u8",
@@ -57,7 +57,7 @@
         },
         {
           "nome": "WOOHOO",
-          "descricao": ".",
+          "descricao": "ESPORTE",
           "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/WOOHOO.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/99968.m3u8",
@@ -67,7 +67,7 @@
         },
         {
           "nome": "XSPORTS",
-          "descricao": ".",
+          "descricao": "ESPORTE",
           "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/XSPORTS.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/4167115.m3u8",
