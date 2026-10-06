@@ -7,1264 +7,3004 @@
       "subAlbuns": [],
       "itens": [
         {
-          "nome": "Revelações (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/gH1yolCQTwbLU3YnkXH1y42xdZo.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899291.mp4"
+          "nome": "O Assassino 4K [Hybrid]",
+          "descricao": "O Assassino 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkEQgdQcvmxSYvY4bMhabxLjjXY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769199.mp4"
         },
         {
-          "nome": "Ricky Stanicky (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "O Assassino do Calendário 4K",
+          "descricao": "O Assassino do Calendário 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/aUZutzzSNvE7IDchtBRlHPCLvjB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768828.mp4"
+        },
+        {
+          "nome": "O Assassino Perfeito 4K",
+          "descricao": "O Assassino Perfeito 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/62DJXEJbCazNo1woUU6Jr7l7rgQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769477.mp4"
+        },
+        {
+          "nome": "O Astronauta 4K",
+          "descricao": "O Astronauta 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/eESjSke7I1UtVs875my9F6xeKk9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769107.mp4"
+        },
+        {
+          "nome": "O Atirador: A Última Batalha 4K",
+          "descricao": "O Atirador: A Última Batalha 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/Lebu7t8eU84kRyFGhT5zD1fT9H.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768806.mp4"
+        },
+        {
+          "nome": "O Atirador: Sem Nação 4K [HDR]",
+          "descricao": "O Atirador: Sem Nação 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/gGhjs14pomQA6N8parCw5Bl3qoh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768470.mp4"
+        },
+        {
+          "nome": "O Atleta de 69 Anos 4K [DV][HDR]",
+          "descricao": "O Atleta de 69 Anos 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYrNXmpi414f6qrEC3pgi3cv8Nb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768221.mp4"
+        },
+        {
+          "nome": "O Balconista 3 4K",
+          "descricao": "O Balconista 3 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/AqkD9kVLULmbMdeCJKktriaUnC1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769509.mp4"
+        },
+        {
+          "nome": "O Banqueiro 4K [HDR]",
+          "descricao": "O Banqueiro 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/fKRLcJeGrE83aiRVl4PKNCtGgVU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769711.mp4"
+        },
+        {
+          "nome": "O Beco do Pesadelo 4K",
+          "descricao": "O Beco do Pesadelo 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/nndZUt9Lf8ZwefYBTGe5opGLJuY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769582.mp4"
+        },
+        {
+          "nome": "O Bingo Macabro 4K",
+          "descricao": "O Bingo Macabro 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/rTE4Dd4qU3Zabto5CkltlwYRSuZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769575.mp4"
+        },
+        {
+          "nome": "O Brutalista 4K",
+          "descricao": "O Brutalista 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/52iVP3AtNtpjFiBxlOYCUPXhr47.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768763.mp4"
+        },
+        {
+          "nome": "O Canto do Cisne 4K",
+          "descricao": "O Canto do Cisne 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/AnMuKIHlqibCMFgCEPJqc7bWKsw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769589.mp4"
+        },
+        {
+          "nome": "O Cara da Piscina 4K",
+          "descricao": "O Cara da Piscina 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/yGn6SxUOnU5dvUNeSjw79ks2EfS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768957.mp4"
+        },
+        {
+          "nome": "O Cativo 4K",
+          "descricao": "O Cativo 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/eYwmG2pOVc3HVT0PXZPfXlrvvlw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768493.mp4"
+        },
+        {
+          "nome": "O Céu Está em Todo Lugar 4K",
+          "descricao": "O Céu Está em Todo Lugar 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/hJPsIaBEReV2byAUqUelqQKimy2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769569.mp4"
+        },
+        {
+          "nome": "O Chamado da Floresta 4K",
+          "descricao": "O Chamado da Floresta 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/1SIlV2p8355FAuKTGje9ZgtXujN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769696.mp4"
+        },
+        {
+          "nome": "O Clube do Crime das Quintas-Feiras 4K [DV]",
+          "descricao": "O Clube do Crime das Quintas-Feiras 4K [DV]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHW4uQsPyda0jmcDmzOsM8y9BRy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768449.mp4"
+        },
+        {
+          "nome": "O Clube do Crime das Quintas-Feiras 4K [HDR]",
+          "descricao": "O Clube do Crime das Quintas-Feiras 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/wHW4uQsPyda0jmcDmzOsM8y9BRy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768468.mp4"
+        },
+        {
+          "nome": "O Cobrador de Dívidas 4K [DV][HDR]",
+          "descricao": "O Cobrador de Dívidas 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBKdfIV8YeReAYyzebW7R14vWhe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768275.mp4"
+        },
+        {
+          "nome": "O Coelhinho de Veludo 4K [Hybrid]",
+          "descricao": "O Coelhinho de Veludo 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMOIiDPPAE6oHDQ3taaBtLQ21QF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769200.mp4"
+        },
+        {
+          "nome": "O Conde 4K [Hybrid]",
+          "descricao": "O Conde 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUYn97rRvnw7TkQbBhnt0WsU3JM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769262.mp4"
+        },
+        {
+          "nome": "O Conde de Monte Cristo 4K",
+          "descricao": "O Conde de Monte Cristo 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/3lvcvLdDIbNgo0QAwI8NPnfkIqS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768819.mp4"
+        },
+        {
+          "nome": "O Contador 2 4K",
+          "descricao": "O Contador 2 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/qVpB7Y2tX9pbMzQW016qSWQ7OD5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768708.mp4"
+        },
+        {
+          "nome": "O Convite 4K",
+          "descricao": "O Convite 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/yXLx87GoPrM1ofZyIdFJOaqCjKP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768199.mp4"
+        },
+        {
+          "nome": "O Corvo 4K [HDR]",
+          "descricao": "O Corvo 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/ohPkFlIDvxQajr0eKyVCCAVVlj6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768923.mp4"
+        },
+        {
+          "nome": "O Corvo 4K",
+          "descricao": "O Corvo 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/ohPkFlIDvxQajr0eKyVCCAVVlj6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768931.mp4"
+        },
+        {
+          "nome": "O Cravista 4K",
+          "descricao": "O Cravista 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/e58rW8tLiLaZs692Qp6YrzLIXat.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768369.mp4"
+        },
+        {
+          "nome": "O Declínio 4K",
+          "descricao": "O Declínio 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/99Chy9sKuDqbav6rcjecCQI4Mzq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769688.mp4"
+        },
+        {
+          "nome": "O Diabo de Cada Dia 4K [Hybrid]",
+          "descricao": "O Diabo de Cada Dia 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/spqWjgLWvWlluIodXFn1SsNtISC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769346.mp4"
+        },
+        {
+          "nome": "O Diabo Veste Prada 2 4K [DV][HDR]",
+          "descricao": "O Diabo Veste Prada 2 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/50yWyY981TyUHhoxxSEKwO70FmQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768311.mp4"
+        },
+        {
+          "nome": "O Diário 4K",
+          "descricao": "O Diário 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/hkSbWAsdUW2DzV7R1gdQ7fCWcJ8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768933.mp4"
+        },
+        {
+          "nome": "O Diário de um Banana: As Regras do Rodrick 4K [HDR]",
+          "descricao": "O Diário de um Banana: As Regras do Rodrick 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/1EeicO2JheHtL7kVe5OOro6tfIe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768536.mp4"
+        },
+        {
+          "nome": "O Drama 4K [HDR]",
+          "descricao": "O Drama 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/tM3hbeEwJZdQAjwwt5UjFn638AY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768388.mp4"
+        },
+        {
+          "nome": "O Dublê 4K",
+          "descricao": "O Dublê 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/f7LgXutKkeOxHqx7p5rG7U4i9Qf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769063.mp4"
+        },
+        {
+          "nome": "O Duelo 4K",
+          "descricao": "O Duelo 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/oGlk16RRd5ulZe31t3sYQhnNto6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768949.mp4"
+        },
+        {
+          "nome": "O Elixir 4K",
+          "descricao": "O Elixir 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/45OuEJ4leKmQl9oQCEcQQTBDFwl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768631.mp4"
+        },
+        {
+          "nome": "O Encontro de Carl 4K [HDR]",
+          "descricao": "O Encontro de Carl 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/6qKO0zNdKe1r4A9zY091KClfmcS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768475.mp4"
+        },
+        {
+          "nome": "O Enfermeiro da Noite 4K [Hybrid]",
+          "descricao": "O Enfermeiro da Noite 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTp35hVdiVFEVOTSO7HLhmiXx8f.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769329.mp4"
+        },
+        {
+          "nome": "O Esquema Fenício 4K",
+          "descricao": "O Esquema Fenício 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/jY8TTgRSJfrBQCPZTUAlJTGN1JK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768685.mp4"
+        },
+        {
+          "nome": "O Estrangulador de Boston 4K [Hybrid]",
+          "descricao": "O Estrangulador de Boston 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyJM16EEF5jcQZipFjpRtEjeRyu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769435.mp4"
+        },
+        {
+          "nome": "O Estranho na Minha Casa 4K",
+          "descricao": "O Estranho na Minha Casa 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/q6BGD28luAKf1BS1gJqujMfsEG9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768570.mp4"
+        },
+        {
+          "nome": "O Exorcismo da Minha Melhor Amiga 4K [HDR]",
+          "descricao": "O Exorcismo da Minha Melhor Amiga 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/vAmkfhNzINNoaWkE70927FCpBX2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769517.mp4"
+        },
+        {
+          "nome": "O Exorcista do Papa 4K [Hybrid]",
+          "descricao": "O Exorcista do Papa 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ba7ks0ZaIkRLp5Zqx6KkQ3unxRr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769351.mp4"
+        },
+        {
+          "nome": "O Exorcista: O Devoto 4K [HDR]",
+          "descricao": "O Exorcista: O Devoto 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/sJtfth9oaDWx1PwzT0vGKNXwjKz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769197.mp4"
+        },
+        {
+          "nome": "O Exterminador do Futuro: Destino Sombrio 4K [HDR]",
+          "descricao": "O Exterminador do Futuro: Destino Sombrio 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/3HsG5V6ZpKYgfwbFqXEYONbqtTt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769738.mp4"
+        },
+        {
+          "nome": "O Fabricante de Lágrimas 4K",
+          "descricao": "O Fabricante de Lágrimas 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/xOM6dZZa9kfHcyDCIP7Vtg7mQyz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769057.mp4"
+        },
+        {
+          "nome": "O Falsário 4K [HDR]",
+          "descricao": "O Falsário 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/kruMkxPyLf8bZIuu53JxgyZ29kj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768556.mp4"
+        },
+        {
+          "nome": "O Filho de Mil Homens 4K",
+          "descricao": "O Filho de Mil Homens 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/tJ4w5lgD2mA9jVNRJrion9IPdcQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768617.mp4"
+        },
+        {
+          "nome": "O fim da Cracolândia 4K",
+          "descricao": "O fim da Cracolândia 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/6XtysHKS8IMjrnJlw1KziAP8ruC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768419.mp4"
+        },
+        {
+          "nome": "O Fogo Interior 4K",
+          "descricao": "O Fogo Interior 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/rmIcnSRl65AUa8TJMCJZV2RL4z1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768775.mp4"
+        },
+        {
+          "nome": "O Genro 4K [DV][HDR]",
+          "descricao": "O Genro 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pS1hk20bUfGZ4tFf9r0Ws0gGPoZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768271.mp4"
+        },
+        {
+          "nome": "O Grande Ivan 4K [HDR]",
+          "descricao": "O Grande Ivan 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/iLqOH0SSJ1hy3Y1POl5cr6H1RtL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769685.mp4"
+        },
+        {
+          "nome": "O Grande Mestre 4: A Batalha Final 4K",
+          "descricao": "O Grande Mestre 4: A Batalha Final 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/jBWuzMl3UBMVI8scmhHOPRNXPKT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769680.mp4"
+        },
+        {
+          "nome": "O Grinch 4K",
+          "descricao": "O Grinch 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/iVvFVBcdUMPgPCnLFICzBEwZxgZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769824.mp4"
+        },
+        {
+          "nome": "O Homem de Toronto 4K",
+          "descricao": "O Homem de Toronto 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/A7WtrzlvLAhdmXObY9aZCRhtAMs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768866.mp4"
+        },
+        {
+          "nome": "O Homem do Saco 4K",
+          "descricao": "O Homem do Saco 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/upJVPS6e99GK1xP6gNKHKNxMsHB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768805.mp4"
+        },
+        {
+          "nome": "O Homem dos Sonhos 4K",
+          "descricao": "O Homem dos Sonhos 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/pI6bCgmnvodCSUNfYMDg4QWiJmK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769079.mp4"
+        },
+        {
+          "nome": "O Homem Invisível 4K",
+          "descricao": "O Homem Invisível 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/67gVCA33yHpFkFyqhDJrt21MvYI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769687.mp4"
+        },
+        {
+          "nome": "O Homem que Sussurra 4K [DV][HDR]",
+          "descricao": "O Homem que Sussurra 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/umlg3mqkny7opAfPtBLUGYwZ8xF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768197.mp4"
+        },
+        {
+          "nome": "O Homem-Cão 4K",
+          "descricao": "O Homem-Cão 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/iBZlbYSVOYjBJDwg4D3bcK0hE8F.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768757.mp4"
+        },
+        {
+          "nome": "O Jogo da Garrafa 4K",
+          "descricao": "O Jogo da Garrafa 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/n1lf2grrVfu7cRPrIvQr3FH0dC5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768795.mp4"
+        },
+        {
+          "nome": "O Jogo da Viúva 4K [DV]",
+          "descricao": "O Jogo da Viúva 4K [DV]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/txiHphuGlemWdD9Lv4FfkJU4uS9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768457.mp4"
+        },
+        {
+          "nome": "O Jogo da Viúva 4K [HDR]",
+          "descricao": "O Jogo da Viúva 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/txiHphuGlemWdD9Lv4FfkJU4uS9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768483.mp4"
+        },
+        {
+          "nome": "O Jogo do Assassino 4K",
+          "descricao": "O Jogo do Assassino 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/pPmxLP2eMJEFiY7KZ3WkSFQ1b20.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768826.mp4"
+        },
+        {
+          "nome": "O Jogo do Disfarce 4K [HDR]",
+          "descricao": "O Jogo do Disfarce 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/d9O2dIxU1X8Qc8s8kf9RFiiDMMB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769166.mp4"
+        },
+        {
+          "nome": "O Jogo do Predador 4K [DV][HDR]",
+          "descricao": "O Jogo do Predador 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0ub7FDXEyu8DqGcHKQpaOSem49.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768434.mp4"
+        },
+        {
+          "nome": "O Jogo do Predador 4K",
+          "descricao": "O Jogo do Predador 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/mBcYPIubRBPTnTwWdj8OuEC1NHJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768285.mp4"
+        },
+        {
+          "nome": "O Justiceiro: Uma Última Morte 4K [DV][HDR]",
+          "descricao": "O Justiceiro: Uma Última Morte 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768414.mp4"
+        },
+        {
+          "nome": "O Justiceiro: Uma Última Morte 4K",
+          "descricao": "O Justiceiro: Uma Última Morte 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768406.mp4"
+        },
+        {
+          "nome": "O Lendário Cão Guerreiro 4K [HDR]",
+          "descricao": "O Lendário Cão Guerreiro 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/zwS6boYHEUOgQUMVrAFAPk9J0zF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769526.mp4"
+        },
+        {
+          "nome": "O Limite da Traição 4K",
+          "descricao": "O Limite da Traição 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/1m1KhOQZWftSA1R155iaAXmpxln.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769567.mp4"
+        },
+        {
+          "nome": "O Livro de Clarence 4K",
+          "descricao": "O Livro de Clarence 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/6SuEJPQZiP9Hzgzl2NJ9YFIefdn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769117.mp4"
+        },
+        {
+          "nome": "O Lobo E O Leão 4K [HDR]",
+          "descricao": "O Lobo E O Leão 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/6lgxpLqmqt95dXvh5rYFBiAuRQC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769500.mp4"
+        },
+        {
+          "nome": "O Mal que Nos Habita 4K",
+          "descricao": "O Mal que Nos Habita 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/t6cWfm0o5TzCa3nHtHhXpzjBc8V.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769096.mp4"
+        },
+        {
+          "nome": "O Mapa das Pequenas Coisas Perfeitas 4K [HDR]",
+          "descricao": "O Mapa das Pequenas Coisas Perfeitas 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/djMLMmgVQ3MBEj2vHipBki5d5ol.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769648.mp4"
+        },
+        {
+          "nome": "O Mapa Que Me Leva Até Você 4K",
+          "descricao": "O Mapa Que Me Leva Até Você 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/rr31IlQPnWx5DOfXCVfBocl2Jwv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768659.mp4"
+        },
+        {
+          "nome": "O Melhor Amigo 4K",
+          "descricao": "O Melhor Amigo 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/vEhj1fS3hcGgHNEyAEzNi08b1IN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769486.mp4"
+        },
+        {
+          "nome": "O Melhor Espetáculo de Natal de Todos os Tempos 4K",
+          "descricao": "O Melhor Espetáculo de Natal de Todos os Tempos 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/4fnJJTyuMgBvRFgLfSMKz8qkO1z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768856.mp4"
+        },
+        {
+          "nome": "O Melhor. Natal. de Todos! 4K",
+          "descricao": "O Melhor. Natal. de Todos! 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/hRAnhet28w3ipeCOJvv2BIW3A1P.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768965.mp4"
+        },
+        {
+          "nome": "O Menino e a Garça 4K",
+          "descricao": "O Menino e a Garça 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/dYwihSnQmCVuIQbuG9n18BK5Iqd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768929.mp4"
+        },
+        {
+          "nome": "O Menino que Queria Ser Rei 4K",
+          "descricao": "O Menino que Queria Ser Rei 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/bu0BurnKgnobJoCEXUsHKxvlXd4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769799.mp4"
+        },
+        {
+          "nome": "O Mensageiro do Último Dia 4K [HDR]",
+          "descricao": "O Mensageiro do Último Dia 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/Nk4qeNjHvr427RhccYZLSxndGj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769139.mp4"
+        },
+        {
+          "nome": "O Menu 4K [Hybrid]",
+          "descricao": "O Menu 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qE4FZQiaQcKo9mYuqu2SwLIgbwG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769479.mp4"
+        },
+        {
+          "nome": "O Mesmo Dia com Você 4K [DV]",
+          "descricao": "O Mesmo Dia com Você 4K [DV]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekyvMJ4SQMDRwTlLYktamGMbO4y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768451.mp4"
+        },
+        {
+          "nome": "O Mesmo Dia com Você 4K [HDR]",
+          "descricao": "O Mesmo Dia com Você 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/ekyvMJ4SQMDRwTlLYktamGMbO4y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768471.mp4"
+        },
+        {
+          "nome": "O Misterio do Relogio na Parede 4K",
+          "descricao": "O Misterio do Relogio na Parede 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/nu63HA3CkIq245FphWi2zCObLVJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769823.mp4"
+        },
+        {
+          "nome": "O Mochileiro Kai: Herói ou Assassino? 4K [DV][HDR]",
+          "descricao": "O Mochileiro Kai: Herói ou Assassino? 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/6OqcfVTm9XdVz1x8cQY1ERkpJ4a.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768222.mp4"
+        },
+        {
+          "nome": "O Monastério 4K",
+          "descricao": "O Monastério 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/88NQDdGoa1QKR2ELPSx45XfEkrB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768494.mp4"
+        },
+        {
+          "nome": "O Mundo Depois de Nós 4K [HDR]",
+          "descricao": "O Mundo Depois de Nós 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/qwHZInQ0MBa1DxHV66ExCCUzBf5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769176.mp4"
+        },
+        {
+          "nome": "O Nascimento do Mal 4K",
+          "descricao": "O Nascimento do Mal 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/fKbnk16Af4E34fAK7L7K5GSgpIV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769299.mp4"
+        },
+        {
+          "nome": "O Natal do Pequeno Batman 4K",
+          "descricao": "O Natal do Pequeno Batman 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/t2wpjvGFA9ZdQFZn4Phg6QKZRBH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769189.mp4"
+        },
+        {
+          "nome": "O Pacto (2023) 4K [HDR]",
+          "descricao": "O Pacto (2023) 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/pTQZT9R6YjKrweJ0llPtq57j1Z0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769318.mp4"
+        },
+        {
+          "nome": "O Pai da Noiva 4K [HDR]",
+          "descricao": "O Pai da Noiva 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/5eoRFcvC2TCDKLv8MFF8remLdzS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769562.mp4"
+        },
+        {
+          "nome": "O Pálido Olho Azul 4K [Hybrid]",
+          "descricao": "O Pálido Olho Azul 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x98eB1JokifNYRcgyxyMf4TQbsO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769385.mp4"
+        },
+        {
+          "nome": "O Papa que Venceu o Comunismo 4K",
+          "descricao": "O Papa que Venceu o Comunismo 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/3Mj2fMRPM8C036p3QO38hA5JciG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768643.mp4"
+        },
+        {
+          "nome": "O Páramo 4K",
+          "descricao": "O Páramo 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/dLOkvK9MtksR3riXrXG0f98092L.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768865.mp4"
+        },
+        {
+          "nome": "O Peso do Talento 4K [HDR]",
+          "descricao": "O Peso do Talento 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/9ShEHTKPMnRJnh05vzCnsF4YMFb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769563.mp4"
+        },
+        {
+          "nome": "O Pior Vizinho do Mundo 4K [HDR]",
+          "descricao": "O Pior Vizinho do Mundo 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/hjOJGaLQe2aC3GCwJCedGvjEgvu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769443.mp4"
+        },
+        {
+          "nome": "O Predador 4K [HDR]",
+          "descricao": "O Predador 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/3RuuLeX487syJrV1olkQCFbHrIv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768524.mp4"
+        },
+        {
+          "nome": "O Predador: A Caçada 4K [HDR]",
+          "descricao": "O Predador: A Caçada 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/n2hyhBPIYbwvCSipcawcc8iEAsH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768525.mp4"
+        },
+        {
+          "nome": "O Primata 4K [HDR]",
+          "descricao": "O Primata 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/fJd3J9FwWTAI1EZsvaTHfZKKTPy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768532.mp4"
+        },
+        {
+          "nome": "O Primeiro Homem 4K",
+          "descricao": "O Primeiro Homem 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/bRQ0CKECt5B3aE8YqW9r6DvaxRY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769822.mp4"
+        },
+        {
+          "nome": "O Primeiro Natal do Mundo 4K [HDR]",
+          "descricao": "O Primeiro Natal do Mundo 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/8UOl0hlPFyWiJprpMxYRkhi2vSq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769191.mp4"
+        },
+        {
+          "nome": "O Próprio Enterro 4K [HDR]",
+          "descricao": "O Próprio Enterro 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/2f5wWROrRIVA84WhzznXJKcCXSr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769234.mp4"
+        },
+        {
+          "nome": "O Protetor 2 4K",
+          "descricao": "O Protetor 2 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/xl3oO2j1vfKasDLyUNwghWjl4jV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769798.mp4"
+        },
+        {
+          "nome": "O Protetor: Capitulo Final 4K [Hybrid]",
+          "descricao": "O Protetor: Capitulo Final 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxkzUJVaKNZ4IYYHpJq5y05MauC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769226.mp4"
+        },
+        {
+          "nome": "O Quarto ao Lado 4K",
+          "descricao": "O Quarto ao Lado 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/z7HT9sDp2AQQKPhk4pCOWTy6RL7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768754.mp4"
+        },
+        {
+          "nome": "O Que Tiver Que Ser 4K",
+          "descricao": "O Que Tiver Que Ser 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/ctOQLoHn7UKYmVD62L3yGQC5MHr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768897.mp4"
+        },
+        {
+          "nome": "O Quiosque 4K",
+          "descricao": "O Quiosque 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/eZExVc4fuAFSdh2VsHI1pN4Izqp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768971.mp4"
+        },
+        {
+          "nome": "O Reformatório Nickel 4K",
+          "descricao": "O Reformatório Nickel 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/hlTuZinZ2EvrkTKpW66z2RXySmE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768804.mp4"
+        },
+        {
+          "nome": "O Refúgio 4K [HDR]",
+          "descricao": "O Refúgio 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/49b7CTeJqugnpBboT6D5xGy3h4H.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768504.mp4"
+        },
+        {
+          "nome": "O Refúgio 4K",
+          "descricao": "O Refúgio 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/49b7CTeJqugnpBboT6D5xGy3h4H.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768505.mp4"
+        },
+        {
+          "nome": "O Rei da Feira 4K",
+          "descricao": "O Rei da Feira 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/ytdK03kYesKHtBHJvlCQjLNtMre.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768595.mp4"
+        },
+        {
+          "nome": "O Rei Leão 4K [HDR]",
+          "descricao": "O Rei Leão 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/8aIvm8OaJISOpVTt7rMIh7X35G5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769758.mp4"
+        },
+        {
+          "nome": "O Rei Leão 4K",
+          "descricao": "O Rei Leão 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/8aIvm8OaJISOpVTt7rMIh7X35G5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769757.mp4"
+        },
+        {
+          "nome": "O Resgate 4K",
+          "descricao": "O Resgate 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/q1oh7Os4AU5PhT3D3myN64crigJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768991.mp4"
+        },
+        {
+          "nome": "O Resgate de Ruby 4K [Hybrid]",
+          "descricao": "O Resgate de Ruby 4K [Hybrid]",
+          "capa": "http://ocvtab.info/images/640f553a523d5e8f2dd340f557a1c57e.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769401.mp4"
+        },
+        {
+          "nome": "O Retorno de Mary Poppins 4K",
+          "descricao": "O Retorno de Mary Poppins 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/8g1P4sxOitwFaf3UBeT8n4F5sBy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769796.mp4"
+        },
+        {
+          "nome": "O Retorno dos Thundermans 4K",
+          "descricao": "O Retorno dos Thundermans 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/wEquopFw43QCKsBp1fpIabmGlYc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769122.mp4"
+        },
+        {
+          "nome": "O Rito da Dança 4K [HDR]",
+          "descricao": "O Rito da Dança 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/jiaV9yeAFG2TjyOASd4bXdSZlUl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768511.mp4"
+        },
+        {
+          "nome": "O Rito da Dança 4K",
+          "descricao": "O Rito da Dança 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/jiaV9yeAFG2TjyOASd4bXdSZlUl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769032.mp4"
+        },
+        {
+          "nome": "O Roubo de 88 4K",
+          "descricao": "O Roubo de 88 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/nHw4ECQTKYr5GC0EAaNt6DeTcbQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769003.mp4"
+        },
+        {
+          "nome": "O Segredo do Papai Noel 4K [DV][HDR]",
+          "descricao": "O Segredo do Papai Noel 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bO9x28Kc4mCVvB8QL5EpRAYSwV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768308.mp4"
+        },
+        {
+          "nome": "O Senhor dos Anéis: A Guerra dos Rohirrim 4K",
+          "descricao": "O Senhor dos Anéis: A Guerra dos Rohirrim 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/aLOROyUuOum0zztqPiJDCFgFMcw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768837.mp4"
+        },
+        {
+          "nome": "O Sequestro 4K",
+          "descricao": "O Sequestro 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/oDvaDdX4Mghfw7DZE3j208qqux1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769138.mp4"
+        },
+        {
+          "nome": "O Show dos Muppets 4K [HDR]",
+          "descricao": "O Show dos Muppets 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/rVnxHAbQVtNbuz1ig3oSNyltj4I.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768538.mp4"
+        },
+        {
+          "nome": "O Silêncio da Vingança 4K [Hybrid]",
+          "descricao": "O Silêncio da Vingança 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7W2fdpbWV2MiaCpjYakbudP3Ywx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769160.mp4"
+        },
+        {
+          "nome": "O Sistema 4K",
+          "descricao": "O Sistema 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/nP4kUNBCYBCDPBtTZEfjllu7048.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769452.mp4"
+        },
+        {
+          "nome": "O Sobrevivente 4K",
+          "descricao": "O Sobrevivente 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/8nBuPCAXLFSuUBjO1WvJ2blEVmK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768600.mp4"
+        },
+        {
+          "nome": "O Som do Caos 4K",
+          "descricao": "O Som do Caos 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/yka6u5dbx1vWoMrNIHHutluaepp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769371.mp4"
+        },
+        {
+          "nome": "O Som do Silencio 4K [HDR]",
+          "descricao": "O Som do Silencio 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/in5ie4bvs6u1MSvLaquFWv7CJpl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769642.mp4"
+        },
+        {
+          "nome": "O Tanque de Guerra 4K [HDR]",
+          "descricao": "O Tanque de Guerra 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/vzmIilvyxhhS5mOtUNBbEaAA9dQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768575.mp4"
+        },
+        {
+          "nome": "O Tanque de Guerra 4K",
+          "descricao": "O Tanque de Guerra 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/vzmIilvyxhhS5mOtUNBbEaAA9dQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768574.mp4"
+        },
+        {
+          "nome": "O Tarô da Morte 4K",
+          "descricao": "O Tarô da Morte 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/ltOnEtJZyruTAOPRs0xYy6njIkY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769073.mp4"
+        },
+        {
+          "nome": "O Telefone Preto 4K [HDR]",
+          "descricao": "O Telefone Preto 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/aAdnNifQo2qxDYnuDD3blsxinH1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769538.mp4"
+        },
+        {
+          "nome": "O Tempo Que Nos Resta 4K",
+          "descricao": "O Tempo Que Nos Resta 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/gFFxJs62P4H1fufvK7u1OfOvjft.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768238.mp4"
+        },
+        {
+          "nome": "O Território 4K",
+          "descricao": "O Território 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/vvs5n7XKXgQz5hm3Fxxpa9NuFtM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769442.mp4"
+        },
+        {
+          "nome": "O Tesouro da Montanha Nebulosa 4K",
+          "descricao": "O Tesouro da Montanha Nebulosa 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/1mMG78tbmYUN5VSy61MeUVzLNco.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768774.mp4"
+        },
+        {
+          "nome": "O Tesouro de Sarah 4K [HDR]",
+          "descricao": "O Tesouro de Sarah 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/vHIPqxm9qYMbXWkhSoFiGLraFvD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768425.mp4"
+        },
+        {
+          "nome": "O Tesouro de Sarah 4K",
+          "descricao": "O Tesouro de Sarah 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/vHIPqxm9qYMbXWkhSoFiGLraFvD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768424.mp4"
+        },
+        {
+          "nome": "O Último Duelo 4K [HDR]",
+          "descricao": "O Último Duelo 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/mhrzzNauB1PKrwnqVbLQODNNTJN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769601.mp4"
+        },
+        {
+          "nome": "O Último Gigante 4K [DV][HDR]",
+          "descricao": "O Último Gigante 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxQE2GmdabPcLQtrG0ik2MYyMu3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768277.mp4"
+        },
+        {
+          "nome": "O Último Nascer do Sol 4K [DV][HDR]",
+          "descricao": "O Último Nascer do Sol 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUP8lmnCvOUiG0n1ciXaeFEou3j.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768201.mp4"
+        },
+        {
+          "nome": "O Último Reino: Sete Reis Devem Morrer 4K [Hybrid]",
+          "descricao": "O Último Reino: Sete Reis Devem Morrer 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMbc0XeYyo85V8GPdyBXh3jEnEJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769339.mp4"
+        },
+        {
+          "nome": "O Último Respiro 4K",
+          "descricao": "O Último Respiro 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/bRfuw87KvTUP69F1n37V01LnCMm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768713.mp4"
+        },
+        {
+          "nome": "O Último Vagão 4K [Hybrid]",
+          "descricao": "O Último Vagão 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PkragT5Qwt3cxpbFfsOY9fQees.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769238.mp4"
+        },
+        {
+          "nome": "O Urso do Pó Branco 4K [Hybrid]",
+          "descricao": "O Urso do Pó Branco 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tBvUMyZeJvpaAcnbV3vcCa753K.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769348.mp4"
+        },
+        {
+          "nome": "O Valente 4K",
+          "descricao": "O Valente 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/3AhlvcWi2Ej3nXNAktSG5ARjWSu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768636.mp4"
+        },
+        {
+          "nome": "O Vingador da Iugoslávia 2 4K",
+          "descricao": "O Vingador da Iugoslávia 2 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/fSrBQXN5u0EeG9Acv2SBX84yuBY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768945.mp4"
+        },
+        {
+          "nome": "Observador 4K [HDR]",
+          "descricao": "Observador 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/grEpsXD8Mwj5CGn5iWzDCNqZm2D.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769458.mp4"
+        },
+        {
+          "nome": "Observadores 4K",
+          "descricao": "Observadores 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/bOFs0xHCOSTvIUYL0LDd5qcuuDB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768766.mp4"
+        },
+        {
+          "nome": "Obsessão 4K [DV][HDR]",
+          "descricao": "Obsessão 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhtt7IdzjJ6Vwh1AcG54QFYPtwf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768363.mp4"
+        },
+        {
+          "nome": "Obsessão 4K",
+          "descricao": "Obsessão 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/wUc6IDf5ChjM1UyQye21qFBeJY0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768362.mp4"
+        },
+        {
+          "nome": "Obsessão Secreta 4K [Hybrid]",
+          "descricao": "Obsessão Secreta 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQRwtMCDKVqNm88A1CMg0Tj7dpq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769417.mp4"
+        },
+        {
+          "nome": "O'Dessa 4K",
+          "descricao": "O'Dessa 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/l7EcAvzYaYfKv4JXKroJYfaTzSH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768779.mp4"
+        },
+        {
+          "nome": "Oferenda ao Demônio 4K [Hybrid]",
+          "descricao": "Oferenda ao Demônio 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lI8sI9pQuJmdYJgp6JuPIPg7Rqx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769368.mp4"
+        },
+        {
+          "nome": "Oficina do Diabo 4K",
+          "descricao": "Oficina do Diabo 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/1FLLIBXhSrqtGlmgmKylBeEIOaJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768832.mp4"
+        },
+        {
+          "nome": "Olhos Famintos 4: Renascimento 4K [Hybrid]",
+          "descricao": "Olhos Famintos 4: Renascimento 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/37xwMszfSsl1PVjaFXvKeB0nETa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769412.mp4"
+        },
+        {
+          "nome": "On the Rocks 4K",
+          "descricao": "On the Rocks 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/fcijRCmB7yTtloh4Pumy9b1rkwU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769015.mp4"
+        },
+        {
+          "nome": "Operação Cerveja 4K [HDR]",
+          "descricao": "Operação Cerveja 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/jp3KDoyADU0eVPLQagBjXcaNO2d.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769527.mp4"
+        },
+        {
+          "nome": "Operação Natal 4K",
+          "descricao": "Operação Natal 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/zX2UeAmF8XDBJM3sZ0RS0jLQ8Gg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768855.mp4"
+        },
+        {
+          "nome": "Operação Vingança 4K",
+          "descricao": "Operação Vingança 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/m9bV8N7up3kdnheJQ6CNYWGR9o3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768675.mp4"
+        },
+        {
+          "nome": "Oppenheimer 4K [HDR]",
+          "descricao": "Oppenheimer 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/uqrrZICcZFHqlNuZIR3iM1h0Rst.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769201.mp4"
+        },
+        {
+          "nome": "Órfã 2: A Origem 4K [HDR]",
+          "descricao": "Órfã 2: A Origem 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/okgBTByIqwRotmfg3ljUBAyVmcW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769508.mp4"
+        },
+        {
+          "nome": "Organ Trail: Sobrevivência 4K",
+          "descricao": "Organ Trail: Sobrevivência 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/s9nwiVMOVvnS2Jt6hdy7UHoFSD0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769132.mp4"
+        },
+        {
+          "nome": "Os (Quase) Ídolos da Bahía Colorada 4K [DV][HDR]",
+          "descricao": "Os (Quase) Ídolos da Bahía Colorada 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/olT4pIcEwP3160jXETWP1zawaCe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768233.mp4"
+        },
+        {
+          "nome": "Os Bad Boas 4K",
+          "descricao": "Os Bad Boas 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/sCMbtE4Owgbgndty07jCA7wH08F.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768669.mp4"
+        },
+        {
+          "nome": "Os Caras Malvados 2 4K [DV]",
+          "descricao": "Os Caras Malvados 2 4K [DV]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbpNAldCtWjotI4vEiphPrz8DJh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768450.mp4"
+        },
+        {
+          "nome": "Os Caras Malvados 2 4K [HDR]",
+          "descricao": "Os Caras Malvados 2 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/dbpNAldCtWjotI4vEiphPrz8DJh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768469.mp4"
+        },
+        {
+          "nome": "Os Cavaleiros do Zodíaco - Saint Seiya: O Começo 4K [HDR]",
+          "descricao": "Os Cavaleiros do Zodíaco - Saint Seiya: O Começo 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/1qos0X6EIi4KT9RmJiVGZB9Kw6l.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769311.mp4"
+        },
+        {
+          "nome": "Os Cavaleiros do Zodíaco - Saint Seiya: O Começo 4K [Hybrid]",
+          "descricao": "Os Cavaleiros do Zodíaco - Saint Seiya: O Começo 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w780/1qos0X6EIi4KT9RmJiVGZB9Kw6l.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769308.mp4"
+        },
+        {
+          "nome": "Os Croods 2: Uma Nova Era 4K [HDR]",
+          "descricao": "Os Croods 2: Uma Nova Era 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/f7BIa9xIerwviSMsa9BEY28sC3Y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769654.mp4"
+        },
+        {
+          "nome": "Os Estranhos: Capítulo 1 4K",
+          "descricao": "Os Estranhos: Capítulo 1 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/vjyZvt5qMJ5xQAzQ8JvT0arlpkK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769010.mp4"
+        },
+        {
+          "nome": "Os Estranhos: Capítulo Final 4K [DV][HDR]",
+          "descricao": "Os Estranhos: Capítulo Final 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYaPXOzUFVlNIn5Cgn1dyVRYpRN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768427.mp4"
+        },
+        {
+          "nome": "Os Fabelmans 4K [Hybrid]",
+          "descricao": "Os Fabelmans 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/BWHoAAcKnGtowRXju2c2RBrT0m.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769454.mp4"
+        },
+        {
+          "nome": "Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice 4K",
+          "descricao": "Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/v33dHteDj03HLtAgUb9CFgA2to1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768930.mp4"
+        },
+        {
+          "nome": "Os Infalíveis 4K",
+          "descricao": "Os Infalíveis 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/mmaz2IESTJkKf77tSOKZ3PxV7NN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769038.mp4"
+        },
+        {
+          "nome": "Os Mercenários 4 4K [Hybrid]",
+          "descricao": "Os Mercenários 4 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yH7750OmhoPcrTA9PZTHohDjpqP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769209.mp4"
+        },
+        {
+          "nome": "Os Novatos 4K",
+          "descricao": "Os Novatos 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/fMLoToKANoJdDOLKrqoDLsCvcNY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768958.mp4"
+        },
+        {
+          "nome": "Os Novos Mutantes 4K",
+          "descricao": "Os Novos Mutantes 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/aTGaI5ahE694f8vNMiYc5bEK06H.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769683.mp4"
+        },
+        {
+          "nome": "Os Observadores 4K",
+          "descricao": "Os Observadores 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/bJ3zy7UN8VoA23LSDkt7JlQg1a9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769021.mp4"
+        },
+        {
+          "nome": "Os Pequenos Vestígios 4K",
+          "descricao": "Os Pequenos Vestígios 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/vL6Yv0rtxvgt4hqcPYWtK1vGF3D.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769027.mp4"
+        },
+        {
+          "nome": "Os Provocadores 4K",
+          "descricao": "Os Provocadores 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/nKyeT6MaxfxojAoZSuMm5Fqx88e.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768995.mp4"
+        },
+        {
+          "nome": "Os Quebra-Nozes 4K",
+          "descricao": "Os Quebra-Nozes 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/dSTgGo0uR3oqVgsiwqdsVDc8vtZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768851.mp4"
+        },
+        {
+          "nome": "Os Radley 4K",
+          "descricao": "Os Radley 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/lElYnVpy7pjIarhz533cQGyfhup.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768552.mp4"
+        },
+        {
+          "nome": "Os Rejeitados 4K",
+          "descricao": "Os Rejeitados 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/ek4FmIkKlH30xthKs2ANqrV7SOI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769113.mp4"
+        },
+        {
+          "nome": "Oslo 4K",
+          "descricao": "Oslo 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/tULZeNNlwLvXPdQpERfrfYyZfTC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769129.mp4"
+        },
+        {
+          "nome": "Outro Amor Fora do Tempo 4K [DV][HDR]",
+          "descricao": "Outro Amor Fora do Tempo 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mxtZCxZKfgA94sO8GlJTFHXLYu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768213.mp4"
+        },
+        {
+          "nome": "Outro Amor Fora do Tempo 4K",
+          "descricao": "Outro Amor Fora do Tempo 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/6mxtZCxZKfgA94sO8GlJTFHXLYu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768212.mp4"
+        },
+        {
+          "nome": "Outro Pequeno Favor 4K",
+          "descricao": "Outro Pequeno Favor 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/8nOxToE7XWYRGMPbrSbaJOEWVTA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768742.mp4"
+        },
+        {
+          "nome": "Overdose 4K [HDR]",
+          "descricao": "Overdose 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/jHh0hkCjIAEicS1vMaOu4fdHpuP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769524.mp4"
+        },
+        {
+          "nome": "Pacto de Redenção 4K",
+          "descricao": "Pacto de Redenção 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/1jVlr869bV5ulcrJzqNlJs5KTMx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768907.mp4"
+        },
+        {
+          "nome": "Paddington: Uma Aventura na Floresta 4K",
+          "descricao": "Paddington: Uma Aventura na Floresta 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/CGbayx5xToznAJhHJ3TTEHd4Sb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768784.mp4"
+        },
+        {
+          "nome": "Pai em Tempo Integral 4K [HDR]",
+          "descricao": "Pai em Tempo Integral 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/4xI4SIFQkLk8M1oRYLo070RYCc5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768345.mp4"
+        },
+        {
+          "nome": "Pais de Pets 4K",
+          "descricao": "Pais de Pets 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/rSjaizM0hpUYt9Fa5HrGBnrm597.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769052.mp4"
+        },
+        {
+          "nome": "Paixão de Escritório 4K [DV][HDR]",
+          "descricao": "Paixão de Escritório 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kN86jEhf5xeHTPwlVeZ1ZAW861r.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768383.mp4"
+        },
+        {
+          "nome": "Pamela Anderson - Uma História de Amor 4K [DV][HDR]",
+          "descricao": "Pamela Anderson - Uma História de Amor 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/wyBM5BKBt8D7rdjzd65UXIMf9BO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768217.mp4"
+        },
+        {
+          "nome": "Pangolim: A Viagem de Kulu 4K [DV][HDR]",
+          "descricao": "Pangolim: A Viagem de Kulu 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfdOWThuNcnI2AvhA6D9VBon3sl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768267.mp4"
+        },
+        {
+          "nome": "Pânico 4K",
+          "descricao": "Pânico 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/lvskZGlyH9LuGKO8OdBWQWTGlGx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769577.mp4"
+        },
+        {
+          "nome": "Pânico 7 4K [HDR]",
+          "descricao": "Pânico 7 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/rEevavl5vebCVEd5imx7D1k8nmV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768487.mp4"
+        },
+        {
+          "nome": "Pânico em Casa 4K",
+          "descricao": "Pânico em Casa 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/k8k3zAVuwHMA9TbwYaAPolyHfgX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769619.mp4"
+        },
+        {
+          "nome": "Pânico VI 4K [Hybrid]",
+          "descricao": "Pânico VI 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbd7DQCHZ57SF4tM2puHtwNxDQD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769359.mp4"
+        },
+        {
+          "nome": "Pantera Negra 4K",
+          "descricao": "Pantera Negra 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/ubXNpxL2ASSzY0f8Hxv08pOsV2L.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769821.mp4"
+        },
+        {
+          "nome": "Pantera Negra: Wakanda para Sempre 4K [Hybrid]",
+          "descricao": "Pantera Negra: Wakanda para Sempre 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cryEN3sWlgB2wTzcUNVtDGI8bkM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769471.mp4"
+        },
+        {
+          "nome": "Papai 4K",
+          "descricao": "Papai 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/nJfeI9Q8gjOa3TGfjjbNbG71ZSN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768898.mp4"
+        },
+        {
+          "nome": "Para Sempre Medo 4K [HDR]",
+          "descricao": "Para Sempre Medo 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/usGVBMdUxIiXIZ2iZD04iWsi3ed.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768467.mp4"
+        },
+        {
+          "nome": "Para Todos os Garotos: P.S. Ainda Amo Você 4K [HDR]",
+          "descricao": "Para Todos os Garotos: P.S. Ainda Amo Você 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/tpdtbzeEImp5eT5wmwhVHhbklAk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769714.mp4"
+        },
+        {
+          "nome": "Paraíso 4K [Hybrid]",
+          "descricao": "Paraíso 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4V5OqY5wrhQnMELZTskS2AOCIQt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769235.mp4"
+        },
+        {
+          "nome": "Parque Lezama 4K [DV]",
+          "descricao": "Parque Lezama 4K [DV]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hF38t5vPgmXhY7fBOoY4bFH7nl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768335.mp4"
+        },
+        {
+          "nome": "Passageiro do Mal 4K [DV][HDR]",
+          "descricao": "Passageiro do Mal 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSoOiatgMmXtDS3iwWD5hC2Rbyn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768352.mp4"
+        },
+        {
+          "nome": "Passagem 4K [HDR]",
+          "descricao": "Passagem 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/81eQIYIR7i5W0XsB2PtvZAt4I9w.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769518.mp4"
+        },
+        {
+          "nome": "Passagrana 4K",
+          "descricao": "Passagrana 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/g9tAi6v6cinBDItrW0fW4HoweNq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768884.mp4"
+        },
+        {
+          "nome": "Pássaro Branco: Uma História de Extraordinário 4K",
+          "descricao": "Pássaro Branco: Uma História de Extraordinário 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/kirufy0MfyDja7ZHP9GmfjoOO3G.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768765.mp4"
+        },
+        {
+          "nome": "Pássaros de Liberdade 4K [HDR]",
+          "descricao": "Pássaros de Liberdade 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/3b1ZSkBrxtDEtk61NVKn7EtbZaL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768499.mp4"
+        },
+        {
+          "nome": "Passei por Aqui 4K",
+          "descricao": "Passei por Aqui 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/txyWmAMhoy6liIueQhBnjqcbrSr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769490.mp4"
+        },
+        {
+          "nome": "Patos! 4K [Hybrid]",
+          "descricao": "Patos! 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/apAIqBHMqjKlId60cj7V32bZIS3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769137.mp4"
+        },
+        {
+          "nome": "Patrulha Canina: Um Filme Superpoderoso 4K [Hybrid]",
+          "descricao": "Patrulha Canina: Um Filme Superpoderoso 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w780/9DLaS8YmKbMJhVkI5iw4O8Bm04g.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769215.mp4"
+        },
+        {
+          "nome": "Pé Pequeno 4K",
+          "descricao": "Pé Pequeno 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/c0K6BijP7r3ee9SfBixZPxdfhZg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769123.mp4"
+        },
+        {
+          "nome": "Peaky Blinders: O Homem Imortal 4K",
+          "descricao": "Peaky Blinders: O Homem Imortal 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/8XLNDeumvz0cXa6sntZJ6p4zfLb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768492.mp4"
+        },
+        {
+          "nome": "Pearl: Uma História de Origem 'X' 4K [Hybrid]",
+          "descricao": "Pearl: Uma História de Origem 'X' 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTgLkhIMmzwH1NAaq7NDbFN20zi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769349.mp4"
+        },
+        {
+          "nome": "Pecadores 4K",
+          "descricao": "Pecadores 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/v0Ljeti537c6cNKweuEN0iaU3x4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768711.mp4"
+        },
+        {
+          "nome": "Peça-me o Que Quiser 4K",
+          "descricao": "Peça-me o Que Quiser 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/m1ny8QQmgUcPmatqGrbMDpclTwb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768725.mp4"
+        },
+        {
+          "nome": "Pedagogia do Abandono 4K",
+          "descricao": "Pedagogia do Abandono 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/2jWXDhw7qyQxSWWxFFHxjhyn2zn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768433.mp4"
+        },
+        {
+          "nome": "Pedido Irlandês 4K",
+          "descricao": "Pedido Irlandês 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/qmTxQvHnsLpiZQiIZu2hsmZSqR8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769106.mp4"
+        },
+        {
+          "nome": "Pele 4K [Hybrid]",
+          "descricao": "Pele 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yC27fQi0rXkIVrSCLDNMzqrfUiK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769488.mp4"
+        },
+        {
+          "nome": "Pequena Mamãe 4K",
+          "descricao": "Pequena Mamãe 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/dCh06z8p0rZxLmEET1li1kDIVXX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769031.mp4"
+        },
+        {
+          "nome": "Pequenos Espiões: Apocalipse 4K [Hybrid]",
+          "descricao": "Pequenos Espiões: Apocalipse 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwCKYjIPXapuBtO51S81GNhoGxV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769261.mp4"
+        },
+        {
+          "nome": "Perder é Ganhar um Pouco 4K [HDR]",
+          "descricao": "Perder é Ganhar um Pouco 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/d45rHJsby26TSakc5ahkdmE72YH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769177.mp4"
+        },
+        {
+          "nome": "Perdida 4K [Hybrid]",
+          "descricao": "Perdida 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYVLZgee1MpLGAB4YMneCdWLpEq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769263.mp4"
+        },
+        {
+          "nome": "Perdido em Marte 4K",
+          "descricao": "Perdido em Marte 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/fG3S4zdgnsaF77tJGK3rA9tHBu4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769820.mp4"
+        },
+        {
+          "nome": "Pero no Mucho 4K",
+          "descricao": "Pero no Mucho 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/mNAb8OTrlhW5eFwlsPUW3CRXCXh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768673.mp4"
+        },
+        {
+          "nome": "Perseguição 4K",
+          "descricao": "Perseguição 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/1yl5ebR0w9R9Gh8ls1YIfK6plov.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769583.mp4"
+        },
+        {
+          "nome": "Peter Pan & Wendy 4K [Hybrid]",
+          "descricao": "Peter Pan & Wendy 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkWxiUsc32qJHLwt7vt5AvUFNlx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769353.mp4"
+        },
+        {
+          "nome": "Piano de Família 4K",
+          "descricao": "Piano de Família 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/pn641f57Yn4U28D1ACFgLnzuWOi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768760.mp4"
+        },
+        {
+          "nome": "Pica-Pau: As Férias no Acampamento 4K [DV][HDR]",
+          "descricao": "Pica-Pau: As Férias no Acampamento 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtZcntP9YCOi04iga6tR6UnZqAO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768346.mp4"
+        },
+        {
+          "nome": "Pimpinero: Sangue e Gasolina 4K",
+          "descricao": "Pimpinero: Sangue e Gasolina 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/8XDidaDgghQhcZoNwspuEGFLJAW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768891.mp4"
+        },
+        {
+          "nome": "Pinóquio (2022) 4K [HDR]",
+          "descricao": "Pinóquio (2022) 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/2nvHcplURnWLL2RX6SQlwM63wu3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769537.mp4"
+        },
+        {
+          "nome": "Pinóquio por Guillermo Del Toro 4K [Hybrid]",
+          "descricao": "Pinóquio por Guillermo Del Toro 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3IkO2sW4rSSVluFDz8isr6YDm8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769494.mp4"
+        },
+        {
+          "nome": "Piscina Infinita 4K [HDR]",
+          "descricao": "Piscina Infinita 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/ykhdcaaPn2ELaKMz2UBlLrXGJ0E.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769302.mp4"
+        },
+        {
+          "nome": "Pisque Duas Vezes 4K",
+          "descricao": "Pisque Duas Vezes 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/1BCZ1rOI41cGkae6RZgLVVmYczE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768922.mp4"
+        },
+        {
+          "nome": "Planeta dos Macacos: O Reinado 4K",
+          "descricao": "Planeta dos Macacos: O Reinado 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/hBGnLm2A1TapONoPo7QrMpj2B6B.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768999.mp4"
+        },
+        {
+          "nome": "Planeta dos Solteiros: Aventura na Grécia 4K [DV][HDR]",
+          "descricao": "Planeta dos Solteiros: Aventura na Grécia 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7V0EI8Pq3izRCoFmMlbg2YxHM0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768266.mp4"
+        },
+        {
+          "nome": "Planeta Janet 4K",
+          "descricao": "Planeta Janet 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/4n539sFGFBjv4RlIR6dHJ8d2M7P.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768982.mp4"
+        },
+        {
+          "nome": "Plano em Família 4K",
+          "descricao": "Plano em Família 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/3CezGI4ORSgVKk5Ch3UUWtL7SET.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769183.mp4"
+        },
+        {
+          "nome": "Pobres Criaturas 4K",
+          "descricao": "Pobres Criaturas 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/iOdcXYSVzBgmBJzNIlIMOZ6fz0F.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769121.mp4"
+        },
+        {
+          "nome": "Podres de Ricos 4K [HDR]",
+          "descricao": "Podres de Ricos 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/kYqS2lRNNAhSHpTWGMCHfBlzjTz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769726.mp4"
+        },
+        {
+          "nome": "Podres de Ricos 4K",
+          "descricao": "Podres de Ricos 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/kYqS2lRNNAhSHpTWGMCHfBlzjTz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769727.mp4"
+        },
+        {
+          "nome": "Pokemon Detective Pikachu 4K",
+          "descricao": "Pokemon Detective Pikachu 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/p72utWsmz5ZAmvVQPUhovq0jFK3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769773.mp4"
+        },
+        {
+          "nome": "Pokémon: Detetive Pikachu 4K [HDR]",
+          "descricao": "Pokémon: Detetive Pikachu 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/p72utWsmz5ZAmvVQPUhovq0jFK3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768587.mp4"
+        },
+        {
+          "nome": "Poker Face 4K [HDR]",
+          "descricao": "Poker Face 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/6KlnrQtudHHXCyDWihe4jL9Jr6H.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769365.mp4"
+        },
+        {
+          "nome": "Polar 4K",
+          "descricao": "Polar 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/2btxGF270fxOeNJInRNnFtZGkAA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769794.mp4"
+        },
+        {
+          "nome": "Por Cima do seu Cadáver 4K [HDR]",
+          "descricao": "Por Cima do seu Cadáver 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/i9tMHmhq8m1c4xOJofn7lqzXDvj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768378.mp4"
+        },
+        {
+          "nome": "Por Lugares Incríveis 4K",
+          "descricao": "Por Lugares Incríveis 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/xhQ3s1kdq1rVzq3xQNcOzvhwzTG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769578.mp4"
+        },
+        {
+          "nome": "por Tyler Perry 4K",
+          "descricao": "por Tyler Perry 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/hyyZPN2iqu9NgYf9sqcW7hgLQ8m.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769018.mp4"
+        },
+        {
+          "nome": "Pornhub: Sexo Bilionário 4K [DV][HDR]",
+          "descricao": "Pornhub: Sexo Bilionário 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ae9ooWLtS4LEsSBCUvaFkrrxqiH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768219.mp4"
+        },
+        {
+          "nome": "Predador: Assassino de Assassinos 4K",
+          "descricao": "Predador: Assassino de Assassinos 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/h8Yubag1HEChg8NVGmRHuuZm1gQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768706.mp4"
+        },
+        {
+          "nome": "Predador: Terras Selvagens 4K [HDR]",
+          "descricao": "Predador: Terras Selvagens 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/f3yLlUrJDdDL8d4nxywyotN45SL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768526.mp4"
+        },
+        {
+          "nome": "Predadores 4K",
+          "descricao": "Predadores 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/46pJsCB2y8pfmKTNRplcBX03Fqx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768613.mp4"
+        },
+        {
+          "nome": "Premonição 6: Laços de Sangue 4K",
+          "descricao": "Premonição 6: Laços de Sangue 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/x3J781PsdMrjenzQKM5eJXqK5Nd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768692.mp4"
+        },
+        {
+          "nome": "Prenda a Respiração 4K",
+          "descricao": "Prenda a Respiração 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/joqsZ0tZpWUJSKQ1Uj9VyA8CIBE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768934.mp4"
+        },
+        {
+          "nome": "Preparação para a Próxima Vida 4K [HDR]",
+          "descricao": "Preparação para a Próxima Vida 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/2JfZejAw4wZtI7sJDBnLkrjvzlN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768542.mp4"
+        },
+        {
+          "nome": "Presença 4K",
+          "descricao": "Presença 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/v9KyEvkhBUeasEE4NiNjG6FOoyv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768741.mp4"
+        },
+        {
+          "nome": "Primeiro as Damas 4K [DV][HDR]",
+          "descricao": "Primeiro as Damas 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW10rRdxMwJC4r1zldQzxcyzEUS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768398.mp4"
+        },
+        {
+          "nome": "Príncipes Perigosos 4K",
+          "descricao": "Príncipes Perigosos 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/ohqfqjCg6j8IOyKsRZ7bQCV7sMY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768963.mp4"
+        },
+        {
+          "nome": "Prisioneiro de Guerra 4K [HDR]",
+          "descricao": "Prisioneiro de Guerra 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/zCsGDUdCBUXMNGANdyXSDFZPCMO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768473.mp4"
+        },
+        {
+          "nome": "Procura-se Gonker 4K [Hybrid]",
+          "descricao": "Procura-se Gonker 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziAL5224J9QHA0S0exarpkz4eUN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769333.mp4"
+        },
+        {
+          "nome": "Projeto Gemini 4K [HDR]",
+          "descricao": "Projeto Gemini 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/lU1vh3TjGrMRkh7wxs6Ecu7ZMf3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769720.mp4"
+        },
+        {
+          "nome": "Projeto Internato 4K",
+          "descricao": "Projeto Internato 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/7Fpse7kK9AmNYHczkhQs2aQ7mUS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768374.mp4"
+        },
+        {
+          "nome": "Psycho Killer: Em Busca do Assassino 4K [DV][HDR]",
+          "descricao": "Psycho Killer: Em Busca do Assassino 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbYSVa3psOliw0v7EbEdZkeTQli.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768316.mp4"
+        },
+        {
+          "nome": "Quando o Céu se Engana 4K",
+          "descricao": "Quando o Céu se Engana 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/h90ccrZZzwfSsOgvHTbB76MLw4b.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768616.mp4"
+        },
+        {
+          "nome": "Quanto Vale? 4K",
+          "descricao": "Quanto Vale? 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/4DUDQpsWYeUz3c2Jbr7LYUnsc9A.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768864.mp4"
+        },
+        {
+          "nome": "Quartos Vazios 4K",
+          "descricao": "Quartos Vazios 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/6m5URjYfXEv43tEqXoDXX49RygT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768531.mp4"
+        },
+        {
+          "nome": "Quase Morta 4K",
+          "descricao": "Quase Morta 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/aVasblXf2bU7SSLiygd0ra84sUM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769036.mp4"
+        },
+        {
+          "nome": "Quasimodo 4K [Hybrid]",
+          "descricao": "Quasimodo 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRitoZ1fVLhUsK7bzu84lJQMg1g.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769366.mp4"
+        },
+        {
+          "nome": "Que Horas Eu Te Pego? 4K [Hybrid]",
+          "descricao": "Que Horas Eu Te Pego? 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/en47PkDX8IhtQA3i1MYslx8eH91.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769288.mp4"
+        },
+        {
+          "nome": "Queda Livre: As Consequências do Caso Boeing 4K [DV][HDR]",
+          "descricao": "Queda Livre: As Consequências do Caso Boeing 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/c4xTdrb3mCRFcv6iIKyyySLGD75.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768215.mp4"
+        },
+        {
+          "nome": "Queimando o Filme 4K",
+          "descricao": "Queimando o Filme 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/6EIfh5Raw2Eil36dsYvkrVNvBWd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768791.mp4"
+        },
+        {
+          "nome": "Quem é Morto Sempre Aparece 4K",
+          "descricao": "Quem é Morto Sempre Aparece 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/6hgfhhJ9wGyYY73hlTnChi27AJ4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768629.mp4"
+        },
+        {
+          "nome": "Quem Vai Salvar o Natal? 2 4K [DV][HDR]",
+          "descricao": "Quem Vai Salvar o Natal? 2 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/72rWDqGgOkEcKxf4iQqHwzF7JDE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768309.mp4"
+        },
+        {
+          "nome": "Querida 4K [HDR]",
+          "descricao": "Querida 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/wkEuGtrwmQwk7U3FYzIYhmAwDhG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769503.mp4"
+        },
+        {
+          "nome": "Querido Menino 4K",
+          "descricao": "Querido Menino 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/ut5sNIXsNb9tHnVJ090V13im4A8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768990.mp4"
+        },
+        {
+          "nome": "Querido Papai Noel 4K",
+          "descricao": "Querido Papai Noel 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/ynOGBV2k8dlRkm9gLWNmruDc8gv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768863.mp4"
+        },
+        {
+          "nome": "Quinze Dias 4K [DV][HDR]",
+          "descricao": "Quinze Dias 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SkSZOAHPJbks40PQYwIH2bV1f2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768214.mp4"
+        },
+        {
+          "nome": "Quiz Lady 4K [Hybrid]",
+          "descricao": "Quiz Lady 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kkz5jZwKkwYxV8sw6EGMyHjSzO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769211.mp4"
+        },
+        {
+          "nome": "Rampage - Destruição Total 4K [DV][HDR]",
+          "descricao": "Rampage - Destruição Total 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bhqCvl771uepyt6wbzEiryxEoc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768385.mp4"
+        },
+        {
+          "nome": "Ray Donovan - O Filme 4K",
+          "descricao": "Ray Donovan - O Filme 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/5sw1EvOeXMGRZGWr18R4EiZs036.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769585.mp4"
+        },
+        {
+          "nome": "Raya E O Ultimo Dragao 4K [HDR]",
+          "descricao": "Raya E O Ultimo Dragao 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/w3fnXZoHK9aFuvC9566SAtZuhAp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769661.mp4"
+        },
+        {
+          "nome": "Raymond & Ray 4K [HDR]",
+          "descricao": "Raymond & Ray 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/fdKZmSQHD17JjGUYkluhpttgJRi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769505.mp4"
+        },
+        {
+          "nome": "Realeza Rebelde: Um Amor Improvável 4K [DV][HDR]",
+          "descricao": "Realeza Rebelde: Um Amor Improvável 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Hq0O4SuaZCgwEN7d5nYIP7qbks.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768265.mp4"
+        },
+        {
+          "nome": "Rebel Moon - Parte 1: A Menina do Fogo 4K [HDR]",
+          "descricao": "Rebel Moon - Parte 1: A Menina do Fogo 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/sPmGw8DOpH856QjhCfetSK9yzI5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769174.mp4"
+        },
+        {
+          "nome": "Rebel Moon - Parte 1: A Menina do Fogo 4K",
+          "descricao": "Rebel Moon - Parte 1: A Menina do Fogo 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/sPmGw8DOpH856QjhCfetSK9yzI5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768962.mp4"
+        },
+        {
+          "nome": "Rebel Moon - Parte 2: A Marcadora de Cicatrizes 4K",
+          "descricao": "Rebel Moon - Parte 2: A Marcadora de Cicatrizes 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/a1OWOfAV8z4nf9FdF8GqPQgoxmm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769092.mp4"
+        },
+        {
+          "nome": "Rebel Ridge 4K",
+          "descricao": "Rebel Ridge 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768862.mp4"
+        },
+        {
+          "nome": "Red: Crescer é Uma Fera 4K",
+          "descricao": "Red: Crescer é Uma Fera 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/aJ1uPESSu9zIpmvwCstJalXDeVg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769574.mp4"
+        },
+        {
+          "nome": "Remando para o Ouro 4K",
+          "descricao": "Remando para o Ouro 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/ytmcHHnOgzGwAkCy7fNaSjGrz7i.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769045.mp4"
+        },
+        {
+          "nome": "Renfield: Dando Sangue pelo Chefe 4K [Hybrid]",
+          "descricao": "Renfield: Dando Sangue pelo Chefe 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vfgvLkoPsE6s4i6dlJ9b2ikG7h.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769321.mp4"
+        },
+        {
+          "nome": "Resgate 2 4K [Hybrid]",
+          "descricao": "Resgate 2 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfwqKLQwjgPu8bIL1mqhHTlnQv0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769314.mp4"
+        },
+        {
+          "nome": "Resgate 4K [Hybrid]",
+          "descricao": "Resgate 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DS1Xh1dxfrR1H0sqATPxkwWFzi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769426.mp4"
+        },
+        {
+          "nome": "Resgate em Medelín 4K [HDR]",
+          "descricao": "Resgate em Medelín 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/i0Ulb13yY2WCcZ047iThR0dtMd5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769327.mp4"
+        },
+        {
+          "nome": "Resgate Implacável 4K",
+          "descricao": "Resgate Implacável 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/1w01rEQRYvIoSs5Is9cQDJhiUel.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768730.mp4"
+        },
+        {
+          "nome": "Resident Evil: Bem-Vindo a Raccoon City 4K",
+          "descricao": "Resident Evil: Bem-Vindo a Raccoon City 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/eStYYbyaxyDMzHVkGrmkiSrMi0h.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769593.mp4"
+        },
+        {
+          "nome": "Resident Evil: Ilha da Morte 4K [HDR]",
+          "descricao": "Resident Evil: Ilha da Morte 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/bDqY2AYYdZQykEhmDr87i8RKKTT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769295.mp4"
+        },
+        {
+          "nome": "Resistência 4K [Hybrid]",
+          "descricao": "Resistência 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MPdNRHzd0NbOJbrrXO77DVHP4n.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769180.mp4"
+        },
+        {
+          "nome": "Respire 4K",
+          "descricao": "Respire 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/hIWtuu0xHqBzrvZsyObjWKDKujm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768827.mp4"
+        },
+        {
+          "nome": "Retorno da Lenda 4K",
+          "descricao": "Retorno da Lenda 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/a5TMox6zYw686BbVS8D1UTPUYGI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769513.mp4"
+        },
+        {
+          "nome": "Revelações 4K",
+          "descricao": "Revelações 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/1SKvcCOWOD1ECEfY7EgHZW04GSd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768762.mp4"
+        },
+        {
+          "nome": "Ricky Stanicky 4K",
+          "descricao": "Ricky Stanicky 4K",
           "capa": "https://image.tmdb.org/t/p/w780/8Y7jmf24lH9Ha1iMtqvVq5SzgXt.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899568.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769044.mp4"
         },
         {
-          "nome": "Ricos de Amor 2 (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/xdAVVJT8TtC3S1VVHzh5eIX0CzQ.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899727.mp4"
+          "nome": "Ricos de Amor 2 4K [Hybrid]",
+          "descricao": "Ricos de Amor 2 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdAVVJT8TtC3S1VVHzh5eIX0CzQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769228.mp4"
         },
         {
-          "nome": "Rio de Janeiro: Paraíso em Chamas (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/r065YpJLDYdTPLhjDTNUNLMP8HW.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899269.mp4"
+          "nome": "Rio de Janeiro: Paraíso em Chamas 4K",
+          "descricao": "Rio de Janeiro: Paraíso em Chamas 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/6zRaBLTmdnP2pkaOtrPlEbkPULe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768740.mp4"
         },
         {
-          "nome": "Rise (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Rise 4K [HDR]",
+          "descricao": "Rise 4K [HDR]",
           "capa": "https://image.tmdb.org/t/p/w780/slkVQhehnP3h40y7mfbYDfv8sWB.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900045.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769552.mp4"
         },
         {
-          "nome": "Rivais (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Ritmo de Natal 4K",
+          "descricao": "Ritmo de Natal 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/yVw1ZoyQ6dF6qVRFsD36Ye3ifdH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768615.mp4"
+        },
+        {
+          "nome": "Rivais 4K",
+          "descricao": "Rivais 4K",
           "capa": "https://image.tmdb.org/t/p/w780/w1j3evHiwrGiQ6e9h1l9r66uo29.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899595.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769071.mp4"
         },
         {
-          "nome": "Rob Peace (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Rob Peace 4K [HDR]",
+          "descricao": "Rob Peace 4K [HDR]",
           "capa": "https://image.tmdb.org/t/p/w780/1BwKbTidW5QaEKb1pVY3p4u9cVg.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899381.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768522.mp4"
         },
         {
-          "nome": "Robin Hood: A Origem (2018) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Rob Peace 4K",
+          "descricao": "Rob Peace 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/1BwKbTidW5QaEKb1pVY3p4u9cVg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768853.mp4"
+        },
+        {
+          "nome": "Robin Hood - A Origem 4K",
+          "descricao": "Robin Hood - A Origem 4K",
           "capa": "https://image.tmdb.org/t/p/w780/aGkgDTOfgiXUIWC52tjFUZnzrWZ.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900286.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769818.mp4"
         },
         {
-          "nome": "Robô Selvagem (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/cWsd33Nwp3tgYB5LMMadl3qVMKh.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899420.mp4"
+          "nome": "Robô Selvagem 4K",
+          "descricao": "Robô Selvagem 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/gAHNIZKG8fmK7njOTpMmLKJXiag.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768894.mp4"
         },
         {
-          "nome": "Rogai por Nós (2021) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Rogai Por Nos 4K",
+          "descricao": "Rogai Por Nos 4K",
           "capa": "https://image.tmdb.org/t/p/w780/zduyzcjyahZtP4fGZE6789h04IM.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900126.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769636.mp4"
         },
         {
-          "nome": "Ron Bugado (2021) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/h8eqqC9KLoN8TUe1EXtIqwX8BpP.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900088.mp4"
+          "nome": "Ron Bugado 4K",
+          "descricao": "Ron Bugado 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/dEsDFCqKWhSB7ydFZzrKERGeHIh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769596.mp4"
         },
         {
-          "nome": "Rosalina (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/Ad51mrs3azZMzHE6cLrCv9uSztP.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900024.mp4"
+          "nome": "Rosalina 4K [Hybrid]",
+          "descricao": "Rosalina 4K [Hybrid]",
+          "capa": "http://ocvtab.info/images/86dc1cdf8488a88b42abbde429b27de0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769531.mp4"
         },
         {
-          "nome": "Rota Sem Saída (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Rota Sem Saída 4K",
+          "descricao": "Rota Sem Saída 4K",
           "capa": "https://image.tmdb.org/t/p/w780/zJuVfZVP7Tdpy9kOBQCuzNeGsDz.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899554.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769030.mp4"
         },
         {
-          "nome": "Roubo pelos Ares (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/9wbjshzUHdfFhvdqHoNraGXhpLY.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899871.mp4"
+          "nome": "Roubo do Cão 4K",
+          "descricao": "Roubo do Cão 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/qDfWnbel7HW9TCXmtnoK0iuflsm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768628.mp4"
         },
         {
-          "nome": "Royalteen: Princesa Margrethe (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Roubo pelos Ares 4K [Hybrid]",
+          "descricao": "Roubo pelos Ares 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wbjshzUHdfFhvdqHoNraGXhpLY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769375.mp4"
+        },
+        {
+          "nome": "Royalteen: Princesa Margrethe 4K",
+          "descricao": "Royalteen: Princesa Margrethe 4K",
           "capa": "https://image.tmdb.org/t/p/w780/tB12J8SZTlQZbmQLPqQEP3dnF2j.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899729.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769230.mp4"
         },
         {
-          "nome": "Rua do Medo: Rainha do Baile (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Rua do Medo: Rainha do Baile 4K",
+          "descricao": "Rua do Medo: Rainha do Baile 4K",
           "capa": "https://image.tmdb.org/t/p/w780/skwydfnpaQdRQZfXMroh59FMJyY.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899242.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768712.mp4"
         },
         {
-          "nome": "Ruby Marinho - Monstro Adolescente (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Ruby Marinho - Monstro Adolescente 4K [HDR]",
+          "descricao": "Ruby Marinho - Monstro Adolescente 4K [HDR]",
           "capa": "https://image.tmdb.org/t/p/w780/nNcxpjCtcawf8wQmTwnA0u1jukC.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899261.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769291.mp4"
         },
         {
-          "nome": "Ruído Branco (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/nNPuuybpp52aABBy59V5Q78xkLh.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899978.mp4"
+          "nome": "Ruby Marinho - Monstro Adolescente 4K",
+          "descricao": "Ruby Marinho - Monstro Adolescente 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/nNcxpjCtcawf8wQmTwnA0u1jukC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768732.mp4"
         },
         {
-          "nome": "Ruim pra Cachorro (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Ruído Branco 4K [Hybrid]",
+          "descricao": "Ruído Branco 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNPuuybpp52aABBy59V5Q78xkLh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769485.mp4"
+        },
+        {
+          "nome": "Ruim pra Cachorro 4K",
+          "descricao": "Ruim pra Cachorro 4K",
           "capa": "https://image.tmdb.org/t/p/w780/hfSkDDJiCf6cJpd4R9O9lM1T6hz.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899708.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769208.mp4"
         },
         {
-          "nome": "Rye Lane: Um Amor Inesperado (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/ljqrimXtkF47gSKcDyVLZ03ctYG.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899902.mp4"
+          "nome": "Rye Lane: Um Amor Inesperado 4K [Hybrid]",
+          "descricao": "Rye Lane: Um Amor Inesperado 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljqrimXtkF47gSKcDyVLZ03ctYG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769405.mp4"
         },
         {
-          "nome": "Sala de Matança (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/qKpdy7N6zX05eisopvvviiTwPxb.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899671.mp4"
-        },
-        {
-          "nome": "Saltburn (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Saltburn 4K [HDR]",
+          "descricao": "Saltburn 4K [HDR]",
           "capa": "https://image.tmdb.org/t/p/w780/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899678.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769178.mp4"
         },
         {
-          "nome": "Samaritano (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Salve Geral: Irmandade 4K [DV][HDR]",
+          "descricao": "Salve Geral: Irmandade 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AAzx2bcorTZUVe4Sk6yqhMBq1s.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768272.mp4"
+        },
+        {
+          "nome": "Samaritano 4K [HDR]",
+          "descricao": "Samaritano 4K [HDR]",
           "capa": "https://image.tmdb.org/t/p/w780/7xP0NhjE6AOJ1RTx5vh3Jw1aNCe.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900035.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769542.mp4"
         },
         {
-          "nome": "Sayen: A Rota Seca (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Saudosa Maloca 4K",
+          "descricao": "Saudosa Maloca 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/f6ZiesutSqM65BCklfydIwCpgOb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768357.mp4"
+        },
+        {
+          "nome": "Sayen 4K [HDR]",
+          "descricao": "Sayen 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768498.mp4"
+        },
+        {
+          "nome": "Sayen: A Rota Seca 4K [HDR]",
+          "descricao": "Sayen: A Rota Seca 4K [HDR]",
           "capa": "https://image.tmdb.org/t/p/w780/bPf85Ro1XgWnhJMfAZa3SdQ4Muf.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899723.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769224.mp4"
         },
         {
-          "nome": "Se Organizar Direitinho… (2021) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/hxJ1wFaUqOq5TmxA751VRJastGV.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899874.mp4"
+          "nome": "Sem Nada a Perder 4K [DV][HDR]",
+          "descricao": "Sem Nada a Perder 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h18Yg7onsoRDsOlkGhIiMCUT9W8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768351.mp4"
         },
         {
-          "nome": "Sem Remorso (2021) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Sem Remorso 4k [HDR]",
+          "descricao": "Sem Remorso 4k [HDR]",
           "capa": "https://image.tmdb.org/t/p/w780/uHEZ4ZMziIjlAgCTQAEh9ROvtj0.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900131.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769641.mp4"
         },
         {
-          "nome": "Sem Saída (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Sem Saída (2022) 4K",
+          "descricao": "Sem Saída (2022) 4K",
           "capa": "https://image.tmdb.org/t/p/w780/dvTTuRqwvM6wkDuA0JviE58NSRp.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900072.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769580.mp4"
         },
         {
-          "nome": "Separados pelas Estrelas (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Separados pelas Estrelas 4K",
+          "descricao": "Separados pelas Estrelas 4K",
           "capa": "https://image.tmdb.org/t/p/w780/pZ9KqPSN4uv8ByEuFKP1vLyWYU4.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899244.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768714.mp4"
         },
         {
-          "nome": "Setembro 5 (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Sequestro: Elizabeth Smart 4K [HDR]",
+          "descricao": "Sequestro: Elizabeth Smart 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/jdjJZWxjmKACZtrebAcipm86cl3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768535.mp4"
+        },
+        {
+          "nome": "Setembro 5 4K",
+          "descricao": "Setembro 5 4K",
           "capa": "https://image.tmdb.org/t/p/w780/3emldMXl1Q3p5yFUOZmBtuEn65C.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899316.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768788.mp4"
         },
         {
-          "nome": "Setor 36 (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Setor 36 4K",
+          "descricao": "Setor 36 4K",
           "capa": "https://image.tmdb.org/t/p/w780/PHGnl1VfJxD1E6k53lBJ3foG34.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899477.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768951.mp4"
         },
         {
-          "nome": "Shang-Chi e a Lenda dos Dez Anéis (2021) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/ArrOBeio968bUuUOtEpKa1teIh4.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900096.mp4"
+          "nome": "Seymour Hersh: Em Busca da Verdade 4K [DV][HDR]",
+          "descricao": "Seymour Hersh: Em Busca da Verdade 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFg7WAHUX8l9PyG2CXvHi92qmeP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768313.mp4"
         },
         {
-          "nome": "Sharper - Uma Vida de Trapaças (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/nkvg5RbmDcLMfu5gfJHhMqdWBpK.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899908.mp4"
+          "nome": "Shang-Chi e a Lenda dos Dez Anéis 4K [HDR]",
+          "descricao": "Shang-Chi e a Lenda dos Dez Anéis 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/d3wNegI8XJF8Kto6KhlqPicBRAp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769604.mp4"
         },
         {
-          "nome": "Shazam! (2019) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Sharper: Uma Vida de Trapaças 4K [Hybrid]",
+          "descricao": "Sharper: Uma Vida de Trapaças 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkvg5RbmDcLMfu5gfJHhMqdWBpK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769411.mp4"
+        },
+        {
+          "nome": "Shazam! 4K",
+          "descricao": "Shazam! 4K",
           "capa": "https://image.tmdb.org/t/p/w780/rwkriXzzP9FoiIF5nTdxBsUcds4.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900244.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769777.mp4"
         },
         {
-          "nome": "Shazam! Fúria dos Deuses (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/mTXxYgJ8UE7N6XIxIaesAqvMG4S.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899885.mp4"
+          "nome": "Shazam! Fúria dos Deuses 4K [Hybrid]",
+          "descricao": "Shazam! Fúria dos Deuses 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GE5FwsQIQKNDWkSEBVIWYx7zCK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769388.mp4"
         },
         {
-          "nome": "Sight (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/tSkMkPyIT80YUc5RVRJNJ6Ps13G.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899482.mp4"
+          "nome": "Sick 4K [Hybrid]",
+          "descricao": "Sick 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpfoBxeLIgLIGN0YFwnny34ZE1K.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769356.mp4"
         },
         {
-          "nome": "Silver e o Livro dos Sonhos (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Siga Minha Voz 4K",
+          "descricao": "Siga Minha Voz 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/mncxqYlq2ze8q4YsF6cFOWKD006.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768571.mp4"
+        },
+        {
+          "nome": "Sight 4K",
+          "descricao": "Sight 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/840tUAFSES0G5SD0xQHRnuCBIgu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768956.mp4"
+        },
+        {
+          "nome": "Silver e o Livro dos Sonhos 4K [HDR]",
+          "descricao": "Silver e o Livro dos Sonhos 4K [HDR]",
           "capa": "https://image.tmdb.org/t/p/w780/mjCpMUo4VBFZhlLiqHUNXJwzuQ1.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899690.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769190.mp4"
         },
         {
-          "nome": "Simon (2018) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/qwGowTpFQTgCcByfoP2xzXVReGl.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900134.mp4"
+          "nome": "Silvio Santos Vem Aí 4K",
+          "descricao": "Silvio Santos Vem Aí 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/oPPHJPKFOODJkI49Q9InSPEKmBr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768240.mp4"
         },
         {
-          "nome": "Sinfonia do Mal (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Sinfonia de Guerra 4K [HDR]",
+          "descricao": "Sinfonia de Guerra 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/7yzSUCZ3nFwQc3NQWVDLCqVQuMb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768549.mp4"
+        },
+        {
+          "nome": "Sinfonia do Mal 4K",
+          "descricao": "Sinfonia do Mal 4K",
           "capa": "https://image.tmdb.org/t/p/w780/28B3s9T3ZqmIeaZdooZgh2CK3rX.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899395.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768867.mp4"
         },
         {
-          "nome": "Sing Sing (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/vOWG25kbkyt5AYTzoJals7Gytj.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899290.mp4"
+          "nome": "Sing Sing 4K",
+          "descricao": "Sing Sing 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/3cunENI433NmzwEM0rJIqN4Eypd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768761.mp4"
+        },
+        {
+          "nome": "Sinta a Minha Voz 4K [DV][HDR]",
+          "descricao": "Sinta a Minha Voz 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaXWWskVuOumpcqWdjImjvolOWu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768464.mp4"
+        },
+        {
+          "nome": "Sinta a Minha Voz 4K",
+          "descricao": "Sinta a Minha Voz 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/kaXWWskVuOumpcqWdjImjvolOWu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768463.mp4"
         },
         {
           "nome": "Sísmicas 4K",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/6lEvzDbxF4zdu3Cm4x6SXX3nuEl.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899806.mp4"
+          "descricao": "Sísmicas 4K",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lEvzDbxF4zdu3Cm4x6SXX3nuEl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769309.mp4"
         },
         {
-          "nome": "Sisu: Uma História de Determinação (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/z47Fl4WYfKBg1n1hfqxq05OVMdR.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899804.mp4"
+          "nome": "Sisu 4K",
+          "descricao": "Sisu 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/h4uvgNH99FwREoBllzx2Rrsldah.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769307.mp4"
         },
         {
-          "nome": "Smurfs (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/faIbtFwyA8u6ldJr47E0JjvYA1F.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899179.mp4"
+          "nome": "Sisu: Estrada da Vingança 4K",
+          "descricao": "Sisu: Estrada da Vingança 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/z8LpUN4UOsYcUSLw1STPZsQ5w8B.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768601.mp4"
         },
         {
-          "nome": "Snag (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Smurfs 4K",
+          "descricao": "Smurfs 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/cUCvHtgwa0qtOmFqVlG6sWFc9sJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768646.mp4"
+        },
+        {
+          "nome": "Snag 4K [HDR]",
+          "descricao": "Snag 4K [HDR]",
           "capa": "https://image.tmdb.org/t/p/w780/nhj4Q39qMSk6X5Ly9j9Yqyjrg5A.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899722.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769223.mp4"
         },
         {
-          "nome": "Snoopy Apresenta: A Escola da Lucy (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/ikvLmYOsYjy5qoGS9Lpu092rO6z.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899707.mp4"
+          "nome": "Snoopy 4K [DV][HDR]",
+          "descricao": "Snoopy 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/6Ucmnt3nUaYY5rLfMjntK5WObNA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768273.mp4"
         },
         {
-          "nome": "Snoopy Apresenta: A Inigualável Marcie (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/grzZxk9s9EruSc0zMbcif4FUCmz.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899780.mp4"
+          "nome": "Snoopy Apresenta: A Escola da Lucy 4K [HDR]",
+          "descricao": "Snoopy Apresenta: A Escola da Lucy 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/agmU7id6kD3KO3GifVqO350rjBv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769207.mp4"
         },
         {
-          "nome": "Sob as Águas do Sena (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Snoopy Apresenta: A Inigualável Marcie 4K [HDR]",
+          "descricao": "Snoopy Apresenta: A Inigualável Marcie 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/reHrpuhshGwE6GmYk5VZdvB10V2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769282.mp4"
+        },
+        {
+          "nome": "Sob as Águas do Sena 4K",
+          "descricao": "Sob as Águas do Sena 4K",
           "capa": "https://image.tmdb.org/t/p/w780/njsyAXtUcPjLCjOfGvtNLH4DHL2.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899581.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769056.mp4"
         },
         {
-          "nome": "Sobrenatural: A Porta Vermelha (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/6lp4uDxLqLEw1CzW1SUOYJ3zdKD.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899788.mp4"
+          "nome": "Sobrenatural: A Porta Vermelha 4K [Hybrid]",
+          "descricao": "Sobrenatural: A Porta Vermelha 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lp4uDxLqLEw1CzW1SUOYJ3zdKD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769289.mp4"
         },
         {
-          "nome": "Sobrenatural: A Última Chave (2018) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/v3RYZGwImjBUF18RV57J5QuOa31.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899843.mp4"
+          "nome": "Sobrenatural: A Última Chave 4K [HDR]",
+          "descricao": "Sobrenatural: A Última Chave 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/bQuliBxybV8qrnuIz8ByiCyr5b6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769347.mp4"
         },
         {
-          "nome": "Sobrevivendo ao Paraíso: Contos de Famílias (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/5S5BpLaPPGrDIX9lkJYo7OooHR0.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899188.mp4"
+          "nome": "Sobrevivendo ao Paraíso: Contos de Famílias 4K",
+          "descricao": "Sobrevivendo ao Paraíso: Contos de Famílias 4K",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5S5BpLaPPGrDIX9lkJYo7OooHR0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768655.mp4"
         },
         {
-          "nome": "Som da Liberdade (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Sociedade Secreta dos Segundos Filhos Reais 4K [HDR]",
+          "descricao": "Sociedade Secreta dos Segundos Filhos Reais 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/9f4D8zjF9fUEVI42WWBcvuRKytL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768593.mp4"
+        },
+        {
+          "nome": "Socorro! 4K [DV][HDR]",
+          "descricao": "Socorro! 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/furPD78BZsKAWZoGvoqArIJYPy2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768421.mp4"
+        },
+        {
+          "nome": "Soldado de Chumbo 4K",
+          "descricao": "Soldado de Chumbo 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/eLHv7sZ0NojLNPR1v59nXyVOexT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768558.mp4"
+        },
+        {
+          "nome": "Som da Liberdade 4K",
+          "descricao": "Som da Liberdade 4K",
           "capa": "https://image.tmdb.org/t/p/w780/hwOHbymoAhjrMx7v5ShHCNIP4NI.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899672.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769171.mp4"
         },
         {
-          "nome": "Sombras de um Crime (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/vRSbYibtGcEYBFfCAkkvSCF9eES.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899838.mp4"
+          "nome": "Sombras de um Crime 4K [HDR]",
+          "descricao": "Sombras de um Crime 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/rfHUBpJj7W7gpIv0ohDfIPizuL0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769342.mp4"
         },
         {
-          "nome": "Sonic 2: O Filme (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/aT2vdnR3qifI21f7fHTqYW5iAAz.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900058.mp4"
+          "nome": "Sonhos de Trem 4K",
+          "descricao": "Sonhos de Trem 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/iF1SxvdSNWkEfKlZnLzJbSsg4oT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768620.mp4"
         },
         {
-          "nome": "Sonic 3: O Filme (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Sonic 2: O Filme 4K",
+          "descricao": "Sonic 2: O Filme 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769565.mp4"
+        },
+        {
+          "nome": "Sonic 3 - O Filme 4K",
+          "descricao": "Sonic 3 - O Filme 4K",
           "capa": "https://image.tmdb.org/t/p/w780/tfM1T6tAivjvy0sLwt6Y9WvlmzB.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899352.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768824.mp4"
         },
         {
-          "nome": "Sonic: O Filme (2020) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Sonic: O Filme 4K [HDR]",
+          "descricao": "Sonic: O Filme 4K [HDR]",
           "capa": "https://image.tmdb.org/t/p/w780/eOC0FSGqyzcnnx7XFgLazI9nACT.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900189.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769699.mp4"
         },
         {
-          "nome": "Sorria 2 (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/tPGaWmxdPumgOAzbGHu8aRJTaXx.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899422.mp4"
+          "nome": "Sorria 2 4K",
+          "descricao": "Sorria 2 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/ypHiYvSJmHIyRDRiosZuE595uir.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768896.mp4"
         },
         {
-          "nome": "South Park (Não Recomendado Para Menores) (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Sorte 4K",
+          "descricao": "Sorte 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/jj9nHVm6qtvb39na21C6vEs6rn8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769539.mp4"
+        },
+        {
+          "nome": "South Park (Não Recomendado Para Menores) 4K",
+          "descricao": "South Park (Não Recomendado Para Menores) 4K",
           "capa": "https://image.tmdb.org/t/p/w780/opc6DIkByOp9vOt14jzfu8oVjbM.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899679.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769179.mp4"
         },
         {
-          "nome": "South Park: Entrando no Panderverso (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "South Park: Entrando no Panderverso 4K",
+          "descricao": "South Park: Entrando no Panderverso 4K",
           "capa": "https://image.tmdb.org/t/p/w780/7uC0REiubjJ2dXh5y8UVHbFd4E7.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899712.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769212.mp4"
         },
         {
-          "nome": "Space Jam: Um Novo Legado (2021) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Space Jam: Um Novo Legado 4K",
+          "descricao": "Space Jam: Um Novo Legado 4K",
           "capa": "https://image.tmdb.org/t/p/w780/itN4fscYy1hIQy5lSdv44SddsoG.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900117.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769625.mp4"
         },
         {
-          "nome": "Sra. Harris Vai a Paris (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/dCp4P08sqOeazheX4GiRRyg5PMm.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899974.mp4"
+          "nome": "Springsteen: Salve-me do Desconhecido 4K [HDR]",
+          "descricao": "Springsteen: Salve-me do Desconhecido 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/ZbKU1buIabrW4b5seDoHY5HkeF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768557.mp4"
         },
         {
-          "nome": "Stalker e Mortal (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Sra. Harris Vai a Paris 4K [HDR]",
+          "descricao": "Sra. Harris Vai a Paris 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/lgv43Ooi7keRy467kgWfVhumPeJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769481.mp4"
+        },
+        {
+          "nome": "Stalker e Mortal 4K [HDR]",
+          "descricao": "Stalker e Mortal 4K [HDR]",
           "capa": "https://image.tmdb.org/t/p/w780/6kQodHV31ffIaE1vhEBo3as8Hon.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899652.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769149.mp4"
         },
         {
-          "nome": "Star Trek: Seção 31 (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Star Trek: Seção 31 4K",
+          "descricao": "Star Trek: Seção 31 4K",
           "capa": "https://image.tmdb.org/t/p/w780/eW1F4mCDLx0ydW8PlMq0uqvVDty.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899351.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768823.mp4"
         },
         {
-          "nome": "Star Wars: Episódio IX - A Ascensão Skywalker (2019) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Star Wars: A Ascensão Skywalker 4K [HDR]",
+          "descricao": "Star Wars: A Ascensão Skywalker 4K [HDR]",
           "capa": "https://image.tmdb.org/t/p/w780/uLlrDUtFG2tKtDcJN6kBznlqqsp.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900201.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769713.mp4"
         },
         {
-          "nome": "Sua Culpa (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/bYGXiAHUQqSp8SW3ql2lleZxQ5n.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899372.mp4"
+          "nome": "Sua Culpa 4K",
+          "descricao": "Sua Culpa 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/mdaODPyPbAwIeQwgBv7u8CMsxIl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768844.mp4"
         },
         {
-          "nome": "Sugarcane (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Sua Culpa: Londres 4K [DV][HDR]",
+          "descricao": "Sua Culpa: Londres 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXQKhfO4Qf7FodbsJbXacX3Tgbc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768373.mp4"
+        },
+        {
+          "nome": "Sugarcane 4K",
+          "descricao": "Sugarcane 4K",
           "capa": "https://image.tmdb.org/t/p/w780/9Xx4o4MVSDv0pojOzoHMH5y85hB.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899385.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768857.mp4"
         },
         {
-          "nome": "Suncoast (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899648.mp4"
+          "nome": "Suncoast 4K [Hybrid]",
+          "descricao": "Suncoast 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769145.mp4"
         },
         {
-          "nome": "Super Mario Bros. O Filme (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/ktU3MIeZtuEVRlMftgp0HMX2WR7.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899833.mp4"
+          "nome": "Super Mario Bros.: O Filme 4K [Hybrid]",
+          "descricao": "Super Mario Bros.: O Filme 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzYbNJ4JaQiRny0cDi8a6bNX5w3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769337.mp4"
         },
         {
-          "nome": "Superação: O Milagre da Fé (2019) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/qNrL1DAHxLA5Bh5sc2xMWJ1pHa8.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900240.mp4"
+          "nome": "Super Mario Galaxy: O Filme 4K",
+          "descricao": "Super Mario Galaxy: O Filme 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/b3WeTp42eJSRuE4UZfyPCOJW4c.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768407.mp4"
         },
         {
-          "nome": "Superboys de Malegaon (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Superboys de Malegaon 4K",
+          "descricao": "Superboys de Malegaon 4K",
           "capa": "https://image.tmdb.org/t/p/w780/nDaLjZwdQeiN6rF35oDkqor28u3.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899282.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768753.mp4"
         },
         {
-          "nome": "Superman (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/vFhGi3pupWwq50Odi47csD3SxTr.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899194.mp4"
+          "nome": "Supergirl 4K [DV][HDR]",
+          "descricao": "Supergirl 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhXfLI1gDWaahzfHT0cb2CH61hO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768318.mp4"
         },
         {
-          "nome": "Suzume (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Supergirl 4K [HDR]",
+          "descricao": "Supergirl 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/lzth7xKSu8Sr9Bys6xo1ajqwgiO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768319.mp4"
+        },
+        {
+          "nome": "Superman 4K",
+          "descricao": "Superman 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/v8ezJI3qfEv4OYq8AWSp4inFIwE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768663.mp4"
+        },
+        {
+          "nome": "Suzume 4K [HDR]",
+          "descricao": "Suzume 4K [HDR]",
           "capa": "https://image.tmdb.org/t/p/w780/QcS3MhdUiOEUOjY451FOFInZXF.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899688.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769188.mp4"
         },
         {
-          "nome": "Sweethearts (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Sweethearts 4K",
+          "descricao": "Sweethearts 4K",
           "capa": "https://image.tmdb.org/t/p/w780/890UDXYal6i8A9NbMV5TAxZpOzH.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899411.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768883.mp4"
         },
         {
-          "nome": "TÁR (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899878.mp4"
+          "nome": "TÁR 4K [HDR]",
+          "descricao": "TÁR 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/yWGpEgjneDeYp6zK5c7WKbEBNO1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769381.mp4"
         },
         {
-          "nome": "Tartarugas Até Lá Embaixo (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/mrfbp6I3UdFmZyxzNS7Y5KRQS7V.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899609.mp4"
-        },
-        {
-          "nome": "Te Peguei! (2018) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Te Peguei! 4K",
+          "descricao": "Te Peguei! 4K",
           "capa": "https://image.tmdb.org/t/p/w780/gI6zwlVk1Bu3FnkcDkCYYHsBhTz.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900261.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769793.mp4"
         },
         {
-          "nome": "Teen Wolf: O Filme (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Tee Yai: Nascido para o Mal 4K [DV][HDR]",
+          "descricao": "Tee Yai: Nascido para o Mal 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Au17UGDQMBr3nR93Gg4TR78X8j.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768261.mp4"
+        },
+        {
+          "nome": "Teen Wolf: O Filme 4K",
+          "descricao": "Teen Wolf: O Filme 4K",
           "capa": "https://image.tmdb.org/t/p/w780/e4M1YCKc07PeBoUs7ST2QgCiZFB.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899967.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769474.mp4"
         },
         {
-          "nome": "Tem Algo de Errado com as Crianças (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Tem Algo de Errado com as Crianças 4K",
+          "descricao": "Tem Algo de Errado com as Crianças 4K",
           "capa": "https://image.tmdb.org/t/p/w780/8ZFb1xE1D3HZl41dlpCfRZrXNdU.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899509.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768984.mp4"
         },
         {
-          "nome": "Tempo (2021) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Tempestade na Vila Sésamo 4K",
+          "descricao": "Tempestade na Vila Sésamo 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/7Ibn8R0SDx1859Ekqd5ALsuxU2f.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768286.mp4"
+        },
+        {
+          "nome": "Tempo 4K",
+          "descricao": "Tempo 4K",
           "capa": "https://image.tmdb.org/t/p/w780/czVBkHRaZu8rOnCNTd0t7EHYj97.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900097.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769605.mp4"
         },
         {
-          "nome": "Tempo de Guerra (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/vZO0U8hkmU4HEEc9t8lm4gYXBNc.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899240.mp4"
+          "nome": "Tempo de Guerra 4K",
+          "descricao": "Tempo de Guerra 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/223TDJjnhuQV6cTUlvn6e39s0GA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768710.mp4"
         },
         {
-          "nome": "Tenet (2020) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Tenet 4K [HDR]",
+          "descricao": "Tenet 4K [HDR]",
           "capa": "https://image.tmdb.org/t/p/w780/Ae0pbv4E6YfqfN3UjKWIfQSzP9v.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900172.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769682.mp4"
         },
         {
-          "nome": "Tequilas e Algumas Mentiras (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Tequilas e Algumas Mentiras 4K",
+          "descricao": "Tequilas e Algumas Mentiras 4K",
           "capa": "https://image.tmdb.org/t/p/w780/y3z6H8oOS2y3dQY9dEKkxQiLWPn.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899506.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768981.mp4"
         },
         {
-          "nome": "Terrifier 2 (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/spkkTYZq38iyapjMy3CsxU5jK3s.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899929.mp4"
+          "nome": "Terremoto em Lisboa 4K [HDR]",
+          "descricao": "Terremoto em Lisboa 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/fjrjLxfruP3dxFP2Oc6OGJab5bM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768569.mp4"
         },
         {
-          "nome": "Terror no Estúdio 666 (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Terror em Silent Hill: Regresso Para o Inferno 4K [HDR]",
+          "descricao": "Terror em Silent Hill: Regresso Para o Inferno 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/5ZDqTM0ZP3ypmFivTeAnHslV6mY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768431.mp4"
+        },
+        {
+          "nome": "Terror no Estúdio 666 4K",
+          "descricao": "Terror no Estúdio 666 4K",
           "capa": "https://image.tmdb.org/t/p/w780/tcsnV2L6SZY9hvuGLEbZddTylPa.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900038.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769545.mp4"
         },
         {
-          "nome": "Teste de Paternidade (2020) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Teste de Paternidade 4K",
+          "descricao": "Teste de Paternidade 4K",
           "capa": "https://image.tmdb.org/t/p/w780/joeII71XIntnoevbG7F6o5y1wg1.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899389.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768861.mp4"
         },
         {
-          "nome": "Tetris (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899904.mp4"
+          "nome": "Tetris 4K [Hybrid]",
+          "descricao": "Tetris 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769407.mp4"
         },
         {
-          "nome": "Texas (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Texas 4K",
+          "descricao": "Texas 4K",
           "capa": "https://image.tmdb.org/t/p/w780/ySlZE3n43iXDBtGBWdc6dTBRiiM.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899425.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768899.mp4"
         },
         {
-          "nome": "The Alto Knights: Máfia e Poder (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/lA7OGYnQGBp5K4DtDKHvMaACGZp.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899265.mp4"
+          "nome": "The Alto Knights: Máfia e Poder 4K",
+          "descricao": "The Alto Knights: Máfia e Poder 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/oMY3zmGB9Fp3U3mVND9zmtbDrCs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768736.mp4"
         },
         {
-          "nome": "The Ballad of Wallis Island (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/AhmJOYdUn9katXqDk0ZpZanQ0xp.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899229.mp4"
+          "nome": "The Beanie Bubble - O Fenômeno das Pelúcias 4K",
+          "descricao": "The Beanie Bubble - O Fenômeno das Pelúcias 4K",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZYAF1qdwuM1LuXYvPjpRWDSRel.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769296.mp4"
         },
         {
-          "nome": "The Beanie Bubble - O Fenômeno das Pelúcias (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/1ZYAF1qdwuM1LuXYvPjpRWDSRel.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899794.mp4"
+          "nome": "The Dink - A Última Chance 4K [DV][HDR]",
+          "descricao": "The Dink - A Última Chance 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIQGvXrP76yQ3bKiUkYTqGTXFcM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768329.mp4"
         },
         {
-          "nome": "The Dirt – Confissões do Mötley Crüe (2019) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "The Dirt: Confissões do Mötley Crüe 4K",
+          "descricao": "The Dirt: Confissões do Mötley Crüe 4K",
           "capa": "https://image.tmdb.org/t/p/w780/jGv0tHav2VbPdPj20n6FaDFBnDA.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899513.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768988.mp4"
         },
         {
-          "nome": "The Electric State (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "The Electric State 4K",
+          "descricao": "The Electric State 4K",
           "capa": "https://image.tmdb.org/t/p/w780/mUBxeBpI5xg66YhLJxg8Ppv0ArW.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899306.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768782.mp4"
         },
         {
-          "nome": "The Flash (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "The Flash 4K [Hybrid]",
+          "descricao": "The Flash 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/itYONYDHpJqTuu8BCXAtHxgpglq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769300.mp4"
+        },
+        {
+          "nome": "The Flash 4K",
+          "descricao": "The Flash 4K",
           "capa": "https://image.tmdb.org/t/p/w780/itYONYDHpJqTuu8BCXAtHxgpglq.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899797.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768497.mp4"
         },
         {
-          "nome": "The Killer (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "The Kill Room 4K [HDR]",
+          "descricao": "The Kill Room 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/zyuTnrxOnGaLCucLWz2wJfVWPhz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769170.mp4"
+        },
+        {
+          "nome": "The Killer 4K",
+          "descricao": "The Killer 4K",
           "capa": "https://image.tmdb.org/t/p/w780/6PCnxKZZIVRanWb710pNpYVkCSw.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899500.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768975.mp4"
         },
         {
-          "nome": "The Kitchen (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "The Kitchen 4K [HDR]",
+          "descricao": "The Kitchen 4K [HDR]",
           "capa": "https://image.tmdb.org/t/p/w780/tV0hK1BiqYrYlehChv4WJXIWgmZ.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899647.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769144.mp4"
         },
         {
-          "nome": "The Last Kingdom: Seven Kings Must Die (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/iWOYqidDzKrObSPOarcfWHNle3G.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899835.mp4"
+          "nome": "The Mission 4K [HDR]",
+          "descricao": "The Mission 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/9pqvp4qpXKmdXk3QP85Miu7nQGD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769182.mp4"
         },
         {
-          "nome": "The Old Guard 2 (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/qjVMsjV7UmSpi1aHA9Wtl1v8cxr.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899213.mp4"
+          "nome": "The Old Guard 2 4K",
+          "descricao": "The Old Guard 2 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/kuM9Q0jxeJ1431rJPJ7Xen2gRX5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768682.mp4"
         },
         {
-          "nome": "They/Them: O Acampamento (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Thelma 4K",
+          "descricao": "Thelma 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/l3ciaQdEBQdlOP2Bkc7BV7VkPdK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768237.mp4"
+        },
+        {
+          "nome": "They/Them: O Acampamento 4K",
+          "descricao": "They/Them: O Acampamento 4K",
           "capa": "https://image.tmdb.org/t/p/w780/n6QwqjxAu4ly5PB4IHVFJ5CHPbS.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900023.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769530.mp4"
         },
         {
-          "nome": "Thor: Amor e Trovão (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/71XnRvkadkWZZowCGcuBi4XAKdJ.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899815.mp4"
+          "nome": "Thor - Ragnarok 4K",
+          "descricao": "Thor - Ragnarok 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/2K45Fp6koAVoeeYS6aMb9BeNt4F.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769817.mp4"
         },
         {
-          "nome": "Thor: Ragnarok (2017) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/3MZlw0ztDak4ATX2FqA5qUh4DfN.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900285.mp4"
+          "nome": "Thor: Amor e Trovão 4K [HDR]",
+          "descricao": "Thor: Amor e Trovão 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/8gdBMIYwPPxp3b9FjY9yCxme5Rs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769319.mp4"
         },
         {
-          "nome": "Thunderbolts* (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/eKD2p840nsRXLUR25ciVsNMJgOB.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899186.mp4"
+          "nome": "Thunderbirds: A Elite da Força Aérea dos EUA 4K [DV][HDR]",
+          "descricao": "Thunderbirds: A Elite da Força Aérea dos EUA 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/9aM9BPIl3nrZzPINgYJVlcLbydl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768304.mp4"
         },
         {
-          "nome": "Tic-Tac: A Maternidade do Mal (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Thunderbolts* 4K",
+          "descricao": "Thunderbolts* 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/zkysYSX51ddSPQuiDTjkGCS6vyh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768653.mp4"
+        },
+        {
+          "nome": "Tic-Tac: A Maternidade do Mal 4K",
+          "descricao": "Tic-Tac: A Maternidade do Mal 4K",
           "capa": "https://image.tmdb.org/t/p/w780/dpKHaXmAeiVaV1FQVIWStyg0Cws.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899850.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769354.mp4"
         },
         {
-          "nome": "Tigres e Hienas (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Tigres e Hienas 4K",
+          "descricao": "Tigres e Hienas 4K",
           "capa": "https://image.tmdb.org/t/p/w780/ajv9BJjtUendpHxnv2PDUh3wYmi.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899419.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768893.mp4"
         },
         {
-          "nome": "Tio Frank (2020) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Till: A Busca por Justiça 4K",
+          "descricao": "Till: A Busca por Justiça 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/ogb70EGzxqdbH5p8mmWJ5CEYSp3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768530.mp4"
+        },
+        {
+          "nome": "Tio Frank 4K [HDR]",
+          "descricao": "Tio Frank 4K [HDR]",
           "capa": "https://image.tmdb.org/t/p/w780/m9I86XRiuRdZnc4tcgsA8UArpnN.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900171.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769681.mp4"
         },
         {
-          "nome": "Tiozões (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Tiozões 4K",
+          "descricao": "Tiozões 4K",
           "capa": "https://image.tmdb.org/t/p/w780/pslwfOD7sFLmpRcHklHOFf2aoDi.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899268.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768739.mp4"
         },
         {
-          "nome": "Titan: O Desastre da OceanGate (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Titan: O Desastre da OceanGate 4K",
+          "descricao": "Titan: O Desastre da OceanGate 4K",
           "capa": "https://image.tmdb.org/t/p/w780/tcdz5yKjEvJQxJzjvbsphjNSNCe.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899230.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768699.mp4"
         },
         {
-          "nome": "Titanic (1997) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900191.mp4"
+          "nome": "Titanic 4K",
+          "descricao": "Titanic 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/As0zX43h3w6kD2NS4uVHu9HKdEh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769701.mp4"
         },
         {
-          "nome": "Todas Menos Ela (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Todas Menos Ela 4K",
+          "descricao": "Todas Menos Ela 4K",
           "capa": "https://image.tmdb.org/t/p/w780/zurkLIcckuQYMNaGZeh6O3rEDJj.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899567.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769043.mp4"
         },
         {
-          "nome": "Todo Tempo Que Temos (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Todo Mundo em Pânico [Extended Edition] 4K",
+          "descricao": "Todo Mundo em Pânico [Extended Edition] 4K",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9yJd2qIIwhZcllHeKHsz5eRvNr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768320.mp4"
+        },
+        {
+          "nome": "Todo Mundo em Pânico 4K [DV][HDR]",
+          "descricao": "Todo Mundo em Pânico 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9yJd2qIIwhZcllHeKHsz5eRvNr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768336.mp4"
+        },
+        {
+          "nome": "Todo Tempo Que Temos 4K",
+          "descricao": "Todo Tempo Que Temos 4K",
           "capa": "https://image.tmdb.org/t/p/w780/qqOmf6702TDz8esL4oJW6uTCijT.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899375.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768847.mp4"
         },
         {
-          "nome": "Togo (2019) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Todos me Amam 4K [DV][HDR]",
+          "descricao": "Todos me Amam 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGpCLg2opZB2vKMMdgU4kpJSYv5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768294.mp4"
+        },
+        {
+          "nome": "Todos Menos Você 4K",
+          "descricao": "Todos Menos Você 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/iKOEAPkb5EyCPmAgByYNeAoG5uc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769120.mp4"
+        },
+        {
+          "nome": "Togo 4K [HDR]",
+          "descricao": "Togo 4K [HDR]",
           "capa": "https://image.tmdb.org/t/p/w780/tCCgIgIqNHZCxKgZKTqv1LzxuwI.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900206.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769718.mp4"
         },
         {
-          "nome": "Tom & Jerry: O Filme (2021) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/9NvYyM8H6d5KAVGqpyFV9YPO5cU.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900145.mp4"
+          "nome": "Tom & Jerry - O Filme 4K",
+          "descricao": "Tom & Jerry - O Filme 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/FP83rpJnnrOYeaQgN80XWxaiKp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769656.mp4"
         },
         {
-          "nome": "Tomb Raider: A Origem (2018) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/wa0GU7H38ZBXHnzpInqkEHpJm84.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900260.mp4"
+          "nome": "Tomando Rumo 4K [HDR]",
+          "descricao": "Tomando Rumo 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/vFeNDnqH6X10MewHWQ5EnlHHRSF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768365.mp4"
         },
         {
-          "nome": "Top Gun: Maverick (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/8v3lrllHYRrqEdYWLyscH4RGFDO.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900037.mp4"
+          "nome": "Tomb Raider A Origem 4K",
+          "descricao": "Tomb Raider A Origem 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/56liuoIqTQJazDV8BqonmoMvl9N.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769792.mp4"
         },
         {
-          "nome": "Top Gunner: Zona de Perigo (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Top Gun: Maverick 4K [HDR]",
+          "descricao": "Top Gun: Maverick 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/kPbuLGVSJHATkW9fX9L3h1wM0Pa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769544.mp4"
+        },
+        {
+          "nome": "Top Gunner: Zona de Perigo 4K",
+          "descricao": "Top Gunner: Zona de Perigo 4K",
           "capa": "https://image.tmdb.org/t/p/w780/2xcV2egehqvKTHFEtvG5k8PMbeB.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899608.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769088.mp4"
         },
         {
-          "nome": "Tornado: Joplin em Ruínas (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/ggXb37lX9gW4SR7kpMaraXDFeFR.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899302.mp4"
+          "nome": "Tornado: Joplin em Ruínas 4K",
+          "descricao": "Tornado: Joplin em Ruínas 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/p91IMcRiHvDc1Ou8rDBdEIHZcli.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768773.mp4"
         },
         {
-          "nome": "Touch (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Torre Greenfell: A Verdade por Trás do Desastre 4K [DV][HDR]",
+          "descricao": "Torre Greenfell: A Verdade por Trás do Desastre 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/8jSNNh3tfQPyZxihqCUSSEt0rK2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768291.mp4"
+        },
+        {
+          "nome": "Touch 4K",
+          "descricao": "Touch 4K",
           "capa": "https://image.tmdb.org/t/p/w780/5GKvryDPR8LudxL2p6PqZrJwIwf.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899474.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768948.mp4"
         },
         {
-          "nome": "Toy Story 4 (2019) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Toy Story 4 4K",
+          "descricao": "Toy Story 4 4K",
           "capa": "https://image.tmdb.org/t/p/w780/csiyO6q8rR74pfgJDjwINzhoick.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900128.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769638.mp4"
         },
         {
-          "nome": "Transformers: O Despertar das Feras (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899795.mp4"
+          "nome": "Transformers: O Despertar das Feras 4K [Hybrid]",
+          "descricao": "Transformers: O Despertar das Feras 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769297.mp4"
         },
         {
-          "nome": "Transformers: O Início (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Transformers: O Despertar das Feras 4K",
+          "descricao": "Transformers: O Despertar das Feras 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/9PSKoY98olv7Sru1PWnLpFDqat9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769298.mp4"
+        },
+        {
+          "nome": "Transformers: O Início 4K",
+          "descricao": "Transformers: O Início 4K",
           "capa": "https://image.tmdb.org/t/p/w780/9yPuNAZQd5m5iKpQV2MDAfcwW9N.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899434.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768908.mp4"
         },
         {
-          "nome": "Transformers: O Último Cavaleiro (2017) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Transformers: O Último Cavaleiro 4K",
+          "descricao": "Transformers: O Último Cavaleiro 4K",
           "capa": "https://image.tmdb.org/t/p/w780/7ugUPQw8JjGazfd28MIPADvDaUT.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900163.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769673.mp4"
         },
         {
-          "nome": "Transfusão (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Transfusão 4K [HDR]",
+          "descricao": "Transfusão 4K [HDR]",
           "capa": "https://image.tmdb.org/t/p/w780/5N9ErU8bpfRRuJQFzDc4FRgdOD4.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899966.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769473.mp4"
         },
         {
-          "nome": "Trem-Bala (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/cXMeF0FUFe9n3Om9GzMqwYMQCgw.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900028.mp4"
-        },
-        {
-          "nome": "Triângulo da Tristeza (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Triângulo da Tristeza 4K",
+          "descricao": "Triângulo da Tristeza 4K",
           "capa": "https://image.tmdb.org/t/p/w780/scfQwUUe0MQb0T5khF1x5e4HSoR.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899932.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769439.mp4"
         },
         {
-          "nome": "Troco em Dobro (2020) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/9kUoCeyFAfYZKrGI27gSsnnsHN0.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899917.mp4"
+          "nome": "Troco em Dobro 4K [Hybrid]",
+          "descricao": "Troco em Dobro 4K [Hybrid]",
+          "capa": "http://ocvtab.info/images/f7968726230fdcad991929a8162ad0d5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769424.mp4"
         },
         {
-          "nome": "Trolls 2 (2020) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/paaMwl91E8rZPs9MMGLqp7iaF3H.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900168.mp4"
+          "nome": "Troféu de Sangue 4K",
+          "descricao": "Troféu de Sangue 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/4dpEIgAonNKqFDSuts71ErDZC9J.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768645.mp4"
         },
         {
-          "nome": "Trolls 3: Juntos Novamente (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/ymbTyNAOx25PW28v6NUqR4cuXPb.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899692.mp4"
+          "nome": "Trolls 2 4K",
+          "descricao": "Trolls 2 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/4aOyZTiybSidipdjtv7xpeO4TZp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769678.mp4"
         },
         {
-          "nome": "Tudo é Possível (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/fi3CpngKPgTXLfW6XgvXLuTNslk.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900046.mp4"
+          "nome": "Trolls 3 - Juntos Novamente 4K [Hybrid]",
+          "descricao": "Trolls 3 - Juntos Novamente 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mC4iunNnWrHIBamKqiHkpFI32X.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769192.mp4"
         },
         {
-          "nome": "Tudo em Família (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/fU7caVYjSHYEgZQrrFDr3rAJx8o.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899544.mp4"
+          "nome": "Tron: Ares 4K [HDR]",
+          "descricao": "Tron: Ares 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/4NO0mmJ7WEU3PcllcogmiQIUecq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768567.mp4"
         },
         {
-          "nome": "Twisters (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/6RpWnpEL8sXnZgzhEmnT2SLhHL7.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899514.mp4"
+          "nome": "Trunfo 4K [DV][HDR]",
+          "descricao": "Trunfo 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbg2dqK1zIvvSyTMaCJ4g22Pl9l.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768349.mp4"
         },
         {
-          "nome": "Último Alvo (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/zihcswJKySgg6pCbchOtrbUsnrq.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899279.mp4"
+          "nome": "Truque de Mestre: O 3° Ato 4K [HDR]",
+          "descricao": "Truque de Mestre: O 3° Ato 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/xUddC5HTjMWmClD007QBWR0BLHY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768603.mp4"
         },
         {
-          "nome": "Último Suspiro (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/920sg6Ok8byvLGRfEVv68JTHSPP.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899243.mp4"
+          "nome": "Truque de Mestre: O 3° Ato 4K",
+          "descricao": "Truque de Mestre: O 3° Ato 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/xUddC5HTjMWmClD007QBWR0BLHY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768602.mp4"
         },
         {
-          "nome": "Um Ano Inesquecível - Verão (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Trustor: Por Dentro do Escândalo Financeiro 4K [DV][HDR]",
+          "descricao": "Trustor: Por Dentro do Escândalo Financeiro 4K [DV][HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/q6NAnjrGV7BGrEIqpglQYshFHq9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768252.mp4"
+        },
+        {
+          "nome": "Tudo é Possível 4K",
+          "descricao": "Tudo é Possível 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/jJVtdeWddiarPpWgSnEBXEJAsz4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769553.mp4"
+        },
+        {
+          "nome": "Tudo em Família 4K",
+          "descricao": "Tudo em Família 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/yyp4pckJtdkHvkapMBV9UzTOFue.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769020.mp4"
+        },
+        {
+          "nome": "Tudo em Todo o Lugar ao Mesmo Tempo 4K [HDR]",
+          "descricao": "Tudo em Todo o Lugar ao Mesmo Tempo 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/2dSZQGwijlXvMSyuGe0FSgrXnv0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768489.mp4"
+        },
+        {
+          "nome": "Turtles All the Way Down 4K",
+          "descricao": "Turtles All the Way Down 4K",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Mh2nW3bZhMB7c9x4NVVDyYVTuC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769089.mp4"
+        },
+        {
+          "nome": "Twisters 4K",
+          "descricao": "Twisters 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/oLOKgN4U6oJxLSGdIIURa6MaELT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768989.mp4"
+        },
+        {
+          "nome": "Último Alvo 4K",
+          "descricao": "Último Alvo 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/tUyBqt4A9mIqQNjbzMsQSFhDb3r.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768750.mp4"
+        },
+        {
+          "nome": "Um Ano Inesquecível: Verão 4K [HDR]",
+          "descricao": "Um Ano Inesquecível: Verão 4K [HDR]",
           "capa": "https://image.tmdb.org/t/p/w780/zEjG2LXebr8rpgZQQA6J2YOl77i.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899819.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769323.mp4"
         },
         {
-          "nome": "Um Crime Argentino (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Um Chamado Natalino 4K [Hybrid]",
+          "descricao": "Um Chamado Natalino 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRKyfZoHndndMbvUGqjVbmuuOT9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769204.mp4"
+        },
+        {
+          "nome": "Um Crime Argentino 4K",
+          "descricao": "Um Crime Argentino 4K",
           "capa": "https://image.tmdb.org/t/p/w780/6wbDGd8VkQQGb3m9sMxEpZ0w4sw.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899636.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769128.mp4"
         },
         {
-          "nome": "Um Dia Daqueles (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/z7JY5Sqx3c4tAXri672LtQRa3nK.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899274.mp4"
+          "nome": "Um Dia Daqueles 4K",
+          "descricao": "Um Dia Daqueles 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/igMbtYEEJ1gyQ85TRMgao75DFT8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768745.mp4"
         },
         {
-          "nome": "Um Diário para Jordan (2021) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Um Diário para Jordan 4K",
+          "descricao": "Um Diário para Jordan 4K",
           "capa": "https://image.tmdb.org/t/p/w780/iauAMW7xAkh04riX5MudCblQYTJ.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900068.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769576.mp4"
         },
         {
-          "nome": "Um Espião Animal (2019) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Um Espião Animal 4K",
+          "descricao": "Um Espião Animal 4K",
           "capa": "https://image.tmdb.org/t/p/w780/aAOKVhTESY4tMqjDPn3KW4ugnFn.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900194.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769704.mp4"
         },
         {
-          "nome": "Um Filme Minecraft (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/4VtkIaj76TpQNfhDHXQDdT9uBN5.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899260.mp4"
+          "nome": "Um Fantasma na Batalha 4K",
+          "descricao": "Um Fantasma na Batalha 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/ijgAJV26tkiZnLPbadDFXVqKHWg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768630.mp4"
         },
         {
-          "nome": "Um Homem Diferente (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Um Filme Minecraft 4K",
+          "descricao": "Um Filme Minecraft 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/a227F8PnXDABR1JJTuasmJmxEhf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768731.mp4"
+        },
+        {
+          "nome": "Um Guarda-Florestal 4K [HDR]",
+          "descricao": "Um Guarda-Florestal 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/dE1VakahNpdAI7xYF2ia6ryEkL5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768533.mp4"
+        },
+        {
+          "nome": "Um Homem Diferente 4K",
+          "descricao": "Um Homem Diferente 4K",
           "capa": "https://image.tmdb.org/t/p/w780/6hhLlgqGTa7La186TEaK7vhpgAA.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899252.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768723.mp4"
         },
         {
-          "nome": "Um Lindo Dia na Vizinhança (2019) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Um Lindo Dia na Vizinhança 4K [HDR]",
+          "descricao": "Um Lindo Dia na Vizinhança 4K [HDR]",
           "capa": "https://image.tmdb.org/t/p/w780/qenbW0aWvW8bxNb0XVDPeIUwFVu.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900216.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769732.mp4"
         },
         {
-          "nome": "Um Lugar Silencioso - Parte II (2021) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/bqWvndlCAcBteUaHOL5HHEN5uHn.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900118.mp4"
+          "nome": "Um Lugar Chamado Utopia 4K",
+          "descricao": "Um Lugar Chamado Utopia 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/z35jz7ZSTYfZVbRSM3HD9FXQYPv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768701.mp4"
         },
         {
-          "nome": "Um Lugar Silencioso (2018) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/tH0YRWQciL1pkwnLR7cZ7xSh7oA.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900139.mp4"
+          "nome": "Um Lugar Silencioso 4K [HDR]",
+          "descricao": "Um Lugar Silencioso 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/jk1LYcbiuUr0tv37cVcmp4u9KcN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769649.mp4"
         },
         {
-          "nome": "Um Lugar Silencioso: Dia Um (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Um Lugar Silencioso: Dia Um 4K",
+          "descricao": "Um Lugar Silencioso: Dia Um 4K",
           "capa": "https://image.tmdb.org/t/p/w780/pN9BtzUeqPIKybAu9baihz6YzyO.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899527.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769002.mp4"
         },
         {
-          "nome": "Um Maluco no Golfe 2 (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Um Maluco no Golfe 2 4K",
+          "descricao": "Um Maluco no Golfe 2 4K",
           "capa": "https://image.tmdb.org/t/p/w780/tUnY14keO33H2QfOQEWRUsccgZo.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899203.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4768672.mp4"
         },
         {
-          "nome": "Um Motivo para Lutar (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
+          "nome": "Um Match Surpresa 4K [Hybrid]",
+          "descricao": "Um Match Surpresa 4K [Hybrid]",
+          "capa": "http://ocvtab.info/images/0e7c8e10a781890d075a0337b413ea14.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769415.mp4"
+        },
+        {
+          "nome": "Um Motivo para Lutar 4K [HDR]",
+          "descricao": "Um Motivo para Lutar 4K [HDR]",
           "capa": "https://image.tmdb.org/t/p/w780/n5320Te725bESCpbHPX0li0VZBw.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899801.mp4"
+          "url": "http://servidor/movie/{user}/{pass}/4769304.mp4"
         },
         {
-          "nome": "Um Pacto de Amizade (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/f1NEx4lohw47WSuNqQife0GxWLv.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899907.mp4"
+          "nome": "Um Natal Bem Jonas Brothers 4K [HDR]",
+          "descricao": "Um Natal Bem Jonas Brothers 4K [HDR]",
+          "capa": "https://image.tmdb.org/t/p/w780/4nkbqnPdwENn3yKrbVvDINf5ltO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768591.mp4"
         },
         {
-          "nome": "Um Príncipe em Nova York 2 (2021) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/mpXRG5zPUT18IeYvCoC4zOscked.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900151.mp4"
+          "nome": "Um Natal Cheio de Graça 4K",
+          "descricao": "Um Natal Cheio de Graça 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/8TDwAtynfhER7CXb7J61l4SyTCV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769446.mp4"
         },
         {
-          "nome": "Um Terror de Parentes (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/7YdDBrddepnP7biAsd2X7JJKcuV.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899311.mp4"
+          "nome": "Um Pacto de Amizade 4K [Hybrid]",
+          "descricao": "Um Pacto de Amizade 4K [Hybrid]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1NEx4lohw47WSuNqQife0GxWLv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769410.mp4"
         },
         {
-          "nome": "Um Tira da Pesada 4: Axel Foley (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/49zBBS5eSCqTj6r0T9kPoijib7E.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899543.mp4"
-        },
-        {
-          "nome": "Uma Astronauta Quase Perfeita (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/b9LiHsg0RFOD7ZtJ6n3Kpgppkaw.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899548.mp4"
-        },
-        {
-          "nome": "Uma Família Extraordinária (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/xcmLl584q80csyGwH0q65nDg1cA.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899557.mp4"
-        },
-        {
-          "nome": "Uma Festa de Arromba (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/jJJuiyH3ibOA3VdUjrXA88HRxfS.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899957.mp4"
-        },
-        {
-          "nome": "Uma Garota de Muita Sorte (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/9qJOLqZ7Gcx8HeCkt5iYqEyMjJs.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899481.mp4"
-        },
-        {
-          "nome": "Uma Gota de Esperança (2021) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/43PfIx3oQVsVJIQM6pdCBKTyBNu.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900130.mp4"
-        },
-        {
-          "nome": "Uma Ideia de Você (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/5rIKVegF7XMPB02RaFaxtFwTPR0.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899607.mp4"
-        },
-        {
-          "nome": "Uma Irmã Nada Perfeita (2018) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/iDnKO3Dff1p1MQ7dryLRVXIJyrs.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899225.mp4"
-        },
-        {
-          "nome": "Uma Linda Vida (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/oBnrrPcR6W4i58Ke9uZGWpiIl4G.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899753.mp4"
-        },
-        {
-          "nome": "Uma Obsessão Desconhecida (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/wLFnV0w9aQ4c507owJwMSWStsMD.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899955.mp4"
-        },
-        {
-          "nome": "Uma Segunda Chance Para Amar (2019) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/1vqkt1bZF5gDmID60jzhEip2WrL.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899364.mp4"
-        },
-        {
-          "nome": "Uma Vida de Esperança (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/cjodugwpEy2CRf7xUp1YxIy0MbF.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899586.mp4"
-        },
-        {
-          "nome": "Until Dawn: Noite de Terror (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/95YgqGDuUNSGrx5Obz51tlQLwWb.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899247.mp4"
-        },
-        {
-          "nome": "Untold: Crime e Infrações (2021) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/zKXmY2UYtCrhBZfzgmDgpteWyV4.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899896.mp4"
-        },
-        {
-          "nome": "Untold: Pacto com o Diabo (2021) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/gjjM0z1tRY5S4KjxXVNp7BRTOxG.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899897.mp4"
-        },
-        {
-          "nome": "Upgrade: As Cores do Amor (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/rqfqLTNpueBtdtMO0QZ8XzQaDi1.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899566.mp4"
-        },
-        {
-          "nome": "Utopia (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/yef0tY1Nw3BX8PJTfBLieqHj5Hw.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899232.mp4"
-        },
-        {
-          "nome": "Valentes (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/v6aAs9edaRQMwZIprxeDDdTdB9K.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899942.mp4"
-        },
-        {
-          "nome": "Valerian e a Cidade dos Mil Planetas (2017) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/x69DC2NnchOhNykhbkjgpuqC2SD.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900217.mp4"
-        },
-        {
-          "nome": "Veja Como Eles Correm (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/dHjMrsrhgLcwKLIfReRxt9rFBFk.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900005.mp4"
-        },
-        {
-          "nome": "Velozes & Furiosos 9 (2021) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/6TuEPZ3ItlBO8WmH8BmY2aGLhes.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900113.mp4"
-        },
-        {
-          "nome": "Velozes & Furiosos 10 (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/wDWAA5QApz5L5BKfFaaj8HJCAQM.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899808.mp4"
-        },
-        {
-          "nome": "Velozes & Furiosos: Hobbs & Shaw (2019) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900230.mp4"
-        },
-        {
-          "nome": "Venom (2018) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900284.mp4"
-        },
-        {
-          "nome": "Venom: A Última Rodada (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/p8CHaGudwUzBSU7dTjzMd71Iv4M.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899387.mp4"
-        },
-        {
-          "nome": "Venom: Tempo de Carnificina (2021) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/h5UzYZquMwO9FVn15R2eK2itmHu.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900095.mp4"
-        },
-        {
-          "nome": "Viagem de Formatura: Mallorca (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/bbzGTj9FEnqQP7B44usZzfP1CAt.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899245.mp4"
-        },
-        {
-          "nome": "Viajantes - Instinto e Desejo (2021) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/50mYEEOiueKarAhlHAz5qOTuIzX.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899499.mp4"
-        },
-        {
-          "nome": "Vício Perfeito (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/1bFE8TlLU7r3IwwGHN7au8xPIds.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899924.mp4"
-        },
-        {
-          "nome": "Vida (2017) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/tke5fs8XcctzRUPtJeywbtpD26f.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900246.mp4"
-        },
-        {
-          "nome": "Vidente Por Acidente (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/3L4YF9CLtXunQgvvuUe4cuhNe4T.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899531.mp4"
-        },
-        {
-          "nome": "Vingadores: Guerra Infinita (2018) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/d6jUbQj4E4R5MJlFYfdzANEZbkL.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900283.mp4"
-        },
-        {
-          "nome": "Vingadores: Ultimato (2019) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/7jvlqGsxeMKscskuUZgKk0Kuv99.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900239.mp4"
-        },
-        {
-          "nome": "Vingança (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/ozceAmPJHgK9AqTkHYyksmMofdR.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899963.mp4"
-        },
-        {
-          "nome": "Vini (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/2yzoEUZTf41h6SXVz6V0Z9fHkHN.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899258.mp4"
-        },
-        {
-          "nome": "Vítimas do Dia (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/qoohRRRIH67NN7vORNeVDARr2SK.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899362.mp4"
-        },
-        {
-          "nome": "Viúva Negra (2021) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/1olJMMIUYkV6XwET1xRIROqYkxO.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900119.mp4"
-        },
-        {
-          "nome": "Viva! A Babá Morreu (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/pthO46ydVu8trFnRyjwSW3mrSaA.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899447.mp4"
-        },
-        {
-          "nome": "Vizinhos (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/oT7388wlquvpGN3LPxVeD849QAI.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899961.mp4"
-        },
-        {
-          "nome": "Você Não Tá Convidada pro Meu Bat Mitzvá! (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/fQmlvC4AQrH6tZIrnaK4n6EidGW.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899771.mp4"
-        },
-        {
-          "nome": "Volta Pra Mim (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/6nFHCL1Hpl3x0FrVDPRo1yN6hMY.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900066.mp4"
-        },
-        {
-          "nome": "Wanted Man: Marcado Para Morrer (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/nqmm4YvxB2v5mnqeq7K8xN5VLYP.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899502.mp4"
-        },
-        {
-          "nome": "Watchmen: Capítulo 1 (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/x50RGRXzl2Ohib9t6aL6by4m4LW.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899281.mp4"
-        },
-        {
-          "nome": "Watchmen: Capítulo 2 (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/rvSEowY2XE0Gb06FBEwQng2M6KX.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899280.mp4"
-        },
-        {
-          "nome": "White Boy Rick (2018) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/33Gm5AZsg8e7sDvk71oePbE6lhk.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900259.mp4"
-        },
-        {
-          "nome": "Wicked (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899371.mp4"
-        },
-        {
-          "nome": "WiFi Ralph: Quebrando a Internet (2018) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/8aaXBBT5Hwo7Oab8wyNyoN7z7mg.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900282.mp4"
-        },
-        {
-          "nome": "Wish: O Poder dos Desejos (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/temIXpcua7j5v4FipOxmzTfrB06.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899616.mp4"
-        },
-        {
-          "nome": "Wolverine: Imortal (2013) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/wCP2JfaRFdrFjxiXTUdNnfvyJ2K.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900156.mp4"
-        },
-        {
-          "nome": "Wonka (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/uQWEomz2wLoijrvoFaJt2gUMXRu.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899665.mp4"
-        },
-        {
-          "nome": "X: A Marca da Morte (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/As5dKK7fLOlCyVwjqoW5pyiDz6D.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899977.mp4"
-        },
-        {
-          "nome": "Xeque-Mate (2024) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/h0cp9DMcP9MFvt3FQlrr4RAwzIX.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899565.mp4"
-        },
-        {
-          "nome": "X-Men 2 (2003) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/qdWe8JiEiGGbTgLhuAjDgVi4O41.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900159.mp4"
-        },
-        {
-          "nome": "X-Men: Apocalipse (2016) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/a6OjCxF8DW9huIdAPshWJpO0ldx.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900154.mp4"
-        },
-        {
-          "nome": "X-Men: Dias de um Futuro Esquecido (2014) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/bUm0nSsTA6kfFfZHgNbNFisVe7M.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900155.mp4"
-        },
-        {
-          "nome": "X-Men: Fênix Negra (2019) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/w4mvEKtjawXdYaq1bORuodLX6ti.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900152.mp4"
-        },
-        {
-          "nome": "X-Men: O Confronto Final (2006) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/fD0vCQ4Bz5PF71QllSUF2ULAJV6.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900158.mp4"
-        },
-        {
-          "nome": "X-Men: O Filme (2000) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900160.mp4"
-        },
-        {
-          "nome": "X-Men: Primeira Classe (2011) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/nqPXRgbfzMJ4Wh4a1OkeVjOEDmK.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900157.mp4"
-        },
-        {
-          "nome": "Xtremo (2021) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/hj2mUTJktFXNA9cUtFptYiPXhEs.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899388.mp4"
-        },
-        {
-          "nome": "Z-O-M-B-I-E-S 3 (2022) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/d77E4mv8FvqPsTunLNNvqiX7Hd4.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900044.mp4"
-        },
-        {
-          "nome": "ZOMBIES 4: A Era dos Vampiros (2025) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/fFAfYNA98NROtpK5RbjtcBd4vrf.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899210.mp4"
-        },
-        {
-          "nome": "Zona de Combate (2021) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/vnVQx7MJMwTvqcn5pkYDImxzlMg.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899927.mp4"
-        },
-        {
-          "nome": "Zona de Interesse (2023) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/v8pTxM7Hqzkjb53lyv2isMj3G9.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3899619.mp4"
-        },
-        {
-          "nome": "Zumbilândia: Atire Duas Vezes (2019) [4K]",
-          "descricao": "Filmes De UHD 4K",
-          "capa": "https://image.tmdb.org/t/p/w780/x8T7xy6usNhTWphfQTH7vmr4tOC.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/3900221.mp4"
+          "nome": "Um Pai em Apuros 4K",
+          "descricao": "Um Pai em Apuros 4K",
+          "capa": "https://image.tmdb.org/t/p/w780/s99RBLQXE0GaqrlprP1HwV5HOQO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4768216.mp4"
         }
       ]
     }
