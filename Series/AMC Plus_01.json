@@ -2,16 +2,23 @@
   "canais": [],
   "filmes": [],
   "series": [
-     {
+    {
       "album": "♦️ Ação ✔️",
       "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/ação.png",
-      "subAlbuns": [],
-      "itens": [
+      "subAlbuns": [
         {
-          "nome": "Thor: O Mundo Sombrio (2013)",
-          "descricao": "Thor: O Mundo Sombrio (2013)",
-          "capa": "https://image.tmdb.org/t/p/w780/9qdqXIx2neypuT1kWKCTI2vsO4q.jpg",
-          "url": "http://servidor/movie/{user}/{pass}/4565714.mp4"
+          "subAlbum": "Thor: O Mundo Sombrio (2013)",
+          "itens": [
+            {
+              "nome": "Thor: O Mundo Sombrio (2013)",
+              "descricao": "Thor: O Mundo Sombrio (2013)",
+              "capa": "https://image.tmdb.org/t/p/w780/9qdqXIx2neypuT1kWKCTI2vsO4q.jpg",
+              "url": "http://servidor/movie/{user}/{pass}/4565714.mp4"
+            }
+          ]
         }
+      ],
+      "itens": []
+    }
   ]
 }
