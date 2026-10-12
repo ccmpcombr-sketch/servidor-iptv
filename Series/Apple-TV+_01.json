@@ -14,6 +14,23 @@
               "descricao": "Thor: O Mundo Sombrio (2013)",
               "capa": "https://image.tmdb.org/t/p/w780/9qdqXIx2neypuT1kWKCTI2vsO4q.jpg",
               "url": "http://servidor/movie/{user}/{pass}/4565714.mp4"
+            },
+            {
+              "nome": "9 Satra: A Lenda do Muay Thai",
+              "descricao": "9 Satra: A Lenda do Muay Thai",
+              "capa": "https://image.tmdb.org/t/p/w780/pQPKRpI34LtQ16WKhYKqh1dIbMK.jpg",
+              "url": "http://servidor/movie/{user}/{pass}/4838869.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "♦️ Fantasia ✔️",
+          "itens": [
+            {
+              "nome": "9 Satra: A Lenda do Muay Thai",
+              "descricao": "9 Satra: A Lenda do Muay Thai",
+              "capa": "https://image.tmdb.org/t/p/w780/pQPKRpI34LtQ16WKhYKqh1dIbMK.jpg",
+              "url": "http://servidor/movie/{user}/{pass}/4838869.mp4"
             }
           ]
         }
