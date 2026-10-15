@@ -1,1 +1,3908 @@
-cole aqui
+{
+  "canais": [],
+  "filmes": [],
+  "series": [
+    {
+      "album": "♦️ Netflix",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/series/Netflix.png",
+      "subAlbuns": [
+        {
+          "subAlbum": "Élite Historias Breves_ Samuel Omar",
+          "itens": [
+            {
+              "nome": "Élite Historias Breves: Samuel Omar Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/yCT0Ss92zzYw2LEk5WNGoA6BBoO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721441.mp4"
+            },
+            {
+              "nome": "Élite Historias Breves: Samuel Omar Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/yCT0Ss92zzYw2LEk5WNGoA6BBoO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721442.mp4"
+            },
+            {
+              "nome": "Élite Historias Breves: Samuel Omar Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/yCT0Ss92zzYw2LEk5WNGoA6BBoO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721443.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "É o Amor_ Família Camargo",
+          "itens": [
+            {
+              "nome": "É o Amor: Família Camargo Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ouT39abGsN27ocpWsz8y8ckERha.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721717.mp4"
+            },
+            {
+              "nome": "É o Amor: Família Camargo Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ouT39abGsN27ocpWsz8y8ckERha.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721718.mp4"
+            },
+            {
+              "nome": "É o Amor: Família Camargo Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ouT39abGsN27ocpWsz8y8ckERha.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721719.mp4"
+            },
+            {
+              "nome": "É o Amor: Família Camargo Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ouT39abGsN27ocpWsz8y8ckERha.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721720.mp4"
+            },
+            {
+              "nome": "É o Amor: Família Camargo Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ouT39abGsN27ocpWsz8y8ckERha.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721721.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "É Amor ou Falsidade_",
+          "itens": [
+            {
+              "nome": "É Amor ou Falsidade? Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/cndCx0UnQdl2wpyOY4nTu5RCu9J.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716262.mp4"
+            },
+            {
+              "nome": "É Amor ou Falsidade? Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/cndCx0UnQdl2wpyOY4nTu5RCu9J.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716263.mp4"
+            },
+            {
+              "nome": "É Amor ou Falsidade? Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/cndCx0UnQdl2wpyOY4nTu5RCu9J.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716264.mp4"
+            },
+            {
+              "nome": "É Amor ou Falsidade? Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/cndCx0UnQdl2wpyOY4nTu5RCu9J.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716265.mp4"
+            },
+            {
+              "nome": "É Amor ou Falsidade? Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/cndCx0UnQdl2wpyOY4nTu5RCu9J.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716266.mp4"
+            },
+            {
+              "nome": "É Amor ou Falsidade? Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/cndCx0UnQdl2wpyOY4nTu5RCu9J.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716267.mp4"
+            },
+            {
+              "nome": "É Amor ou Falsidade? Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/cndCx0UnQdl2wpyOY4nTu5RCu9J.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716268.mp4"
+            },
+            {
+              "nome": "É Amor ou Falsidade? Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/cndCx0UnQdl2wpyOY4nTu5RCu9J.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716269.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Enfermeira",
+          "itens": [
+            {
+              "nome": "Enfermeira Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/biNFx4Q3Hbbq8F1ntt9opQJWpsy.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713418.mp4"
+            },
+            {
+              "nome": "Enfermeira Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/biNFx4Q3Hbbq8F1ntt9opQJWpsy.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713419.mp4"
+            },
+            {
+              "nome": "Enfermeira Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/biNFx4Q3Hbbq8F1ntt9opQJWpsy.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713420.mp4"
+            },
+            {
+              "nome": "Enfermeira Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/biNFx4Q3Hbbq8F1ntt9opQJWpsy.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713421.mp4"
+            },
+            {
+              "nome": "Enfermeira Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/biNFx4Q3Hbbq8F1ntt9opQJWpsy.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713422.mp4"
+            },
+            {
+              "nome": "Enfermeira Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/biNFx4Q3Hbbq8F1ntt9opQJWpsy.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713423.mp4"
+            },
+            {
+              "nome": "Enfermeira Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/biNFx4Q3Hbbq8F1ntt9opQJWpsy.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713424.mp4"
+            },
+            {
+              "nome": "Enfermeira Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/biNFx4Q3Hbbq8F1ntt9opQJWpsy.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713425.mp4"
+            },
+            {
+              "nome": "Enfermeira Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/biNFx4Q3Hbbq8F1ntt9opQJWpsy.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713426.mp4"
+            },
+            {
+              "nome": "Enfermeira Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/biNFx4Q3Hbbq8F1ntt9opQJWpsy.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713427.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Encontros Extraterrestres",
+          "itens": [
+            {
+              "nome": "Encontros Extraterrestres Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4PBiZ3C4y6vZ1JPQrpXtZ30WVeP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713329.mp4"
+            },
+            {
+              "nome": "Encontros Extraterrestres Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4PBiZ3C4y6vZ1JPQrpXtZ30WVeP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713330.mp4"
+            },
+            {
+              "nome": "Encontros Extraterrestres Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4PBiZ3C4y6vZ1JPQrpXtZ30WVeP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713331.mp4"
+            },
+            {
+              "nome": "Encontros Extraterrestres Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4PBiZ3C4y6vZ1JPQrpXtZ30WVeP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713332.mp4"
+            },
+            {
+              "nome": "Encontros Extraterrestres Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4PBiZ3C4y6vZ1JPQrpXtZ30WVeP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713333.mp4"
+            },
+            {
+              "nome": "Encontros Extraterrestres Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4PBiZ3C4y6vZ1JPQrpXtZ30WVeP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713334.mp4"
+            },
+            {
+              "nome": "Encontros Extraterrestres Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4PBiZ3C4y6vZ1JPQrpXtZ30WVeP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713335.mp4"
+            },
+            {
+              "nome": "Encontros Extraterrestres Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4PBiZ3C4y6vZ1JPQrpXtZ30WVeP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713336.mp4"
+            },
+            {
+              "nome": "Encontros Extraterrestres Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4PBiZ3C4y6vZ1JPQrpXtZ30WVeP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713337.mp4"
+            },
+            {
+              "nome": "Encontros Extraterrestres Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4PBiZ3C4y6vZ1JPQrpXtZ30WVeP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713338.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Emily em Paris",
+          "itens": [
+            {
+              "nome": "Emily em Paris Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/2QeSY4fkl3tKRAg3HEiTHxSJg8j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710816.mp4"
+            },
+            {
+              "nome": "Emily em Paris Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/2QeSY4fkl3tKRAg3HEiTHxSJg8j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710817.mp4"
+            },
+            {
+              "nome": "Emily em Paris Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/2QeSY4fkl3tKRAg3HEiTHxSJg8j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710818.mp4"
+            },
+            {
+              "nome": "Emily em Paris Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/2QeSY4fkl3tKRAg3HEiTHxSJg8j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710819.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Emergência_ Nova York",
+          "itens": [
+            {
+              "nome": "Emergência: Nova York Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ArCZdBu7CddexipolhbTzH2iE9j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710696.mp4"
+            },
+            {
+              "nome": "Emergência: Nova York Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ArCZdBu7CddexipolhbTzH2iE9j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710697.mp4"
+            },
+            {
+              "nome": "Emergência: Nova York Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ArCZdBu7CddexipolhbTzH2iE9j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710698.mp4"
+            },
+            {
+              "nome": "Emergência: Nova York Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ArCZdBu7CddexipolhbTzH2iE9j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710699.mp4"
+            },
+            {
+              "nome": "Emergência: Nova York Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ArCZdBu7CddexipolhbTzH2iE9j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710700.mp4"
+            },
+            {
+              "nome": "Emergência: Nova York Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ArCZdBu7CddexipolhbTzH2iE9j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710701.mp4"
+            },
+            {
+              "nome": "Emergência: Nova York Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ArCZdBu7CddexipolhbTzH2iE9j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710702.mp4"
+            },
+            {
+              "nome": "Emergência: Nova York Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ArCZdBu7CddexipolhbTzH2iE9j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710703.mp4"
+            },
+            {
+              "nome": "Emergência: Nova York Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ArCZdBu7CddexipolhbTzH2iE9j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710704.mp4"
+            },
+            {
+              "nome": "Emergência: Nova York Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ArCZdBu7CddexipolhbTzH2iE9j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710705.mp4"
+            },
+            {
+              "nome": "Emergência: Nova York Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ArCZdBu7CddexipolhbTzH2iE9j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710706.mp4"
+            },
+            {
+              "nome": "Emergência: Nova York Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ArCZdBu7CddexipolhbTzH2iE9j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710707.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Emergencia Radioativa",
+          "itens": [
+            {
+              "nome": "Emergencia Radioativa Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/h9xizalvWg38e7LVcREMu0X180N.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708534.mp4"
+            },
+            {
+              "nome": "Emergencia Radioativa Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/h9xizalvWg38e7LVcREMu0X180N.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708535.mp4"
+            },
+            {
+              "nome": "Emergencia Radioativa Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/h9xizalvWg38e7LVcREMu0X180N.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708536.mp4"
+            },
+            {
+              "nome": "Emergencia Radioativa Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/h9xizalvWg38e7LVcREMu0X180N.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708537.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Em Nome da Fé_ Uma Traição Sagrada",
+          "itens": [
+            {
+              "nome": "Em Nome da Fé: Uma Traição Sagrada Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4P92ZkiZfntiad8hO9Xd4L2XfvY.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718561.mp4"
+            },
+            {
+              "nome": "Em Nome da Fé: Uma Traição Sagrada Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4P92ZkiZfntiad8hO9Xd4L2XfvY.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718562.mp4"
+            },
+            {
+              "nome": "Em Nome da Fé: Uma Traição Sagrada Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4P92ZkiZfntiad8hO9Xd4L2XfvY.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718563.mp4"
+            },
+            {
+              "nome": "Em Nome da Fé: Uma Traição Sagrada Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4P92ZkiZfntiad8hO9Xd4L2XfvY.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718564.mp4"
+            },
+            {
+              "nome": "Em Nome da Fé: Uma Traição Sagrada Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4P92ZkiZfntiad8hO9Xd4L2XfvY.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718565.mp4"
+            },
+            {
+              "nome": "Em Nome da Fé: Uma Traição Sagrada Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4P92ZkiZfntiad8hO9Xd4L2XfvY.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718566.mp4"
+            },
+            {
+              "nome": "Em Nome da Fé: Uma Traição Sagrada Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4P92ZkiZfntiad8hO9Xd4L2XfvY.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718567.mp4"
+            },
+            {
+              "nome": "Em Nome da Fé: Uma Traição Sagrada Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4P92ZkiZfntiad8hO9Xd4L2XfvY.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718568.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Em Coma",
+          "itens": [
+            {
+              "nome": "Em Coma Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/sUF9Taw59kInBPnEk50l4N2lP1S.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711905.mp4"
+            },
+            {
+              "nome": "Em Coma Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/sUF9Taw59kInBPnEk50l4N2lP1S.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711906.mp4"
+            },
+            {
+              "nome": "Em Coma Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/sUF9Taw59kInBPnEk50l4N2lP1S.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711907.mp4"
+            },
+            {
+              "nome": "Em Coma Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/sUF9Taw59kInBPnEk50l4N2lP1S.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711908.mp4"
+            },
+            {
+              "nome": "Em Coma Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/sUF9Taw59kInBPnEk50l4N2lP1S.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711909.mp4"
+            },
+            {
+              "nome": "Em Coma Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/sUF9Taw59kInBPnEk50l4N2lP1S.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711910.mp4"
+            },
+            {
+              "nome": "Em Coma Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/sUF9Taw59kInBPnEk50l4N2lP1S.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711911.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Em Casa com Tyson Fury",
+          "itens": [
+            {
+              "nome": "Em Casa com Tyson Fury Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9MMDK85gpE9usy6QCCLGgTzgroW.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720278.mp4"
+            },
+            {
+              "nome": "Em Casa com Tyson Fury Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9MMDK85gpE9usy6QCCLGgTzgroW.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720279.mp4"
+            },
+            {
+              "nome": "Em Casa com Tyson Fury Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9MMDK85gpE9usy6QCCLGgTzgroW.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720280.mp4"
+            },
+            {
+              "nome": "Em Casa com Tyson Fury Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9MMDK85gpE9usy6QCCLGgTzgroW.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720281.mp4"
+            },
+            {
+              "nome": "Em Casa com Tyson Fury Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9MMDK85gpE9usy6QCCLGgTzgroW.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720282.mp4"
+            },
+            {
+              "nome": "Em Casa com Tyson Fury Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9MMDK85gpE9usy6QCCLGgTzgroW.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720283.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Elite Histórias Breves_ Phillipe Caye Felipe",
+          "itens": [
+            {
+              "nome": "Elite Histórias Breves: Phillipe Caye Felipe Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/e78XV5PL5pnN8ezgoUjPGnhXyGO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710186.mp4"
+            },
+            {
+              "nome": "Elite Histórias Breves: Phillipe Caye Felipe Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/e78XV5PL5pnN8ezgoUjPGnhXyGO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710187.mp4"
+            },
+            {
+              "nome": "Elite Histórias Breves: Phillipe Caye Felipe Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/e78XV5PL5pnN8ezgoUjPGnhXyGO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710188.mp4"
+            },
+            {
+              "nome": "Elite Histórias Breves: Phillipe Caye Felipe Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/e78XV5PL5pnN8ezgoUjPGnhXyGO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710189.mp4"
+            },
+            {
+              "nome": "Elite Histórias Breves: Phillipe Caye Felipe Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/e78XV5PL5pnN8ezgoUjPGnhXyGO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710190.mp4"
+            },
+            {
+              "nome": "Elite Histórias Breves: Phillipe Caye Felipe Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/e78XV5PL5pnN8ezgoUjPGnhXyGO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710191.mp4"
+            },
+            {
+              "nome": "Elite Histórias Breves: Phillipe Caye Felipe Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/e78XV5PL5pnN8ezgoUjPGnhXyGO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710192.mp4"
+            },
+            {
+              "nome": "Elite Histórias Breves: Phillipe Caye Felipe Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/e78XV5PL5pnN8ezgoUjPGnhXyGO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710193.mp4"
+            },
+            {
+              "nome": "Elite Histórias Breves: Phillipe Caye Felipe Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/e78XV5PL5pnN8ezgoUjPGnhXyGO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710194.mp4"
+            },
+            {
+              "nome": "Elite Histórias Breves: Phillipe Caye Felipe Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/e78XV5PL5pnN8ezgoUjPGnhXyGO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710195.mp4"
+            },
+            {
+              "nome": "Elite Histórias Breves: Phillipe Caye Felipe Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/e78XV5PL5pnN8ezgoUjPGnhXyGO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710196.mp4"
+            },
+            {
+              "nome": "Elite Histórias Breves: Phillipe Caye Felipe Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/e78XV5PL5pnN8ezgoUjPGnhXyGO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710197.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Elite Histórias Breves_ Patrick",
+          "itens": [
+            {
+              "nome": "Elite Histórias Breves: Patrick Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/xOZrFLliAmv3ddrbjCDU82jmGFk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721450.mp4"
+            },
+            {
+              "nome": "Elite Histórias Breves: Patrick Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/xOZrFLliAmv3ddrbjCDU82jmGFk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721451.mp4"
+            },
+            {
+              "nome": "Elite Histórias Breves: Patrick Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/xOZrFLliAmv3ddrbjCDU82jmGFk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721452.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Elite Histórias Breves_ Omar Ander Alexis",
+          "itens": [
+            {
+              "nome": "Elite Histórias Breves: Omar Ander Alexis Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5VJ1eOISlE3N59ZQjJ1EQ1FNjxI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721450.mp4"
+            },
+            {
+              "nome": "Elite Histórias Breves: Omar Ander Alexis Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5VJ1eOISlE3N59ZQjJ1EQ1FNjxI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721451.mp4"
+            },
+            {
+              "nome": "Elite Histórias Breves: Omar Ander Alexis Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5VJ1eOISlE3N59ZQjJ1EQ1FNjxI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721452.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Elite Histórias Breves_ Carla Samuel",
+          "itens": [
+            {
+              "nome": "Elite Histórias Breves: Carla Samuel Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxxMTQT8V2nNnXKDCptoaJhJvow.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721453.mp4"
+            },
+            {
+              "nome": "Elite Histórias Breves: Carla Samuel Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxxMTQT8V2nNnXKDCptoaJhJvow.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721454.mp4"
+            },
+            {
+              "nome": "Elite Histórias Breves: Carla Samuel Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxxMTQT8V2nNnXKDCptoaJhJvow.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721455.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Elite",
+          "itens": [
+            {
+              "nome": "Elite Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717303.mp4"
+            },
+            {
+              "nome": "Elite Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717304.mp4"
+            },
+            {
+              "nome": "Elite Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717305.mp4"
+            },
+            {
+              "nome": "Elite Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717306.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Elfos",
+          "itens": [
+            {
+              "nome": "Elfos Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715801.mp4"
+            },
+            {
+              "nome": "Elfos Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715802.mp4"
+            },
+            {
+              "nome": "Elfos Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715803.mp4"
+            },
+            {
+              "nome": "Elfos Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715804.mp4"
+            },
+            {
+              "nome": "Elfos Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715805.mp4"
+            },
+            {
+              "nome": "Elfos Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715806.mp4"
+            },
+            {
+              "nome": "Elfos Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715807.mp4"
+            },
+            {
+              "nome": "Elfos Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715808.mp4"
+            },
+            {
+              "nome": "Elfos Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715809.mp4"
+            },
+            {
+              "nome": "Elfos Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715810.mp4"
+            },
+            {
+              "nome": "Elfos Epsódio 11",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715811.mp4"
+            },
+            {
+              "nome": "Elfos Epsódio 12",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715812.mp4"
+            },
+            {
+              "nome": "Elfos Epsódio 13",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715813.mp4"
+            },
+            {
+              "nome": "Elfos Epsódio 14",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715814.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Ela Era Bonita",
+          "itens": [
+            {
+              "nome": "Ela Era Bonita Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/xNomZyaKXFcnA182FuYQwXCz3cm.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706865.mp4"
+            },
+            {
+              "nome": "Ela Era Bonita Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/xNomZyaKXFcnA182FuYQwXCz3cm.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706866.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "El Chapo",
+          "itens": [
+            {
+              "nome": "El Chapo Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4yCyZ03Zc0LrJnl27q6vlhKc9iy.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720182.mp4"
+            },
+            {
+              "nome": "El Chapo Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4yCyZ03Zc0LrJnl27q6vlhKc9iy.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720183.mp4"
+            },
+            {
+              "nome": "El Chapo Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4yCyZ03Zc0LrJnl27q6vlhKc9iy.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720184.mp4"
+            },
+            {
+              "nome": "El Chapo Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4yCyZ03Zc0LrJnl27q6vlhKc9iy.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720185.mp4"
+            },
+            {
+              "nome": "El Chapo Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4yCyZ03Zc0LrJnl27q6vlhKc9iy.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720186.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Edens Zero",
+          "itens": [
+            {
+              "nome": "Edens Zero Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/2sJPpcEd83mILobIlDG1Jexu9bj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724266.mp4"
+            },
+            {
+              "nome": "Edens Zero Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/2sJPpcEd83mILobIlDG1Jexu9bj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724267.mp4"
+            },
+            {
+              "nome": "Edens Zero Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/2sJPpcEd83mILobIlDG1Jexu9bj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724268.mp4"
+            },
+            {
+              "nome": "Edens Zero Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/2sJPpcEd83mILobIlDG1Jexu9bj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724269.mp4"
+            },
+            {
+              "nome": "Edens Zero Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/2sJPpcEd83mILobIlDG1Jexu9bj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724270.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Eden",
+          "itens": [
+            {
+              "nome": "Eden Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wCJrIsYNDnX73Nr9E33SgnzrmI8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716256.mp4"
+            },
+            {
+              "nome": "Eden Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wCJrIsYNDnX73Nr9E33SgnzrmI8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716257.mp4"
+            },
+            {
+              "nome": "Eden Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wCJrIsYNDnX73Nr9E33SgnzrmI8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716258.mp4"
+            },
+            {
+              "nome": "Eden Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wCJrIsYNDnX73Nr9E33SgnzrmI8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716259.mp4"
+            },
+            {
+              "nome": "Eden Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wCJrIsYNDnX73Nr9E33SgnzrmI8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716260.mp4"
+            },
+            {
+              "nome": "Eden Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wCJrIsYNDnX73Nr9E33SgnzrmI8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716261.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Ecos de um Pesadelo",
+          "itens": [
+            {
+              "nome": "Ecos de um Pesadelo Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/lUgevJ1zBHUW93WDYop3Y7kUS81.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4709148.mp4"
+            },
+            {
+              "nome": "Ecos de um Pesadelo Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/lUgevJ1zBHUW93WDYop3Y7kUS81.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4709149.mp4"
+            },
+            {
+              "nome": "Ecos de um Pesadelo Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/lUgevJ1zBHUW93WDYop3Y7kUS81.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4709150.mp4"
+            },
+            {
+              "nome": "Ecos de um Pesadelo Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/lUgevJ1zBHUW93WDYop3Y7kUS81.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4709151.mp4"
+            },
+            {
+              "nome": "Ecos de um Pesadelo Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/lUgevJ1zBHUW93WDYop3Y7kUS81.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4709152.mp4"
+            },
+            {
+              "nome": "Ecos de um Pesadelo Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/lUgevJ1zBHUW93WDYop3Y7kUS81.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4709153.mp4"
+            },
+            {
+              "nome": "Ecos de um Pesadelo Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/lUgevJ1zBHUW93WDYop3Y7kUS81.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4709154.mp4"
+            },
+            {
+              "nome": "Ecos de um Pesadelo Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/lUgevJ1zBHUW93WDYop3Y7kUS81.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4709155.mp4"
+            },
+            {
+              "nome": "Ecos de um Pesadelo Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/lUgevJ1zBHUW93WDYop3Y7kUS81.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4709156.mp4"
+            },
+            {
+              "nome": "Ecos de um Pesadelo Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/lUgevJ1zBHUW93WDYop3Y7kUS81.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4709157.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Echoes",
+          "itens": [
+            {
+              "nome": "Echoes Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hz8YGIZETHJhXYWGaHsFPVwU4YU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708838.mp4"
+            },
+            {
+              "nome": "Echoes Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hz8YGIZETHJhXYWGaHsFPVwU4YU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708839.mp4"
+            },
+            {
+              "nome": "Echoes Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hz8YGIZETHJhXYWGaHsFPVwU4YU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708840.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Dúvida Razoável_ Uma História de Dois Sequestros",
+          "itens": [
+            {
+              "nome": "Dúvida Razoável: Uma História de Dois Sequestros Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3hB2opv80uPA4jBFLVM54Mji1O8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710255.mp4"
+            },
+            {
+              "nome": "Dúvida Razoável: Uma História de Dois Sequestros Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3hB2opv80uPA4jBFLVM54Mji1O8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710256.mp4"
+            },
+            {
+              "nome": "Dúvida Razoável: Uma História de Dois Sequestros Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3hB2opv80uPA4jBFLVM54Mji1O8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710257.mp4"
+            },
+            {
+              "nome": "Dúvida Razoável: Uma História de Dois Sequestros Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3hB2opv80uPA4jBFLVM54Mji1O8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710258.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Duvida",
+          "itens": [
+            {
+              "nome": "Duvida Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S7IVOU5WK1ojnz5nWlav3MtzBd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708303.mp4"
+            },
+            {
+              "nome": "Duvida Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S7IVOU5WK1ojnz5nWlav3MtzBd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708304.mp4"
+            },
+            {
+              "nome": "Duvida Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S7IVOU5WK1ojnz5nWlav3MtzBd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708305.mp4"
+            },
+            {
+              "nome": "Duvida Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S7IVOU5WK1ojnz5nWlav3MtzBd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708306.mp4"
+            },
+            {
+              "nome": "Duvida Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S7IVOU5WK1ojnz5nWlav3MtzBd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708307.mp4"
+            },
+            {
+              "nome": "Duvida Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S7IVOU5WK1ojnz5nWlav3MtzBd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708308.mp4"
+            },
+            {
+              "nome": "Duvida Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S7IVOU5WK1ojnz5nWlav3MtzBd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708309.mp4"
+            },
+            {
+              "nome": "Duvida Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S7IVOU5WK1ojnz5nWlav3MtzBd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708310.mp4"
+            },
+            {
+              "nome": "Duvida Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S7IVOU5WK1ojnz5nWlav3MtzBd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708311.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Dungeon Meshi",
+          "itens": [
+            {
+              "nome": "Dungeon Meshi Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/A7SBIS42Kmg4FmzDuNvQSPaI3kc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713418.mp4"
+            },
+            {
+              "nome": "Dungeon Meshi Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/A7SBIS42Kmg4FmzDuNvQSPaI3kc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713419.mp4"
+            },
+            {
+              "nome": "Dungeon Meshi Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/A7SBIS42Kmg4FmzDuNvQSPaI3kc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713420.mp4"
+            },
+            {
+              "nome": "Dungeon Meshi Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/A7SBIS42Kmg4FmzDuNvQSPaI3kc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713421.mp4"
+            },
+            {
+              "nome": "Dungeon Meshi Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/A7SBIS42Kmg4FmzDuNvQSPaI3kc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713422.mp4"
+            },
+            {
+              "nome": "Dungeon Meshi Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/A7SBIS42Kmg4FmzDuNvQSPaI3kc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713423.mp4"
+            },
+            {
+              "nome": "Dungeon Meshi Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/A7SBIS42Kmg4FmzDuNvQSPaI3kc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713424.mp4"
+            },
+            {
+              "nome": "Dungeon Meshi Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/A7SBIS42Kmg4FmzDuNvQSPaI3kc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713425.mp4"
+            },
+            {
+              "nome": "Dungeon Meshi Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/A7SBIS42Kmg4FmzDuNvQSPaI3kc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713426.mp4"
+            },
+            {
+              "nome": "Dungeon Meshi Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/A7SBIS42Kmg4FmzDuNvQSPaI3kc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713427.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Dubai Ostentacao Milionarios Indianos",
+          "itens": [
+            {
+              "nome": "Dubai Ostentacao Milionarios Indianos Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/26TTFiR3kLzqrzPw2ZJEavpTPHD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710816.mp4"
+            },
+            {
+              "nome": "Dubai Ostentacao Milionarios Indianos Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/26TTFiR3kLzqrzPw2ZJEavpTPHD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710817.mp4"
+            },
+            {
+              "nome": "Dubai Ostentacao Milionarios Indianos Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/26TTFiR3kLzqrzPw2ZJEavpTPHD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710818.mp4"
+            },
+            {
+              "nome": "Dubai Ostentacao Milionarios Indianos Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/26TTFiR3kLzqrzPw2ZJEavpTPHD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710819.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Dubai Ostentacao",
+          "itens": [
+            {
+              "nome": "Dubai Ostentacao Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1JrQWVdqi9AhDpyi80Vpt9M126C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713329.mp4"
+            },
+            {
+              "nome": "Dubai Ostentacao Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1JrQWVdqi9AhDpyi80Vpt9M126C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713330.mp4"
+            },
+            {
+              "nome": "Dubai Ostentacao Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1JrQWVdqi9AhDpyi80Vpt9M126C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713331.mp4"
+            },
+            {
+              "nome": "Dubai Ostentacao Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1JrQWVdqi9AhDpyi80Vpt9M126C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713332.mp4"
+            },
+            {
+              "nome": "Dubai Ostentacao Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1JrQWVdqi9AhDpyi80Vpt9M126C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713333.mp4"
+            },
+            {
+              "nome": "Dubai Ostentacao Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1JrQWVdqi9AhDpyi80Vpt9M126C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713334.mp4"
+            },
+            {
+              "nome": "Dubai Ostentacao Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1JrQWVdqi9AhDpyi80Vpt9M126C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713335.mp4"
+            },
+            {
+              "nome": "Dubai Ostentacao Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1JrQWVdqi9AhDpyi80Vpt9M126C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713336.mp4"
+            },
+            {
+              "nome": "Dubai Ostentacao Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1JrQWVdqi9AhDpyi80Vpt9M126C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713337.mp4"
+            },
+            {
+              "nome": "Dubai Ostentacao Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1JrQWVdqi9AhDpyi80Vpt9M126C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713338.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Duas Covas",
+          "itens": [
+            {
+              "nome": "Duas Covas Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fNdUF2iL5CuCvhDifL1VFrvc8zJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708534.mp4"
+            },
+            {
+              "nome": "Duas Covas Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fNdUF2iL5CuCvhDifL1VFrvc8zJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708535.mp4"
+            },
+            {
+              "nome": "Duas Covas Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fNdUF2iL5CuCvhDifL1VFrvc8zJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708536.mp4"
+            },
+            {
+              "nome": "Duas Covas Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fNdUF2iL5CuCvhDifL1VFrvc8zJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708537.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Drink Masters",
+          "itens": [
+            {
+              "nome": "Drink Masters Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9tk4nWiP39MWQisrt8IoxvbHhgt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710696.mp4"
+            },
+            {
+              "nome": "Drink Masters Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9tk4nWiP39MWQisrt8IoxvbHhgt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710697.mp4"
+            },
+            {
+              "nome": "Drink Masters Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9tk4nWiP39MWQisrt8IoxvbHhgt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710698.mp4"
+            },
+            {
+              "nome": "Drink Masters Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9tk4nWiP39MWQisrt8IoxvbHhgt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710699.mp4"
+            },
+            {
+              "nome": "Drink Masters Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9tk4nWiP39MWQisrt8IoxvbHhgt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710700.mp4"
+            },
+            {
+              "nome": "Drink Masters Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9tk4nWiP39MWQisrt8IoxvbHhgt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710701.mp4"
+            },
+            {
+              "nome": "Drink Masters Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9tk4nWiP39MWQisrt8IoxvbHhgt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710702.mp4"
+            },
+            {
+              "nome": "Drink Masters Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9tk4nWiP39MWQisrt8IoxvbHhgt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710703.mp4"
+            },
+            {
+              "nome": "Drink Masters Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9tk4nWiP39MWQisrt8IoxvbHhgt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710704.mp4"
+            },
+            {
+              "nome": "Drink Masters Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9tk4nWiP39MWQisrt8IoxvbHhgt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710705.mp4"
+            },
+            {
+              "nome": "Drink Masters Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9tk4nWiP39MWQisrt8IoxvbHhgt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710706.mp4"
+            },
+            {
+              "nome": "Drink Masters Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9tk4nWiP39MWQisrt8IoxvbHhgt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710707.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Dragon's Dogma",
+          "itens": [
+            {
+              "nome": "Dragon's Dogma Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/vj0alCBuOutq55ZhmlLwEkalZpR.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718561.mp4"
+            },
+            {
+              "nome": "Dragon's Dogma Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/vj0alCBuOutq55ZhmlLwEkalZpR.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718562.mp4"
+            },
+            {
+              "nome": "Dragon's Dogma Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/vj0alCBuOutq55ZhmlLwEkalZpR.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718563.mp4"
+            },
+            {
+              "nome": "Dragon's Dogma Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/vj0alCBuOutq55ZhmlLwEkalZpR.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718564.mp4"
+            },
+            {
+              "nome": "Dragon's Dogma Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/vj0alCBuOutq55ZhmlLwEkalZpR.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718565.mp4"
+            },
+            {
+              "nome": "Dragon's Dogma Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/vj0alCBuOutq55ZhmlLwEkalZpR.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718566.mp4"
+            },
+            {
+              "nome": "Dragon's Dogma Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/vj0alCBuOutq55ZhmlLwEkalZpR.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718567.mp4"
+            },
+            {
+              "nome": "Dragon's Dogma Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/vj0alCBuOutq55ZhmlLwEkalZpR.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718568.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Dragon Age_ Absolvição",
+          "itens": [
+            {
+              "nome": "Dragon Age: Absolvição Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/tUCKP531G5ttqKGP6QatGalW3vk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711905.mp4"
+            },
+            {
+              "nome": "Dragon Age: Absolvição Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/tUCKP531G5ttqKGP6QatGalW3vk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711906.mp4"
+            },
+            {
+              "nome": "Dragon Age: Absolvição Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/tUCKP531G5ttqKGP6QatGalW3vk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711907.mp4"
+            },
+            {
+              "nome": "Dragon Age: Absolvição Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/tUCKP531G5ttqKGP6QatGalW3vk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711908.mp4"
+            },
+            {
+              "nome": "Dragon Age: Absolvição Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/tUCKP531G5ttqKGP6QatGalW3vk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711909.mp4"
+            },
+            {
+              "nome": "Dragon Age: Absolvição Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/tUCKP531G5ttqKGP6QatGalW3vk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711910.mp4"
+            },
+            {
+              "nome": "Dragon Age: Absolvição Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/tUCKP531G5ttqKGP6QatGalW3vk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711911.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Dracula",
+          "itens": [
+            {
+              "nome": "Dracula Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720278.mp4"
+            },
+            {
+              "nome": "Dracula Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720279.mp4"
+            },
+            {
+              "nome": "Dracula Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720280.mp4"
+            },
+            {
+              "nome": "Dracula Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720281.mp4"
+            },
+            {
+              "nome": "Dracula Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720282.mp4"
+            },
+            {
+              "nome": "Dracula Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720283.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Doze Jurados",
+          "itens": [
+            {
+              "nome": "Doze Jurados Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qiECo6dpLrDl6A6ZW1JyiNI7ao6.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710186.mp4"
+            },
+            {
+              "nome": "Doze Jurados Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qiECo6dpLrDl6A6ZW1JyiNI7ao6.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710187.mp4"
+            },
+            {
+              "nome": "Doze Jurados Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qiECo6dpLrDl6A6ZW1JyiNI7ao6.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710188.mp4"
+            },
+            {
+              "nome": "Doze Jurados Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qiECo6dpLrDl6A6ZW1JyiNI7ao6.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710189.mp4"
+            },
+            {
+              "nome": "Doze Jurados Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qiECo6dpLrDl6A6ZW1JyiNI7ao6.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710190.mp4"
+            },
+            {
+              "nome": "Doze Jurados Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qiECo6dpLrDl6A6ZW1JyiNI7ao6.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710191.mp4"
+            },
+            {
+              "nome": "Doze Jurados Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qiECo6dpLrDl6A6ZW1JyiNI7ao6.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710192.mp4"
+            },
+            {
+              "nome": "Doze Jurados Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qiECo6dpLrDl6A6ZW1JyiNI7ao6.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710193.mp4"
+            },
+            {
+              "nome": "Doze Jurados Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qiECo6dpLrDl6A6ZW1JyiNI7ao6.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710194.mp4"
+            },
+            {
+              "nome": "Doze Jurados Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qiECo6dpLrDl6A6ZW1JyiNI7ao6.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710195.mp4"
+            },
+            {
+              "nome": "Doze Jurados Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qiECo6dpLrDl6A6ZW1JyiNI7ao6.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710196.mp4"
+            },
+            {
+              "nome": "Doze Jurados Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qiECo6dpLrDl6A6ZW1JyiNI7ao6.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710197.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Doutor Climax",
+          "itens": [
+            {
+              "nome": "Doutor Climax Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/pxNVNXykzLUrbgEdI47EBtGPFPx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716256.mp4"
+            },
+            {
+              "nome": "Doutor Climax Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/pxNVNXykzLUrbgEdI47EBtGPFPx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716257.mp4"
+            },
+            {
+              "nome": "Doutor Climax Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/pxNVNXykzLUrbgEdI47EBtGPFPx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716258.mp4"
+            },
+            {
+              "nome": "Doutor Climax Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/pxNVNXykzLUrbgEdI47EBtGPFPx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716259.mp4"
+            },
+            {
+              "nome": "Doutor Climax Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/pxNVNXykzLUrbgEdI47EBtGPFPx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716260.mp4"
+            },
+            {
+              "nome": "Doutor Climax Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/pxNVNXykzLUrbgEdI47EBtGPFPx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716261.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Dope",
+          "itens": [
+            {
+              "nome": "Dope Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/lsqqr89sCIrmOhJceEHTCgPmKJ4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708639.mp4"
+            },
+            {
+              "nome": "Dope Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/lsqqr89sCIrmOhJceEHTCgPmKJ4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708640.mp4"
+            },
+            {
+              "nome": "Dope Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/lsqqr89sCIrmOhJceEHTCgPmKJ4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708641.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Doona",
+          "itens": [
+            {
+              "nome": "Doona Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ukSHjdKVDZXckRq3J6TjRV4hDza.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721401.mp4"
+            },
+            {
+              "nome": "Doona Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ukSHjdKVDZXckRq3J6TjRV4hDza.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721402.mp4"
+            },
+            {
+              "nome": "Doona Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ukSHjdKVDZXckRq3J6TjRV4hDza.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721403.mp4"
+            },
+            {
+              "nome": "Doona Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ukSHjdKVDZXckRq3J6TjRV4hDza.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721404.mp4"
+            },
+            {
+              "nome": "Doona Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ukSHjdKVDZXckRq3J6TjRV4hDza.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721405.mp4"
+            },
+            {
+              "nome": "Doona Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ukSHjdKVDZXckRq3J6TjRV4hDza.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721406.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Dominando Manhattan",
+          "itens": [
+            {
+              "nome": "Dominando Manhattan Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6Jwru4BEGxVWvlntrr6DaN9pD6P.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701679.mp4"
+            },
+            {
+              "nome": "Dominando Manhattan Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6Jwru4BEGxVWvlntrr6DaN9pD6P.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701680.mp4"
+            },
+            {
+              "nome": "Dominando Manhattan Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6Jwru4BEGxVWvlntrr6DaN9pD6P.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701681.mp4"
+            },
+            {
+              "nome": "Dominando Manhattan Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6Jwru4BEGxVWvlntrr6DaN9pD6P.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701682.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Dollar",
+          "itens": [
+            {
+              "nome": "Dollar Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/d8nuQGs0RxoWUHYvQJl91xYm4Az.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715843.mp4"
+            },
+            {
+              "nome": "Dollar Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/d8nuQGs0RxoWUHYvQJl91xYm4Az.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715844.mp4"
+            },
+            {
+              "nome": "Dollar Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/d8nuQGs0RxoWUHYvQJl91xYm4Az.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715845.mp4"
+            },
+            {
+              "nome": "Dollar Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/d8nuQGs0RxoWUHYvQJl91xYm4Az.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715846.mp4"
+            },
+            {
+              "nome": "Dollar Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/d8nuQGs0RxoWUHYvQJl91xYm4Az.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715847.mp4"
+            },
+            {
+              "nome": "Dollar Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/d8nuQGs0RxoWUHYvQJl91xYm4Az.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715848.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Dois Verões",
+          "itens": [
+            {
+              "nome": "Dois Verões Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jZTtz8BcJaNBBHcEopfCO4LdHMc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721938.mp4"
+            },
+            {
+              "nome": "Dois Verões Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jZTtz8BcJaNBBHcEopfCO4LdHMc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721939.mp4"
+            },
+            {
+              "nome": "Dois Verões Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jZTtz8BcJaNBBHcEopfCO4LdHMc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721940.mp4"
+            },
+            {
+              "nome": "Dois Verões Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jZTtz8BcJaNBBHcEopfCO4LdHMc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721941.mp4"
+            },
+            {
+              "nome": "Dois Verões Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jZTtz8BcJaNBBHcEopfCO4LdHMc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721942.mp4"
+            },
+            {
+              "nome": "Dois Verões Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jZTtz8BcJaNBBHcEopfCO4LdHMc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721943.mp4"
+            },
+            {
+              "nome": "Dois Verões Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jZTtz8BcJaNBBHcEopfCO4LdHMc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721944.mp4"
+            },
+            {
+              "nome": "Dois Verões Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jZTtz8BcJaNBBHcEopfCO4LdHMc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721945.mp4"
+            },
+            {
+              "nome": "Dois Verões Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jZTtz8BcJaNBBHcEopfCO4LdHMc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721946.mp4"
+            },
+            {
+              "nome": "Dois Verões Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jZTtz8BcJaNBBHcEopfCO4LdHMc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721947.mp4"
+            },
+            {
+              "nome": "Dois Verões Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jZTtz8BcJaNBBHcEopfCO4LdHMc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721948.mp4"
+            },
+            {
+              "nome": "Dois Verões Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jZTtz8BcJaNBBHcEopfCO4LdHMc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721949.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Doces Magnólias",
+          "itens": [
+            {
+              "nome": "Doces Magnólias Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/2yICQ4Hqtftk3snSJvG3jnOloHQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715626.mp4"
+            },
+            {
+              "nome": "Doces Magnólias Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/2yICQ4Hqtftk3snSJvG3jnOloHQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715627.mp4"
+            },
+            {
+              "nome": "Doces Magnólias Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/2yICQ4Hqtftk3snSJvG3jnOloHQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715628.mp4"
+            },
+            {
+              "nome": "Doces Magnólias Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/2yICQ4Hqtftk3snSJvG3jnOloHQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4715629.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Do Nada, Grávida",
+          "itens": [
+            {
+              "nome": "Do Nada, Grávida Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3IB4i5gdWQF8KGvt5dwjRv2lMfM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4699393.mp4"
+            },
+            {
+              "nome": "Do Nada, Grávida Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3IB4i5gdWQF8KGvt5dwjRv2lMfM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4699394.mp4"
+            },
+            {
+              "nome": "Do Nada, Grávida Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3IB4i5gdWQF8KGvt5dwjRv2lMfM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4699395.mp4"
+            },
+            {
+              "nome": "Do Nada, Grávida Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3IB4i5gdWQF8KGvt5dwjRv2lMfM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4699396.mp4"
+            },
+            {
+              "nome": "Do Nada, Grávida Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3IB4i5gdWQF8KGvt5dwjRv2lMfM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4699397.mp4"
+            },
+            {
+              "nome": "Do Nada, Grávida Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3IB4i5gdWQF8KGvt5dwjRv2lMfM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4699398.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Do Nada Gravida",
+          "itens": [
+            {
+              "nome": "Do Nada Gravida Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3IB4i5gdWQF8KGvt5dwjRv2lMfM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713860.mp4"
+            },
+            {
+              "nome": "Do Nada Gravida Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3IB4i5gdWQF8KGvt5dwjRv2lMfM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713861.mp4"
+            },
+            {
+              "nome": "Do Nada Gravida Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3IB4i5gdWQF8KGvt5dwjRv2lMfM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713862.mp4"
+            },
+            {
+              "nome": "Do Nada Gravida Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3IB4i5gdWQF8KGvt5dwjRv2lMfM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713863.mp4"
+            },
+            {
+              "nome": "Do Nada Gravida Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3IB4i5gdWQF8KGvt5dwjRv2lMfM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713864.mp4"
+            },
+            {
+              "nome": "Do Nada Gravida Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3IB4i5gdWQF8KGvt5dwjRv2lMfM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713865.mp4"
+            },
+            {
+              "nome": "Do Nada Gravida Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3IB4i5gdWQF8KGvt5dwjRv2lMfM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713866.mp4"
+            },
+            {
+              "nome": "Do Nada Gravida Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3IB4i5gdWQF8KGvt5dwjRv2lMfM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713867.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Do Jeito Delas",
+          "itens": [
+            {
+              "nome": "Do Jeito Delas Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jBwAuLAKcfETn5ZS3PskI5c0FCL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724671.mp4"
+            },
+            {
+              "nome": "Do Jeito Delas Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jBwAuLAKcfETn5ZS3PskI5c0FCL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724672.mp4"
+            },
+            {
+              "nome": "Do Jeito Delas Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jBwAuLAKcfETn5ZS3PskI5c0FCL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724673.mp4"
+            },
+            {
+              "nome": "Do Jeito Delas Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jBwAuLAKcfETn5ZS3PskI5c0FCL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724674.mp4"
+            },
+            {
+              "nome": "Do Jeito Delas Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jBwAuLAKcfETn5ZS3PskI5c0FCL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724675.mp4"
+            },
+            {
+              "nome": "Do Jeito Delas Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jBwAuLAKcfETn5ZS3PskI5c0FCL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724676.mp4"
+            },
+            {
+              "nome": "Do Jeito Delas Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jBwAuLAKcfETn5ZS3PskI5c0FCL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724677.mp4"
+            },
+            {
+              "nome": "Do Jeito Delas Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jBwAuLAKcfETn5ZS3PskI5c0FCL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724678.mp4"
+            },
+            {
+              "nome": "Do Jeito Delas Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jBwAuLAKcfETn5ZS3PskI5c0FCL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724679.mp4"
+            },
+            {
+              "nome": "Do Jeito Delas Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jBwAuLAKcfETn5ZS3PskI5c0FCL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724680.mp4"
+            },
+            {
+              "nome": "Do Jeito Delas Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jBwAuLAKcfETn5ZS3PskI5c0FCL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724681.mp4"
+            },
+            {
+              "nome": "Do Jeito Delas Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jBwAuLAKcfETn5ZS3PskI5c0FCL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724682.mp4"
+            },
+            {
+              "nome": "Do Jeito Delas Epsódio 07",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jBwAuLAKcfETn5ZS3PskI5c0FCL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724683.mp4"
+            },
+            {
+              "nome": "Do Jeito Delas Epsódio 08",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jBwAuLAKcfETn5ZS3PskI5c0FCL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724684.mp4"
+            },
+            {
+              "nome": "Do Jeito Delas Epsódio 09",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jBwAuLAKcfETn5ZS3PskI5c0FCL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724685.mp4"
+            },
+            {
+              "nome": "Do Jeito Delas Epsódio 10",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jBwAuLAKcfETn5ZS3PskI5c0FCL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724686.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "DNA DO CRIME",
+          "itens": [
+            {
+              "nome": "DNA DO CRIME Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706592.mp4"
+            },
+            {
+              "nome": "DNA DO CRIME Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706593.mp4"
+            },
+            {
+              "nome": "DNA DO CRIME Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706594.mp4"
+            },
+            {
+              "nome": "DNA DO CRIME Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706595.mp4"
+            },
+            {
+              "nome": "DNA DO CRIME Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706596.mp4"
+            },
+            {
+              "nome": "DNA DO CRIME Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706597.mp4"
+            },
+            {
+              "nome": "DNA DO CRIME Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706598.mp4"
+            },
+            {
+              "nome": "DNA DO CRIME Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706599.mp4"
+            },
+            {
+              "nome": "DNA DO CRIME Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706600.mp4"
+            },
+            {
+              "nome": "DNA DO CRIME Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706601.mp4"
+            },
+            {
+              "nome": "DNA DO CRIME Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706602.mp4"
+            },
+            {
+              "nome": "DNA DO CRIME Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706603.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Diários de Andy Warhol",
+          "itens": [
+            {
+              "nome": "Diários de Andy Warhol Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ls3Ek39IKSiAYJES1CZHPj90TEZ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720879.mp4"
+            },
+            {
+              "nome": "Diários de Andy Warhol Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ls3Ek39IKSiAYJES1CZHPj90TEZ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720880.mp4"
+            },
+            {
+              "nome": "Diários de Andy Warhol Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ls3Ek39IKSiAYJES1CZHPj90TEZ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720881.mp4"
+            },
+            {
+              "nome": "Diários de Andy Warhol Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ls3Ek39IKSiAYJES1CZHPj90TEZ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720882.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Diário de um Gigolô",
+          "itens": [
+            {
+              "nome": "Diário de um Gigolô Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/z6zCXe2289w9q1vHiklGjvtPKoU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4703981.mp4"
+            },
+            {
+              "nome": "Diário de um Gigolô Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/z6zCXe2289w9q1vHiklGjvtPKoU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4703982.mp4"
+            },
+            {
+              "nome": "Diário de um Gigolô Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/z6zCXe2289w9q1vHiklGjvtPKoU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4703983.mp4"
+            },
+            {
+              "nome": "Diário de um Gigolô Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/z6zCXe2289w9q1vHiklGjvtPKoU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4703984.mp4"
+            },
+            {
+              "nome": "Diário de um Gigolô Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/z6zCXe2289w9q1vHiklGjvtPKoU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4703985.mp4"
+            },
+            {
+              "nome": "Diário de um Gigolô Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/z6zCXe2289w9q1vHiklGjvtPKoU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4703986.mp4"
+            },
+            {
+              "nome": "Diário de um Gigolô Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/z6zCXe2289w9q1vHiklGjvtPKoU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4703987.mp4"
+            },
+            {
+              "nome": "Diário de um Gigolô Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/z6zCXe2289w9q1vHiklGjvtPKoU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4703988.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Diário das Fadas",
+          "itens": [
+            {
+              "nome": "Diário das Fadas Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708882.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708883.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708884.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708885.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708886.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708887.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708888.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708889.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708890.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708891.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 11",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708892.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 12",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708893.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 13",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708894.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 14",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708895.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 15",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708896.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 16",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708897.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 17",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708898.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 18",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708899.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 19",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708900.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 20",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708901.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 21",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708902.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 22",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708903.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 23",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708904.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 24",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708905.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 25",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708906.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 26",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708907.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 27",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708908.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 28",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708909.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 29",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708910.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 30",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708911.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 31",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708912.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 32",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708913.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 33",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708914.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 34",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708915.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 35",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708916.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 36",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708917.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 37",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708918.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 38",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708919.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 39",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708920.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 40",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708921.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 41",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708922.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 42",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708923.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 43",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708924.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 44",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708925.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 45",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708926.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 46",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708927.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 47",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708928.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 48",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708929.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 49",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708930.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 50",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708931.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 51",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708932.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 52",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708933.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 53",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708934.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 54",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708935.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 55",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708936.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 56",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708937.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 57",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708938.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 58",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708939.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 59",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708940.mp4"
+            },
+            {
+              "nome": "Diário das Fadas Epsódio 60",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aGW5wMt29hIIL1HpUkmcUOfmhHw.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708941.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Divisão Palermo",
+          "itens": [
+            {
+              "nome": "Divisão Palermo Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/m7NDfGuTBslh3ClkYMeBx665fhO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704915.mp4"
+            },
+            {
+              "nome": "Divisão Palermo Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/m7NDfGuTBslh3ClkYMeBx665fhO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704916.mp4"
+            },
+            {
+              "nome": "Divisão Palermo Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/m7NDfGuTBslh3ClkYMeBx665fhO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704917.mp4"
+            },
+            {
+              "nome": "Divisão Palermo Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/m7NDfGuTBslh3ClkYMeBx665fhO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704918.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Distanciamento Social",
+          "itens": [
+            {
+              "nome": "Distanciamento Social Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/yHEWcDbCaa5cNFsSj9b00BpGhCI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714324.mp4"
+            },
+            {
+              "nome": "Distanciamento Social Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/yHEWcDbCaa5cNFsSj9b00BpGhCI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714325.mp4"
+            },
+            {
+              "nome": "Distanciamento Social Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/yHEWcDbCaa5cNFsSj9b00BpGhCI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714326.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Dissociacao",
+          "itens": [
+            {
+              "nome": "Dissociacao Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/lzm2aTpDwv5qaYL3CbjjV42ZSw2.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716136.mp4"
+            },
+            {
+              "nome": "Dissociacao Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/lzm2aTpDwv5qaYL3CbjjV42ZSw2.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716137.mp4"
+            },
+            {
+              "nome": "Dissociacao Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/lzm2aTpDwv5qaYL3CbjjV42ZSw2.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716138.mp4"
+            },
+            {
+              "nome": "Dissociacao Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/lzm2aTpDwv5qaYL3CbjjV42ZSw2.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716139.mp4"
+            },
+            {
+              "nome": "Dissociacao Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/lzm2aTpDwv5qaYL3CbjjV42ZSw2.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716140.mp4"
+            },
+            {
+              "nome": "Dissociacao Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/lzm2aTpDwv5qaYL3CbjjV42ZSw2.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716141.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Disque Prazer",
+          "itens": [
+            {
+              "nome": "Disque Prazer Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3DV6RxWAarWX84TEhfcEFqafB56.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714444.mp4"
+            },
+            {
+              "nome": "Disque Prazer Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3DV6RxWAarWX84TEhfcEFqafB56.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714445.mp4"
+            },
+            {
+              "nome": "Disque Prazer Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3DV6RxWAarWX84TEhfcEFqafB56.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714446.mp4"
+            },
+            {
+              "nome": "Disque Prazer Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3DV6RxWAarWX84TEhfcEFqafB56.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714447.mp4"
+            },
+            {
+              "nome": "Disque Prazer Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3DV6RxWAarWX84TEhfcEFqafB56.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714448.mp4"
+            },
+            {
+              "nome": "Disque Prazer Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3DV6RxWAarWX84TEhfcEFqafB56.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714449.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Disjointed",
+          "itens": [
+            {
+              "nome": "Disjointed Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gMVzoGfyFNew1RTn4UaMjn3iHCT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711341.mp4"
+            },
+            {
+              "nome": "Disjointed Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gMVzoGfyFNew1RTn4UaMjn3iHCT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711342.mp4"
+            },
+            {
+              "nome": "Disjointed Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gMVzoGfyFNew1RTn4UaMjn3iHCT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711343.mp4"
+            },
+            {
+              "nome": "Disjointed Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gMVzoGfyFNew1RTn4UaMjn3iHCT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711344.mp4"
+            },
+            {
+              "nome": "Disjointed Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gMVzoGfyFNew1RTn4UaMjn3iHCT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711345.mp4"
+            },
+            {
+              "nome": "Disjointed Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gMVzoGfyFNew1RTn4UaMjn3iHCT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711346.mp4"
+            },
+            {
+              "nome": "Disjointed Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gMVzoGfyFNew1RTn4UaMjn3iHCT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711347.mp4"
+            },
+            {
+              "nome": "Disjointed Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gMVzoGfyFNew1RTn4UaMjn3iHCT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711348.mp4"
+            },
+            {
+              "nome": "Disjointed Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gMVzoGfyFNew1RTn4UaMjn3iHCT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711349.mp4"
+            },
+            {
+              "nome": "Disjointed Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gMVzoGfyFNew1RTn4UaMjn3iHCT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711350.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Direto pro Inferno",
+          "itens": [
+            {
+              "nome": "Direto pro Inferno Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBdXm7XHXKlBD5NYWaxzGtb3yFd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701403.mp4"
+            },
+            {
+              "nome": "Direto pro Inferno Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBdXm7XHXKlBD5NYWaxzGtb3yFd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701404.mp4"
+            },
+            {
+              "nome": "Direto pro Inferno Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBdXm7XHXKlBD5NYWaxzGtb3yFd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701405.mp4"
+            },
+            {
+              "nome": "Direto pro Inferno Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBdXm7XHXKlBD5NYWaxzGtb3yFd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701406.mp4"
+            },
+            {
+              "nome": "Direto pro Inferno Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBdXm7XHXKlBD5NYWaxzGtb3yFd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701407.mp4"
+            },
+            {
+              "nome": "Direto pro Inferno Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBdXm7XHXKlBD5NYWaxzGtb3yFd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701408.mp4"
+            },
+            {
+              "nome": "Direto pro Inferno Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBdXm7XHXKlBD5NYWaxzGtb3yFd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701409.mp4"
+            },
+            {
+              "nome": "Direto pro Inferno Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBdXm7XHXKlBD5NYWaxzGtb3yFd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701410.mp4"
+            },
+            {
+              "nome": "Direto pro Inferno Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBdXm7XHXKlBD5NYWaxzGtb3yFd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701411.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Dinheiro Fácil_ A Série",
+          "itens": [
+            {
+              "nome": "Dinheiro Fácil: A Série Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/45ZfQtCxL2gpQhqUf3e4qCKudI3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720055.mp4"
+            },
+            {
+              "nome": "Dinheiro Fácil: A Série Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/45ZfQtCxL2gpQhqUf3e4qCKudI3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720056.mp4"
+            },
+            {
+              "nome": "Dinheiro Fácil: A Série Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/45ZfQtCxL2gpQhqUf3e4qCKudI3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720057.mp4"
+            },
+            {
+              "nome": "Dinheiro Fácil: A Série Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/45ZfQtCxL2gpQhqUf3e4qCKudI3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720058.mp4"
+            },
+            {
+              "nome": "Dinheiro Fácil: A Série Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/45ZfQtCxL2gpQhqUf3e4qCKudI3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720059.mp4"
+            },
+            {
+              "nome": "Dinheiro Fácil: A Série Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/45ZfQtCxL2gpQhqUf3e4qCKudI3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720060.mp4"
+            },
+            {
+              "nome": "Dinheiro Fácil: A Série Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/45ZfQtCxL2gpQhqUf3e4qCKudI3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720061.mp4"
+            },
+            {
+              "nome": "Dinheiro Fácil: A Série Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/45ZfQtCxL2gpQhqUf3e4qCKudI3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720062.mp4"
+            },
+            {
+              "nome": "Dinheiro Fácil: A Série Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/45ZfQtCxL2gpQhqUf3e4qCKudI3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720063.mp4"
+            },
+            {
+              "nome": "Dinheiro Fácil: A Série Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/45ZfQtCxL2gpQhqUf3e4qCKudI3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720064.mp4"
+            },
+            {
+              "nome": "Dinheiro Fácil: A Série Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/45ZfQtCxL2gpQhqUf3e4qCKudI3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720065.mp4"
+            },
+            {
+              "nome": "Dinheiro Fácil: A Série Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/45ZfQtCxL2gpQhqUf3e4qCKudI3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720066.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Dinastia A Familia Murdoch",
+          "itens": [
+            {
+              "nome": "Dinastia A Familia Murdoch Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3Kk8jGWxZv0UIoEui5ZimXCamgG.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713653.mp4"
+            },
+            {
+              "nome": "Dinastia A Familia Murdoch Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3Kk8jGWxZv0UIoEui5ZimXCamgG.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713654.mp4"
+            },
+            {
+              "nome": "Dinastia A Familia Murdoch Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3Kk8jGWxZv0UIoEui5ZimXCamgG.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713655.mp4"
+            },
+            {
+              "nome": "Dinastia A Familia Murdoch Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3Kk8jGWxZv0UIoEui5ZimXCamgG.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713656.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Dinastia",
+          "itens": [
+            {
+              "nome": "Dinastia Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aPj2qKRkZSn4sVXaOsHQjKO3aiT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724641.mp4"
+            },
+            {
+              "nome": "Dinastia Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aPj2qKRkZSn4sVXaOsHQjKO3aiT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724642.mp4"
+            },
+            {
+              "nome": "Dinastia Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aPj2qKRkZSn4sVXaOsHQjKO3aiT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724643.mp4"
+            },
+            {
+              "nome": "Dinastia Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aPj2qKRkZSn4sVXaOsHQjKO3aiT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724644.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Dilema",
+          "itens": [
+            {
+              "nome": "Dilema Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rlH5cg2BbBXEBCdDwxzPRN6A0Wa.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704798.mp4"
+            },
+            {
+              "nome": "Dilema Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rlH5cg2BbBXEBCdDwxzPRN6A0Wa.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704799.mp4"
+            },
+            {
+              "nome": "Dilema Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rlH5cg2BbBXEBCdDwxzPRN6A0Wa.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704800.mp4"
+            },
+            {
+              "nome": "Dilema Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rlH5cg2BbBXEBCdDwxzPRN6A0Wa.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704801.mp4"
+            },
+            {
+              "nome": "Dilema Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rlH5cg2BbBXEBCdDwxzPRN6A0Wa.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704802.mp4"
+            },
+            {
+              "nome": "Dilema Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rlH5cg2BbBXEBCdDwxzPRN6A0Wa.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704803.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Dias de Golfe",
+          "itens": [
+            {
+              "nome": "Dias de Golfe Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713807.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713808.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713809.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713810.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713811.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713812.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713813.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713814.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713815.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713816.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 11",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713817.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 12",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713818.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 13",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713819.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 14",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713820.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 15",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713821.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713822.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713823.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713824.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713825.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713826.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713827.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 07",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713828.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 08",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713829.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 09",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713830.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 10",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713831.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 11",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713832.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 12",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713833.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 13",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713834.mp4"
+            },
+            {
+              "nome": "Dias de Golfe Epsódio 14",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713835.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Diario de uma Garota que Coleciona Foras",
+          "itens": [
+            {
+              "nome": "Diario de uma Garota que Coleciona Foras Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4JM3rQ380quyld6DGyo2kNkvz5t.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720187.mp4"
+            },
+            {
+              "nome": "Diario de uma Garota que Coleciona Foras Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4JM3rQ380quyld6DGyo2kNkvz5t.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720188.mp4"
+            },
+            {
+              "nome": "Diario de uma Garota que Coleciona Foras Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4JM3rQ380quyld6DGyo2kNkvz5t.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720189.mp4"
+            },
+            {
+              "nome": "Diario de uma Garota que Coleciona Foras Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4JM3rQ380quyld6DGyo2kNkvz5t.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720190.mp4"
+            },
+            {
+              "nome": "Diario de uma Garota que Coleciona Foras Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4JM3rQ380quyld6DGyo2kNkvz5t.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720191.mp4"
+            },
+            {
+              "nome": "Diario de uma Garota que Coleciona Foras Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4JM3rQ380quyld6DGyo2kNkvz5t.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720192.mp4"
+            },
+            {
+              "nome": "Diario de uma Garota que Coleciona Foras Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4JM3rQ380quyld6DGyo2kNkvz5t.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720193.mp4"
+            },
+            {
+              "nome": "Diario de uma Garota que Coleciona Foras Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4JM3rQ380quyld6DGyo2kNkvz5t.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720194.mp4"
+            },
+            {
+              "nome": "Diario de uma Garota que Coleciona Foras Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4JM3rQ380quyld6DGyo2kNkvz5t.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720195.mp4"
+            },
+            {
+              "nome": "Diario de uma Garota que Coleciona Foras Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4JM3rQ380quyld6DGyo2kNkvz5t.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720196.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Diamantes Brutos",
+          "itens": [
+            {
+              "nome": "Diamantes Brutos Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4719399.mp4"
+            },
+            {
+              "nome": "Diamantes Brutos Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4719400.mp4"
+            },
+            {
+              "nome": "Diamantes Brutos Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4719401.mp4"
+            },
+            {
+              "nome": "Diamantes Brutos Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4719402.mp4"
+            },
+            {
+              "nome": "Diamantes Brutos Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4719403.mp4"
+            },
+            {
+              "nome": "Diamantes Brutos Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4719404.mp4"
+            },
+            {
+              "nome": "Diamantes Brutos Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4719405.mp4"
+            },
+            {
+              "nome": "Diamantes Brutos Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4719406.mp4"
+            },
+            {
+              "nome": "Diamantes Brutos Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4719407.mp4"
+            },
+            {
+              "nome": "Diamantes Brutos Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4719408.mp4"
+            },
+            {
+              "nome": "Diamantes Brutos Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4719409.mp4"
+            },
+            {
+              "nome": "Diamantes Brutos Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4719410.mp4"
+            },
+            {
+              "nome": "Diamantes Brutos Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4719411.mp4"
+            },
+            {
+              "nome": "Diamantes Brutos Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4719412.mp4"
+            },
+            {
+              "nome": "Diamantes Brutos Epsódio 07",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4719413.mp4"
+            },
+            {
+              "nome": "Diamantes Brutos Epsódio 08",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4719414.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Diablero",
+          "itens": [
+            {
+              "nome": "Diablero Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aygtFvxFMMxX42vLAgzqexcN0qL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726823.mp4"
+            },
+            {
+              "nome": "Diablero Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aygtFvxFMMxX42vLAgzqexcN0qL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726824.mp4"
+            },
+            {
+              "nome": "Diablero Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aygtFvxFMMxX42vLAgzqexcN0qL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726825.mp4"
+            },
+            {
+              "nome": "Diablero Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aygtFvxFMMxX42vLAgzqexcN0qL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726826.mp4"
+            },
+            {
+              "nome": "Diablero Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aygtFvxFMMxX42vLAgzqexcN0qL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726827.mp4"
+            },
+            {
+              "nome": "Diablero Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aygtFvxFMMxX42vLAgzqexcN0qL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726828.mp4"
+            },
+            {
+              "nome": "Diablero Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aygtFvxFMMxX42vLAgzqexcN0qL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726829.mp4"
+            },
+            {
+              "nome": "Diablero Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aygtFvxFMMxX42vLAgzqexcN0qL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726830.mp4"
+            },
+            {
+              "nome": "Diablero Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aygtFvxFMMxX42vLAgzqexcN0qL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726831.mp4"
+            },
+            {
+              "nome": "Diablero Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aygtFvxFMMxX42vLAgzqexcN0qL.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726832.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Dia Zero",
+          "itens": [
+            {
+              "nome": "Dia Zero Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/zG6dUIJ7gNIyKKrDpPionW2J83J.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713418.mp4"
+            },
+            {
+              "nome": "Dia Zero Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/zG6dUIJ7gNIyKKrDpPionW2J83J.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713419.mp4"
+            },
+            {
+              "nome": "Dia Zero Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/zG6dUIJ7gNIyKKrDpPionW2J83J.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713420.mp4"
+            },
+            {
+              "nome": "Dia Zero Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/zG6dUIJ7gNIyKKrDpPionW2J83J.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713421.mp4"
+            },
+            {
+              "nome": "Dia Zero Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/zG6dUIJ7gNIyKKrDpPionW2J83J.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713422.mp4"
+            },
+            {
+              "nome": "Dia Zero Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/zG6dUIJ7gNIyKKrDpPionW2J83J.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713423.mp4"
+            },
+            {
+              "nome": "Dia Zero Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/zG6dUIJ7gNIyKKrDpPionW2J83J.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713424.mp4"
+            },
+            {
+              "nome": "Dia Zero Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/zG6dUIJ7gNIyKKrDpPionW2J83J.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713425.mp4"
+            },
+            {
+              "nome": "Dia Zero Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/zG6dUIJ7gNIyKKrDpPionW2J83J.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713426.mp4"
+            },
+            {
+              "nome": "Dia Zero Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/zG6dUIJ7gNIyKKrDpPionW2J83J.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713427.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Devolva me a Vida",
+          "itens": [
+            {
+              "nome": "Devolva me a Vida Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oD9LhXvRW7wQtJtELLV2wq20nbK.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713329.mp4"
+            },
+            {
+              "nome": "Devolva me a Vida Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oD9LhXvRW7wQtJtELLV2wq20nbK.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713330.mp4"
+            },
+            {
+              "nome": "Devolva me a Vida Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oD9LhXvRW7wQtJtELLV2wq20nbK.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713331.mp4"
+            },
+            {
+              "nome": "Devolva me a Vida Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oD9LhXvRW7wQtJtELLV2wq20nbK.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713332.mp4"
+            },
+            {
+              "nome": "Devolva me a Vida Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oD9LhXvRW7wQtJtELLV2wq20nbK.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713333.mp4"
+            },
+            {
+              "nome": "Devolva me a Vida Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oD9LhXvRW7wQtJtELLV2wq20nbK.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713334.mp4"
+            },
+            {
+              "nome": "Devolva me a Vida Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oD9LhXvRW7wQtJtELLV2wq20nbK.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713335.mp4"
+            },
+            {
+              "nome": "Devolva me a Vida Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oD9LhXvRW7wQtJtELLV2wq20nbK.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713336.mp4"
+            },
+            {
+              "nome": "Devolva me a Vida Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oD9LhXvRW7wQtJtELLV2wq20nbK.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713337.mp4"
+            },
+            {
+              "nome": "Devolva me a Vida Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oD9LhXvRW7wQtJtELLV2wq20nbK.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713338.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Devil May Cry",
+          "itens": [
+            {
+              "nome": "Devil May Cry Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/75KximV3WhtvlWFneTrf1Pw61cu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710816.mp4"
+            },
+            {
+              "nome": "Devil May Cry Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/75KximV3WhtvlWFneTrf1Pw61cu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710817.mp4"
+            },
+            {
+              "nome": "Devil May Cry Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/75KximV3WhtvlWFneTrf1Pw61cu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710818.mp4"
+            },
+            {
+              "nome": "Devil May Cry Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/75KximV3WhtvlWFneTrf1Pw61cu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710819.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Detox",
+          "itens": [
+            {
+              "nome": "Detox Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rAlsYy9x0aaEhoKA2hNCX6DMJks.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708534.mp4"
+            },
+            {
+              "nome": "Detox Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rAlsYy9x0aaEhoKA2hNCX6DMJks.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708535.mp4"
+            },
+            {
+              "nome": "Detox Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rAlsYy9x0aaEhoKA2hNCX6DMJks.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708536.mp4"
+            },
+            {
+              "nome": "Detox Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rAlsYy9x0aaEhoKA2hNCX6DMJks.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4708537.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Detetive Conan Hanzawa o Culpado",
+          "itens": [
+            {
+              "nome": "Detetive Conan Hanzawa o Culpado Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/t5ghJxJioNnvNVfahZAqithHoRf.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710696.mp4"
+            },
+            {
+              "nome": "Detetive Conan Hanzawa o Culpado Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/t5ghJxJioNnvNVfahZAqithHoRf.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710697.mp4"
+            },
+            {
+              "nome": "Detetive Conan Hanzawa o Culpado Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/t5ghJxJioNnvNVfahZAqithHoRf.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710698.mp4"
+            },
+            {
+              "nome": "Detetive Conan Hanzawa o Culpado Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/t5ghJxJioNnvNVfahZAqithHoRf.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710699.mp4"
+            },
+            {
+              "nome": "Detetive Conan Hanzawa o Culpado Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/t5ghJxJioNnvNVfahZAqithHoRf.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710700.mp4"
+            },
+            {
+              "nome": "Detetive Conan Hanzawa o Culpado Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/t5ghJxJioNnvNVfahZAqithHoRf.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710701.mp4"
+            },
+            {
+              "nome": "Detetive Conan Hanzawa o Culpado Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/t5ghJxJioNnvNVfahZAqithHoRf.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710702.mp4"
+            },
+            {
+              "nome": "Detetive Conan Hanzawa o Culpado Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/t5ghJxJioNnvNVfahZAqithHoRf.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710703.mp4"
+            },
+            {
+              "nome": "Detetive Conan Hanzawa o Culpado Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/t5ghJxJioNnvNVfahZAqithHoRf.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710704.mp4"
+            },
+            {
+              "nome": "Detetive Conan Hanzawa o Culpado Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/t5ghJxJioNnvNVfahZAqithHoRf.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710705.mp4"
+            },
+            {
+              "nome": "Detetive Conan Hanzawa o Culpado Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/t5ghJxJioNnvNVfahZAqithHoRf.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710706.mp4"
+            },
+            {
+              "nome": "Detetive Conan Hanzawa o Culpado Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/t5ghJxJioNnvNVfahZAqithHoRf.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710707.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Detetive Belascoaran",
+          "itens": [
+            {
+              "nome": "Detetive Belascoaran Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jmr8YzjWfQzUCbsoxJOXauuc3wb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718561.mp4"
+            },
+            {
+              "nome": "Detetive Belascoaran Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jmr8YzjWfQzUCbsoxJOXauuc3wb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718562.mp4"
+            },
+            {
+              "nome": "Detetive Belascoaran Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jmr8YzjWfQzUCbsoxJOXauuc3wb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718563.mp4"
+            },
+            {
+              "nome": "Detetive Belascoaran Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jmr8YzjWfQzUCbsoxJOXauuc3wb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718564.mp4"
+            },
+            {
+              "nome": "Detetive Belascoaran Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jmr8YzjWfQzUCbsoxJOXauuc3wb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718565.mp4"
+            },
+            {
+              "nome": "Detetive Belascoaran Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jmr8YzjWfQzUCbsoxJOXauuc3wb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718566.mp4"
+            },
+            {
+              "nome": "Detetive Belascoaran Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jmr8YzjWfQzUCbsoxJOXauuc3wb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718567.mp4"
+            },
+            {
+              "nome": "Detetive Belascoaran Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jmr8YzjWfQzUCbsoxJOXauuc3wb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718568.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Detective Forst",
+          "itens": [
+            {
+              "nome": "Detective Forst Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/m2UGZGtVTsmVLlmw8D08kjiiqSN.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711905.mp4"
+            },
+            {
+              "nome": "Detective Forst Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/m2UGZGtVTsmVLlmw8D08kjiiqSN.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711906.mp4"
+            },
+            {
+              "nome": "Detective Forst Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/m2UGZGtVTsmVLlmw8D08kjiiqSN.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711907.mp4"
+            },
+            {
+              "nome": "Detective Forst Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/m2UGZGtVTsmVLlmw8D08kjiiqSN.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711908.mp4"
+            },
+            {
+              "nome": "Detective Forst Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/m2UGZGtVTsmVLlmw8D08kjiiqSN.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711909.mp4"
+            },
+            {
+              "nome": "Detective Forst Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/m2UGZGtVTsmVLlmw8D08kjiiqSN.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711910.mp4"
+            },
+            {
+              "nome": "Detective Forst Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/m2UGZGtVTsmVLlmw8D08kjiiqSN.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711911.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Desventuras em Série",
+          "itens": [
+            {
+              "nome": "Desventuras em Série Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/2JHWZOaEc426dQnXnTJFurmXpu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720278.mp4"
+            },
+            {
+              "nome": "Desventuras em Série Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/2JHWZOaEc426dQnXnTJFurmXpu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720279.mp4"
+            },
+            {
+              "nome": "Desventuras em Série Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/2JHWZOaEc426dQnXnTJFurmXpu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720280.mp4"
+            },
+            {
+              "nome": "Desventuras em Série Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/2JHWZOaEc426dQnXnTJFurmXpu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720281.mp4"
+            },
+            {
+              "nome": "Desventuras em Série Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/2JHWZOaEc426dQnXnTJFurmXpu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720282.mp4"
+            },
+            {
+              "nome": "Desventuras em Série Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/2JHWZOaEc426dQnXnTJFurmXpu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720283.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Destrancados Um Experimento na Prisao",
+          "itens": [
+            {
+              "nome": "Destrancados Um Experimento na Prisao Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/viL2K9vyFOcvhPn0gRDjlUDUx0j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710186.mp4"
+            },
+            {
+              "nome": "Destrancados Um Experimento na Prisao Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/viL2K9vyFOcvhPn0gRDjlUDUx0j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710187.mp4"
+            },
+            {
+              "nome": "Destrancados Um Experimento na Prisao Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/viL2K9vyFOcvhPn0gRDjlUDUx0j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710188.mp4"
+            },
+            {
+              "nome": "Destrancados Um Experimento na Prisao Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/viL2K9vyFOcvhPn0gRDjlUDUx0j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710189.mp4"
+            },
+            {
+              "nome": "Destrancados Um Experimento na Prisao Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/viL2K9vyFOcvhPn0gRDjlUDUx0j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710190.mp4"
+            },
+            {
+              "nome": "Destrancados Um Experimento na Prisao Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/viL2K9vyFOcvhPn0gRDjlUDUx0j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710191.mp4"
+            },
+            {
+              "nome": "Destrancados Um Experimento na Prisao Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/viL2K9vyFOcvhPn0gRDjlUDUx0j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710192.mp4"
+            },
+            {
+              "nome": "Destrancados Um Experimento na Prisao Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/viL2K9vyFOcvhPn0gRDjlUDUx0j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710193.mp4"
+            },
+            {
+              "nome": "Destrancados Um Experimento na Prisao Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/viL2K9vyFOcvhPn0gRDjlUDUx0j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710194.mp4"
+            },
+            {
+              "nome": "Destrancados Um Experimento na Prisao Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/viL2K9vyFOcvhPn0gRDjlUDUx0j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710195.mp4"
+            },
+            {
+              "nome": "Destrancados Um Experimento na Prisao Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/viL2K9vyFOcvhPn0gRDjlUDUx0j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710196.mp4"
+            },
+            {
+              "nome": "Destrancados Um Experimento na Prisao Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/viL2K9vyFOcvhPn0gRDjlUDUx0j.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710197.mp4"
+            }
+          ]
+        }
+      ],
+      "itens": []
+    }
+  ]
+}
