@@ -1,1 +1,1517 @@
-cole aqui
+{
+  "canais": [],
+  "filmes": [],
+  "series": [
+    {
+      "album": "♦️ Netflix",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/series/Netflix.png",
+      "subAlbuns": [
+        {
+          "subAlbum": "A Sabedoria do Tempo, com Papa Francisco",
+          "itens": [
+            {
+              "nome": "A Sabedoria do Tempo, com Papa Francisco Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/by6XRXG5Rp0fOnNMUoyWTkkP1kT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714720.mp4"
+            },
+            {
+              "nome": "A Sabedoria do Tempo, com Papa Francisco Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/by6XRXG5Rp0fOnNMUoyWTkkP1kT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714721.mp4"
+            },
+            {
+              "nome": "A Sabedoria do Tempo, com Papa Francisco Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/by6XRXG5Rp0fOnNMUoyWTkkP1kT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714722.mp4"
+            },
+            {
+              "nome": "A Sabedoria do Tempo, com Papa Francisco Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/by6XRXG5Rp0fOnNMUoyWTkkP1kT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714723.mp4"
+            },
+            {
+              "nome": "A Sabedoria do Tempo, com Papa Francisco Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/by6XRXG5Rp0fOnNMUoyWTkkP1kT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714724.mp4"
+            },
+            {
+              "nome": "A Sabedoria do Tempo, com Papa Francisco Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/by6XRXG5Rp0fOnNMUoyWTkkP1kT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714725.mp4"
+            },
+            {
+              "nome": "A Sabedoria do Tempo, com Papa Francisco Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/by6XRXG5Rp0fOnNMUoyWTkkP1kT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714726.mp4"
+            },
+            {
+              "nome": "A Sabedoria do Tempo, com Papa Francisco Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/by6XRXG5Rp0fOnNMUoyWTkkP1kT.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714727.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "A Reserva",
+          "itens": [
+            {
+              "nome": "A Reserva Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/654Kmi3ZbrpOow7D5k9pmwbsFIE.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718569.mp4"
+            },
+            {
+              "nome": "A Reserva Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/654Kmi3ZbrpOow7D5k9pmwbsFIE.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718570.mp4"
+            },
+            {
+              "nome": "A Reserva Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/654Kmi3ZbrpOow7D5k9pmwbsFIE.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718571.mp4"
+            },
+            {
+              "nome": "A Reserva Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/654Kmi3ZbrpOow7D5k9pmwbsFIE.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718572.mp4"
+            },
+            {
+              "nome": "A Reserva Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/654Kmi3ZbrpOow7D5k9pmwbsFIE.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718573.mp4"
+            },
+            {
+              "nome": "A Reserva Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/654Kmi3ZbrpOow7D5k9pmwbsFIE.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718574.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "A Rainha do Tráfico",
+          "itens": [
+            {
+              "nome": "A Rainha do Tráfico Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/en1mxPB2ggTiqnfHyaDOW3GfuZW.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725648.mp4"
+            },
+            {
+              "nome": "A Rainha do Tráfico Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/en1mxPB2ggTiqnfHyaDOW3GfuZW.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725649.mp4"
+            },
+            {
+              "nome": "A Rainha do Tráfico Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/en1mxPB2ggTiqnfHyaDOW3GfuZW.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725650.mp4"
+            },
+            {
+              "nome": "A Rainha do Tráfico Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/en1mxPB2ggTiqnfHyaDOW3GfuZW.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725651.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "A Rainha do Sul",
+          "itens": [
+            {
+              "nome": "A Rainha do Sul Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gHYPaYiBBGYlMBjPCL4SLUkq3Di.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725050.mp4"
+            },
+            {
+              "nome": "A Rainha do Sul Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gHYPaYiBBGYlMBjPCL4SLUkq3Di.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725051.mp4"
+            },
+            {
+              "nome": "A Rainha do Sul Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gHYPaYiBBGYlMBjPCL4SLUkq3Di.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725052.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "A Rainha do Fluxo",
+          "itens": [
+            {
+              "nome": "A Rainha do Fluxo Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mj3bfL3Rg1VQ5VSRftkLesQqZcs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704673.mp4"
+            },
+            {
+              "nome": "A Rainha do Fluxo Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mj3bfL3Rg1VQ5VSRftkLesQqZcs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704674.mp4"
+            },
+            {
+              "nome": "A Rainha do Fluxo Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mj3bfL3Rg1VQ5VSRftkLesQqZcs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704675.mp4"
+            },
+            {
+              "nome": "A Rainha do Fluxo Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mj3bfL3Rg1VQ5VSRftkLesQqZcs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704676.mp4"
+            },
+            {
+              "nome": "A Rainha do Fluxo Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mj3bfL3Rg1VQ5VSRftkLesQqZcs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704677.mp4"
+            },
+            {
+              "nome": "A Rainha do Fluxo Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mj3bfL3Rg1VQ5VSRftkLesQqZcs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704678.mp4"
+            },
+            {
+              "nome": "A Rainha do Fluxo Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mj3bfL3Rg1VQ5VSRftkLesQqZcs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704679.mp4"
+            },
+            {
+              "nome": "A Rainha do Fluxo Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mj3bfL3Rg1VQ5VSRftkLesQqZcs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704680.mp4"
+            },
+            {
+              "nome": "A Rainha do Fluxo Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mj3bfL3Rg1VQ5VSRftkLesQqZcs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704681.mp4"
+            },
+            {
+              "nome": "A Rainha do Fluxo Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mj3bfL3Rg1VQ5VSRftkLesQqZcs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704682.mp4"
+            },
+            {
+              "nome": "A Rainha do Fluxo Epsódio 11",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mj3bfL3Rg1VQ5VSRftkLesQqZcs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704683.mp4"
+            },
+            {
+              "nome": "A Rainha do Fluxo Epsódio 12",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mj3bfL3Rg1VQ5VSRftkLesQqZcs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704684.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "A Rainha das Vilas",
+          "itens": [
+            {
+              "nome": "A Rainha das Vilas Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mAhTkajP70AriMhjH6VbiBML3qD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4698814.mp4"
+            },
+            {
+              "nome": "A Rainha das Vilas Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mAhTkajP70AriMhjH6VbiBML3qD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4698815.mp4"
+            },
+            {
+              "nome": "A Rainha das Vilas Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mAhTkajP70AriMhjH6VbiBML3qD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4698816.mp4"
+            },
+            {
+              "nome": "A Rainha das Vilas Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mAhTkajP70AriMhjH6VbiBML3qD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4698817.mp4"
+            },
+            {
+              "nome": "A Rainha das Vilas Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mAhTkajP70AriMhjH6VbiBML3qD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4698818.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "A Queda da Casa de Usher",
+          "itens": [
+            {
+              "nome": "A Queda da Casa de Usher Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/b5MzNAgs1baKi32ln3yQoaKIsgZ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710589.mp4"
+            },
+            {
+              "nome": "A Queda da Casa de Usher Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/b5MzNAgs1baKi32ln3yQoaKIsgZ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710590.mp4"
+            },
+            {
+              "nome": "A Queda da Casa de Usher Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/b5MzNAgs1baKi32ln3yQoaKIsgZ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710591.mp4"
+            },
+            {
+              "nome": "A Queda da Casa de Usher Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/b5MzNAgs1baKi32ln3yQoaKIsgZ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710592.mp4"
+            },
+            {
+              "nome": "A Queda da Casa de Usher Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/b5MzNAgs1baKi32ln3yQoaKIsgZ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710593.mp4"
+            },
+            {
+              "nome": "A Queda da Casa de Usher Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/b5MzNAgs1baKi32ln3yQoaKIsgZ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710594.mp4"
+            },
+            {
+              "nome": "A Queda da Casa de Usher Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/b5MzNAgs1baKi32ln3yQoaKIsgZ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710595.mp4"
+            },
+            {
+              "nome": "A Queda da Casa de Usher Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/b5MzNAgs1baKi32ln3yQoaKIsgZ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710596.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "A Primeira Vez",
+          "itens": [
+            {
+              "nome": "A Primeira Vez Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3FejGO0gViXmrTcKP6KtbdkYlXI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718827.mp4"
+            },
+            {
+              "nome": "A Primeira Vez Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3FejGO0gViXmrTcKP6KtbdkYlXI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718828.mp4"
+            },
+            {
+              "nome": "A Primeira Vez Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3FejGO0gViXmrTcKP6KtbdkYlXI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718829.mp4"
+            },
+            {
+              "nome": "A Primeira Vez Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3FejGO0gViXmrTcKP6KtbdkYlXI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718830.mp4"
+            },
+            {
+              "nome": "A Primeira Vez Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3FejGO0gViXmrTcKP6KtbdkYlXI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718831.mp4"
+            },
+            {
+              "nome": "A Primeira Vez Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3FejGO0gViXmrTcKP6KtbdkYlXI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718832.mp4"
+            },
+            {
+              "nome": "A Primeira Vez Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3FejGO0gViXmrTcKP6KtbdkYlXI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718833.mp4"
+            },
+            {
+              "nome": "A Primeira Vez Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3FejGO0gViXmrTcKP6KtbdkYlXI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718834.mp4"
+            },
+            {
+              "nome": "A Primeira Vez Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3FejGO0gViXmrTcKP6KtbdkYlXI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718835.mp4"
+            },
+            {
+              "nome": "A Primeira Vez Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3FejGO0gViXmrTcKP6KtbdkYlXI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718836.mp4"
+            },
+            {
+              "nome": "A Primeira Vez Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3FejGO0gViXmrTcKP6KtbdkYlXI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718837.mp4"
+            },
+            {
+              "nome": "A Primeira Vez Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3FejGO0gViXmrTcKP6KtbdkYlXI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718838.mp4"
+            },
+            {
+              "nome": "A Primeira Vez Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3FejGO0gViXmrTcKP6KtbdkYlXI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718839.mp4"
+            },
+            {
+              "nome": "A Primeira Vez Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3FejGO0gViXmrTcKP6KtbdkYlXI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718840.mp4"
+            },
+            {
+              "nome": "A Primeira Vez Epsódio 07",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3FejGO0gViXmrTcKP6KtbdkYlXI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718841.mp4"
+            },
+            {
+              "nome": "A Primeira Vez Epsódio 08",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3FejGO0gViXmrTcKP6KtbdkYlXI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718842.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "A Pousada do Jae seok",
+          "itens": [
+            {
+              "nome": "A Pousada do Jae seok Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bnw5v4d8T9Cg4ylHuJ7CsfPZBFK.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4700000.mp4"
+            },
+            {
+              "nome": "A Pousada do Jae seok Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bnw5v4d8T9Cg4ylHuJ7CsfPZBFK.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4700001.mp4"
+            },
+            {
+              "nome": "A Pousada do Jae seok Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bnw5v4d8T9Cg4ylHuJ7CsfPZBFK.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4700002.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "A Pousada Bizarra do Kian84",
+          "itens": [
+            {
+              "nome": "A Pousada Bizarra do Kian84 Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8C52BNqZTxGLZEWTOShkdCkCZYQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727801.mp4"
+            },
+            {
+              "nome": "A Pousada Bizarra do Kian84 Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8C52BNqZTxGLZEWTOShkdCkCZYQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727802.mp4"
+            },
+            {
+              "nome": "A Pousada Bizarra do Kian84 Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8C52BNqZTxGLZEWTOShkdCkCZYQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727803.mp4"
+            },
+            {
+              "nome": "A Pousada Bizarra do Kian84 Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8C52BNqZTxGLZEWTOShkdCkCZYQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727804.mp4"
+            },
+            {
+              "nome": "A Pousada Bizarra do Kian84 Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8C52BNqZTxGLZEWTOShkdCkCZYQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727805.mp4"
+            },
+            {
+              "nome": "A Pousada Bizarra do Kian84 Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8C52BNqZTxGLZEWTOShkdCkCZYQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727806.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "A Pior Vizinhança",
+          "itens": [
+            {
+              "nome": "A Pior Vizinhança Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717265.mp4"
+            },
+            {
+              "nome": "A Pior Vizinhança Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717266.mp4"
+            },
+            {
+              "nome": "A Pior Vizinhança Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717267.mp4"
+            },
+            {
+              "nome": "A Pior Vizinhança Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717268.mp4"
+            },
+            {
+              "nome": "A Pior Vizinhança Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717269.mp4"
+            },
+            {
+              "nome": "A Pior Vizinhança Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717270.mp4"
+            },
+            {
+              "nome": "A Pior Vizinhança Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717271.mp4"
+            },
+            {
+              "nome": "A Pior Vizinhança Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717272.mp4"
+            },
+            {
+              "nome": "A Pior Vizinhança Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717273.mp4"
+            },
+            {
+              "nome": "A Pior Vizinhança Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717274.mp4"
+            },
+            {
+              "nome": "A Pior Vizinhança Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717275.mp4"
+            },
+            {
+              "nome": "A Pior Vizinhança Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717276.mp4"
+            },
+            {
+              "nome": "A Pior Vizinhança Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717277.mp4"
+            },
+            {
+              "nome": "A Pior Vizinhança Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717278.mp4"
+            },
+            {
+              "nome": "A Pior Vizinhança Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717279.mp4"
+            },
+            {
+              "nome": "A Pior Vizinhança Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717280.mp4"
+            },
+            {
+              "nome": "A Pior Vizinhança Epsódio 07",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717281.mp4"
+            },
+            {
+              "nome": "A Pior Vizinhança Epsódio 08",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717282.mp4"
+            },
+            {
+              "nome": "A Pior Vizinhança Epsódio 09",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717283.mp4"
+            },
+            {
+              "nome": "A Pior Vizinhança Epsódio 10",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717284.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "A Pior das Bruxas",
+          "itens": [
+            {
+              "nome": "A Pior das Bruxas Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fLhJKgPKeBsQaSe0i7VOnRQl37r.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4728535.mp4"
+            },
+            {
+              "nome": "A Pior das Bruxas Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fLhJKgPKeBsQaSe0i7VOnRQl37r.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4728536.mp4"
+            },
+            {
+              "nome": "A Pior das Bruxas Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fLhJKgPKeBsQaSe0i7VOnRQl37r.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4728537.mp4"
+            },
+            {
+              "nome": "A Pior das Bruxas Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fLhJKgPKeBsQaSe0i7VOnRQl37r.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4728538.mp4"
+            },
+            {
+              "nome": "A Pior das Bruxas Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fLhJKgPKeBsQaSe0i7VOnRQl37r.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4728539.mp4"
+            },
+            {
+              "nome": "A Pior das Bruxas Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fLhJKgPKeBsQaSe0i7VOnRQl37r.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4728540.mp4"
+            },
+            {
+              "nome": "A Pior das Bruxas Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fLhJKgPKeBsQaSe0i7VOnRQl37r.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4728541.mp4"
+            },
+            {
+              "nome": "A Pior das Bruxas Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fLhJKgPKeBsQaSe0i7VOnRQl37r.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4728542.mp4"
+            },
+            {
+              "nome": "A Pior das Bruxas Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fLhJKgPKeBsQaSe0i7VOnRQl37r.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4728543.mp4"
+            },
+            {
+              "nome": "A Pior das Bruxas Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fLhJKgPKeBsQaSe0i7VOnRQl37r.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4728544.mp4"
+            },
+            {
+              "nome": "A Pior das Bruxas Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fLhJKgPKeBsQaSe0i7VOnRQl37r.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4728545.mp4"
+            },
+            {
+              "nome": "A Pior das Bruxas Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fLhJKgPKeBsQaSe0i7VOnRQl37r.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4728546.mp4"
+            },
+            {
+              "nome": "A Pior das Bruxas Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fLhJKgPKeBsQaSe0i7VOnRQl37r.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4728547.mp4"
+            },
+            {
+              "nome": "A Pior das Bruxas Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fLhJKgPKeBsQaSe0i7VOnRQl37r.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4728548.mp4"
+            },
+            {
+              "nome": "A Pior das Bruxas Epsódio 07",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fLhJKgPKeBsQaSe0i7VOnRQl37r.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4728549.mp4"
+            },
+            {
+              "nome": "A Pior das Bruxas Epsódio 08",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fLhJKgPKeBsQaSe0i7VOnRQl37r.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4728550.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "A Penúltima Palavra",
+          "itens": [
+            {
+              "nome": "A Penúltima Palavra Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/o0N0D4r86lICGsDegiY1q3sygiu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727450.mp4"
+            },
+            {
+              "nome": "A Penúltima Palavra Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/o0N0D4r86lICGsDegiY1q3sygiu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727451.mp4"
+            },
+            {
+              "nome": "A Penúltima Palavra Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/o0N0D4r86lICGsDegiY1q3sygiu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727452.mp4"
+            },
+            {
+              "nome": "A Penúltima Palavra Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/o0N0D4r86lICGsDegiY1q3sygiu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727453.mp4"
+            },
+            {
+              "nome": "A Penúltima Palavra Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/o0N0D4r86lICGsDegiY1q3sygiu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727454.mp4"
+            },
+            {
+              "nome": "A Penúltima Palavra Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/o0N0D4r86lICGsDegiY1q3sygiu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727455.mp4"
+            },
+            {
+              "nome": "A Penúltima Palavra Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/o0N0D4r86lICGsDegiY1q3sygiu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727456.mp4"
+            },
+            {
+              "nome": "A Penúltima Palavra Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/o0N0D4r86lICGsDegiY1q3sygiu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727457.mp4"
+            },
+            {
+              "nome": "A Penúltima Palavra Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/o0N0D4r86lICGsDegiY1q3sygiu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727458.mp4"
+            },
+            {
+              "nome": "A Penúltima Palavra Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/o0N0D4r86lICGsDegiY1q3sygiu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727459.mp4"
+            },
+            {
+              "nome": "A Penúltima Palavra Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/o0N0D4r86lICGsDegiY1q3sygiu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727460.mp4"
+            },
+            {
+              "nome": "A Penúltima Palavra Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/o0N0D4r86lICGsDegiY1q3sygiu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727461.mp4"
+            },
+            {
+              "nome": "A Penúltima Palavra Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/o0N0D4r86lICGsDegiY1q3sygiu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727462.mp4"
+            },
+            {
+              "nome": "A Penúltima Palavra Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/o0N0D4r86lICGsDegiY1q3sygiu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727463.mp4"
+            },
+            {
+              "nome": "A Penúltima Palavra Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/o0N0D4r86lICGsDegiY1q3sygiu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727464.mp4"
+            },
+            {
+              "nome": "A Penúltima Palavra Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/o0N0D4r86lICGsDegiY1q3sygiu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727465.mp4"
+            },
+            {
+              "nome": "A Penúltima Palavra Epsódio 07",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/o0N0D4r86lICGsDegiY1q3sygiu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727466.mp4"
+            },
+            {
+              "nome": "A Penúltima Palavra Epsódio 08",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/o0N0D4r86lICGsDegiY1q3sygiu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4727467.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "A Nova Forca",
+          "itens": [
+            {
+              "nome": "A Nova Forca Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mdkwgNB9NnDzt0l7gD3NkhCHo8b.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724271.mp4"
+            },
+            {
+              "nome": "A Nova Forca Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mdkwgNB9NnDzt0l7gD3NkhCHo8b.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724272.mp4"
+            },
+            {
+              "nome": "A Nova Forca Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mdkwgNB9NnDzt0l7gD3NkhCHo8b.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724273.mp4"
+            },
+            {
+              "nome": "A Nova Forca Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mdkwgNB9NnDzt0l7gD3NkhCHo8b.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724274.mp4"
+            },
+            {
+              "nome": "A Nova Forca Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mdkwgNB9NnDzt0l7gD3NkhCHo8b.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724275.mp4"
+            },
+            {
+              "nome": "A Nova Forca Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mdkwgNB9NnDzt0l7gD3NkhCHo8b.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724276.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "A Mulher Proibida",
+          "itens": [
+            {
+              "nome": "A Mulher Proibida Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6yI1f9qk1aaW16f6EkIPi73HXaS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720626.mp4"
+            },
+            {
+              "nome": "A Mulher Proibida Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6yI1f9qk1aaW16f6EkIPi73HXaS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720627.mp4"
+            },
+            {
+              "nome": "A Mulher Proibida Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6yI1f9qk1aaW16f6EkIPi73HXaS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720628.mp4"
+            },
+            {
+              "nome": "A Mulher Proibida Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6yI1f9qk1aaW16f6EkIPi73HXaS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720629.mp4"
+            },
+            {
+              "nome": "A Mulher Proibida Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6yI1f9qk1aaW16f6EkIPi73HXaS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720630.mp4"
+            },
+            {
+              "nome": "A Mulher Proibida Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6yI1f9qk1aaW16f6EkIPi73HXaS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720631.mp4"
+            },
+            {
+              "nome": "A Mulher Proibida Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6yI1f9qk1aaW16f6EkIPi73HXaS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720632.mp4"
+            },
+            {
+              "nome": "A Mulher Proibida Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6yI1f9qk1aaW16f6EkIPi73HXaS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720633.mp4"
+            },
+            {
+              "nome": "A Mulher Proibida Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6yI1f9qk1aaW16f6EkIPi73HXaS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4720634.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "A Mulher dos Mortos",
+          "itens": [
+            {
+              "nome": "A Mulher dos Mortos Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4Jm2PehfLAghQjAZ5qLqHRPoicl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4722174.mp4"
+            },
+            {
+              "nome": "A Mulher dos Mortos Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4Jm2PehfLAghQjAZ5qLqHRPoicl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4722175.mp4"
+            },
+            {
+              "nome": "A Mulher dos Mortos Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4Jm2PehfLAghQjAZ5qLqHRPoicl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4722176.mp4"
+            },
+            {
+              "nome": "A Mulher dos Mortos Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4Jm2PehfLAghQjAZ5qLqHRPoicl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4722177.mp4"
+            },
+            {
+              "nome": "A Mulher dos Mortos Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4Jm2PehfLAghQjAZ5qLqHRPoicl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4722178.mp4"
+            },
+            {
+              "nome": "A Mulher dos Mortos Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4Jm2PehfLAghQjAZ5qLqHRPoicl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4722179.mp4"
+            },
+            {
+              "nome": "A Mulher dos Mortos Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4Jm2PehfLAghQjAZ5qLqHRPoicl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4722180.mp4"
+            },
+            {
+              "nome": "A Mulher dos Mortos Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4Jm2PehfLAghQjAZ5qLqHRPoicl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4722181.mp4"
+            },
+            {
+              "nome": "A Mulher dos Mortos Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4Jm2PehfLAghQjAZ5qLqHRPoicl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4722182.mp4"
+            },
+            {
+              "nome": "A Mulher dos Mortos Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4Jm2PehfLAghQjAZ5qLqHRPoicl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4722183.mp4"
+            },
+            {
+              "nome": "A Mulher dos Mortos Epsódio 11",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4Jm2PehfLAghQjAZ5qLqHRPoicl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4722184.mp4"
+            },
+            {
+              "nome": "A Mulher dos Mortos Epsódio 12",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4Jm2PehfLAghQjAZ5qLqHRPoicl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4722185.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "A Morte da Esposa do Pastor",
+          "itens": [
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716740.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716741.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716742.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716743.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716744.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716745.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716746.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716747.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716748.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716749.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 11",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716750.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 12",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716751.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 13",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716752.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 14",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716753.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 15",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716754.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 16",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716755.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716756.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716757.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716758.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716759.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716760.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716761.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 07",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716762.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 08",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716763.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 09",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716764.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 10",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716765.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 11",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716766.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 12",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716767.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 13",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716768.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 14",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716769.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 15",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716770.mp4"
+            },
+            {
+              "nome": "A Morte da Esposa do Pastor - Epsódio 16",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/h06KRyOLV8C2VUfJAk5LXxcsRd1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716771.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "A Mentira",
+          "itens": [
+            {
+              "nome": "A Mentira Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724860.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724861.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724862.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724863.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724864.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724865.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724866.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724867.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724868.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724869.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 11",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724870.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 12",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724871.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 13",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724872.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724873.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724874.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724875.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724876.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724877.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724878.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 07",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724879.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 08",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724880.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 09",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724881.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 10",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724882.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 11",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724883.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 12",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724884.mp4"
+            },
+            {
+              "nome": "A Mentira Epsódio 13",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bPkLDbqfuMb2rnsY8uJRoBOq28C.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724885.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "A Maldição da Residência Hill",
+          "itens": [
+            {
+              "nome": "A Maldição da Residência Hill Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706188.mp4"
+            },
+            {
+              "nome": "A Maldição da Residência Hill Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706189.mp4"
+            },
+            {
+              "nome": "A Maldição da Residência Hill Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706190.mp4"
+            },
+            {
+              "nome": "A Maldição da Residência Hill Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706191.mp4"
+            },
+            {
+              "nome": "A Maldição da Residência Hill Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706192.mp4"
+            },
+            {
+              "nome": "A Maldição da Residência Hill Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706193.mp4"
+            },
+            {
+              "nome": "A Maldição da Residência Hill Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706194.mp4"
+            },
+            {
+              "nome": "A Maldição da Residência Hill Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706195.mp4"
+            },
+            {
+              "nome": "A Maldição da Residência Hill Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706196.mp4"
+            },
+            {
+              "nome": "A Maldição da Residência Hill Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706197.mp4"
+            },
+            {
+              "nome": "A Maldição da Residência Hill Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706198.mp4"
+            },
+            {
+              "nome": "A Maldição da Residência Hill Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706199.mp4"
+            },
+            {
+              "nome": "A Maldição da Residência Hill Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706200.mp4"
+            },
+            {
+              "nome": "A Maldição da Residência Hill Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706201.mp4"
+            },
+            {
+              "nome": "A Maldição da Residência Hill Epsódio 07",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706202.mp4"
+            },
+            {
+              "nome": "A Maldição da Residência Hill Epsódio 08",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4706203.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "A Maldição da Mansão Bly",
+          "itens": [
+            {
+              "nome": "A Maldição da Mansão Bly Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701230.mp4"
+            },
+            {
+              "nome": "A Maldição da Mansão Bly Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701231.mp4"
+            },
+            {
+              "nome": "A Maldição da Mansão Bly Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701232.mp4"
+            },
+            {
+              "nome": "A Maldição da Mansão Bly Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701233.mp4"
+            },
+            {
+              "nome": "A Maldição da Mansão Bly Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701234.mp4"
+            },
+            {
+              "nome": "A Maldição da Mansão Bly Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701235.mp4"
+            },
+            {
+              "nome": "A Maldição da Mansão Bly Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701236.mp4"
+            },
+            {
+              "nome": "A Maldição da Mansão Bly Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701237.mp4"
+            }
+          ]
+        }
+      ],
+      "itens": []
+    }
+  ]
+}
