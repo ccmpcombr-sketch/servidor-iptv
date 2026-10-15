@@ -1,0 +1,1374 @@
+{
+  "canais": [],
+  "filmes": [],
+  "series": [
+    {
+      "album": "♦️ Claro video",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/series/Claro_Video.png",
+      "subAlbuns": [
+        {
+          "subAlbum": "Without Sin_ Sem Pecado",
+          "itens": [
+            {
+              "nome": "Without Sin: Sem Pecado Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/pmizazGSZDaaDV5p52v7BlDhpZy.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730019.mp4"
+            },
+            {
+              "nome": "Without Sin: Sem Pecado Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/pmizazGSZDaaDV5p52v7BlDhpZy.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730020.mp4"
+            },
+            {
+              "nome": "Without Sin: Sem Pecado Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/pmizazGSZDaaDV5p52v7BlDhpZy.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730021.mp4"
+            },
+            {
+              "nome": "Without Sin: Sem Pecado Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/pmizazGSZDaaDV5p52v7BlDhpZy.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730022.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Upright",
+          "itens": [
+            {
+              "nome": "Upright Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x8wY8wtQsjuajH1kyx5EISwF5JI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729914.mp4"
+            },
+            {
+              "nome": "Upright Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x8wY8wtQsjuajH1kyx5EISwF5JI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729915.mp4"
+            },
+            {
+              "nome": "Upright Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x8wY8wtQsjuajH1kyx5EISwF5JI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729916.mp4"
+            },
+            {
+              "nome": "Upright Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x8wY8wtQsjuajH1kyx5EISwF5JI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729917.mp4"
+            },
+            {
+              "nome": "Upright Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x8wY8wtQsjuajH1kyx5EISwF5JI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729918.mp4"
+            },
+            {
+              "nome": "Upright Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x8wY8wtQsjuajH1kyx5EISwF5JI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729919.mp4"
+            },
+            {
+              "nome": "Upright Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x8wY8wtQsjuajH1kyx5EISwF5JI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729920.mp4"
+            },
+            {
+              "nome": "Upright Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x8wY8wtQsjuajH1kyx5EISwF5JI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729921.mp4"
+            },
+            {
+              "nome": "Upright Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x8wY8wtQsjuajH1kyx5EISwF5JI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729922.mp4"
+            },
+            {
+              "nome": "Upright Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x8wY8wtQsjuajH1kyx5EISwF5JI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729923.mp4"
+            },
+            {
+              "nome": "Upright Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x8wY8wtQsjuajH1kyx5EISwF5JI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729924.mp4"
+            },
+            {
+              "nome": "Upright Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x8wY8wtQsjuajH1kyx5EISwF5JI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729925.mp4"
+            },
+            {
+              "nome": "Upright Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x8wY8wtQsjuajH1kyx5EISwF5JI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729926.mp4"
+            },
+            {
+              "nome": "Upright Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x8wY8wtQsjuajH1kyx5EISwF5JI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729927.mp4"
+            },
+            {
+              "nome": "Upright Epsódio 07",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x8wY8wtQsjuajH1kyx5EISwF5JI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729928.mp4"
+            },
+            {
+              "nome": "Upright Epsódio 08",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x8wY8wtQsjuajH1kyx5EISwF5JI.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729929.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "The Hour",
+          "itens": [
+            {
+              "nome": "The Hour Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UpbTCtKFIeMN0TJGLKsPkUo9jp.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730086.mp4"
+            },
+            {
+              "nome": "The Hour Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UpbTCtKFIeMN0TJGLKsPkUo9jp.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730087.mp4"
+            },
+            {
+              "nome": "The Hour Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UpbTCtKFIeMN0TJGLKsPkUo9jp.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730088.mp4"
+            },
+            {
+              "nome": "The Hour Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UpbTCtKFIeMN0TJGLKsPkUo9jp.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730089.mp4"
+            },
+            {
+              "nome": "The Hour Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UpbTCtKFIeMN0TJGLKsPkUo9jp.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730090.mp4"
+            },
+            {
+              "nome": "The Hour Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UpbTCtKFIeMN0TJGLKsPkUo9jp.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730091.mp4"
+            },
+            {
+              "nome": "The Hour Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UpbTCtKFIeMN0TJGLKsPkUo9jp.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730092.mp4"
+            },
+            {
+              "nome": "The Hour Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UpbTCtKFIeMN0TJGLKsPkUo9jp.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730093.mp4"
+            },
+            {
+              "nome": "The Hour Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UpbTCtKFIeMN0TJGLKsPkUo9jp.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730094.mp4"
+            },
+            {
+              "nome": "The Hour Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UpbTCtKFIeMN0TJGLKsPkUo9jp.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730095.mp4"
+            },
+            {
+              "nome": "The Hour Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UpbTCtKFIeMN0TJGLKsPkUo9jp.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730096.mp4"
+            },
+            {
+              "nome": "The Hour Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UpbTCtKFIeMN0TJGLKsPkUo9jp.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730097.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Mães A(r)madas",
+          "itens": [
+            {
+              "nome": "Mães A(r)madas Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x1cJebc4IIYJuaJwtIeXUhZSZTS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730073.mp4"
+            },
+            {
+              "nome": "Mães A(r)madas Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x1cJebc4IIYJuaJwtIeXUhZSZTS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730074.mp4"
+            },
+            {
+              "nome": "Mães A(r)madas Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x1cJebc4IIYJuaJwtIeXUhZSZTS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730075.mp4"
+            },
+            {
+              "nome": "Mães A(r)madas Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x1cJebc4IIYJuaJwtIeXUhZSZTS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730076.mp4"
+            },
+            {
+              "nome": "Mães A(r)madas Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x1cJebc4IIYJuaJwtIeXUhZSZTS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730077.mp4"
+            },
+            {
+              "nome": "Mães A(r)madas Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x1cJebc4IIYJuaJwtIeXUhZSZTS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730078.mp4"
+            },
+            {
+              "nome": "Mães A(r)madas Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x1cJebc4IIYJuaJwtIeXUhZSZTS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730079.mp4"
+            },
+            {
+              "nome": "Mães A(r)madas Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x1cJebc4IIYJuaJwtIeXUhZSZTS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730080.mp4"
+            },
+            {
+              "nome": "Mães A(r)madas Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x1cJebc4IIYJuaJwtIeXUhZSZTS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730081.mp4"
+            },
+            {
+              "nome": "Mães A(r)madas Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x1cJebc4IIYJuaJwtIeXUhZSZTS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730082.mp4"
+            },
+            {
+              "nome": "Mães A(r)madas Epsódio 11",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x1cJebc4IIYJuaJwtIeXUhZSZTS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730083.mp4"
+            },
+            {
+              "nome": "Mães A(r)madas Epsódio 12",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x1cJebc4IIYJuaJwtIeXUhZSZTS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730084.mp4"
+            },
+            {
+              "nome": "Mães A(r)madas Epsódio 13",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/x1cJebc4IIYJuaJwtIeXUhZSZTS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730085.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Last Light",
+          "itens": [
+            {
+              "nome": "Last Light Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/eO3lnmd5ubKoweXhrGpoieGhmkJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730023.mp4"
+            },
+            {
+              "nome": "Last Light Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/eO3lnmd5ubKoweXhrGpoieGhmkJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730024.mp4"
+            },
+            {
+              "nome": "Last Light Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/eO3lnmd5ubKoweXhrGpoieGhmkJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730025.mp4"
+            },
+            {
+              "nome": "Last Light Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/eO3lnmd5ubKoweXhrGpoieGhmkJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730026.mp4"
+            },
+            {
+              "nome": "Last Light Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/eO3lnmd5ubKoweXhrGpoieGhmkJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730027.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Hatfields & McCoys",
+          "itens": [
+            {
+              "nome": "Hatfields & McCoys Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jeu57tLFpYTuRttIusgdcAUf2Iq.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730127.mp4"
+            },
+            {
+              "nome": "Hatfields & McCoys Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jeu57tLFpYTuRttIusgdcAUf2Iq.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730128.mp4"
+            },
+            {
+              "nome": "Hatfields & McCoys Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jeu57tLFpYTuRttIusgdcAUf2Iq.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730129.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Desaparecidos",
+          "itens": [
+            {
+              "nome": "Desaparecidos Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7nJsh0nllN1FeW4YeFdxUqITanv.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730108.mp4"
+            },
+            {
+              "nome": "Desaparecidos Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7nJsh0nllN1FeW4YeFdxUqITanv.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730109.mp4"
+            },
+            {
+              "nome": "Desaparecidos Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7nJsh0nllN1FeW4YeFdxUqITanv.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730110.mp4"
+            },
+            {
+              "nome": "Desaparecidos Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7nJsh0nllN1FeW4YeFdxUqITanv.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730111.mp4"
+            },
+            {
+              "nome": "Desaparecidos Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7nJsh0nllN1FeW4YeFdxUqITanv.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730112.mp4"
+            },
+            {
+              "nome": "Desaparecidos Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7nJsh0nllN1FeW4YeFdxUqITanv.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730113.mp4"
+            },
+            {
+              "nome": "Desaparecidos Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7nJsh0nllN1FeW4YeFdxUqITanv.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730114.mp4"
+            },
+            {
+              "nome": "Desaparecidos Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7nJsh0nllN1FeW4YeFdxUqITanv.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730115.mp4"
+            },
+            {
+              "nome": "Desaparecidos Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7nJsh0nllN1FeW4YeFdxUqITanv.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730116.mp4"
+            },
+            {
+              "nome": "Desaparecidos Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7nJsh0nllN1FeW4YeFdxUqITanv.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730117.mp4"
+            },
+            {
+              "nome": "Desaparecidos Epsódio 11",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7nJsh0nllN1FeW4YeFdxUqITanv.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730118.mp4"
+            },
+            {
+              "nome": "Desaparecidos Epsódio 12",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7nJsh0nllN1FeW4YeFdxUqITanv.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730119.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Deputy_ O Novo Xerife",
+          "itens": [
+            {
+              "nome": "Deputy: O Novo Xerife Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5shPt9oZNtpimZRpQxj37LSr8bD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730060.mp4"
+            },
+            {
+              "nome": "Deputy: O Novo Xerife Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5shPt9oZNtpimZRpQxj37LSr8bD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730061.mp4"
+            },
+            {
+              "nome": "Deputy: O Novo Xerife Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5shPt9oZNtpimZRpQxj37LSr8bD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730062.mp4"
+            },
+            {
+              "nome": "Deputy: O Novo Xerife Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5shPt9oZNtpimZRpQxj37LSr8bD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730063.mp4"
+            },
+            {
+              "nome": "Deputy: O Novo Xerife Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5shPt9oZNtpimZRpQxj37LSr8bD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730064.mp4"
+            },
+            {
+              "nome": "Deputy: O Novo Xerife Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5shPt9oZNtpimZRpQxj37LSr8bD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730065.mp4"
+            },
+            {
+              "nome": "Deputy: O Novo Xerife Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5shPt9oZNtpimZRpQxj37LSr8bD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730066.mp4"
+            },
+            {
+              "nome": "Deputy: O Novo Xerife Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5shPt9oZNtpimZRpQxj37LSr8bD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730067.mp4"
+            },
+            {
+              "nome": "Deputy: O Novo Xerife Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5shPt9oZNtpimZRpQxj37LSr8bD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730068.mp4"
+            },
+            {
+              "nome": "Deputy: O Novo Xerife Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5shPt9oZNtpimZRpQxj37LSr8bD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730069.mp4"
+            },
+            {
+              "nome": "Deputy: O Novo Xerife Epsódio 11",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5shPt9oZNtpimZRpQxj37LSr8bD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730070.mp4"
+            },
+            {
+              "nome": "Deputy: O Novo Xerife Epsódio 12",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5shPt9oZNtpimZRpQxj37LSr8bD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730071.mp4"
+            },
+            {
+              "nome": "Deputy: O Novo Xerife Epsódio 13",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5shPt9oZNtpimZRpQxj37LSr8bD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730072.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Casual",
+          "itens": [
+            {
+              "nome": "Casual Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wWxTA0T98HRaIqP01iQtuY9QlOC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730098.mp4"
+            },
+            {
+              "nome": "Casual Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wWxTA0T98HRaIqP01iQtuY9QlOC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730099.mp4"
+            },
+            {
+              "nome": "Casual Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wWxTA0T98HRaIqP01iQtuY9QlOC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730100.mp4"
+            },
+            {
+              "nome": "Casual Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wWxTA0T98HRaIqP01iQtuY9QlOC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730101.mp4"
+            },
+            {
+              "nome": "Casual Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wWxTA0T98HRaIqP01iQtuY9QlOC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730102.mp4"
+            },
+            {
+              "nome": "Casual Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wWxTA0T98HRaIqP01iQtuY9QlOC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730103.mp4"
+            },
+            {
+              "nome": "Casual Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wWxTA0T98HRaIqP01iQtuY9QlOC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730104.mp4"
+            },
+            {
+              "nome": "Casual Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wWxTA0T98HRaIqP01iQtuY9QlOC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730105.mp4"
+            },
+            {
+              "nome": "Casual Epsódio 09",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wWxTA0T98HRaIqP01iQtuY9QlOC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730106.mp4"
+            },
+            {
+              "nome": "Casual Epsódio 10",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wWxTA0T98HRaIqP01iQtuY9QlOC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730107.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Cardinal",
+          "itens": [
+            {
+              "nome": "Cardinal Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730028.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730029.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730030.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730031.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730032.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730033.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730034.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730035.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730036.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730037.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730038.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730039.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 01",
+              "descricao": "3ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730040.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 02",
+              "descricao": "3ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730041.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 03",
+              "descricao": "3ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730042.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 04",
+              "descricao": "3ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730043.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 05",
+              "descricao": "3ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730044.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 06",
+              "descricao": "3ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730045.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 01",
+              "descricao": "4ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730046.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 02",
+              "descricao": "4ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730047.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 03",
+              "descricao": "4ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730048.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 04",
+              "descricao": "4ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730049.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 05",
+              "descricao": "4ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730050.mp4"
+            },
+            {
+              "nome": "Cardinal Epsódio 06",
+              "descricao": "4ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730051.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Candice Renoir",
+          "itens": [
+            {
+              "nome": "Candice Renoir Epsódio 01",
+              "descricao": "10ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730013.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 02",
+              "descricao": "10ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730014.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 03",
+              "descricao": "10ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730015.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 04",
+              "descricao": "10ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730016.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 05",
+              "descricao": "10ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730017.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 06",
+              "descricao": "10ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730018.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729930.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729931.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729932.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729933.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729934.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729935.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729936.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729937.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729938.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729939.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729940.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 04",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729941.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 05",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729942.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 06",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729943.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 07",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729944.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 08",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729945.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 09",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729946.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 10",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729947.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 01",
+              "descricao": "3ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729948.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 02",
+              "descricao": "3ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729949.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 03",
+              "descricao": "3ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729950.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 04",
+              "descricao": "3ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729951.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 05",
+              "descricao": "3ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729952.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 06",
+              "descricao": "3ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729953.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 07",
+              "descricao": "3ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729954.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 08",
+              "descricao": "3ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729955.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 09",
+              "descricao": "3ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729956.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 10",
+              "descricao": "3ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729957.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 01",
+              "descricao": "4ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729958.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 02",
+              "descricao": "4ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729959.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 03",
+              "descricao": "4ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729960.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 04",
+              "descricao": "4ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729961.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 05",
+              "descricao": "4ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729962.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 06",
+              "descricao": "4ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729963.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 07",
+              "descricao": "4ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729964.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 08",
+              "descricao": "4ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729965.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 09",
+              "descricao": "4ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729966.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 10",
+              "descricao": "4ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729967.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 01",
+              "descricao": "5ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729968.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 02",
+              "descricao": "5ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729969.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 03",
+              "descricao": "5ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729970.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 04",
+              "descricao": "5ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729971.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 05",
+              "descricao": "5ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729972.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 06",
+              "descricao": "5ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729973.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 07",
+              "descricao": "5ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729974.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 08",
+              "descricao": "5ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729975.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 09",
+              "descricao": "5ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729976.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 10",
+              "descricao": "5ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729977.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 01",
+              "descricao": "6ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729978.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 02",
+              "descricao": "6ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729979.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 03",
+              "descricao": "6ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729980.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 04",
+              "descricao": "6ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729981.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 05",
+              "descricao": "6ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729982.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 01",
+              "descricao": "7ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729983.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 02",
+              "descricao": "7ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729984.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 03",
+              "descricao": "7ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729985.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 04",
+              "descricao": "7ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729986.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 05",
+              "descricao": "7ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729987.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 06",
+              "descricao": "7ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729988.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 07",
+              "descricao": "7ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729989.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 08",
+              "descricao": "7ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729990.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 09",
+              "descricao": "7ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729991.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 10",
+              "descricao": "7ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729992.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 01",
+              "descricao": "8ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729993.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 02",
+              "descricao": "8ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729994.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 03",
+              "descricao": "8ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729995.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 04",
+              "descricao": "8ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729996.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 05",
+              "descricao": "8ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729997.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 06",
+              "descricao": "8ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729998.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 07",
+              "descricao": "8ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729999.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 08",
+              "descricao": "8ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730000.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 09",
+              "descricao": "8ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730001.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 10",
+              "descricao": "8ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730002.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 01",
+              "descricao": "9ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730003.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 02",
+              "descricao": "9ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730004.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 03",
+              "descricao": "9ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730005.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 04",
+              "descricao": "9ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730006.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 05",
+              "descricao": "9ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730007.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 06",
+              "descricao": "9ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730008.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 07",
+              "descricao": "9ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730009.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 08",
+              "descricao": "9ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730010.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 09",
+              "descricao": "9ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730011.mp4"
+            },
+            {
+              "nome": "Candice Renoir Epsódio 10",
+              "descricao": "9ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/neBfPA12q9hUQ6ep5CMv8MA3jTJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730012.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Bancroft [L]",
+          "itens": [
+            {
+              "nome": "Bancroft [L] Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mfJ1zdGMETbJjAhkx35gdp8cU2i.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730120.mp4"
+            },
+            {
+              "nome": "Bancroft [L] Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mfJ1zdGMETbJjAhkx35gdp8cU2i.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730121.mp4"
+            },
+            {
+              "nome": "Bancroft [L] Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mfJ1zdGMETbJjAhkx35gdp8cU2i.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730122.mp4"
+            },
+            {
+              "nome": "Bancroft [L] Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mfJ1zdGMETbJjAhkx35gdp8cU2i.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730123.mp4"
+            },
+            {
+              "nome": "Bancroft [L] Epsódio 01",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mfJ1zdGMETbJjAhkx35gdp8cU2i.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730124.mp4"
+            },
+            {
+              "nome": "Bancroft [L] Epsódio 02",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mfJ1zdGMETbJjAhkx35gdp8cU2i.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730125.mp4"
+            },
+            {
+              "nome": "Bancroft [L] Epsódio 03",
+              "descricao": "2ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mfJ1zdGMETbJjAhkx35gdp8cU2i.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730126.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Amazing Grace",
+          "itens": [
+            {
+              "nome": "Amazing Grace Epsódio 01",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oBvdu6mTvvVZaLZCvNzvHb9iW6W.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730052.mp4"
+            },
+            {
+              "nome": "Amazing Grace Epsódio 02",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oBvdu6mTvvVZaLZCvNzvHb9iW6W.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730053.mp4"
+            },
+            {
+              "nome": "Amazing Grace Epsódio 03",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oBvdu6mTvvVZaLZCvNzvHb9iW6W.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730054.mp4"
+            },
+            {
+              "nome": "Amazing Grace Epsódio 04",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oBvdu6mTvvVZaLZCvNzvHb9iW6W.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730055.mp4"
+            },
+            {
+              "nome": "Amazing Grace Epsódio 05",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oBvdu6mTvvVZaLZCvNzvHb9iW6W.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730056.mp4"
+            },
+            {
+              "nome": "Amazing Grace Epsódio 06",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oBvdu6mTvvVZaLZCvNzvHb9iW6W.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730057.mp4"
+            },
+            {
+              "nome": "Amazing Grace Epsódio 07",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oBvdu6mTvvVZaLZCvNzvHb9iW6W.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730058.mp4"
+            },
+            {
+              "nome": "Amazing Grace Epsódio 08",
+              "descricao": "1ª Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oBvdu6mTvvVZaLZCvNzvHb9iW6W.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4730059.mp4"
+            }
+          ]
+        }
+      ],
+      "itens": []
+    }
+  ]
+}
