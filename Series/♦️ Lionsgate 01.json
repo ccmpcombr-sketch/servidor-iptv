@@ -7,441 +7,169 @@
       "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/series/Lionsgate.png",
       "subAlbuns": [
         {
-          "subAlbum": "Vanda",
+          "subAlbum": "Da Vinci's Demons",
           "itens": [
             {
-              "nome": "Vanda Epsódio 01",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/aNsPraDR9Yq7xeK5K4jkPc6gnis.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740930.mp4"
+              "nome": "Da Vinci's Demons Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740963.mp4"
             },
             {
-              "nome": "Vanda Epsódio 02",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/aNsPraDR9Yq7xeK5K4jkPc6gnis.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740931.mp4"
+              "nome": "Da Vinci's Demons Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740964.mp4"
             },
             {
-              "nome": "Vanda Epsódio 03",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/aNsPraDR9Yq7xeK5K4jkPc6gnis.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740932.mp4"
+              "nome": "Da Vinci's Demons Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740965.mp4"
             },
             {
-              "nome": "Vanda Epsódio 04",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/aNsPraDR9Yq7xeK5K4jkPc6gnis.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740933.mp4"
+              "nome": "Da Vinci's Demons Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740966.mp4"
             },
             {
-              "nome": "Vanda Epsódio 05",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/aNsPraDR9Yq7xeK5K4jkPc6gnis.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740934.mp4"
+              "nome": "Da Vinci's Demons Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740967.mp4"
             },
             {
-              "nome": "Vanda Epsódio 06",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/aNsPraDR9Yq7xeK5K4jkPc6gnis.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740935.mp4"
+              "nome": "Da Vinci's Demons Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740968.mp4"
             },
             {
-              "nome": "Vanda Epsódio 07",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/aNsPraDR9Yq7xeK5K4jkPc6gnis.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740936.mp4"
+              "nome": "Da Vinci's Demons Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740969.mp4"
             },
             {
-              "nome": "Vanda Epsódio 08",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/aNsPraDR9Yq7xeK5K4jkPc6gnis.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740937.mp4"
-            }
-          ]
-        },
-        {
-          "subAlbum": "Tudo Aquilo Que Nunca Foi Dito",
-          "itens": [
-            {
-              "nome": "Tudo Aquilo Que Nunca Foi Dito Epsódio 01",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/m3tV8iQpNHT0c82JidmDdDh33KF.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740946.mp4"
-            },
-            {
-              "nome": "Tudo Aquilo Que Nunca Foi Dito Epsódio 02",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/m3tV8iQpNHT0c82JidmDdDh33KF.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740947.mp4"
-            },
-            {
-              "nome": "Tudo Aquilo Que Nunca Foi Dito Epsódio 03",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/m3tV8iQpNHT0c82JidmDdDh33KF.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740948.mp4"
-            },
-            {
-              "nome": "Tudo Aquilo Que Nunca Foi Dito Epsódio 04",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/m3tV8iQpNHT0c82JidmDdDh33KF.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740949.mp4"
-            },
-            {
-              "nome": "Tudo Aquilo Que Nunca Foi Dito Epsódio 05",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/m3tV8iQpNHT0c82JidmDdDh33KF.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740950.mp4"
-            },
-            {
-              "nome": "Tudo Aquilo Que Nunca Foi Dito Epsódio 06",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/m3tV8iQpNHT0c82JidmDdDh33KF.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740951.mp4"
-            },
-            {
-              "nome": "Tudo Aquilo Que Nunca Foi Dito Epsódio 07",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/m3tV8iQpNHT0c82JidmDdDh33KF.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740952.mp4"
-            },
-            {
-              "nome": "Tudo Aquilo Que Nunca Foi Dito Epsódio 08",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/m3tV8iQpNHT0c82JidmDdDh33KF.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740953.mp4"
-            },
-            {
-              "nome": "Tudo Aquilo Que Nunca Foi Dito Epsódio 09",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/m3tV8iQpNHT0c82JidmDdDh33KF.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740954.mp4"
-            }
-          ]
-        },
-        {
-          "subAlbum": "Survivor's Remorse",
-          "itens": [
-            {
-              "nome": "Survivor's Remorse Epsódio 01",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740894.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 02",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740895.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 03",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740896.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 04",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740897.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 05",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740898.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 06",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740899.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 01",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740900.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 02",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740901.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 03",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740902.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 04",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740903.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 05",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740904.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 06",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740905.mp4"
+              "nome": "Da Vinci's Demons Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740970.mp4"
             },
             {
-              "nome": "Survivor's Remorse Epsódio 07",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740906.mp4"
+              "nome": "Da Vinci's Demons Episódio 1",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740971.mp4"
             },
             {
-              "nome": "Survivor's Remorse Epsódio 08",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740907.mp4"
+              "nome": "Da Vinci's Demons Episódio 2",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740972.mp4"
             },
             {
-              "nome": "Survivor's Remorse Epsódio 09",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740908.mp4"
+              "nome": "Da Vinci's Demons Episódio 4",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740973.mp4"
             },
             {
-              "nome": "Survivor's Remorse Epsódio 10",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740909.mp4"
+              "nome": "Da Vinci's Demons Episódio 5",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740974.mp4"
             },
             {
-              "nome": "Survivor's Remorse Epsódio 01",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740910.mp4"
+              "nome": "Da Vinci's Demons Episódio 6",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740975.mp4"
             },
             {
-              "nome": "Survivor's Remorse Epsódio 02",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740911.mp4"
+              "nome": "Da Vinci's Demons Episódio 7",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740976.mp4"
             },
             {
-              "nome": "Survivor's Remorse Epsódio 03",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740912.mp4"
+              "nome": "Da Vinci's Demons Episódio 8",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740977.mp4"
             },
             {
-              "nome": "Survivor's Remorse Epsódio 04",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740913.mp4"
+              "nome": "Da Vinci's Demons Episódio 9",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740978.mp4"
             },
             {
-              "nome": "Survivor's Remorse Epsódio 05",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740914.mp4"
+              "nome": "Da Vinci's Demons Episódio 10",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740979.mp4"
             },
             {
-              "nome": "Survivor's Remorse Epsódio 06",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740915.mp4"
+              "nome": "Da Vinci's Demons Episódio 1",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740980.mp4"
             },
             {
-              "nome": "Survivor's Remorse Epsódio 07",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740916.mp4"
+              "nome": "Da Vinci's Demons Episódio 2",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740981.mp4"
             },
-            {
-              "nome": "Survivor's Remorse Epsódio 08",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740917.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 09",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740918.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 10",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740919.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 01",
-              "descricao": "4ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740920.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 02",
-              "descricao": "4ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740921.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 03",
-              "descricao": "4ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740922.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 04",
-              "descricao": "4ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740923.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 05",
-              "descricao": "4ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740924.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 06",
-              "descricao": "4ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740925.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 07",
-              "descricao": "4ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740926.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 08",
-              "descricao": "4ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740927.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 09",
-              "descricao": "4ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740928.mp4"
-            },
-            {
-              "nome": "Survivor's Remorse Epsódio 10",
-              "descricao": "4ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740929.mp4"
-            }
-          ]
-        },
-        {
-          "subAlbum": "Nacho",
-          "itens": [
-            {
-              "nome": "Nacho Epsódio 01",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/bcfpovydjIs6PnIPrc04A1SVCcx.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740938.mp4"
-            },
-            {
-              "nome": "Nacho Epsódio 02",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/bcfpovydjIs6PnIPrc04A1SVCcx.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740939.mp4"
-            },
-            {
-              "nome": "Nacho Epsódio 03",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/bcfpovydjIs6PnIPrc04A1SVCcx.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740940.mp4"
-            },
-            {
-              "nome": "Nacho Epsódio 04",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/bcfpovydjIs6PnIPrc04A1SVCcx.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740941.mp4"
-            },
-            {
-              "nome": "Nacho Epsódio 05",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/bcfpovydjIs6PnIPrc04A1SVCcx.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740942.mp4"
-            },
-            {
-              "nome": "Nacho Epsódio 06",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/bcfpovydjIs6PnIPrc04A1SVCcx.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740943.mp4"
-            },
-            {
-              "nome": "Nacho Epsódio 07",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/bcfpovydjIs6PnIPrc04A1SVCcx.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740944.mp4"
-            },
-            {
-              "nome": "Nacho Epsódio 08",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/bcfpovydjIs6PnIPrc04A1SVCcx.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740945.mp4"
-            }
-          ]
-        },
-        {
-          "subAlbum": "Men in Kilts_ A Roadtrip with Sam and Graham",
-          "itens": [
             {
-              "nome": "Men in Kilts: A Roadtrip with Sam and Graham Epsódio 01",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/6XxC7cnwRxBQ0wgb2oUdHb0XO23.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740955.mp4"
+              "nome": "Da Vinci's Demons Episódio 3",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740982.mp4"
             },
             {
-              "nome": "Men in Kilts: A Roadtrip with Sam and Graham Epsódio 02",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/6XxC7cnwRxBQ0wgb2oUdHb0XO23.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740956.mp4"
+              "nome": "Da Vinci's Demons Episódio 4",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740983.mp4"
             },
             {
-              "nome": "Men in Kilts: A Roadtrip with Sam and Graham Epsódio 03",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/6XxC7cnwRxBQ0wgb2oUdHb0XO23.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740957.mp4"
+              "nome": "Da Vinci's Demons Episódio 5",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740984.mp4"
             },
             {
-              "nome": "Men in Kilts: A Roadtrip with Sam and Graham Epsódio 04",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/6XxC7cnwRxBQ0wgb2oUdHb0XO23.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740958.mp4"
+              "nome": "Da Vinci's Demons Episódio 6",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740985.mp4"
             },
             {
-              "nome": "Men in Kilts: A Roadtrip with Sam and Graham Epsódio 05",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/6XxC7cnwRxBQ0wgb2oUdHb0XO23.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740959.mp4"
+              "nome": "Da Vinci's Demons Episódio 7",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740986.mp4"
             },
             {
-              "nome": "Men in Kilts: A Roadtrip with Sam and Graham Epsódio 06",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/6XxC7cnwRxBQ0wgb2oUdHb0XO23.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740960.mp4"
+              "nome": "Da Vinci's Demons Episódio 8",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740987.mp4"
             },
             {
-              "nome": "Men in Kilts: A Roadtrip with Sam and Graham Epsódio 07",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/6XxC7cnwRxBQ0wgb2oUdHb0XO23.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740961.mp4"
+              "nome": "Da Vinci's Demons Episódio 9",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740988.mp4"
             },
             {
-              "nome": "Men in Kilts: A Roadtrip with Sam and Graham Epsódio 08",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/6XxC7cnwRxBQ0wgb2oUdHb0XO23.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740962.mp4"
+              "nome": "Da Vinci's Demons Episódio 10",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740989.mp4"
             }
           ]
         },
@@ -449,195 +177,467 @@
           "subAlbum": "Fleming",
           "itens": [
             {
-              "nome": "Fleming Epsódio 01",
-              "descricao": "1ª Temporada",
+              "nome": "Fleming Episódio 1",
+              "descricao": "1°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/Ap2RdhXi8mEGsGrgfPpsVF01mSZ.jpg",
               "url": "http://servidor/series/{user}/{pass}/4740990.mp4"
             },
             {
-              "nome": "Fleming Epsódio 02",
-              "descricao": "1ª Temporada",
+              "nome": "Fleming Episódio 2",
+              "descricao": "1°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/Ap2RdhXi8mEGsGrgfPpsVF01mSZ.jpg",
               "url": "http://servidor/series/{user}/{pass}/4740991.mp4"
             },
             {
-              "nome": "Fleming Epsódio 03",
-              "descricao": "1ª Temporada",
+              "nome": "Fleming Episódio 3",
+              "descricao": "1°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/Ap2RdhXi8mEGsGrgfPpsVF01mSZ.jpg",
               "url": "http://servidor/series/{user}/{pass}/4740992.mp4"
             },
             {
-              "nome": "Fleming Epsódio 04",
-              "descricao": "1ª Temporada",
+              "nome": "Fleming Episódio 4",
+              "descricao": "1°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/Ap2RdhXi8mEGsGrgfPpsVF01mSZ.jpg",
               "url": "http://servidor/series/{user}/{pass}/4740993.mp4"
             }
           ]
         },
         {
-          "subAlbum": "Da Vinci's Demons",
+          "subAlbum": "Men in Kilts_ A Roadtrip with Sam and Graham",
           "itens": [
             {
-              "nome": "Da Vinci's Demons Epsódio 01",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740963.mp4"
+              "nome": "Men in Kilts: A Roadtrip with Sam and Graham Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6XxC7cnwRxBQ0wgb2oUdHb0XO23.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740955.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 02",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740964.mp4"
+              "nome": "Men in Kilts: A Roadtrip with Sam and Graham Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6XxC7cnwRxBQ0wgb2oUdHb0XO23.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740956.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 03",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740965.mp4"
+              "nome": "Men in Kilts: A Roadtrip with Sam and Graham Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6XxC7cnwRxBQ0wgb2oUdHb0XO23.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740957.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 04",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740966.mp4"
+              "nome": "Men in Kilts: A Roadtrip with Sam and Graham Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6XxC7cnwRxBQ0wgb2oUdHb0XO23.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740958.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 05",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740967.mp4"
+              "nome": "Men in Kilts: A Roadtrip with Sam and Graham Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6XxC7cnwRxBQ0wgb2oUdHb0XO23.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740959.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 06",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740968.mp4"
+              "nome": "Men in Kilts: A Roadtrip with Sam and Graham Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6XxC7cnwRxBQ0wgb2oUdHb0XO23.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740960.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 07",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740969.mp4"
+              "nome": "Men in Kilts: A Roadtrip with Sam and Graham Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6XxC7cnwRxBQ0wgb2oUdHb0XO23.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740961.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 08",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740970.mp4"
+              "nome": "Men in Kilts: A Roadtrip with Sam and Graham Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6XxC7cnwRxBQ0wgb2oUdHb0XO23.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740962.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Nacho",
+          "itens": [
+            {
+              "nome": "Nacho Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bcfpovydjIs6PnIPrc04A1SVCcx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740938.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 01",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740971.mp4"
+              "nome": "Nacho Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bcfpovydjIs6PnIPrc04A1SVCcx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740939.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 02",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740972.mp4"
+              "nome": "Nacho Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bcfpovydjIs6PnIPrc04A1SVCcx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740940.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 04",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740973.mp4"
+              "nome": "Nacho Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bcfpovydjIs6PnIPrc04A1SVCcx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740941.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 05",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740974.mp4"
+              "nome": "Nacho Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bcfpovydjIs6PnIPrc04A1SVCcx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740942.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 06",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740975.mp4"
+              "nome": "Nacho Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bcfpovydjIs6PnIPrc04A1SVCcx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740943.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 07",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740976.mp4"
+              "nome": "Nacho Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bcfpovydjIs6PnIPrc04A1SVCcx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740944.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 08",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740977.mp4"
+              "nome": "Nacho Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bcfpovydjIs6PnIPrc04A1SVCcx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740945.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Survivor's Remorse",
+          "itens": [
+            {
+              "nome": "Survivor's Remorse Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740894.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 09",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740978.mp4"
+              "nome": "Survivor's Remorse Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740895.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 10",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740979.mp4"
+              "nome": "Survivor's Remorse Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740896.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 01",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740980.mp4"
+              "nome": "Survivor's Remorse Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740897.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 02",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740981.mp4"
+              "nome": "Survivor's Remorse Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740898.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 03",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740982.mp4"
+              "nome": "Survivor's Remorse Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740899.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 04",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740983.mp4"
+              "nome": "Survivor's Remorse Episódio 1",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740900.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 05",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740984.mp4"
+              "nome": "Survivor's Remorse Episódio 2",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740901.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 06",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740985.mp4"
+              "nome": "Survivor's Remorse Episódio 3",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740902.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 07",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740986.mp4"
+              "nome": "Survivor's Remorse Episódio 4",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740903.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 08",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740987.mp4"
+              "nome": "Survivor's Remorse Episódio 5",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740904.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 09",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740988.mp4"
+              "nome": "Survivor's Remorse Episódio 6",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740905.mp4"
             },
             {
-              "nome": "Da Vinci's Demons Epsódio 10",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4740989.mp4"
+              "nome": "Survivor's Remorse Episódio 7",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740906.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 8",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740907.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 9",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740908.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 10",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740909.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 1",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740910.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 2",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740911.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 3",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740912.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 4",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740913.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 5",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740914.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 6",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740915.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 7",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740916.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 8",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740917.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 9",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740918.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 10",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740919.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 1",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740920.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 2",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740921.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 3",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740922.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 4",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740923.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 5",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740924.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 6",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740925.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 7",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740926.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 8",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740927.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 9",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740928.mp4"
+            },
+            {
+              "nome": "Survivor's Remorse Episódio 10",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740929.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Tudo Aquilo Que Nunca Foi Dito",
+          "itens": [
+            {
+              "nome": "Tudo Aquilo Que Nunca Foi Dito Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/m3tV8iQpNHT0c82JidmDdDh33KF.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740946.mp4"
+            },
+            {
+              "nome": "Tudo Aquilo Que Nunca Foi Dito Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/m3tV8iQpNHT0c82JidmDdDh33KF.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740947.mp4"
+            },
+            {
+              "nome": "Tudo Aquilo Que Nunca Foi Dito Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/m3tV8iQpNHT0c82JidmDdDh33KF.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740948.mp4"
+            },
+            {
+              "nome": "Tudo Aquilo Que Nunca Foi Dito Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/m3tV8iQpNHT0c82JidmDdDh33KF.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740949.mp4"
+            },
+            {
+              "nome": "Tudo Aquilo Que Nunca Foi Dito Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/m3tV8iQpNHT0c82JidmDdDh33KF.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740950.mp4"
+            },
+            {
+              "nome": "Tudo Aquilo Que Nunca Foi Dito Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/m3tV8iQpNHT0c82JidmDdDh33KF.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740951.mp4"
+            },
+            {
+              "nome": "Tudo Aquilo Que Nunca Foi Dito Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/m3tV8iQpNHT0c82JidmDdDh33KF.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740952.mp4"
+            },
+            {
+              "nome": "Tudo Aquilo Que Nunca Foi Dito Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/m3tV8iQpNHT0c82JidmDdDh33KF.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740953.mp4"
+            },
+            {
+              "nome": "Tudo Aquilo Que Nunca Foi Dito Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/m3tV8iQpNHT0c82JidmDdDh33KF.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740954.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Vanda",
+          "itens": [
+            {
+              "nome": "Vanda Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aNsPraDR9Yq7xeK5K4jkPc6gnis.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740930.mp4"
+            },
+            {
+              "nome": "Vanda Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aNsPraDR9Yq7xeK5K4jkPc6gnis.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740931.mp4"
+            },
+            {
+              "nome": "Vanda Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aNsPraDR9Yq7xeK5K4jkPc6gnis.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740932.mp4"
+            },
+            {
+              "nome": "Vanda Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aNsPraDR9Yq7xeK5K4jkPc6gnis.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740933.mp4"
+            },
+            {
+              "nome": "Vanda Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aNsPraDR9Yq7xeK5K4jkPc6gnis.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740934.mp4"
+            },
+            {
+              "nome": "Vanda Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aNsPraDR9Yq7xeK5K4jkPc6gnis.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740935.mp4"
+            },
+            {
+              "nome": "Vanda Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aNsPraDR9Yq7xeK5K4jkPc6gnis.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740936.mp4"
+            },
+            {
+              "nome": "Vanda Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aNsPraDR9Yq7xeK5K4jkPc6gnis.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4740937.mp4"
             }
           ]
         }
