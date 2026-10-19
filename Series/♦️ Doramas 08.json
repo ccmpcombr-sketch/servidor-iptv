@@ -1,0 +1,1888 @@
+{
+  "canais": [],
+  "filmes": [],
+  "series": [
+    {
+      "album": "♦️ Doramas",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/series/Doramas.png",
+      "subAlbuns": [
+        {
+          "subAlbum": "Tudo Sob Controle",
+          "itens": [
+            {
+              "nome": "Tudo Sob Controle Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gmCgpzsUFvMQOTycK2VNyTFx0S6.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4551396.mp4"
+            },
+            {
+              "nome": "Tudo Sob Controle Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gmCgpzsUFvMQOTycK2VNyTFx0S6.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4551397.mp4"
+            },
+            {
+              "nome": "Tudo Sob Controle Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gmCgpzsUFvMQOTycK2VNyTFx0S6.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4551398.mp4"
+            },
+            {
+              "nome": "Tudo Sob Controle Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gmCgpzsUFvMQOTycK2VNyTFx0S6.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4551399.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Turbilhao",
+          "itens": [
+            {
+              "nome": "Turbilhao Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/v3iEteXVi1SJmzOLMacVr2IzNoD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557815.mp4"
+            },
+            {
+              "nome": "Turbilhao Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/v3iEteXVi1SJmzOLMacVr2IzNoD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557816.mp4"
+            },
+            {
+              "nome": "Turbilhao Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/v3iEteXVi1SJmzOLMacVr2IzNoD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557817.mp4"
+            },
+            {
+              "nome": "Turbilhao Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/v3iEteXVi1SJmzOLMacVr2IzNoD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557818.mp4"
+            },
+            {
+              "nome": "Turbilhao Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/v3iEteXVi1SJmzOLMacVr2IzNoD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557819.mp4"
+            },
+            {
+              "nome": "Turbilhao Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/v3iEteXVi1SJmzOLMacVr2IzNoD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557820.mp4"
+            },
+            {
+              "nome": "Turbilhao Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/v3iEteXVi1SJmzOLMacVr2IzNoD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557821.mp4"
+            },
+            {
+              "nome": "Turbilhao Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/v3iEteXVi1SJmzOLMacVr2IzNoD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557822.mp4"
+            },
+            {
+              "nome": "Turbilhao Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/v3iEteXVi1SJmzOLMacVr2IzNoD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557823.mp4"
+            },
+            {
+              "nome": "Turbilhao Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/v3iEteXVi1SJmzOLMacVr2IzNoD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557824.mp4"
+            },
+            {
+              "nome": "Turbilhao Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/v3iEteXVi1SJmzOLMacVr2IzNoD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557825.mp4"
+            },
+            {
+              "nome": "Turbilhao Episódio 12",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/v3iEteXVi1SJmzOLMacVr2IzNoD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557826.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Typhoon Family",
+          "itens": [
+            {
+              "nome": "Typhoon Family Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k60BloWxlWTpVumWR4cioC8OLi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550390.mp4"
+            },
+            {
+              "nome": "Typhoon Family Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k60BloWxlWTpVumWR4cioC8OLi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550391.mp4"
+            },
+            {
+              "nome": "Typhoon Family Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k60BloWxlWTpVumWR4cioC8OLi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550392.mp4"
+            },
+            {
+              "nome": "Typhoon Family Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k60BloWxlWTpVumWR4cioC8OLi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550393.mp4"
+            },
+            {
+              "nome": "Typhoon Family Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k60BloWxlWTpVumWR4cioC8OLi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550394.mp4"
+            },
+            {
+              "nome": "Typhoon Family Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k60BloWxlWTpVumWR4cioC8OLi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550395.mp4"
+            },
+            {
+              "nome": "Typhoon Family Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k60BloWxlWTpVumWR4cioC8OLi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550396.mp4"
+            },
+            {
+              "nome": "Typhoon Family Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k60BloWxlWTpVumWR4cioC8OLi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550397.mp4"
+            },
+            {
+              "nome": "Typhoon Family Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k60BloWxlWTpVumWR4cioC8OLi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550398.mp4"
+            },
+            {
+              "nome": "Typhoon Family Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k60BloWxlWTpVumWR4cioC8OLi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550399.mp4"
+            },
+            {
+              "nome": "Typhoon Family Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k60BloWxlWTpVumWR4cioC8OLi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550400.mp4"
+            },
+            {
+              "nome": "Typhoon Family Episódio 12",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k60BloWxlWTpVumWR4cioC8OLi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550401.mp4"
+            },
+            {
+              "nome": "Typhoon Family Episódio 13",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k60BloWxlWTpVumWR4cioC8OLi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550402.mp4"
+            },
+            {
+              "nome": "Typhoon Family Episódio 14",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k60BloWxlWTpVumWR4cioC8OLi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550403.mp4"
+            },
+            {
+              "nome": "Typhoon Family Episódio 15",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k60BloWxlWTpVumWR4cioC8OLi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550404.mp4"
+            },
+            {
+              "nome": "Typhoon Family Episódio 16",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k60BloWxlWTpVumWR4cioC8OLi1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550405.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Um Amor de Cinema",
+          "itens": [
+            {
+              "nome": "Um Amor de Cinema Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/r89dQ1SAKRuBZMmp2YL4Yekfwxn.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4554070.mp4"
+            },
+            {
+              "nome": "Um Amor de Cinema Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/r89dQ1SAKRuBZMmp2YL4Yekfwxn.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4554071.mp4"
+            },
+            {
+              "nome": "Um Amor de Cinema Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/r89dQ1SAKRuBZMmp2YL4Yekfwxn.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4554072.mp4"
+            },
+            {
+              "nome": "Um Amor de Cinema Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/r89dQ1SAKRuBZMmp2YL4Yekfwxn.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4554073.mp4"
+            },
+            {
+              "nome": "Um Amor de Cinema Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/r89dQ1SAKRuBZMmp2YL4Yekfwxn.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4554074.mp4"
+            },
+            {
+              "nome": "Um Amor de Cinema Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/r89dQ1SAKRuBZMmp2YL4Yekfwxn.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4554075.mp4"
+            },
+            {
+              "nome": "Um Amor de Cinema Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/r89dQ1SAKRuBZMmp2YL4Yekfwxn.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4554076.mp4"
+            },
+            {
+              "nome": "Um Amor de Cinema Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/r89dQ1SAKRuBZMmp2YL4Yekfwxn.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4554077.mp4"
+            },
+            {
+              "nome": "Um Amor de Cinema Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/r89dQ1SAKRuBZMmp2YL4Yekfwxn.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4554078.mp4"
+            },
+            {
+              "nome": "Um Amor de Cinema Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/r89dQ1SAKRuBZMmp2YL4Yekfwxn.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4554079.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Um Amor Diferente do Seu (2026)",
+          "itens": [
+            {
+              "nome": "Um Amor Diferente do Seu (2026) Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/vvywxGVcFihxOWxXoAxECOQ20pi.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4840129.mp4"
+            },
+            {
+              "nome": "Um Amor Diferente do Seu (2026) Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/vvywxGVcFihxOWxXoAxECOQ20pi.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4841821.mp4"
+            },
+            {
+              "nome": "Um Amor Diferente do Seu (2026) Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/vvywxGVcFihxOWxXoAxECOQ20pi.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4841795.mp4"
+            },
+            {
+              "nome": "Um Amor Diferente do Seu (2026) Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/vvywxGVcFihxOWxXoAxECOQ20pi.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4841818.mp4"
+            },
+            {
+              "nome": "Um Amor Diferente do Seu (2026) Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/vvywxGVcFihxOWxXoAxECOQ20pi.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4842603.mp4"
+            },
+            {
+              "nome": "Um Amor Diferente do Seu (2026) Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/vvywxGVcFihxOWxXoAxECOQ20pi.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4842602.mp4"
+            },
+            {
+              "nome": "Um Amor Diferente do Seu (2026) Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/vvywxGVcFihxOWxXoAxECOQ20pi.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4843138.mp4"
+            },
+            {
+              "nome": "Um Amor Diferente do Seu (2026) Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w500/vvywxGVcFihxOWxXoAxECOQ20pi.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4843137.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Um Amor no Paraiso",
+          "itens": [
+            {
+              "nome": "Um Amor no Paraiso Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gb9ENBecTFUJ38UecDlHQC3gQtY.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552691.mp4"
+            },
+            {
+              "nome": "Um Amor no Paraiso Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gb9ENBecTFUJ38UecDlHQC3gQtY.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552692.mp4"
+            },
+            {
+              "nome": "Um Amor no Paraiso Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gb9ENBecTFUJ38UecDlHQC3gQtY.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552693.mp4"
+            },
+            {
+              "nome": "Um Amor no Paraiso Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gb9ENBecTFUJ38UecDlHQC3gQtY.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552694.mp4"
+            },
+            {
+              "nome": "Um Amor no Paraiso Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gb9ENBecTFUJ38UecDlHQC3gQtY.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552695.mp4"
+            },
+            {
+              "nome": "Um Amor no Paraiso Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gb9ENBecTFUJ38UecDlHQC3gQtY.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552696.mp4"
+            },
+            {
+              "nome": "Um Amor no Paraiso Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gb9ENBecTFUJ38UecDlHQC3gQtY.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552697.mp4"
+            },
+            {
+              "nome": "Um Amor no Paraiso Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gb9ENBecTFUJ38UecDlHQC3gQtY.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552698.mp4"
+            },
+            {
+              "nome": "Um Amor no Paraiso Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gb9ENBecTFUJ38UecDlHQC3gQtY.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552699.mp4"
+            },
+            {
+              "nome": "Um Amor no Paraiso Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/gb9ENBecTFUJ38UecDlHQC3gQtY.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552700.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Um Amor Que Ilumina (2026)",
+          "itens": [
+            {
+              "nome": "Um Amor Que Ilumina (2026) Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6ayQpRaaJdGimfyWzspmzbCXbC9.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4548285.mp4"
+            },
+            {
+              "nome": "Um Amor Que Ilumina (2026) Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6ayQpRaaJdGimfyWzspmzbCXbC9.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4548286.mp4"
+            },
+            {
+              "nome": "Um Amor Que Ilumina (2026) Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6ayQpRaaJdGimfyWzspmzbCXbC9.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4548287.mp4"
+            },
+            {
+              "nome": "Um Amor Que Ilumina (2026) Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6ayQpRaaJdGimfyWzspmzbCXbC9.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4548288.mp4"
+            },
+            {
+              "nome": "Um Amor Que Ilumina (2026) Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6ayQpRaaJdGimfyWzspmzbCXbC9.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4548289.mp4"
+            },
+            {
+              "nome": "Um Amor Que Ilumina (2026) Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6ayQpRaaJdGimfyWzspmzbCXbC9.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4548290.mp4"
+            },
+            {
+              "nome": "Um Amor Que Ilumina (2026) Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6ayQpRaaJdGimfyWzspmzbCXbC9.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4548291.mp4"
+            },
+            {
+              "nome": "Um Amor Que Ilumina (2026) Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6ayQpRaaJdGimfyWzspmzbCXbC9.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4548292.mp4"
+            },
+            {
+              "nome": "Um Amor Que Ilumina (2026) Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6ayQpRaaJdGimfyWzspmzbCXbC9.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4548293.mp4"
+            },
+            {
+              "nome": "Um Amor Que Ilumina (2026) Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/6ayQpRaaJdGimfyWzspmzbCXbC9.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4548294.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Um Bom Garoto",
+          "itens": [
+            {
+              "nome": "Um Bom Garoto Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wtp8g9VuTHi3w7aNrarYGyphLcU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4551927.mp4"
+            },
+            {
+              "nome": "Um Bom Garoto Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wtp8g9VuTHi3w7aNrarYGyphLcU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4551928.mp4"
+            },
+            {
+              "nome": "Um Bom Garoto Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wtp8g9VuTHi3w7aNrarYGyphLcU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4551929.mp4"
+            },
+            {
+              "nome": "Um Bom Garoto Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wtp8g9VuTHi3w7aNrarYGyphLcU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4551930.mp4"
+            },
+            {
+              "nome": "Um Bom Garoto Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wtp8g9VuTHi3w7aNrarYGyphLcU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4551931.mp4"
+            },
+            {
+              "nome": "Um Bom Garoto Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wtp8g9VuTHi3w7aNrarYGyphLcU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4551932.mp4"
+            },
+            {
+              "nome": "Um Bom Garoto Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wtp8g9VuTHi3w7aNrarYGyphLcU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4551933.mp4"
+            },
+            {
+              "nome": "Um Bom Garoto Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wtp8g9VuTHi3w7aNrarYGyphLcU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4551934.mp4"
+            },
+            {
+              "nome": "Um Bom Garoto Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wtp8g9VuTHi3w7aNrarYGyphLcU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4551935.mp4"
+            },
+            {
+              "nome": "Um Bom Garoto Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wtp8g9VuTHi3w7aNrarYGyphLcU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4551936.mp4"
+            },
+            {
+              "nome": "Um Bom Garoto Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wtp8g9VuTHi3w7aNrarYGyphLcU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4551937.mp4"
+            },
+            {
+              "nome": "Um Bom Garoto Episódio 12",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wtp8g9VuTHi3w7aNrarYGyphLcU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4551938.mp4"
+            },
+            {
+              "nome": "Um Bom Garoto Episódio 13",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wtp8g9VuTHi3w7aNrarYGyphLcU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4551939.mp4"
+            },
+            {
+              "nome": "Um Bom Garoto Episódio 14",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wtp8g9VuTHi3w7aNrarYGyphLcU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4551940.mp4"
+            },
+            {
+              "nome": "Um Bom Garoto Episódio 15",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wtp8g9VuTHi3w7aNrarYGyphLcU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4551941.mp4"
+            },
+            {
+              "nome": "Um Bom Garoto Episódio 16",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/wtp8g9VuTHi3w7aNrarYGyphLcU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4551942.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Um Grude de Amor (2026)",
+          "itens": [
+            {
+              "nome": "Um Grude de Amor (2026) Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qITVjM7ETkIH0l8WoIApSrzDjgu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545523.mp4"
+            },
+            {
+              "nome": "Um Grude de Amor (2026) Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qITVjM7ETkIH0l8WoIApSrzDjgu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545524.mp4"
+            },
+            {
+              "nome": "Um Grude de Amor (2026) Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qITVjM7ETkIH0l8WoIApSrzDjgu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545525.mp4"
+            },
+            {
+              "nome": "Um Grude de Amor (2026) Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qITVjM7ETkIH0l8WoIApSrzDjgu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545526.mp4"
+            },
+            {
+              "nome": "Um Grude de Amor (2026) Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qITVjM7ETkIH0l8WoIApSrzDjgu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545527.mp4"
+            },
+            {
+              "nome": "Um Grude de Amor (2026) Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qITVjM7ETkIH0l8WoIApSrzDjgu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545528.mp4"
+            },
+            {
+              "nome": "Um Grude de Amor (2026) Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qITVjM7ETkIH0l8WoIApSrzDjgu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545529.mp4"
+            },
+            {
+              "nome": "Um Grude de Amor (2026) Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qITVjM7ETkIH0l8WoIApSrzDjgu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545530.mp4"
+            },
+            {
+              "nome": "Um Grude de Amor (2026) Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qITVjM7ETkIH0l8WoIApSrzDjgu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545531.mp4"
+            },
+            {
+              "nome": "Um Grude de Amor (2026) Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qITVjM7ETkIH0l8WoIApSrzDjgu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545532.mp4"
+            },
+            {
+              "nome": "Um Grude de Amor (2026) Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qITVjM7ETkIH0l8WoIApSrzDjgu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545533.mp4"
+            },
+            {
+              "nome": "Um Grude de Amor (2026) Episódio 12",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qITVjM7ETkIH0l8WoIApSrzDjgu.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545534.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Um Homem Sem Filtros",
+          "itens": [
+            {
+              "nome": "Um Homem Sem Filtros Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3m179bXlVEtvKsIn0VEZk5y9n0o.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557938.mp4"
+            },
+            {
+              "nome": "Um Homem Sem Filtros Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3m179bXlVEtvKsIn0VEZk5y9n0o.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557939.mp4"
+            },
+            {
+              "nome": "Um Homem Sem Filtros Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3m179bXlVEtvKsIn0VEZk5y9n0o.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557940.mp4"
+            },
+            {
+              "nome": "Um Homem Sem Filtros Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3m179bXlVEtvKsIn0VEZk5y9n0o.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557941.mp4"
+            },
+            {
+              "nome": "Um Homem Sem Filtros Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3m179bXlVEtvKsIn0VEZk5y9n0o.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557942.mp4"
+            },
+            {
+              "nome": "Um Homem Sem Filtros Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3m179bXlVEtvKsIn0VEZk5y9n0o.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557943.mp4"
+            },
+            {
+              "nome": "Um Homem Sem Filtros Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3m179bXlVEtvKsIn0VEZk5y9n0o.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557944.mp4"
+            },
+            {
+              "nome": "Um Homem Sem Filtros Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3m179bXlVEtvKsIn0VEZk5y9n0o.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557945.mp4"
+            },
+            {
+              "nome": "Um Homem Sem Filtros Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3m179bXlVEtvKsIn0VEZk5y9n0o.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557946.mp4"
+            },
+            {
+              "nome": "Um Homem Sem Filtros Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3m179bXlVEtvKsIn0VEZk5y9n0o.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557947.mp4"
+            },
+            {
+              "nome": "Um Homem Sem Filtros Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3m179bXlVEtvKsIn0VEZk5y9n0o.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557948.mp4"
+            },
+            {
+              "nome": "Um Homem Sem Filtros Episódio 12",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3m179bXlVEtvKsIn0VEZk5y9n0o.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557949.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Um Pesadelo de Casamento",
+          "itens": [
+            {
+              "nome": "Um Pesadelo de Casamento Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8Ztnf95X7X1jyK6dA3W5uiuDJKM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561215.mp4"
+            },
+            {
+              "nome": "Um Pesadelo de Casamento Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8Ztnf95X7X1jyK6dA3W5uiuDJKM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561216.mp4"
+            },
+            {
+              "nome": "Um Pesadelo de Casamento Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8Ztnf95X7X1jyK6dA3W5uiuDJKM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561217.mp4"
+            },
+            {
+              "nome": "Um Pesadelo de Casamento Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8Ztnf95X7X1jyK6dA3W5uiuDJKM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561218.mp4"
+            },
+            {
+              "nome": "Um Pesadelo de Casamento Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8Ztnf95X7X1jyK6dA3W5uiuDJKM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561219.mp4"
+            },
+            {
+              "nome": "Um Pesadelo de Casamento Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8Ztnf95X7X1jyK6dA3W5uiuDJKM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561220.mp4"
+            },
+            {
+              "nome": "Um Pesadelo de Casamento Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8Ztnf95X7X1jyK6dA3W5uiuDJKM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561221.mp4"
+            },
+            {
+              "nome": "Um Pesadelo de Casamento Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8Ztnf95X7X1jyK6dA3W5uiuDJKM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561222.mp4"
+            },
+            {
+              "nome": "Um Pesadelo de Casamento Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8Ztnf95X7X1jyK6dA3W5uiuDJKM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561223.mp4"
+            },
+            {
+              "nome": "Um Pesadelo de Casamento Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8Ztnf95X7X1jyK6dA3W5uiuDJKM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561224.mp4"
+            },
+            {
+              "nome": "Um Pesadelo de Casamento Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8Ztnf95X7X1jyK6dA3W5uiuDJKM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561225.mp4"
+            },
+            {
+              "nome": "Um Pesadelo de Casamento Episódio 12",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8Ztnf95X7X1jyK6dA3W5uiuDJKM.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561226.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Uma Advogada Extraordinária",
+          "itens": [
+            {
+              "nome": "Uma Advogada Extraordinária Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3KOjBpFIbdRa39ZETAnD1qA9acD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561189.mp4"
+            },
+            {
+              "nome": "Uma Advogada Extraordinária Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3KOjBpFIbdRa39ZETAnD1qA9acD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561190.mp4"
+            },
+            {
+              "nome": "Uma Advogada Extraordinária Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3KOjBpFIbdRa39ZETAnD1qA9acD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561191.mp4"
+            },
+            {
+              "nome": "Uma Advogada Extraordinária Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3KOjBpFIbdRa39ZETAnD1qA9acD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561192.mp4"
+            },
+            {
+              "nome": "Uma Advogada Extraordinária Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3KOjBpFIbdRa39ZETAnD1qA9acD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561193.mp4"
+            },
+            {
+              "nome": "Uma Advogada Extraordinária Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3KOjBpFIbdRa39ZETAnD1qA9acD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561194.mp4"
+            },
+            {
+              "nome": "Uma Advogada Extraordinária Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3KOjBpFIbdRa39ZETAnD1qA9acD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561195.mp4"
+            },
+            {
+              "nome": "Uma Advogada Extraordinária Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3KOjBpFIbdRa39ZETAnD1qA9acD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561196.mp4"
+            },
+            {
+              "nome": "Uma Advogada Extraordinária Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3KOjBpFIbdRa39ZETAnD1qA9acD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561197.mp4"
+            },
+            {
+              "nome": "Uma Advogada Extraordinária Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3KOjBpFIbdRa39ZETAnD1qA9acD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561198.mp4"
+            },
+            {
+              "nome": "Uma Advogada Extraordinária Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3KOjBpFIbdRa39ZETAnD1qA9acD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561199.mp4"
+            },
+            {
+              "nome": "Uma Advogada Extraordinária Episódio 12",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3KOjBpFIbdRa39ZETAnD1qA9acD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561200.mp4"
+            },
+            {
+              "nome": "Uma Advogada Extraordinária Episódio 13",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3KOjBpFIbdRa39ZETAnD1qA9acD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561201.mp4"
+            },
+            {
+              "nome": "Uma Advogada Extraordinária Episódio 14",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3KOjBpFIbdRa39ZETAnD1qA9acD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561202.mp4"
+            },
+            {
+              "nome": "Uma Advogada Extraordinária Episódio 15",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3KOjBpFIbdRa39ZETAnD1qA9acD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561203.mp4"
+            },
+            {
+              "nome": "Uma Advogada Extraordinária Episódio 16",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/3KOjBpFIbdRa39ZETAnD1qA9acD.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561204.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Uma Dose Diaria de Sol",
+          "itens": [
+            {
+              "nome": "Uma Dose Diaria de Sol Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7pbI4zAYefe8bSTJSTU6Y7ZZLnx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4546914.mp4"
+            },
+            {
+              "nome": "Uma Dose Diaria de Sol Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7pbI4zAYefe8bSTJSTU6Y7ZZLnx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4546915.mp4"
+            },
+            {
+              "nome": "Uma Dose Diaria de Sol Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7pbI4zAYefe8bSTJSTU6Y7ZZLnx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4546916.mp4"
+            },
+            {
+              "nome": "Uma Dose Diaria de Sol Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7pbI4zAYefe8bSTJSTU6Y7ZZLnx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4546917.mp4"
+            },
+            {
+              "nome": "Uma Dose Diaria de Sol Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7pbI4zAYefe8bSTJSTU6Y7ZZLnx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4546918.mp4"
+            },
+            {
+              "nome": "Uma Dose Diaria de Sol Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7pbI4zAYefe8bSTJSTU6Y7ZZLnx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4546919.mp4"
+            },
+            {
+              "nome": "Uma Dose Diaria de Sol Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7pbI4zAYefe8bSTJSTU6Y7ZZLnx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4546920.mp4"
+            },
+            {
+              "nome": "Uma Dose Diaria de Sol Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7pbI4zAYefe8bSTJSTU6Y7ZZLnx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4546921.mp4"
+            },
+            {
+              "nome": "Uma Dose Diaria de Sol Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7pbI4zAYefe8bSTJSTU6Y7ZZLnx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4546922.mp4"
+            },
+            {
+              "nome": "Uma Dose Diaria de Sol Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7pbI4zAYefe8bSTJSTU6Y7ZZLnx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4546923.mp4"
+            },
+            {
+              "nome": "Uma Dose Diaria de Sol Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7pbI4zAYefe8bSTJSTU6Y7ZZLnx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4546924.mp4"
+            },
+            {
+              "nome": "Uma Dose Diaria de Sol Episódio 12",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7pbI4zAYefe8bSTJSTU6Y7ZZLnx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4546925.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Uma Familia Inusitada",
+          "itens": [
+            {
+              "nome": "Uma Familia Inusitada Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bFA68Vj0P0cqsWEWlyzMdSFYyIs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557803.mp4"
+            },
+            {
+              "nome": "Uma Familia Inusitada Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bFA68Vj0P0cqsWEWlyzMdSFYyIs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557804.mp4"
+            },
+            {
+              "nome": "Uma Familia Inusitada Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bFA68Vj0P0cqsWEWlyzMdSFYyIs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557805.mp4"
+            },
+            {
+              "nome": "Uma Familia Inusitada Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bFA68Vj0P0cqsWEWlyzMdSFYyIs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557806.mp4"
+            },
+            {
+              "nome": "Uma Familia Inusitada Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bFA68Vj0P0cqsWEWlyzMdSFYyIs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557807.mp4"
+            },
+            {
+              "nome": "Uma Familia Inusitada Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bFA68Vj0P0cqsWEWlyzMdSFYyIs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557808.mp4"
+            },
+            {
+              "nome": "Uma Familia Inusitada Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bFA68Vj0P0cqsWEWlyzMdSFYyIs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557809.mp4"
+            },
+            {
+              "nome": "Uma Familia Inusitada Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bFA68Vj0P0cqsWEWlyzMdSFYyIs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557810.mp4"
+            },
+            {
+              "nome": "Uma Familia Inusitada Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bFA68Vj0P0cqsWEWlyzMdSFYyIs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557811.mp4"
+            },
+            {
+              "nome": "Uma Familia Inusitada Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bFA68Vj0P0cqsWEWlyzMdSFYyIs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557812.mp4"
+            },
+            {
+              "nome": "Uma Familia Inusitada Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bFA68Vj0P0cqsWEWlyzMdSFYyIs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557813.mp4"
+            },
+            {
+              "nome": "Uma Familia Inusitada Episódio 12",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bFA68Vj0P0cqsWEWlyzMdSFYyIs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4557814.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Uma Grande Retirada",
+          "itens": [
+            {
+              "nome": "Uma Grande Retirada",
+              "descricao": "♦️ Doramas",
+              "capa": "https://image.tmdb.org/t/p/w500/nhQS3j9GDWJj7u8BR7WaR4bTspo.jpg",
+              "url": "http://servidor/series/{user}/{pass}/id.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Uma Seul Desconhecida",
+          "itens": [
+            {
+              "nome": "Uma Seul Desconhecida Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/eK9hQBvEnje0uIY6BNSQYunfJ8p.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552224.mp4"
+            },
+            {
+              "nome": "Uma Seul Desconhecida Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/eK9hQBvEnje0uIY6BNSQYunfJ8p.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552225.mp4"
+            },
+            {
+              "nome": "Uma Seul Desconhecida Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/eK9hQBvEnje0uIY6BNSQYunfJ8p.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552226.mp4"
+            },
+            {
+              "nome": "Uma Seul Desconhecida Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/eK9hQBvEnje0uIY6BNSQYunfJ8p.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552227.mp4"
+            },
+            {
+              "nome": "Uma Seul Desconhecida Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/eK9hQBvEnje0uIY6BNSQYunfJ8p.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552228.mp4"
+            },
+            {
+              "nome": "Uma Seul Desconhecida Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/eK9hQBvEnje0uIY6BNSQYunfJ8p.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552229.mp4"
+            },
+            {
+              "nome": "Uma Seul Desconhecida Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/eK9hQBvEnje0uIY6BNSQYunfJ8p.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552230.mp4"
+            },
+            {
+              "nome": "Uma Seul Desconhecida Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/eK9hQBvEnje0uIY6BNSQYunfJ8p.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552231.mp4"
+            },
+            {
+              "nome": "Uma Seul Desconhecida Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/eK9hQBvEnje0uIY6BNSQYunfJ8p.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552232.mp4"
+            },
+            {
+              "nome": "Uma Seul Desconhecida Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/eK9hQBvEnje0uIY6BNSQYunfJ8p.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552233.mp4"
+            },
+            {
+              "nome": "Uma Seul Desconhecida Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/eK9hQBvEnje0uIY6BNSQYunfJ8p.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552234.mp4"
+            },
+            {
+              "nome": "Uma Seul Desconhecida Episódio 12",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/eK9hQBvEnje0uIY6BNSQYunfJ8p.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4552235.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Velocidade e Amor",
+          "itens": [
+            {
+              "nome": "Velocidade e Amor Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550131.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550132.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550133.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550134.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550135.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550136.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550137.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550138.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550139.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550140.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550141.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 12",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550142.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 13",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550143.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 14",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550144.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 15",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550145.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 16",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550146.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 17",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550147.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 18",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550148.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 19",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550149.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 20",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550150.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 21",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550151.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 22",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550152.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 23",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550153.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 24",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550154.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 25",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550155.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 26",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550156.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 27",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550157.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 28",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550158.mp4"
+            },
+            {
+              "nome": "Velocidade e Amor Episódio 29",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4550159.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Verão Sem Fim (2026)",
+          "itens": [
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545730.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545731.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545732.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545733.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545734.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545735.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545736.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545737.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545738.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545739.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545740.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 12",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545741.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 13",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545742.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 14",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545743.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 15",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545744.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 16",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545745.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 17",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545746.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 18",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545747.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 19",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545748.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 20",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545749.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 21",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545750.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 22",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545751.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 23",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545752.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 24",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545753.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 25",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545754.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 26",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545755.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 27",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545756.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 28",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545757.mp4"
+            },
+            {
+              "nome": "Verão Sem Fim (2026) Episódio 29",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4545758.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Vinte e Cinco, Vinte e Um",
+          "itens": [
+            {
+              "nome": "Vinte e Cinco, Vinte e Um Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aa9XKslUlMEmRx5xMZuUlNvvcv1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561283.mp4"
+            },
+            {
+              "nome": "Vinte e Cinco, Vinte e Um Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aa9XKslUlMEmRx5xMZuUlNvvcv1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561284.mp4"
+            },
+            {
+              "nome": "Vinte e Cinco, Vinte e Um Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aa9XKslUlMEmRx5xMZuUlNvvcv1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561285.mp4"
+            },
+            {
+              "nome": "Vinte e Cinco, Vinte e Um Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aa9XKslUlMEmRx5xMZuUlNvvcv1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561286.mp4"
+            },
+            {
+              "nome": "Vinte e Cinco, Vinte e Um Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aa9XKslUlMEmRx5xMZuUlNvvcv1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561287.mp4"
+            },
+            {
+              "nome": "Vinte e Cinco, Vinte e Um Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aa9XKslUlMEmRx5xMZuUlNvvcv1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561288.mp4"
+            },
+            {
+              "nome": "Vinte e Cinco, Vinte e Um Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aa9XKslUlMEmRx5xMZuUlNvvcv1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561289.mp4"
+            },
+            {
+              "nome": "Vinte e Cinco, Vinte e Um Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aa9XKslUlMEmRx5xMZuUlNvvcv1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561290.mp4"
+            },
+            {
+              "nome": "Vinte e Cinco, Vinte e Um Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aa9XKslUlMEmRx5xMZuUlNvvcv1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561291.mp4"
+            },
+            {
+              "nome": "Vinte e Cinco, Vinte e Um Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aa9XKslUlMEmRx5xMZuUlNvvcv1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561292.mp4"
+            },
+            {
+              "nome": "Vinte e Cinco, Vinte e Um Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aa9XKslUlMEmRx5xMZuUlNvvcv1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561293.mp4"
+            },
+            {
+              "nome": "Vinte e Cinco, Vinte e Um Episódio 12",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aa9XKslUlMEmRx5xMZuUlNvvcv1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561294.mp4"
+            },
+            {
+              "nome": "Vinte e Cinco, Vinte e Um Episódio 13",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aa9XKslUlMEmRx5xMZuUlNvvcv1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561295.mp4"
+            },
+            {
+              "nome": "Vinte e Cinco, Vinte e Um Episódio 14",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aa9XKslUlMEmRx5xMZuUlNvvcv1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561296.mp4"
+            },
+            {
+              "nome": "Vinte e Cinco, Vinte e Um Episódio 15",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aa9XKslUlMEmRx5xMZuUlNvvcv1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561297.mp4"
+            },
+            {
+              "nome": "Vinte e Cinco, Vinte e Um Episódio 16",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/aa9XKslUlMEmRx5xMZuUlNvvcv1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4561298.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Viral Hit (2026)",
+          "itens": [
+            {
+              "nome": "Viral Hit (2026) Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/tdaCe1VmSf0GHTvNRmkr1GHoeXp.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4547156.mp4"
+            },
+            {
+              "nome": "Viral Hit (2026) Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/tdaCe1VmSf0GHTvNRmkr1GHoeXp.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4547157.mp4"
+            },
+            {
+              "nome": "Viral Hit (2026) Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/tdaCe1VmSf0GHTvNRmkr1GHoeXp.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4547158.mp4"
+            },
+            {
+              "nome": "Viral Hit (2026) Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/tdaCe1VmSf0GHTvNRmkr1GHoeXp.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4547159.mp4"
+            },
+            {
+              "nome": "Viral Hit (2026) Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/tdaCe1VmSf0GHTvNRmkr1GHoeXp.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4547160.mp4"
+            },
+            {
+              "nome": "Viral Hit (2026) Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/tdaCe1VmSf0GHTvNRmkr1GHoeXp.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4547161.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Vivendo sem Lacos",
+          "itens": [
+            {
+              "nome": "Vivendo sem Lacos Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549281.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549282.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549283.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549284.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549285.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549286.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549287.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549288.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549289.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549290.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549291.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 12",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549292.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 13",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549293.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 14",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549294.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 15",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549295.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 16",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549296.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 17",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549297.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 18",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549298.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 19",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549299.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 20",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549300.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 21",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549301.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 22",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549302.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 23",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549303.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 24",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549304.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 25",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549305.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 26",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549306.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 27",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549307.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 28",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549308.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 29",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549309.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 30",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549310.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 31",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549311.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 32",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549312.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 33",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549313.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 34",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549314.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 35",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549315.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 36",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549316.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 37",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549317.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 38",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549318.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 39",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549319.mp4"
+            },
+            {
+              "nome": "Vivendo sem Lacos Episódio 40",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nOndRgTrDDj4a582suRULBalBN8.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4549320.mp4"
+            }
+          ]
+        }
+      ],
+      "itens": []
+    }
+  ]
+}
