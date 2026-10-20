@@ -7,73 +7,366 @@
       "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/series/Pluto_TV.png",
       "subAlbuns": [
         {
-          "subAlbum": "Popeye e Filho",
+          "subAlbum": "Caillou",
           "itens": [
             {
-              "nome": "Popeye e Filho Epsódio 01",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765607.mp4"
+              "nome": "Caillou Episódio 1",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765594.mp4"
             },
             {
-              "nome": "Popeye e Filho Epsódio 02",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765608.mp4"
+              "nome": "Caillou Episódio 2",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765595.mp4"
             },
             {
-              "nome": "Popeye e Filho Epsódio 03",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765609.mp4"
+              "nome": "Caillou Episódio 3",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765596.mp4"
             },
             {
-              "nome": "Popeye e Filho Epsódio 04",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765610.mp4"
+              "nome": "Caillou Episódio 4",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765597.mp4"
             },
             {
-              "nome": "Popeye e Filho Epsódio 05",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765611.mp4"
+              "nome": "Caillou Episódio 5",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765598.mp4"
             },
             {
-              "nome": "Popeye e Filho Epsódio 06",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765612.mp4"
+              "nome": "Caillou Episódio 6",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765599.mp4"
             },
             {
-              "nome": "Popeye e Filho Epsódio 07",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765613.mp4"
+              "nome": "Caillou Episódio 7",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765600.mp4"
             },
             {
-              "nome": "Popeye e Filho Epsódio 08",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765614.mp4"
+              "nome": "Caillou Episódio 8",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765601.mp4"
             },
             {
-              "nome": "Popeye e Filho Epsódio 09",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765615.mp4"
+              "nome": "Caillou Episódio 9",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765602.mp4"
             },
             {
-              "nome": "Popeye e Filho Epsódio 11",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765616.mp4"
+              "nome": "Caillou Episódio 10",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765603.mp4"
             },
             {
-              "nome": "Popeye e Filho Epsódio 13",
-              "descricao": "1ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765617.mp4"
+              "nome": "Caillou Episódio 11",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765604.mp4"
+            },
+            {
+              "nome": "Caillou Episódio 12",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765605.mp4"
+            },
+            {
+              "nome": "Caillou Episódio 13",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765606.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Cheers Aquele Bar (1982)",
+          "itens": [
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 1",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765548.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 2",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765549.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 3",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765550.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 4",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765551.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 5",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765552.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 6",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765553.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 7",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765554.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 8",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765555.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 9",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765556.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 10",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765557.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 11",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765558.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 12",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765559.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 13",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765560.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 14",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765561.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 15",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765562.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 16",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765563.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 17",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765564.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 18",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765565.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 19",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765566.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 20",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765567.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 21",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765568.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 22",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765569.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 1",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765570.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 2",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765571.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 3",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765572.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 4",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765573.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 5",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765574.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 6",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765575.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 8",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765576.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 9",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765577.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 10",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765578.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 11",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765579.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 12",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765580.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 13",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765581.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 14",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765582.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 15",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765583.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 16",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765584.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 17",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765585.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 18",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765586.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 19",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765587.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 20",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765588.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 21",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765589.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 22",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765590.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 23",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765591.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 24",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765592.mp4"
+            },
+            {
+              "nome": "Cheers Aquele Bar (1982) Episódio 25",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765593.mp4"
             }
           ]
         },
@@ -81,680 +374,387 @@
           "subAlbum": "Luluzinha",
           "itens": [
             {
-              "nome": "Luluzinha Epsódio 01",
-              "descricao": "1ª Temporada",
+              "nome": "Luluzinha Episódio 1",
+              "descricao": "1°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765618.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 02",
-              "descricao": "1ª Temporada",
+              "nome": "Luluzinha Episódio 2",
+              "descricao": "1°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765619.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 03",
-              "descricao": "1ª Temporada",
+              "nome": "Luluzinha Episódio 3",
+              "descricao": "1°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765620.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 04",
-              "descricao": "1ª Temporada",
+              "nome": "Luluzinha Episódio 4",
+              "descricao": "1°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765621.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 05",
-              "descricao": "1ª Temporada",
+              "nome": "Luluzinha Episódio 5",
+              "descricao": "1°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765622.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 06",
-              "descricao": "1ª Temporada",
+              "nome": "Luluzinha Episódio 6",
+              "descricao": "1°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765623.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 01",
-              "descricao": "2ª Temporada",
+              "nome": "Luluzinha Episódio 1",
+              "descricao": "2°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765624.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 02",
-              "descricao": "2ª Temporada",
+              "nome": "Luluzinha Episódio 2",
+              "descricao": "2°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765625.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 03",
-              "descricao": "2ª Temporada",
+              "nome": "Luluzinha Episódio 3",
+              "descricao": "2°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765626.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 04",
-              "descricao": "2ª Temporada",
+              "nome": "Luluzinha Episódio 4",
+              "descricao": "2°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765627.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 05",
-              "descricao": "2ª Temporada",
+              "nome": "Luluzinha Episódio 5",
+              "descricao": "2°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765628.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 06",
-              "descricao": "2ª Temporada",
+              "nome": "Luluzinha Episódio 6",
+              "descricao": "2°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765629.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 07",
-              "descricao": "2ª Temporada",
+              "nome": "Luluzinha Episódio 7",
+              "descricao": "2°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765630.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 01",
-              "descricao": "3ª Temporada",
+              "nome": "Luluzinha Episódio 1",
+              "descricao": "3°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765631.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 02",
-              "descricao": "3ª Temporada",
+              "nome": "Luluzinha Episódio 2",
+              "descricao": "3°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765632.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 03",
-              "descricao": "3ª Temporada",
+              "nome": "Luluzinha Episódio 3",
+              "descricao": "3°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765633.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 04",
-              "descricao": "3ª Temporada",
+              "nome": "Luluzinha Episódio 4",
+              "descricao": "3°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765634.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 05",
-              "descricao": "3ª Temporada",
+              "nome": "Luluzinha Episódio 5",
+              "descricao": "3°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765635.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 06",
-              "descricao": "3ª Temporada",
+              "nome": "Luluzinha Episódio 6",
+              "descricao": "3°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765636.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 07",
-              "descricao": "3ª Temporada",
+              "nome": "Luluzinha Episódio 7",
+              "descricao": "3°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765637.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 08",
-              "descricao": "3ª Temporada",
+              "nome": "Luluzinha Episódio 8",
+              "descricao": "3°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765638.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 09",
-              "descricao": "3ª Temporada",
+              "nome": "Luluzinha Episódio 9",
+              "descricao": "3°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765639.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 10",
-              "descricao": "3ª Temporada",
+              "nome": "Luluzinha Episódio 10",
+              "descricao": "3°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765640.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 11",
-              "descricao": "3ª Temporada",
+              "nome": "Luluzinha Episódio 11",
+              "descricao": "3°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765641.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 12",
-              "descricao": "3ª Temporada",
+              "nome": "Luluzinha Episódio 12",
+              "descricao": "3°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765642.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 13",
-              "descricao": "3ª Temporada",
+              "nome": "Luluzinha Episódio 13",
+              "descricao": "3°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765643.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 01",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 1",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765644.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 02",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 2",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765645.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 03",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 3",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765646.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 04",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 4",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765647.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 05",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 5",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765648.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 06",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 6",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765649.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 07",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 7",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765650.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 08",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 8",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765651.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 09",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 9",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765652.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 10",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 10",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765653.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 11",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 11",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765654.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 12",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 12",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765655.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 13",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 13",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765656.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 14",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 14",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765657.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 15",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 15",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765658.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 16",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 16",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765659.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 17",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 17",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765660.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 18",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 18",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765661.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 19",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 19",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765662.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 20",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 20",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765663.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 21",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 21",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765664.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 22",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 22",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765665.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 23",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 23",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765666.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 24",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 24",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765667.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 25",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 25",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765668.mp4"
             },
             {
-              "nome": "Luluzinha Epsódio 26",
-              "descricao": "4ª Temporada",
+              "nome": "Luluzinha Episódio 26",
+              "descricao": "4°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg",
               "url": "http://servidor/series/{user}/{pass}/4765669.mp4"
             }
           ]
         },
         {
-          "subAlbum": "Cheers Aquele Bar",
+          "subAlbum": "Popeye e Filho",
           "itens": [
             {
-              "nome": "Cheers Aquele Bar Epsódio 01",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765548.mp4"
+              "nome": "Popeye e Filho Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765607.mp4"
             },
             {
-              "nome": "Cheers Aquele Bar Epsódio 02",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765549.mp4"
+              "nome": "Popeye e Filho Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765608.mp4"
             },
             {
-              "nome": "Cheers Aquele Bar Epsódio 03",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765550.mp4"
+              "nome": "Popeye e Filho Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765609.mp4"
             },
             {
-              "nome": "Cheers Aquele Bar Epsódio 04",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765551.mp4"
+              "nome": "Popeye e Filho Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765610.mp4"
             },
             {
-              "nome": "Cheers Aquele Bar Epsódio 05",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765552.mp4"
+              "nome": "Popeye e Filho Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765611.mp4"
             },
             {
-              "nome": "Cheers Aquele Bar Epsódio 06",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765553.mp4"
+              "nome": "Popeye e Filho Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765612.mp4"
             },
             {
-              "nome": "Cheers Aquele Bar Epsódio 07",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765554.mp4"
+              "nome": "Popeye e Filho Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765613.mp4"
             },
             {
-              "nome": "Cheers Aquele Bar Epsódio 08",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765555.mp4"
+              "nome": "Popeye e Filho Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765614.mp4"
             },
             {
-              "nome": "Cheers Aquele Bar Epsódio 09",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765556.mp4"
+              "nome": "Popeye e Filho Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765615.mp4"
             },
             {
-              "nome": "Cheers Aquele Bar Epsódio 10",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765557.mp4"
+              "nome": "Popeye e Filho Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765616.mp4"
             },
             {
-              "nome": "Cheers Aquele Bar Epsódio 11",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765558.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 12",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765559.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 13",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765560.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 14",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765561.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 15",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765562.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 16",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765563.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 17",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765564.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 18",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765565.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 19",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765566.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 20",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765567.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 21",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765568.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 22",
-              "descricao": "2ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765569.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 01",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765570.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 02",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765571.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 03",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765572.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 04",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765573.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 05",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765574.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 06",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765575.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 08",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765576.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 09",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765577.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 10",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765578.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 11",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765579.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 12",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765580.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 13",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765581.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 14",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765582.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 15",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765583.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 16",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765584.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 17",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765585.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 18",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765586.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 19",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765587.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 20",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765588.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 21",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765589.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 22",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765590.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 23",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765591.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 24",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765592.mp4"
-            },
-            {
-              "nome": "Cheers Aquele Bar Epsódio 25",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765593.mp4"
-            }
-          ]
-        },
-        {
-          "subAlbum": "Caillou",
-          "itens": [
-            {
-              "nome": "Caillou Epsódio 01",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765594.mp4"
-            },
-            {
-              "nome": "Caillou Epsódio 02",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765595.mp4"
-            },
-            {
-              "nome": "Caillou Epsódio 03",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765596.mp4"
-            },
-            {
-              "nome": "Caillou Epsódio 04",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765597.mp4"
-            },
-            {
-              "nome": "Caillou Epsódio 05",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765598.mp4"
-            },
-            {
-              "nome": "Caillou Epsódio 06",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765599.mp4"
-            },
-            {
-              "nome": "Caillou Epsódio 07",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765600.mp4"
-            },
-            {
-              "nome": "Caillou Epsódio 08",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765601.mp4"
-            },
-            {
-              "nome": "Caillou Epsódio 09",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765602.mp4"
-            },
-            {
-              "nome": "Caillou Epsódio 10",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765603.mp4"
-            },
-            {
-              "nome": "Caillou Epsódio 11",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765604.mp4"
-            },
-            {
-              "nome": "Caillou Epsódio 12",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765605.mp4"
-            },
-            {
-              "nome": "Caillou Epsódio 13",
-              "descricao": "3ª Temporada",
-              "capa": "https://image.tmdb.org/t/p/w780/owEulie4od308GZd2jTVaX1Y0OP.jpg",
-              "url": "http://servidor/series/{user}/{pass}/4765606.mp4"
+              "nome": "Popeye e Filho Episódio 13",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/nZ6Oz2L72ESeZjoEES3zpgCeKSm.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4765617.mp4"
             }
           ]
         }
