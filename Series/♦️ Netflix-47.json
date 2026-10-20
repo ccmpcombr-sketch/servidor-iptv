@@ -1,0 +1,3159 @@
+{
+  "canais": [],
+  "filmes": [],
+  "series": [
+    {
+      "album": "♦️ Netflix",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/series/Netflix.png",
+      "subAlbuns": [
+        {
+          "subAlbum": "The Witcher_ A Origem",
+          "itens": [
+            {
+              "nome": "The Witcher: A Origem Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mlgUWds7UXHFQx4bealSnn4Ib7A.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718867.mp4"
+            },
+            {
+              "nome": "The Witcher: A Origem Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mlgUWds7UXHFQx4bealSnn4Ib7A.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718868.mp4"
+            },
+            {
+              "nome": "The Witcher: A Origem Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mlgUWds7UXHFQx4bealSnn4Ib7A.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718869.mp4"
+            },
+            {
+              "nome": "The Witcher: A Origem Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mlgUWds7UXHFQx4bealSnn4Ib7A.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718870.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Thermae Romae Novae",
+          "itens": [
+            {
+              "nome": "Thermae Romae Novae Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/Vmd3Mnz1uMseHAbOSQNqFDbqj1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721475.mp4"
+            },
+            {
+              "nome": "Thermae Romae Novae Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/Vmd3Mnz1uMseHAbOSQNqFDbqj1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721476.mp4"
+            },
+            {
+              "nome": "Thermae Romae Novae Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/Vmd3Mnz1uMseHAbOSQNqFDbqj1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721477.mp4"
+            },
+            {
+              "nome": "Thermae Romae Novae Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/Vmd3Mnz1uMseHAbOSQNqFDbqj1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721478.mp4"
+            },
+            {
+              "nome": "Thermae Romae Novae Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/Vmd3Mnz1uMseHAbOSQNqFDbqj1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721479.mp4"
+            },
+            {
+              "nome": "Thermae Romae Novae Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/Vmd3Mnz1uMseHAbOSQNqFDbqj1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721480.mp4"
+            },
+            {
+              "nome": "Thermae Romae Novae Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/Vmd3Mnz1uMseHAbOSQNqFDbqj1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721481.mp4"
+            },
+            {
+              "nome": "Thermae Romae Novae Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/Vmd3Mnz1uMseHAbOSQNqFDbqj1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721482.mp4"
+            },
+            {
+              "nome": "Thermae Romae Novae Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/Vmd3Mnz1uMseHAbOSQNqFDbqj1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721483.mp4"
+            },
+            {
+              "nome": "Thermae Romae Novae Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/Vmd3Mnz1uMseHAbOSQNqFDbqj1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721484.mp4"
+            },
+            {
+              "nome": "Thermae Romae Novae Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/Vmd3Mnz1uMseHAbOSQNqFDbqj1.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721485.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "This Is Pop",
+          "itens": [
+            {
+              "nome": "This Is Pop Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uVG8QtrKspTYGCJRKqFUa4Vyfgs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724518.mp4"
+            },
+            {
+              "nome": "This Is Pop Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uVG8QtrKspTYGCJRKqFUa4Vyfgs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724519.mp4"
+            },
+            {
+              "nome": "This Is Pop Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uVG8QtrKspTYGCJRKqFUa4Vyfgs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724520.mp4"
+            },
+            {
+              "nome": "This Is Pop Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uVG8QtrKspTYGCJRKqFUa4Vyfgs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724521.mp4"
+            },
+            {
+              "nome": "This Is Pop Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uVG8QtrKspTYGCJRKqFUa4Vyfgs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724522.mp4"
+            },
+            {
+              "nome": "This Is Pop Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uVG8QtrKspTYGCJRKqFUa4Vyfgs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724523.mp4"
+            },
+            {
+              "nome": "This Is Pop Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uVG8QtrKspTYGCJRKqFUa4Vyfgs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724524.mp4"
+            },
+            {
+              "nome": "This Is Pop Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uVG8QtrKspTYGCJRKqFUa4Vyfgs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724525.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Tidelands",
+          "itens": [
+            {
+              "nome": "Tidelands Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/tGVQa6Fym1wGkoM5o6LYFTlk6jx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729522.mp4"
+            },
+            {
+              "nome": "Tidelands Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/tGVQa6Fym1wGkoM5o6LYFTlk6jx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729523.mp4"
+            },
+            {
+              "nome": "Tidelands Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/tGVQa6Fym1wGkoM5o6LYFTlk6jx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729524.mp4"
+            },
+            {
+              "nome": "Tidelands Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/tGVQa6Fym1wGkoM5o6LYFTlk6jx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729525.mp4"
+            },
+            {
+              "nome": "Tidelands Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/tGVQa6Fym1wGkoM5o6LYFTlk6jx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729526.mp4"
+            },
+            {
+              "nome": "Tidelands Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/tGVQa6Fym1wGkoM5o6LYFTlk6jx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729527.mp4"
+            },
+            {
+              "nome": "Tidelands Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/tGVQa6Fym1wGkoM5o6LYFTlk6jx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729528.mp4"
+            },
+            {
+              "nome": "Tidelands Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/tGVQa6Fym1wGkoM5o6LYFTlk6jx.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4729529.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Time Patrol Bon",
+          "itens": [
+            {
+              "nome": "Time Patrol Bon Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711731.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711732.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711733.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711734.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711735.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711736.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711737.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711738.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711739.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711740.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711741.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 12",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711742.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 1",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711743.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 2",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711744.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 3",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711745.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 4",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711746.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 5",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711747.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 6",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711748.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 7",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711749.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 8",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711750.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 9",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711751.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 10",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711752.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 11",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711753.mp4"
+            },
+            {
+              "nome": "Time Patrol Bon Episódio 12",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8UbPzRZv3yjAtdynf1H2I1eUysC.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4711754.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Time Zenko, Vai!",
+          "itens": [
+            {
+              "nome": "Time Zenko, Vai! Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/juFF0jLpAwT16LeJfx6OWv4knjQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721673.mp4"
+            },
+            {
+              "nome": "Time Zenko, Vai! Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/juFF0jLpAwT16LeJfx6OWv4knjQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721674.mp4"
+            },
+            {
+              "nome": "Time Zenko, Vai! Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/juFF0jLpAwT16LeJfx6OWv4knjQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721675.mp4"
+            },
+            {
+              "nome": "Time Zenko, Vai! Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/juFF0jLpAwT16LeJfx6OWv4knjQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721676.mp4"
+            },
+            {
+              "nome": "Time Zenko, Vai! Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/juFF0jLpAwT16LeJfx6OWv4knjQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721677.mp4"
+            },
+            {
+              "nome": "Time Zenko, Vai! Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/juFF0jLpAwT16LeJfx6OWv4knjQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721678.mp4"
+            },
+            {
+              "nome": "Time Zenko, Vai! Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/juFF0jLpAwT16LeJfx6OWv4knjQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721679.mp4"
+            },
+            {
+              "nome": "Time Zenko, Vai! Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/juFF0jLpAwT16LeJfx6OWv4knjQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721680.mp4"
+            },
+            {
+              "nome": "Time Zenko, Vai! Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/juFF0jLpAwT16LeJfx6OWv4knjQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721681.mp4"
+            },
+            {
+              "nome": "Time Zenko, Vai! Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/juFF0jLpAwT16LeJfx6OWv4knjQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721682.mp4"
+            },
+            {
+              "nome": "Time Zenko, Vai! Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/juFF0jLpAwT16LeJfx6OWv4knjQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721683.mp4"
+            },
+            {
+              "nome": "Time Zenko, Vai! Episódio 12",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/juFF0jLpAwT16LeJfx6OWv4knjQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721684.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Titãs",
+          "itens": [
+            {
+              "nome": "Titãs Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716399.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716400.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716401.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716402.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716403.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716404.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716405.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716406.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716407.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716408.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716409.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 1",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716410.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 2",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716411.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 3",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716412.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 4",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716413.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 5",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716414.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 6",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716415.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 7",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716416.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 8",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716417.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 9",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716418.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 10",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716419.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 11",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716420.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 12",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716421.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 13",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716422.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 1",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716423.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 2",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716424.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 3",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716425.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 4",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716426.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 5",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716427.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 6",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716428.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 7",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716429.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 8",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716430.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 9",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716431.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 10",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716432.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 11",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716433.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 12",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716434.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 13",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716435.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 1",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716436.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 2",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716437.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 3",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716438.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 4",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716439.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 5",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716440.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 6",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716441.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 7",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716442.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 8",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716443.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 9",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716444.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 10",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716445.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 11",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716446.mp4"
+            },
+            {
+              "nome": "Titãs Episódio 12",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/bKxDbm9KmMfqHpD6m6QjJ9JJXvh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716447.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Toda Luz que Nao Podemos Ver",
+          "itens": [
+            {
+              "nome": "Toda Luz que Nao Podemos Ver Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/y2VRb9V9hvKmkI2y9rJ2mki0DVo.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714568.mp4"
+            },
+            {
+              "nome": "Toda Luz que Nao Podemos Ver Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/y2VRb9V9hvKmkI2y9rJ2mki0DVo.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714569.mp4"
+            },
+            {
+              "nome": "Toda Luz que Nao Podemos Ver Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/y2VRb9V9hvKmkI2y9rJ2mki0DVo.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714570.mp4"
+            },
+            {
+              "nome": "Toda Luz que Nao Podemos Ver Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/y2VRb9V9hvKmkI2y9rJ2mki0DVo.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714571.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Todo Dia a Mesma Noite",
+          "itens": [
+            {
+              "nome": "Todo Dia a Mesma Noite Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8yoy1yhOoZYa4LPxTUV9ujn6GMq.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718322.mp4"
+            },
+            {
+              "nome": "Todo Dia a Mesma Noite Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8yoy1yhOoZYa4LPxTUV9ujn6GMq.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718323.mp4"
+            },
+            {
+              "nome": "Todo Dia a Mesma Noite Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8yoy1yhOoZYa4LPxTUV9ujn6GMq.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718324.mp4"
+            },
+            {
+              "nome": "Todo Dia a Mesma Noite Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8yoy1yhOoZYa4LPxTUV9ujn6GMq.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718325.mp4"
+            },
+            {
+              "nome": "Todo Dia a Mesma Noite Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/8yoy1yhOoZYa4LPxTUV9ujn6GMq.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718326.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Todo va a estar bien",
+          "itens": [
+            {
+              "nome": "Todo va a estar bien Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/pfyJTDOXJ5uo8bCXH6OonphxhQ3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724194.mp4"
+            },
+            {
+              "nome": "Todo va a estar bien Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/pfyJTDOXJ5uo8bCXH6OonphxhQ3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724195.mp4"
+            },
+            {
+              "nome": "Todo va a estar bien Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/pfyJTDOXJ5uo8bCXH6OonphxhQ3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724196.mp4"
+            },
+            {
+              "nome": "Todo va a estar bien Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/pfyJTDOXJ5uo8bCXH6OonphxhQ3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724197.mp4"
+            },
+            {
+              "nome": "Todo va a estar bien Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/pfyJTDOXJ5uo8bCXH6OonphxhQ3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724198.mp4"
+            },
+            {
+              "nome": "Todo va a estar bien Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/pfyJTDOXJ5uo8bCXH6OonphxhQ3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724199.mp4"
+            },
+            {
+              "nome": "Todo va a estar bien Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/pfyJTDOXJ5uo8bCXH6OonphxhQ3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724200.mp4"
+            },
+            {
+              "nome": "Todo va a estar bien Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/pfyJTDOXJ5uo8bCXH6OonphxhQ3.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724201.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Todos os Tubaroes do Mundo",
+          "itens": [
+            {
+              "nome": "Todos os Tubaroes do Mundo Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ijOcSLNVXGqiP8BGy3b1hCsxAdk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4707733.mp4"
+            },
+            {
+              "nome": "Todos os Tubaroes do Mundo Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ijOcSLNVXGqiP8BGy3b1hCsxAdk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4707734.mp4"
+            },
+            {
+              "nome": "Todos os Tubaroes do Mundo Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ijOcSLNVXGqiP8BGy3b1hCsxAdk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4707735.mp4"
+            },
+            {
+              "nome": "Todos os Tubaroes do Mundo Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ijOcSLNVXGqiP8BGy3b1hCsxAdk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4707736.mp4"
+            },
+            {
+              "nome": "Todos os Tubaroes do Mundo Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ijOcSLNVXGqiP8BGy3b1hCsxAdk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4707737.mp4"
+            },
+            {
+              "nome": "Todos os Tubaroes do Mundo Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ijOcSLNVXGqiP8BGy3b1hCsxAdk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4707738.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Tokyo Override",
+          "itens": [
+            {
+              "nome": "Tokyo Override Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7UGLNOXxrHSO5ftqm0HRQmv2FGk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710454.mp4"
+            },
+            {
+              "nome": "Tokyo Override Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7UGLNOXxrHSO5ftqm0HRQmv2FGk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710455.mp4"
+            },
+            {
+              "nome": "Tokyo Override Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7UGLNOXxrHSO5ftqm0HRQmv2FGk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710456.mp4"
+            },
+            {
+              "nome": "Tokyo Override Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7UGLNOXxrHSO5ftqm0HRQmv2FGk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710457.mp4"
+            },
+            {
+              "nome": "Tokyo Override Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7UGLNOXxrHSO5ftqm0HRQmv2FGk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710458.mp4"
+            },
+            {
+              "nome": "Tokyo Override Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/7UGLNOXxrHSO5ftqm0HRQmv2FGk.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710459.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Tomb Raider A Lenda de Lara Croft",
+          "itens": [
+            {
+              "nome": "Tomb Raider A Lenda de Lara Croft Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOEojG2kETjHo2exctPmpdO90DU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704547.mp4"
+            },
+            {
+              "nome": "Tomb Raider A Lenda de Lara Croft Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOEojG2kETjHo2exctPmpdO90DU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704548.mp4"
+            },
+            {
+              "nome": "Tomb Raider A Lenda de Lara Croft Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOEojG2kETjHo2exctPmpdO90DU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704549.mp4"
+            },
+            {
+              "nome": "Tomb Raider A Lenda de Lara Croft Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOEojG2kETjHo2exctPmpdO90DU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704550.mp4"
+            },
+            {
+              "nome": "Tomb Raider A Lenda de Lara Croft Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOEojG2kETjHo2exctPmpdO90DU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704551.mp4"
+            },
+            {
+              "nome": "Tomb Raider A Lenda de Lara Croft Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOEojG2kETjHo2exctPmpdO90DU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704552.mp4"
+            },
+            {
+              "nome": "Tomb Raider A Lenda de Lara Croft Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOEojG2kETjHo2exctPmpdO90DU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704553.mp4"
+            },
+            {
+              "nome": "Tomb Raider A Lenda de Lara Croft Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOEojG2kETjHo2exctPmpdO90DU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704554.mp4"
+            },
+            {
+              "nome": "Tomb Raider A Lenda de Lara Croft Episódio 1",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOEojG2kETjHo2exctPmpdO90DU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704555.mp4"
+            },
+            {
+              "nome": "Tomb Raider A Lenda de Lara Croft Episódio 2",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOEojG2kETjHo2exctPmpdO90DU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704556.mp4"
+            },
+            {
+              "nome": "Tomb Raider A Lenda de Lara Croft Episódio 3",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOEojG2kETjHo2exctPmpdO90DU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704557.mp4"
+            },
+            {
+              "nome": "Tomb Raider A Lenda de Lara Croft Episódio 4",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOEojG2kETjHo2exctPmpdO90DU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704558.mp4"
+            },
+            {
+              "nome": "Tomb Raider A Lenda de Lara Croft Episódio 5",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOEojG2kETjHo2exctPmpdO90DU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704559.mp4"
+            },
+            {
+              "nome": "Tomb Raider A Lenda de Lara Croft Episódio 6",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOEojG2kETjHo2exctPmpdO90DU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704560.mp4"
+            },
+            {
+              "nome": "Tomb Raider A Lenda de Lara Croft Episódio 7",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOEojG2kETjHo2exctPmpdO90DU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704561.mp4"
+            },
+            {
+              "nome": "Tomb Raider A Lenda de Lara Croft Episódio 8",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOEojG2kETjHo2exctPmpdO90DU.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704562.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Too Much",
+          "itens": [
+            {
+              "nome": "Too Much Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rCLrhHqN26gS4eNrM27hY8XJXOt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4707493.mp4"
+            },
+            {
+              "nome": "Too Much Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rCLrhHqN26gS4eNrM27hY8XJXOt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4707494.mp4"
+            },
+            {
+              "nome": "Too Much Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rCLrhHqN26gS4eNrM27hY8XJXOt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4707495.mp4"
+            },
+            {
+              "nome": "Too Much Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rCLrhHqN26gS4eNrM27hY8XJXOt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4707496.mp4"
+            },
+            {
+              "nome": "Too Much Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rCLrhHqN26gS4eNrM27hY8XJXOt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4707497.mp4"
+            },
+            {
+              "nome": "Too Much Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rCLrhHqN26gS4eNrM27hY8XJXOt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4707498.mp4"
+            },
+            {
+              "nome": "Too Much Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rCLrhHqN26gS4eNrM27hY8XJXOt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4707499.mp4"
+            },
+            {
+              "nome": "Too Much Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rCLrhHqN26gS4eNrM27hY8XJXOt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4707500.mp4"
+            },
+            {
+              "nome": "Too Much Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rCLrhHqN26gS4eNrM27hY8XJXOt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4707501.mp4"
+            },
+            {
+              "nome": "Too Much Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rCLrhHqN26gS4eNrM27hY8XJXOt.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4707502.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Top Boy Summerhouse",
+          "itens": [
+            {
+              "nome": "Top Boy Summerhouse Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714940.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714941.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714942.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714943.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 1",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714944.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 2",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714945.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 3",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714946.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 4",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714947.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 1",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714948.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 2",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714949.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 3",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714950.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 4",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714951.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 5",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714952.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 6",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714953.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 7",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714954.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 8",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714955.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 9",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714956.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 10",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714957.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 1",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714958.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 2",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714959.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 3",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714960.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 4",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714961.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 5",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714962.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 6",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714963.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 7",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714964.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 8",
+              "descricao": "4°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714965.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 1",
+              "descricao": "5°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714966.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 2",
+              "descricao": "5°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714967.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 3",
+              "descricao": "5°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714968.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 4",
+              "descricao": "5°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714969.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 5",
+              "descricao": "5°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714970.mp4"
+            },
+            {
+              "nome": "Top Boy Summerhouse Episódio 6",
+              "descricao": "5°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714971.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Tore",
+          "itens": [
+            {
+              "nome": "Tore Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rbJqoOYEORd07JtwkN7Xs4xgvso.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714677.mp4"
+            },
+            {
+              "nome": "Tore Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rbJqoOYEORd07JtwkN7Xs4xgvso.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714678.mp4"
+            },
+            {
+              "nome": "Tore Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rbJqoOYEORd07JtwkN7Xs4xgvso.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714679.mp4"
+            },
+            {
+              "nome": "Tore Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rbJqoOYEORd07JtwkN7Xs4xgvso.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714680.mp4"
+            },
+            {
+              "nome": "Tore Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rbJqoOYEORd07JtwkN7Xs4xgvso.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714681.mp4"
+            },
+            {
+              "nome": "Tore Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/rbJqoOYEORd07JtwkN7Xs4xgvso.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4714682.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Tougen Anki",
+          "itens": [
+            {
+              "nome": "Tougen Anki Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704344.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704345.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704346.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704347.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704348.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704349.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704350.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704351.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704352.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704353.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704354.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 12",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704355.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 13",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704356.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 14",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704357.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 15",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704358.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 16",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704359.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 17",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704360.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 18",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704361.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 19",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704362.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 20",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704363.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 21",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704364.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 22",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704365.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 23",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704366.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 24",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4704367.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 1",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4842605.mp4"
+            },
+            {
+              "nome": "Tougen Anki Episódio 2",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4843054.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Tour de France_ No Coração do Pelotão",
+          "itens": [
+            {
+              "nome": "Tour de France: No Coração do Pelotão Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uowHnJGqf5ZoBG7T66v2o4iQZZJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4712434.mp4"
+            },
+            {
+              "nome": "Tour de France: No Coração do Pelotão Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uowHnJGqf5ZoBG7T66v2o4iQZZJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4712435.mp4"
+            },
+            {
+              "nome": "Tour de France: No Coração do Pelotão Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uowHnJGqf5ZoBG7T66v2o4iQZZJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4712436.mp4"
+            },
+            {
+              "nome": "Tour de France: No Coração do Pelotão Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uowHnJGqf5ZoBG7T66v2o4iQZZJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4712437.mp4"
+            },
+            {
+              "nome": "Tour de France: No Coração do Pelotão Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uowHnJGqf5ZoBG7T66v2o4iQZZJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4712438.mp4"
+            },
+            {
+              "nome": "Tour de France: No Coração do Pelotão Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uowHnJGqf5ZoBG7T66v2o4iQZZJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4712439.mp4"
+            },
+            {
+              "nome": "Tour de France: No Coração do Pelotão Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uowHnJGqf5ZoBG7T66v2o4iQZZJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4712440.mp4"
+            },
+            {
+              "nome": "Tour de France: No Coração do Pelotão Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uowHnJGqf5ZoBG7T66v2o4iQZZJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4712441.mp4"
+            },
+            {
+              "nome": "Tour de France: No Coração do Pelotão Episódio 1",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uowHnJGqf5ZoBG7T66v2o4iQZZJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4712442.mp4"
+            },
+            {
+              "nome": "Tour de France: No Coração do Pelotão Episódio 2",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uowHnJGqf5ZoBG7T66v2o4iQZZJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4712443.mp4"
+            },
+            {
+              "nome": "Tour de France: No Coração do Pelotão Episódio 3",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uowHnJGqf5ZoBG7T66v2o4iQZZJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4712444.mp4"
+            },
+            {
+              "nome": "Tour de France: No Coração do Pelotão Episódio 4",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uowHnJGqf5ZoBG7T66v2o4iQZZJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4712445.mp4"
+            },
+            {
+              "nome": "Tour de France: No Coração do Pelotão Episódio 5",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uowHnJGqf5ZoBG7T66v2o4iQZZJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4712446.mp4"
+            },
+            {
+              "nome": "Tour de France: No Coração do Pelotão Episódio 6",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uowHnJGqf5ZoBG7T66v2o4iQZZJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4712447.mp4"
+            },
+            {
+              "nome": "Tour de France: No Coração do Pelotão Episódio 7",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uowHnJGqf5ZoBG7T66v2o4iQZZJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4712448.mp4"
+            },
+            {
+              "nome": "Tour de France: No Coração do Pelotão Episódio 8",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/uowHnJGqf5ZoBG7T66v2o4iQZZJ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4712449.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Toy Boy",
+          "itens": [
+            {
+              "nome": "Toy Boy Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k8Cbm0U9IVvdRsT34EdrDRn3PTh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721909.mp4"
+            },
+            {
+              "nome": "Toy Boy Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k8Cbm0U9IVvdRsT34EdrDRn3PTh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721910.mp4"
+            },
+            {
+              "nome": "Toy Boy Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k8Cbm0U9IVvdRsT34EdrDRn3PTh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721911.mp4"
+            },
+            {
+              "nome": "Toy Boy Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k8Cbm0U9IVvdRsT34EdrDRn3PTh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721912.mp4"
+            },
+            {
+              "nome": "Toy Boy Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k8Cbm0U9IVvdRsT34EdrDRn3PTh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721913.mp4"
+            },
+            {
+              "nome": "Toy Boy Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k8Cbm0U9IVvdRsT34EdrDRn3PTh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721914.mp4"
+            },
+            {
+              "nome": "Toy Boy Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k8Cbm0U9IVvdRsT34EdrDRn3PTh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721915.mp4"
+            },
+            {
+              "nome": "Toy Boy Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k8Cbm0U9IVvdRsT34EdrDRn3PTh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721916.mp4"
+            },
+            {
+              "nome": "Toy Boy Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k8Cbm0U9IVvdRsT34EdrDRn3PTh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721917.mp4"
+            },
+            {
+              "nome": "Toy Boy Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k8Cbm0U9IVvdRsT34EdrDRn3PTh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721918.mp4"
+            },
+            {
+              "nome": "Toy Boy Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k8Cbm0U9IVvdRsT34EdrDRn3PTh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721919.mp4"
+            },
+            {
+              "nome": "Toy Boy Episódio 12",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k8Cbm0U9IVvdRsT34EdrDRn3PTh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721920.mp4"
+            },
+            {
+              "nome": "Toy Boy Episódio 13",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k8Cbm0U9IVvdRsT34EdrDRn3PTh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721921.mp4"
+            },
+            {
+              "nome": "Toy Boy Episódio 1",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k8Cbm0U9IVvdRsT34EdrDRn3PTh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721922.mp4"
+            },
+            {
+              "nome": "Toy Boy Episódio 2",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k8Cbm0U9IVvdRsT34EdrDRn3PTh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721923.mp4"
+            },
+            {
+              "nome": "Toy Boy Episódio 3",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k8Cbm0U9IVvdRsT34EdrDRn3PTh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721924.mp4"
+            },
+            {
+              "nome": "Toy Boy Episódio 4",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k8Cbm0U9IVvdRsT34EdrDRn3PTh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721925.mp4"
+            },
+            {
+              "nome": "Toy Boy Episódio 5",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k8Cbm0U9IVvdRsT34EdrDRn3PTh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721926.mp4"
+            },
+            {
+              "nome": "Toy Boy Episódio 6",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k8Cbm0U9IVvdRsT34EdrDRn3PTh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721927.mp4"
+            },
+            {
+              "nome": "Toy Boy Episódio 7",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k8Cbm0U9IVvdRsT34EdrDRn3PTh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721928.mp4"
+            },
+            {
+              "nome": "Toy Boy Episódio 8",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/k8Cbm0U9IVvdRsT34EdrDRn3PTh.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721929.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "TRABALHO",
+          "itens": [
+            {
+              "nome": "TRABALHO Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/l9oDAH9OCO34zywDETyQ73LBm7p.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716923.mp4"
+            },
+            {
+              "nome": "TRABALHO Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/l9oDAH9OCO34zywDETyQ73LBm7p.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716924.mp4"
+            },
+            {
+              "nome": "TRABALHO Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/l9oDAH9OCO34zywDETyQ73LBm7p.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716925.mp4"
+            },
+            {
+              "nome": "TRABALHO Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/l9oDAH9OCO34zywDETyQ73LBm7p.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716926.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Trabalho Honesto",
+          "itens": [
+            {
+              "nome": "Trabalho Honesto Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/p6rwDAFl7qafwn5yIKC8bU2OjcO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710164.mp4"
+            },
+            {
+              "nome": "Trabalho Honesto Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/p6rwDAFl7qafwn5yIKC8bU2OjcO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710165.mp4"
+            },
+            {
+              "nome": "Trabalho Honesto Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/p6rwDAFl7qafwn5yIKC8bU2OjcO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710166.mp4"
+            },
+            {
+              "nome": "Trabalho Honesto Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/p6rwDAFl7qafwn5yIKC8bU2OjcO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710167.mp4"
+            },
+            {
+              "nome": "Trabalho Honesto Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/p6rwDAFl7qafwn5yIKC8bU2OjcO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710168.mp4"
+            },
+            {
+              "nome": "Trabalho Honesto Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/p6rwDAFl7qafwn5yIKC8bU2OjcO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710169.mp4"
+            },
+            {
+              "nome": "Trabalho Honesto Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/p6rwDAFl7qafwn5yIKC8bU2OjcO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710170.mp4"
+            },
+            {
+              "nome": "Trabalho Honesto Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/p6rwDAFl7qafwn5yIKC8bU2OjcO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710171.mp4"
+            },
+            {
+              "nome": "Trabalho Honesto Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/p6rwDAFl7qafwn5yIKC8bU2OjcO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710172.mp4"
+            },
+            {
+              "nome": "Trabalho Honesto Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/p6rwDAFl7qafwn5yIKC8bU2OjcO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710173.mp4"
+            },
+            {
+              "nome": "Trabalho Honesto Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/p6rwDAFl7qafwn5yIKC8bU2OjcO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710174.mp4"
+            },
+            {
+              "nome": "Trabalho Honesto Episódio 12",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/p6rwDAFl7qafwn5yIKC8bU2OjcO.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4710175.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Traição",
+          "itens": [
+            {
+              "nome": "Traição Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/d0SZtCdlU8BjuuDikSlO9aNuymX.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718843.mp4"
+            },
+            {
+              "nome": "Traição Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/d0SZtCdlU8BjuuDikSlO9aNuymX.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718844.mp4"
+            },
+            {
+              "nome": "Traição Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/d0SZtCdlU8BjuuDikSlO9aNuymX.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718845.mp4"
+            },
+            {
+              "nome": "Traição Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/d0SZtCdlU8BjuuDikSlO9aNuymX.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718846.mp4"
+            },
+            {
+              "nome": "Traição Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/d0SZtCdlU8BjuuDikSlO9aNuymX.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718847.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Trailer Park Boys The Animated Series",
+          "itens": [
+            {
+              "nome": "Trailer Park Boys The Animated Series Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/emro60z8wYdPwuUOiCawbbqfAs0.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726304.mp4"
+            },
+            {
+              "nome": "Trailer Park Boys The Animated Series Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/emro60z8wYdPwuUOiCawbbqfAs0.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726305.mp4"
+            },
+            {
+              "nome": "Trailer Park Boys The Animated Series Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/emro60z8wYdPwuUOiCawbbqfAs0.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726306.mp4"
+            },
+            {
+              "nome": "Trailer Park Boys The Animated Series Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/emro60z8wYdPwuUOiCawbbqfAs0.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726307.mp4"
+            },
+            {
+              "nome": "Trailer Park Boys The Animated Series Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/emro60z8wYdPwuUOiCawbbqfAs0.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726308.mp4"
+            },
+            {
+              "nome": "Trailer Park Boys The Animated Series Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/emro60z8wYdPwuUOiCawbbqfAs0.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726309.mp4"
+            },
+            {
+              "nome": "Trailer Park Boys The Animated Series Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/emro60z8wYdPwuUOiCawbbqfAs0.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726310.mp4"
+            },
+            {
+              "nome": "Trailer Park Boys The Animated Series Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/emro60z8wYdPwuUOiCawbbqfAs0.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726311.mp4"
+            },
+            {
+              "nome": "Trailer Park Boys The Animated Series Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/emro60z8wYdPwuUOiCawbbqfAs0.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726312.mp4"
+            },
+            {
+              "nome": "Trailer Park Boys The Animated Series Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/emro60z8wYdPwuUOiCawbbqfAs0.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726313.mp4"
+            },
+            {
+              "nome": "Trailer Park Boys The Animated Series Episódio 1",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/emro60z8wYdPwuUOiCawbbqfAs0.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726314.mp4"
+            },
+            {
+              "nome": "Trailer Park Boys The Animated Series Episódio 2",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/emro60z8wYdPwuUOiCawbbqfAs0.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726315.mp4"
+            },
+            {
+              "nome": "Trailer Park Boys The Animated Series Episódio 3",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/emro60z8wYdPwuUOiCawbbqfAs0.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726316.mp4"
+            },
+            {
+              "nome": "Trailer Park Boys The Animated Series Episódio 4",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/emro60z8wYdPwuUOiCawbbqfAs0.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726317.mp4"
+            },
+            {
+              "nome": "Trailer Park Boys The Animated Series Episódio 5",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/emro60z8wYdPwuUOiCawbbqfAs0.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726318.mp4"
+            },
+            {
+              "nome": "Trailer Park Boys The Animated Series Episódio 6",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/emro60z8wYdPwuUOiCawbbqfAs0.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726319.mp4"
+            },
+            {
+              "nome": "Trailer Park Boys The Animated Series Episódio 7",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/emro60z8wYdPwuUOiCawbbqfAs0.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726320.mp4"
+            },
+            {
+              "nome": "Trailer Park Boys The Animated Series Episódio 8",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/emro60z8wYdPwuUOiCawbbqfAs0.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726321.mp4"
+            },
+            {
+              "nome": "Trailer Park Boys The Animated Series Episódio 9",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/emro60z8wYdPwuUOiCawbbqfAs0.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726322.mp4"
+            },
+            {
+              "nome": "Trailer Park Boys The Animated Series Episódio 10",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/emro60z8wYdPwuUOiCawbbqfAs0.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4726323.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Transatlântico",
+          "itens": [
+            {
+              "nome": "Transatlântico Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iWJMIgpnKUkSMWoTzXJvM1l4pRi.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717635.mp4"
+            },
+            {
+              "nome": "Transatlântico Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iWJMIgpnKUkSMWoTzXJvM1l4pRi.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717636.mp4"
+            },
+            {
+              "nome": "Transatlântico Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iWJMIgpnKUkSMWoTzXJvM1l4pRi.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717637.mp4"
+            },
+            {
+              "nome": "Transatlântico Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iWJMIgpnKUkSMWoTzXJvM1l4pRi.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717638.mp4"
+            },
+            {
+              "nome": "Transatlântico Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iWJMIgpnKUkSMWoTzXJvM1l4pRi.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717639.mp4"
+            },
+            {
+              "nome": "Transatlântico Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iWJMIgpnKUkSMWoTzXJvM1l4pRi.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717640.mp4"
+            },
+            {
+              "nome": "Transatlântico Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/iWJMIgpnKUkSMWoTzXJvM1l4pRi.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4717641.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Transformers Cyberverse",
+          "itens": [
+            {
+              "nome": "Transformers Cyberverse Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713657.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713658.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713659.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713660.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713661.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713662.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713663.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713664.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713665.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713666.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 11",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713667.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 12",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713668.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 13",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713669.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 14",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713670.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 15",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713671.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 16",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713672.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 17",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713673.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 18",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713674.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 1",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713675.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 2",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713676.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 3",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713677.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 4",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713678.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 5",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713679.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 6",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713680.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 7",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713681.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 8",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713682.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 9",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713683.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 10",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713684.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 11",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713685.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 12",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713686.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 13",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713687.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 14",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713688.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 15",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713689.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 16",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713690.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 17",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713691.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 18",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713692.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 1",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713693.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 2",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713694.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 3",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713695.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 4",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713696.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 5",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713697.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 6",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713698.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 7",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713699.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 8",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713700.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 9",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713701.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 10",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713702.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 11",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713703.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 12",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713704.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 13",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713705.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 14",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713706.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 15",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713707.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 16",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713708.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 17",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713709.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 18",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713710.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 19",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713711.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 20",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713712.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 21",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713713.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 22",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713714.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 23",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713715.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 24",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713716.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 25",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713717.mp4"
+            },
+            {
+              "nome": "Transformers Cyberverse Episódio 26",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/fxgzkgFavRmKLawUR4w6MQmWmCl.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4713718.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Transformers_ War for Cybertron_ O Cerco",
+          "itens": [
+            {
+              "nome": "Transformers: War for Cybertron: O Cerco Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOZ1P4pLAR2SSM87w9J6agBZQtV.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724400.mp4"
+            },
+            {
+              "nome": "Transformers: War for Cybertron: O Cerco Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOZ1P4pLAR2SSM87w9J6agBZQtV.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724401.mp4"
+            },
+            {
+              "nome": "Transformers: War for Cybertron: O Cerco Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOZ1P4pLAR2SSM87w9J6agBZQtV.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724402.mp4"
+            },
+            {
+              "nome": "Transformers: War for Cybertron: O Cerco Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOZ1P4pLAR2SSM87w9J6agBZQtV.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724403.mp4"
+            },
+            {
+              "nome": "Transformers: War for Cybertron: O Cerco Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOZ1P4pLAR2SSM87w9J6agBZQtV.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724404.mp4"
+            },
+            {
+              "nome": "Transformers: War for Cybertron: O Cerco Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/jOZ1P4pLAR2SSM87w9J6agBZQtV.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724405.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Transformers_ War for Cybertron_ O Nascer da Terra",
+          "itens": [
+            {
+              "nome": "Transformers: War for Cybertron: O Nascer da Terra Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/76N0zN2B95ZNDHoffOmcKGdBlkc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724394.mp4"
+            },
+            {
+              "nome": "Transformers: War for Cybertron: O Nascer da Terra Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/76N0zN2B95ZNDHoffOmcKGdBlkc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724395.mp4"
+            },
+            {
+              "nome": "Transformers: War for Cybertron: O Nascer da Terra Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/76N0zN2B95ZNDHoffOmcKGdBlkc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724396.mp4"
+            },
+            {
+              "nome": "Transformers: War for Cybertron: O Nascer da Terra Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/76N0zN2B95ZNDHoffOmcKGdBlkc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724397.mp4"
+            },
+            {
+              "nome": "Transformers: War for Cybertron: O Nascer da Terra Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/76N0zN2B95ZNDHoffOmcKGdBlkc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724398.mp4"
+            },
+            {
+              "nome": "Transformers: War for Cybertron: O Nascer da Terra Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/76N0zN2B95ZNDHoffOmcKGdBlkc.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724399.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Transformers_ War for Cybertron_ O Reino",
+          "itens": [
+            {
+              "nome": "Transformers: War for Cybertron: O Reino Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ujDiswEAFxMtVibjxozJn3UPiF5.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724388.mp4"
+            },
+            {
+              "nome": "Transformers: War for Cybertron: O Reino Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ujDiswEAFxMtVibjxozJn3UPiF5.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724389.mp4"
+            },
+            {
+              "nome": "Transformers: War for Cybertron: O Reino Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ujDiswEAFxMtVibjxozJn3UPiF5.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724390.mp4"
+            },
+            {
+              "nome": "Transformers: War for Cybertron: O Reino Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ujDiswEAFxMtVibjxozJn3UPiF5.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724391.mp4"
+            },
+            {
+              "nome": "Transformers: War for Cybertron: O Reino Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ujDiswEAFxMtVibjxozJn3UPiF5.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724392.mp4"
+            },
+            {
+              "nome": "Transformers: War for Cybertron: O Reino Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ujDiswEAFxMtVibjxozJn3UPiF5.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4724393.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Travelers",
+          "itens": [
+            {
+              "nome": "Travelers Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725698.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725699.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725700.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725701.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725702.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725703.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725704.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725705.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725706.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725707.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 1",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725708.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 2",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725709.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 3",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725710.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 4",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725711.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 5",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725712.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 6",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725713.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 7",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725714.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 8",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725715.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 9",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725716.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 10",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725717.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 11",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725718.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 12",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725719.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 1",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725720.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 2",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725721.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 3",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725722.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 4",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725723.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 5",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725724.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 6",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725725.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 7",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725726.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 8",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725727.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 9",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725728.mp4"
+            },
+            {
+              "nome": "Travelers Episódio 10",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/4WEYBFVxTHx8KivaaUnPuofrd2u.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725729.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Três Dias que Mudaram Tudo",
+          "itens": [
+            {
+              "nome": "Três Dias que Mudaram Tudo Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mGVsrBamRxWOheFjgafcIvOgNbm.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716842.mp4"
+            },
+            {
+              "nome": "Três Dias que Mudaram Tudo Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mGVsrBamRxWOheFjgafcIvOgNbm.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716843.mp4"
+            },
+            {
+              "nome": "Três Dias que Mudaram Tudo Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mGVsrBamRxWOheFjgafcIvOgNbm.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716844.mp4"
+            },
+            {
+              "nome": "Três Dias que Mudaram Tudo Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mGVsrBamRxWOheFjgafcIvOgNbm.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716845.mp4"
+            },
+            {
+              "nome": "Três Dias que Mudaram Tudo Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mGVsrBamRxWOheFjgafcIvOgNbm.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716846.mp4"
+            },
+            {
+              "nome": "Três Dias que Mudaram Tudo Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mGVsrBamRxWOheFjgafcIvOgNbm.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716847.mp4"
+            },
+            {
+              "nome": "Três Dias que Mudaram Tudo Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mGVsrBamRxWOheFjgafcIvOgNbm.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716848.mp4"
+            },
+            {
+              "nome": "Três Dias que Mudaram Tudo Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mGVsrBamRxWOheFjgafcIvOgNbm.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4716849.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Três Metros Acima do Céu",
+          "itens": [
+            {
+              "nome": "Três Metros Acima do Céu Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721249.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721250.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721251.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721252.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721253.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721254.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721255.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721256.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 1",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721257.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 2",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721258.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 3",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721259.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 4",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721260.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 5",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721261.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 6",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721262.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 7",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721263.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 8",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721264.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 1",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721265.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 2",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721266.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 3",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721267.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 4",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721268.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 5",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721269.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 6",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721270.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 7",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721271.mp4"
+            },
+            {
+              "nome": "Três Metros Acima do Céu Episódio 8",
+              "descricao": "3°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4721272.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Três Vidas",
+          "itens": [
+            {
+              "nome": "Três Vidas Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sOmbXUwfUY0Ea3rc2ox751roViS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718032.mp4"
+            },
+            {
+              "nome": "Três Vidas Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sOmbXUwfUY0Ea3rc2ox751roViS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718033.mp4"
+            },
+            {
+              "nome": "Três Vidas Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sOmbXUwfUY0Ea3rc2ox751roViS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718034.mp4"
+            },
+            {
+              "nome": "Três Vidas Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sOmbXUwfUY0Ea3rc2ox751roViS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718035.mp4"
+            },
+            {
+              "nome": "Três Vidas Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sOmbXUwfUY0Ea3rc2ox751roViS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718036.mp4"
+            },
+            {
+              "nome": "Três Vidas Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sOmbXUwfUY0Ea3rc2ox751roViS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718037.mp4"
+            },
+            {
+              "nome": "Três Vidas Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sOmbXUwfUY0Ea3rc2ox751roViS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718038.mp4"
+            },
+            {
+              "nome": "Três Vidas Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/sOmbXUwfUY0Ea3rc2ox751roViS.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4718039.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Treta",
+          "itens": [
+            {
+              "nome": "Treta Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oJJ3sJBpbCzq2t6hKccqDcMJc7v.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701479.mp4"
+            },
+            {
+              "nome": "Treta Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oJJ3sJBpbCzq2t6hKccqDcMJc7v.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701480.mp4"
+            },
+            {
+              "nome": "Treta Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oJJ3sJBpbCzq2t6hKccqDcMJc7v.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701481.mp4"
+            },
+            {
+              "nome": "Treta Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oJJ3sJBpbCzq2t6hKccqDcMJc7v.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701482.mp4"
+            },
+            {
+              "nome": "Treta Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oJJ3sJBpbCzq2t6hKccqDcMJc7v.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701483.mp4"
+            },
+            {
+              "nome": "Treta Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oJJ3sJBpbCzq2t6hKccqDcMJc7v.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701484.mp4"
+            },
+            {
+              "nome": "Treta Episódio 7",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oJJ3sJBpbCzq2t6hKccqDcMJc7v.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701485.mp4"
+            },
+            {
+              "nome": "Treta Episódio 8",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oJJ3sJBpbCzq2t6hKccqDcMJc7v.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701486.mp4"
+            },
+            {
+              "nome": "Treta Episódio 9",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oJJ3sJBpbCzq2t6hKccqDcMJc7v.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701487.mp4"
+            },
+            {
+              "nome": "Treta Episódio 10",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oJJ3sJBpbCzq2t6hKccqDcMJc7v.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701488.mp4"
+            },
+            {
+              "nome": "Treta Episódio 1",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oJJ3sJBpbCzq2t6hKccqDcMJc7v.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701489.mp4"
+            },
+            {
+              "nome": "Treta Episódio 2",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oJJ3sJBpbCzq2t6hKccqDcMJc7v.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701490.mp4"
+            },
+            {
+              "nome": "Treta Episódio 3",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oJJ3sJBpbCzq2t6hKccqDcMJc7v.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701491.mp4"
+            },
+            {
+              "nome": "Treta Episódio 4",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oJJ3sJBpbCzq2t6hKccqDcMJc7v.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701492.mp4"
+            },
+            {
+              "nome": "Treta Episódio 5",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oJJ3sJBpbCzq2t6hKccqDcMJc7v.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701493.mp4"
+            },
+            {
+              "nome": "Treta Episódio 6",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oJJ3sJBpbCzq2t6hKccqDcMJc7v.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701494.mp4"
+            },
+            {
+              "nome": "Treta Episódio 7",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oJJ3sJBpbCzq2t6hKccqDcMJc7v.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701495.mp4"
+            },
+            {
+              "nome": "Treta Episódio 8",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/oJJ3sJBpbCzq2t6hKccqDcMJc7v.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4701496.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "Tribos da Europa",
+          "itens": [
+            {
+              "nome": "Tribos da Europa Episódio 1",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ewEgxHvSJnQxH4nwYUr8yajqHOQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725292.mp4"
+            },
+            {
+              "nome": "Tribos da Europa Episódio 2",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ewEgxHvSJnQxH4nwYUr8yajqHOQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725293.mp4"
+            },
+            {
+              "nome": "Tribos da Europa Episódio 3",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ewEgxHvSJnQxH4nwYUr8yajqHOQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725294.mp4"
+            },
+            {
+              "nome": "Tribos da Europa Episódio 4",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ewEgxHvSJnQxH4nwYUr8yajqHOQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725295.mp4"
+            },
+            {
+              "nome": "Tribos da Europa Episódio 5",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ewEgxHvSJnQxH4nwYUr8yajqHOQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725296.mp4"
+            },
+            {
+              "nome": "Tribos da Europa Episódio 6",
+              "descricao": "1°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ewEgxHvSJnQxH4nwYUr8yajqHOQ.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4725297.mp4"
+            }
+          ]
+        }
+      ],
+      "itens": []
+    }
+  ]
+}
