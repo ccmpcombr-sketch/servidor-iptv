@@ -1,7 +1,6 @@
 {
   "canais": [],
-  "filmes": [],
-  "series": [
+  "filmes": [
     {
       "album": "⭐ ReelsShorts",
       "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/ReelsShorts.png",
@@ -1269,5 +1268,6 @@
         }
       ]
     }
-  ]
+  ],
+  "series": []
 }
