@@ -426,6 +426,18 @@
               "url": "http://servidor/series/{user}/{pass}/4566567.mp4"
             },
             {
+              "nome": "Materia Escura Episódio 2",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mAbuZuS4CqlTI6lvWIxPRHppbVs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4839538.mp4"
+            },
+            {
+              "nome": "Materia Escura Episódio 3",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mAbuZuS4CqlTI6lvWIxPRHppbVs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4839537.mp4"
+            },
+            {
               "nome": "Materia Escura Episódio 4",
               "descricao": "2°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/mAbuZuS4CqlTI6lvWIxPRHppbVs.jpg",
@@ -448,6 +460,18 @@
               "descricao": "2°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/mAbuZuS4CqlTI6lvWIxPRHppbVs.jpg",
               "url": "http://servidor/series/{user}/{pass}/4843079.mp4"
+            },
+            {
+              "nome": "Materia Escura Episódio 8",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mAbuZuS4CqlTI6lvWIxPRHppbVs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4843333.mp4"
+            },
+            {
+              "nome": "Materia Escura Episódio 9",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/mAbuZuS4CqlTI6lvWIxPRHppbVs.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4843752.mp4"
             }
           ]
         },
@@ -2979,6 +3003,12 @@
               "descricao": "1°Temporada",
               "capa": "https://image.tmdb.org/t/p/w780/ygKxaMAg8Gs8cs0G0TW2RflBgF0.jpg",
               "url": "http://servidor/series/{user}/{pass}/4567920.mp4"
+            },
+            {
+              "nome": "Onde Esta a Wanda Episódio 1",
+              "descricao": "2°Temporada",
+              "capa": "https://image.tmdb.org/t/p/w780/ygKxaMAg8Gs8cs0G0TW2RflBgF0.jpg",
+              "url": "http://servidor/series/{user}/{pass}/4843753.mp4"
             }
           ]
         },
